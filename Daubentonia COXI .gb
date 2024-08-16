@@ -1,0 +1,117 @@
+LOCUS       EU179508                 645 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Daubentonia madagascariensis isolate PR00228 cytochrome oxidase
+            subunit I (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU179508
+VERSION     EU179508.1
+KEYWORDS    .
+SOURCE      mitochondrion Daubentonia madagascariensis (aye-aye)
+  ORGANISM  Daubentonia madagascariensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Chiromyiformes; Daubentoniidae; Daubentonia.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Lorenz,J.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-SEP-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Daubentonia madagascariensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00228"
+                     /db_xref="taxon:31869"
+                     /sex="female"
+     gene            <1..>645
+                     /gene="COXI"
+     CDS             <1..>645
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71929.1"
+                     /translation="LLFGAWAGMVGTALSLLIRAELGQPGTLLGDDQIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEAG
+                     AGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVMITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQH"
+ORIGIN      
+        1 acctcctttt tggtgcttgg gcaggtatag taggaacagc cctaagcctt ctaattcgag
+       61 cagaacttgg tcaaccaggg accctactag gcgatgacca aatctataac gtcattgtaa
+      121 ctgcccatgc cttcgtaata atcttcttca tagtaatacc cattataatt ggaggcttcg
+      181 gaaattgact ggtgccttta ataatcggag cccctgatat agccttcccc cgtataaata
+      241 acatgagttt ctgactactc cccccgtcct ttcttctcct ccttgcctcc tcaatagtgg
+      301 aggcaggggc cggcacagga tgaaccgtat accccccttt agcaggaaat ctggctcacg
+      361 ccggagcctc cgtagactta actatttttt cactccactt agcaggagtc tcatcaatcc
+      421 ttggggccat taactttatt acaacaatta tcaacatgaa accaccagct atatcacaat
+      481 accaaacccc cttattcgta tggtccgtaa taatcactgc cattctactt ttactatccc
+      541 ttccagtcct agcagctggg attaccatac tcctaaccga ccgcaaccta aacactacct
+      601 tctttgaccc tgccggagga ggagacccca ttctatatca acacc
+//
+
+LOCUS       AY972793                 656 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Daubentonia madagascariensis isolate PR01017 cytochrome c oxidase
+            subunit I (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972793
+VERSION     AY972793.1
+KEYWORDS    .
+SOURCE      mitochondrion Daubentonia madagascariensis (aye-aye)
+  ORGANISM  Daubentonia madagascariensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Chiromyiformes; Daubentoniidae; Daubentonia.
+REFERENCE   1  (bases 1 to 656)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 656)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 656)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..656
+                     /organism="Daubentonia madagascariensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01017"
+                     /db_xref="taxon:31869"
+                     /sex="male"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>656
+                     /gene="COXI"
+     CDS             <1..>656
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22359.1"
+                     /translation="YLLFGAWAGMVGTALSLLIRAELGQPGTLLGDDQIYNVIVTAHA
+                     FVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEA
+                     GAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSQ
+                     YQTPLFVWSVMITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW
+                     "
+ORIGIN      
+        1 ttacctcctt tttggtgctt gggcaggtat agtaggaaca gccctaagcc ttctaattcg
+       61 agcagaactt ggtcaaccag ggaccctact aggcgatgac caaatctata acgtcattgt
+      121 aactgcccat gccttcgtaa taatcttctt catagtaata cccattataa ttggaggctt
+      181 cggaaattga ctggtgcctt taataatcgg agcccctgat atagccttcc cccgtataaa
+      241 taacatgagt ttctgactac tccccccgtc ctttcttctc ctccttgcct cctcaatagt
+      301 ggaggcaggg gccggcacag gatgaaccgt atacccccct ttagcaggaa atctggctca
+      361 cgccggagcc tccgtagact taactatttt ttcactccac ttagcaggag tctcatcaat
+      421 ccttggggcc attaacttta ttacaacaat tatcaacatg aaaccaccag ctatatcaca
+      481 ataccaaacc cccttattcg tatggtccgt aataatcact gccattctac ttttactatc
+      541 ccttccagtc ctagcagctg ggattaccat actcctaacc gaccgcaacc taaacactac
+      601 cttctttgac cctgccggag gaggagaccc cattctatat caacacctat tctgat
+//
+

@@ -1,0 +1,121 @@
+LOCUS       AY972675                 610 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Theropithecus gelada isolate PR00404 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972675
+VERSION     AY972675.1
+KEYWORDS    .
+SOURCE      mitochondrion Theropithecus gelada (gelada)
+  ORGANISM  Theropithecus gelada
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Theropithecus.
+REFERENCE   1  (bases 1 to 610)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 610)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 610)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..610
+                     /organism="Theropithecus gelada"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00404"
+                     /db_xref="taxon:9565"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>610
+                     /gene="COXI"
+     CDS             <1..>610
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22245.1"
+                     /translation="LLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAG
+                     AGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 cctattattc ggcgcatgag ccggggttat aggtatagcc ctaagtcttc tcattcgggc
+       61 tgaactaggc caacccggta atctgctagg taatgaccac atctacaatg ttattgtaac
+      121 ggcccatgca ttcgtcataa tctttttcat ggtcatacct attatgattg gaggcttcgg
+      181 aaattgatta gtacctctga taattggcgc ccctgatata gcattccccc gtttaaacaa
+      241 cataagtttc tgactccttc ccccttcctt cctgctacta atagcatcaa ccgtagtaga
+      301 agccggcgcc gggacaggtt ggacagtata tcctcctctg tcaggaaatt tttcccaccc
+      361 cggagcctct gtggacctag tcatcttctc tctccaccta gcgggcattt cctccatcct
+      421 aggggccatt aacttcatta ccactattat taacataaaa ccccctgcaa tatcccaata
+      481 tcaaacccct ttatttgtct gatcgatcct aattacagca atcctcctac tcctctccct
+      541 accagtctta gccgccggca tcaccatgtt attaacagac cgcaacctca acaccacttt
+      601 ctttgaccct
+//
+
+LOCUS       EF658645                 653 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Theropithecus gelada isolate PR00407 cytochrome oxidase subunit I
+            (cox1) gene, partial cds; mitochondrial.
+ACCESSION   EF658645
+VERSION     EF658645.1
+KEYWORDS    .
+SOURCE      mitochondrion Theropithecus gelada (gelada)
+  ORGANISM  Theropithecus gelada
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Theropithecus.
+REFERENCE   1  (bases 1 to 653)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Mitochondrial cytochrome oxidase c subunit 1 (coxI) variation among
+            primates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 653)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2007) Molecular Biology Laboratory, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..653
+                     /organism="Theropithecus gelada"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00407"
+                     /db_xref="taxon:9565"
+                     /sex="male"
+     gene            <1..>653
+                     /gene="cox1"
+     CDS             <1..>653
+                     /gene="cox1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABR68261.1"
+                     /translation="LYLLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVE
+                     AGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMS
+                     QYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQHL"
+ORIGIN      
+        1 ttatacctat tattcggcgc atgagccggg gttataggta tagccctaag tcttctcatt
+       61 cgggctgaac taggccaacc cggtaatctg ctaggtaatg accacatcta caatgttatt
+      121 gtaacggccc atgcattcgt cataatcttt ttcatggtca tacctattat gattggaggc
+      181 ttcggaaatt gattagtacc tctgataatt ggcgcccctg atatagcatt cccccgttta
+      241 aacaacataa gtttctgact ccttccccct tccttcctgc tactaatagc atcaaccgta
+      301 gtagaagccg gcgccgggac aggttggaca gtatatcctc ctctgtcagg aaatttttcc
+      361 caccccggag cctctgtgga cctagtcatc ttctctctcc acctagcggg catttcctcc
+      421 atcctagggg ccattaactt cattaccact attattaaca taaaaccccc tgcaatatcc
+      481 caatatcaaa cccctttatt tgtctgatcg atcctaatta cagcaatcct cctactcctc
+      541 tccctaccag tcttagccgc cggcatcacc atgttattaa cagaccgcaa cctcaacacc
+      601 actttctttg accctgttgg aggaggagac cctatcctat accaacacct att
+//
+

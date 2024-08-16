@@ -1,0 +1,255 @@
+LOCUS       AY972794                 613 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Mandrillus sphinx isolate PR01048 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972794
+VERSION     AY972794.1
+KEYWORDS    .
+SOURCE      mitochondrion Mandrillus sphinx (mandrill)
+  ORGANISM  Mandrillus sphinx
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Mandrillus.
+REFERENCE   1  (bases 1 to 613)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 613)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 613)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..613
+                     /organism="Mandrillus sphinx"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01048"
+                     /db_xref="taxon:9561"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>613
+                     /gene="COXI"
+     CDS             <1..>613
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22360.1"
+                     /translation="LLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVVVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMLEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPI"
+ORIGIN      
+        1 ctactatttg gtgcatgagc cggagttata ggcacagccc taagccttct cattcgagct
+       61 gaactaggtc aacccggtag cctactaggc aatgatcaca tttacaacgt tgtcgtaacg
+      121 gcccatgcat ttgtcataat tttcttcata gttataccca ttatgatcgg aggctttgga
+      181 aactgactag tacccctaat aattggcgct cctgacatag cattccctcg tttaaataac
+      241 ataagcttct gactccttcc cccctctttc ctactactaa tagcatcaac tatactagaa
+      301 gccggtgctg gaacaggttg aacagtatac cctcctttag cgggaaactt atcccaccca
+      361 ggagcctccg tagacctagt catcttttcc cttcacttag caggcatttc ttctatttta
+      421 ggagccatta actttattac tactattatc aacataaagc cccccgcaat atctcagtac
+      481 caaactcccc tattcgtctg atcaatctta atcacagcaa tccttctact cctctcacta
+      541 ccagtcctag ccgccggcat taccatacta ttaacagacc gtaacctcaa cactaccttc
+      601 ttcgatccaa ttg
+//
+
+LOCUS       AY972673                 630 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Mandrillus sphinx isolate PR00398 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972673
+VERSION     AY972673.1
+KEYWORDS    .
+SOURCE      mitochondrion Mandrillus sphinx (mandrill)
+  ORGANISM  Mandrillus sphinx
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Mandrillus.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /organism="Mandrillus sphinx"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00398"
+                     /db_xref="taxon:9561"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+                     /note="derived from same animal as sequence in GenBank
+                     Accession Number EF658657"
+     gene            <1..>630
+                     /gene="COXI"
+     CDS             <1..>630
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22243.1"
+                     /translation="LLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVVVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMLEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDP"
+ORIGIN      
+        1 cctactattt ggtgcatgag ccggagttat aggcacagcc ctaagccttc tcattcgagc
+       61 tgaactaggt caacccggta gcctactagg caatgatcac atttacaacg ttgtcgtaac
+      121 ggcccatgca tttgtcataa ttttcttcat agttataccc attatgatcg gaggctttgg
+      181 aaactgacta gtacccctaa taattggcgc tcctgacata gcattccctc gtttaaataa
+      241 cataagcttc tgactccttc ccccctcttt cctactacta atagcatcaa ctatactaga
+      301 agccggtgct ggaacaggtt gaacagtata ccctccttta gcgggaaact tatcccaccc
+      361 aggagcctcc gtagacctag tcatcttttc ccttcactta gcaggcattt cttctatttt
+      421 aggagccatt aactttatta ctactattat caacataaag ccccccgcaa tatctcagta
+      481 ccaaactccc ctattcgtct gatcaatctt aatcacagca atccttctac tcctctcact
+      541 accagtccta gccgccggca ttaccatact attaacagac cgtaacctca acactacctt
+      601 cttcgatcca attgggggag gagatcccat
+//
+
+LOCUS       AY972706                 628 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Mandrillus sphinx isolate PR00718 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972706
+VERSION     AY972706.1
+KEYWORDS    .
+SOURCE      mitochondrion Mandrillus sphinx (mandrill)
+  ORGANISM  Mandrillus sphinx
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Mandrillus.
+REFERENCE   1  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..628
+                     /organism="Mandrillus sphinx"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00718"
+                     /db_xref="taxon:9561"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>628
+                     /gene="COXI"
+     CDS             <1..>628
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22274.1"
+                     /translation="LLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVVVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMLEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDP"
+ORIGIN      
+        1 ctactatttg gtgcatgagc cggagttata ggcacagccc taagccttct cattcgagct
+       61 gaactaggtc aacccggtag cctactaggc aatgatcaca tttacaacgt tgtcgtaacg
+      121 gcccatgcat ttgtcataat tttcttcata gttataccca ttatgatcgg aggctttgga
+      181 aactgactag tacccctaat aattggcgct cctgacatag cattccctcg tttaaataac
+      241 ataagcttct gactccttcc cccctctttc ctactactaa tagcatcaac tatactagaa
+      301 gccggtgctg gaacaggttg aacagtatac cctcctttag cgggaaactt atcccaccca
+      361 ggagcctccg tagacctagt catcttttcc cttcacttag caggcatttc ttctatttta
+      421 ggagccatta actttattac tactattatc aacataaagc cccccgcaat atctcagtac
+      481 caaactcccc tattcgtctg atcaatctta atcacagcaa tccttctact cctctcacta
+      541 ccagtcctag ccgccggcat taccatacta ttaacagacc gtaacctcaa cactaccttc
+      601 ttcgatccaa ttgggggagg agatccca
+//
+
+LOCUS       EF658657                 611 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Mandrillus sphinx isolate PR00399 cytochrome oxidase subunit I
+            (cox1) gene, partial cds; mitochondrial.
+ACCESSION   EF658657
+VERSION     EF658657.1
+KEYWORDS    .
+SOURCE      mitochondrion Mandrillus sphinx (mandrill)
+  ORGANISM  Mandrillus sphinx
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Mandrillus.
+REFERENCE   1  (bases 1 to 611)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Mitochondrial cytochrome oxidase c subunit 1 (coxI) variation among
+            primates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 611)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2007) Molecular Biology Laboratory, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..611
+                     /organism="Mandrillus sphinx"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00399"
+                     /db_xref="taxon:9561"
+                     /sex="male"
+                     /note="derived from same animal as sequence in GenBank
+                     Accession Number AY972673"
+     gene            <1..>611
+                     /gene="cox1"
+     CDS             <1..>611
+                     /gene="cox1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABR68273.1"
+                     /translation="TAXSLLIRAELGQPGSLLGNDHIYNVVVTAHAFVMIFFMVMPIM
+                     IGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMLEAGAGTGWTVYPPL
+                     AGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFVWSILI
+                     TAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPILFQH"
+ORIGIN      
+        1 cacagcccna agccttctca ttcgagctga actaggtcaa cccggtagcc tactaggcaa
+       61 tgatcacatt tacaacgttg tcgtaacggc ccatgcattt gtcataattt tcttcatagt
+      121 tatacccatt atgatcggag gctttggaaa ctgactagta cccctaataa ttggcgctcc
+      181 tgacatagca ttccctcgtt taaataacat aagcttctga ctccttcccc cctctttcct
+      241 actactaata gcatcaacta tactagaagc cggtgctgga acaggttgaa cagtataccc
+      301 tcctttagcg ggaaacttat cccacccagg agcctccgta gacctagtca tcttttccct
+      361 tcacttagca ggcatttctt ctattttagg agccattaac tttattacta ctattatcaa
+      421 cataaagccc cccgcaatat ctcagtacca aactccccta ttcgtctgat caatcttaat
+      481 cacagcaatc cttctactcc tctcactacc agtcctagcc gccggcatta ccatactatt
+      541 aacagaccgt aacctcaaca ctaccttctt cgatccaatt gggggaggag atcccattct
+      601 atttcaacac t
+//
+

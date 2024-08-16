@@ -1,0 +1,3247 @@
+LOCUS       KU748111                 658 bp    DNA     linear   PRI 23-SEP-2016
+DEFINITION  Cercopithecus albogularis kolbi voucher NMK:41026 cytochrome
+            oxidase subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU748111
+VERSION     KU748111.1
+DBLINK      BioProject: PRJNA301980
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus albogularis kolbi (Mount Kenya Sykes'
+            monkey)
+  ORGANISM  Cercopithecus albogularis kolbi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Miyunga,A., Mwangi,E.W., Mwaura,A.N., Mumo,R.M. and Khayota,B.N.
+  TITLE     Barcode of Wildlife Project [Kenya]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Miyunga,A., Mwangi,E.W., Mwaura,A.N., Mumo,R.M. and Khayota,B.N.
+  CONSRTM   Barcode of Wildlife Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-FEB-2016) Centre for Biodiversity, National Museums
+            of Kenya, Museum Hill, Nairobi, Kenya
+COMMENT     ##BWP:1.0-START##
+            typeStatus               :: Other
+            basisOfIdentification    :: ID KEY & Reference collections
+            identificationConfidence :: High
+            identificationDate       :: 29-Sep-2010
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus albogularis kolbi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="kolbi"
+                     /specimen_voucher="NMK:41026"
+                     /db_xref="taxon:867372"
+                     /country="Kenya"
+                     /collection_date="10-Mar-2015"
+                     /collected_by="Thomas Adino; Ruth Mumo"
+                     /identified_by="Dr Maina Ngotho; Dr Hitler Rikoi"
+                     /PCR_primers="fwd_name: VF1_t1, fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaaagacattgg, rev_name:
+                     VR1_t1, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccaaagaatca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AMO66259.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLFGNDHVYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtac ctgttgttcg gtgcatgagc tggagtcata ggcactgctc taagtctcct
+       61 tattcgagct gaactgggcc aacccggtag tctatttggc aatgaccatg tttacaatgt
+      121 tatcgtgaca gcccatgcat ttattataat tttcttcata gttatgccca ttataattgg
+      181 aggattcggg aactgactag tacccttaat aattggtgct cctgacatag catttccccg
+      241 tctaaataat ataagcttct ggcttctccc tccctctttc ctgctactaa tagcatcaac
+      301 cgtagtagaa gctggtgctg gcacaggttg aacagtatac cctcctttag caggaaacct
+      361 ctcccaccca ggagcctccg tagacttagt tattttctcc ctccatctgg caggggtttc
+      421 ctctatccta ggagccatca acttcattac cactattatc aatatgaaac cccccgctat
+      481 gtcccaatat caaaccccct tgttcgtttg atctgtctta atcacagcaa tcctactact
+      541 cctctcccta ccagtcctgg ctgctggtat taccatatta ttaacagacc gcaacctcaa
+      601 caccaccttc tttgacccca ccggaggagg agaccctatc ctatatcaac acctattc
+//
+
+LOCUS       KU748110                 658 bp    DNA     linear   PRI 23-SEP-2016
+DEFINITION  Cercopithecus albogularis kolbi voucher NMK:41027 cytochrome
+            oxidase subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU748110
+VERSION     KU748110.1
+DBLINK      BioProject: PRJNA301980
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus albogularis kolbi (Mount Kenya Sykes'
+            monkey)
+  ORGANISM  Cercopithecus albogularis kolbi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Miyunga,A., Mwangi,E.W., Mwaura,A.N., Mumo,R.M. and Khayota,B.N.
+  TITLE     Barcode of Wildlife Project [Kenya]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Miyunga,A., Mwangi,E.W., Mwaura,A.N., Mumo,R.M. and Khayota,B.N.
+  CONSRTM   Barcode of Wildlife Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-FEB-2016) Centre for Biodiversity, National Museums
+            of Kenya, Museum Hill, Nairobi, Kenya
+COMMENT     ##BWP:1.0-START##
+            typeStatus               :: Other
+            basisOfIdentification    :: ID KEY & Reference collections
+            identificationConfidence :: High
+            identificationDate       :: 11-Jan-2011
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus albogularis kolbi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="kolbi"
+                     /specimen_voucher="NMK:41027"
+                     /db_xref="taxon:867372"
+                     /country="Kenya"
+                     /collection_date="10-Mar-2015"
+                     /collected_by="Thomas Adino; Ruth Mumo"
+                     /identified_by="Dr Maina Ngotho; Dr Hitler Rikoi"
+                     /PCR_primers="fwd_name: VF1_t1, fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaaagacattgg, rev_name:
+                     VR1_t1, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccaaagaatca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AMO66258.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLFGNDHVYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtac ctgttgttcg gtgcatgagc tggagtcata ggcactgctc taagtctcct
+       61 tattcgagct gaactgggcc aacccggtag tctatttggc aatgaccatg tttacaatgt
+      121 tatcgtgaca gcccatgcat ttattataat tttcttcata gttatgccca ttataattgg
+      181 aggattcggg aactgactag tacccttaat aattggtgct cctgacatag catttccccg
+      241 tctaaataat ataagcttct ggcttctccc tccctctttc ctgctactaa tagcatcaac
+      301 cgtagtagaa gctggtgctg gcacaggttg aacagtatac cctcctttag caggaaacct
+      361 ctcccaccca ggagcctccg tagacttagt tattttctcc ctccatctgg caggggtttc
+      421 ctctatccta ggagccatca acttcattac cactattatc aatatgaaac cccccgctat
+      481 gtcccaatat caaaccccct tgttcgtttg atctgtctta atcacagcaa tcctactact
+      541 cctctcccta ccagtcctgg ctgctggtat taccatatta ttaacagacc gcaacctcaa
+      601 caccaccttc tttgacccca ccggaggagg agaccctatc ctatatcaac acctattc
+//
+
+LOCUS       KU748109                 697 bp    DNA     linear   PRI 23-SEP-2016
+DEFINITION  Cercopithecus albogularis kolbi voucher NMK:41025 cytochrome
+            oxidase subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU748109
+VERSION     KU748109.1
+DBLINK      BioProject: PRJNA301980
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus albogularis kolbi (Mount Kenya Sykes'
+            monkey)
+  ORGANISM  Cercopithecus albogularis kolbi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 697)
+  AUTHORS   Miyunga,A., Mwangi,E.W., Mwaura,A.N., Mumo,R.M. and Khayota,B.N.
+  TITLE     Barcode of Wildlife Project [Kenya]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 697)
+  AUTHORS   Miyunga,A., Mwangi,E.W., Mwaura,A.N., Mumo,R.M. and Khayota,B.N.
+  CONSRTM   Barcode of Wildlife Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-FEB-2016) Centre for Biodiversity, National Museums
+            of Kenya, Museum Hill, Nairobi, Kenya
+COMMENT     ##BWP:1.0-START##
+            typeStatus               :: Other
+            basisOfIdentification    :: ID KEY & Reference collections
+            identificationConfidence :: High
+            identificationDate       :: 11-Jan-2011
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..697
+                     /organism="Cercopithecus albogularis kolbi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="kolbi"
+                     /specimen_voucher="NMK:41025"
+                     /db_xref="taxon:867372"
+                     /country="Kenya"
+                     /collection_date="10-Mar-2015"
+                     /collected_by="Thomas Adino; Ruth Mumo"
+                     /identified_by="Dr Maina Ngotho; Dr Hitler Rikoi"
+                     /PCR_primers="fwd_name: VF1_t1, fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaaagacattgg, rev_name:
+                     VR1_t1, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccaaagaatca"
+     gene            <1..>697
+                     /gene="COI"
+     CDS             <1..>697
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AMO66257.1"
+                     /translation="KGRQFSTNHKDIGTLYLLFGAWAGVMGTALSLLIRAELGQPGSL
+                     FGNDHVYNVIVTAHAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLL
+                     PPSFLLLMASTVVEAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAIN
+                     FITTIINMKPPAMSQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFD
+                     PTGGGDPILYQHLF"
+ORIGIN      
+        1 aaaagggcgc cagttctcaa ccaaccacaa agacattgga actctgtacc tgttgttcgg
+       61 tgcatgagct ggagtcatag gcactgctct aagtctcctt attcgagctg aactgggcca
+      121 acccggtagt ctatttggca atgaccatgt ttacaatgtt atcgtgacag cccatgcatt
+      181 tattataatt ttcttcatag ttatgcccat tataattgga ggattcggga actgactagt
+      241 acccttaata attggtgctc ctgacatagc atttccccgt ctaaataata taagcttctg
+      301 gcttctccct ccctctttcc tgctactaat agcatcaacc gtagtagaag ctggtgctgg
+      361 cacaggttga acagtatacc ctcctttagc aggaaacctc tcccacccag gagcctccgt
+      421 agacttagtt attttctccc tccatctggc aggggtttcc tctatcctag gagccatcaa
+      481 cttcattacc actattatca atatgaaacc ccccgctatg tcccaatatc aaaccccctt
+      541 gttcgtttga tctgtcttaa tcacagcaat cctactactc ctctccctac cagtcctggc
+      601 tgctggtatt accatattat taacagaccg caacctcaac accaccttct ttgaccccac
+      661 cggaggagga gaccctatcc tatatcaaca cctattc
+//
+
+LOCUS       KX012687                 680 bp    DNA     linear   PRI 01-DEC-2016
+DEFINITION  Cercopithecus albogularis voucher NZG:BWP36335 cytochrome oxidase
+            subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX012687
+VERSION     KX012687.1
+DBLINK      BioProject: PRJNA301744
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus albogularis (Sykes' monkey)
+  ORGANISM  Cercopithecus albogularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 680)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Barcode of Wildlife project [South Africa]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 680)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2016) Research and Scientific Services, National
+            Zoological Garderns of South Africa, 232 Boom Street, Pretoria,
+            Gauteng 0001, South Africa
+COMMENT     ##BWP:1.0-START##
+            basisOfIdentification    :: Digital images
+            chainOfCustody           :: Yes
+            identificationConfidence :: high
+            identificationDate       :: 10-Dec-2014
+            typeStatus               :: none
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..680
+                     /organism="Cercopithecus albogularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZG:BWP36335"
+                     /db_xref="taxon:867370"
+                     /country="South Africa"
+                     /collection_date="03-Sep-2014"
+                     /collected_by="Adrian Tordiffe"
+                     /identified_by="Tracy Rehse"
+                     /PCR_primers="fwd_name: LCO1490, fwd_seq:
+                     ggtcaacaaatcataaagatattgg, rev_name: HCO2198, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+     gene            <1..>680
+                     /gene="COI"
+     CDS             <1..>680
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ANH56784.1"
+                     /translation="KDIGTLYLLFGTWAGIMGTALSLLIRAELGQPGSLLGSDHVYNV
+                     IVTAHAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMA
+                     SAVVEAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMK
+                     PPAMSQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL
+                     YQHLSDFL"
+ORIGIN      
+        1 taaagatatt ggaactytat acctactgtt cggtacatga gctggaatca taggcactgc
+       61 tctaagtctt cttattcgag ctgaacttgg ccagcccggt agtctacttg gcagtgacca
+      121 tgtttacaat gttatcgtga cagcccatgc atttattata atcttcttca tagttatacc
+      181 cattataatt ggggggttcg ggaactgact agtgccctta ataattggtg ctcctgacat
+      241 agcatttccc cgtctaaata atataagctt ctggcttctc cctccctctt ttctactact
+      301 aatagcatca gctgtggtag aagctggcgc tggcacaggt tgaacagtat atcctccttt
+      361 agcaggaaac ctctcccacc caggagcctc cgtagactta gttattttct ccctccattt
+      421 agcagggatt tcctccatcc taggagccat caacttcatt accactatta tcaatatgaa
+      481 accccccgct atatcccaat accaaacccc cttgttcgtt tgatctgtct taatcacagc
+      541 aattcttcta ctcctctccc taccagtcct ggctgccggt attaccatat tattaacaga
+      601 ccgcaacctt aacaccacct tctttgaccc taccggagga ggagacccta tcctttatca
+      661 acacctatct gattttttgk
+//
+
+LOCUS       KX012632                 617 bp    DNA     linear   PRI 01-DEC-2016
+DEFINITION  Cercopithecus albogularis voucher NZG:BWP36333 cytochrome oxidase
+            subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX012632
+VERSION     KX012632.1
+DBLINK      BioProject: PRJNA301744
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus albogularis (Sykes' monkey)
+  ORGANISM  Cercopithecus albogularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 617)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Barcode of Wildlife project [South Africa]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 617)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2016) Research and Scientific Services, National
+            Zoological Garderns of South Africa, 232 Boom Street, Pretoria,
+            Gauteng 0001, South Africa
+COMMENT     ##BWP:1.0-START##
+            basisOfIdentification    :: Digital images
+            chainOfCustody           :: Yes
+            identificationConfidence :: high
+            identificationDate       :: 10-Dec-2014
+            typeStatus               :: none
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..617
+                     /organism="Cercopithecus albogularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZG:BWP36333"
+                     /db_xref="taxon:867370"
+                     /country="South Africa"
+                     /collection_date="03-Sep-2014"
+                     /collected_by="Dr. Adrian Tordiffe"
+                     /identified_by="Tracy Rehse"
+                     /PCR_primers="fwd_name: LCO1490, fwd_seq:
+                     ggtcaacaaatcataaagatattgg, rev_name: HCO2198, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+     gene            <1..>617
+                     /gene="COI"
+     CDS             <1..>617
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ANH56730.1"
+                     /translation="AGIMGTALSLLIRAELGQPGSLLGSDHVYNVIVTAHAFIMIFFM
+                     VMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGTGWT
+                     VYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFV
+                     WSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 gctggaatca taggcactgc tctaagtctt cttattcgag ctgaacttgg ccagcccggt
+       61 agtctacttg gcagtgacca tgtttacaat gttatcgtga cagcccatgc atttattata
+      121 atcttcttca tagttatacc cattataatt ggggggttcg ggaactgact agtgccctta
+      181 ataattggtg ctcctgacat agcatttccc cgtctaaata atataagctt ctggcttctc
+      241 cctccctctt ttctgctact aatagcatca gctgtggtag aagctggcgc tggcacaggt
+      301 tgaacagtat atcctccttt agcaggaaac ctctcccacc caggagcctc cgtagactta
+      361 gttattttct ccctccattt agcagggatt tcctccatcc taggagccat caacttcatt
+      421 accactatta tcaatatgaa accccccgct atatcccaat accaaacccc cttgttcgtt
+      481 tgatctgtct taatcacagc aattcttcta ctcctctccc taccagtcct ggctgccggt
+      541 attaccatat tattaacaga ccgcaacctt aacactacct tctttgaccc taccggagga
+      601 ggagacccta tccttta
+//
+
+LOCUS       GQ144570                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus pogonias voucher 0962 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144570
+VERSION     GQ144570.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus pogonias (crowned guenon)
+  ORGANISM  Cercopithecus pogonias
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus pogonias"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0962"
+                     /db_xref="taxon:102108"
+                     /country="Republic of the Congo"
+                     /collection_date="16-Sep-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44947.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 mactctatac ctactattcg gggcatgagc tggggttata ggcacagctc taagtcttct
+       61 catccgagcc gagctaggtc aacctggtag tctgctaggc agtgaccaca tctataatgt
+      121 catcgtaaca gcccatgcat ttgtcataat tttcttcatg gtcataccca ttataattgg
+      181 aggtttcgga aactgactag tacccctgat aattggtgct cctgacatgg catttccccg
+      241 tctaaacaac atgagcttct ggctccttcc cccctccttc ctactactaa tggcatcagc
+      301 catcgtagaa gctggtgctg gaacaggctg aacggtatac ccgcccttag caggaaacct
+      361 ctcccaccca ggggcctctg tagatttagt tattttctcc ctccatttag caggagtttc
+      421 ctccatccta ggggcgatca atttcatcac caccattatc aacatgaaac cccctgctat
+      481 atcccaatac cagacccccc tgtttgtctg atctgtccta attacagcaa tcctactact
+      541 cctctcttta ccagttctag ccgctggtat tactatacta ttaacagatc gcaacctcaa
+      601 taccactttc tttgacccta ctggaggagg ggatcctatc ctata
+//
+
+LOCUS       GQ144569                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus pogonias voucher 2172 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144569
+VERSION     GQ144569.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus pogonias (crowned guenon)
+  ORGANISM  Cercopithecus pogonias
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus pogonias"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2172"
+                     /db_xref="taxon:102108"
+                     /country="Republic of the Congo"
+                     /collection_date="29-Sep-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44946.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 aactctatac ctactattcg gggcatgagc tggggttata ggcacagctc taagtcttct
+       61 catccgagcc gagctaggtc aacctggtag tctgctaggc agtgaccaca tctataatgt
+      121 catcgtaaca gcccatgcat ttgtcataat tttcttcatg gtcataccca ttataattgg
+      181 aggtttcgga aactgactag tacccctgat aattggtgct cctgacatgg catttccccg
+      241 tctaaacaac atgagcttct ggctccttcc cccctccttc ctactactaa tggcatcagc
+      301 catcgtagaa gctggtgctg gaacaggctg aacggtatac ccgcccttag caggaaacct
+      361 ctcccaccca ggggcctctg tagatttagt tattttctcc ctccatttag caggagtttc
+      421 ctccatccta ggggcgatca atttcatcac caccattatc aacatgaaac cccctgctat
+      481 atcccaatac cagacccccc tgtttgtctg atctgtccta attacagcaa tcctactact
+      541 cctctcttta ccagttctag ccgctggtat tactatacta ttaacagatc gcaacctcaa
+      601 taccactttc tttgacccta ctggaggagg ggatcctatc ctata
+//
+
+LOCUS       GQ144568                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus pogonias voucher 1488 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144568
+VERSION     GQ144568.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus pogonias (crowned guenon)
+  ORGANISM  Cercopithecus pogonias
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus pogonias"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="1488"
+                     /db_xref="taxon:102108"
+                     /country="Republic of the Congo"
+                     /collection_date="05-Nov-1999"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44945.1"
+                     /translation="XLYLLFWAWAGXMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAXV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 aaytctatac ctactattct gggcatgagc tgggrttata ggcacagctc taagtcttct
+       61 catycgagct gagctaggtc aacctggtag tctgctaggc agtgaccaca tctataatgt
+      121 catcgtaaca gcccatgcat ttgtcataat tttcttcatg gtcataccca ttataattgg
+      181 aggtttcgga aactgactag tacccttgat aattggtgct cctgacatgg catttccccg
+      241 tctaaacaac atgagcttct ggctccttcc cccctccttc ctactactaa tggcatcagc
+      301 catmgtagaa gctggtgctg gaacaggctg aacggtatac ccgcccttag caggaaacct
+      361 ctcccaccca ggggcctctg tagatttagt tattttctcc ctccatttag caggagtttc
+      421 ctccatccta ggggcgatca atttcatcac caccattatc aacatgaaac cccctgctat
+      481 atcccaatac cagacccccc tgtttgtctg atctgtccta attacagcaa tcctactact
+      541 cctctcttta ccagttctag ccgctggtat tactatacta ttaacagatc gcaacctcaa
+      601 taccactttc tttgacccta ctggaggagg ggatcctatc ctata
+//
+
+LOCUS       GQ144567                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus pogonias voucher 2273 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144567
+VERSION     GQ144567.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus pogonias (crowned guenon)
+  ORGANISM  Cercopithecus pogonias
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus pogonias"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2273"
+                     /db_xref="taxon:102108"
+                     /country="Republic of the Congo"
+                     /collection_date="31-Oct-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44944.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 aactctatac ctactattcg gggcatgagc tggggttata ggcacagctc taagtcttct
+       61 catccgagcc gagctaggtc aacctggtag tctgctaggc agtgaccaca tctataatgt
+      121 catcgtaaca gcccatgcat ttgtcataat tttcttcatg gtcataccca ttataattgg
+      181 aggtttcgga aactgactag tacccctgat aattggtgct cctgacatgg catttccccg
+      241 tctaaacaac atgagcttct ggctccttcc cccctccttc ctactactaa tggcatcagc
+      301 catcgtagaa gctggtgctg gaacaggctg aacggtatac ccgcccttag caggaaacct
+      361 ctcccaccca ggggcctctg tagatttagt tattttctcc ctccatttag caggagtttc
+      421 ctccatccta ggggcgatca atttcatcac caccattatc aacatgaaac cccctgctat
+      481 atcccaatac cagacccccc tgtttgtctg atctgtccta attacagcaa tcctactact
+      541 cctctcttta ccagttctag ccgctggtat tactatacta ttaacagatc gcaacctcaa
+      601 taccactttc tttgacccta ctggaggagg ggatcctatc ctata
+//
+
+LOCUS       GQ144566                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus pogonias voucher 0879 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144566
+VERSION     GQ144566.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus pogonias (crowned guenon)
+  ORGANISM  Cercopithecus pogonias
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus pogonias"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0879"
+                     /db_xref="taxon:102108"
+                     /country="Republic of the Congo"
+                     /collection_date="26-Aug-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44943.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 aactctatac ctactattcg gggcatgagc tggggttata ggcacagctc taagtcttct
+       61 catccgagcc gagctaggtc aacctggtag tctgctaggc agtgaccaca tctataatgt
+      121 catcgtaaca gcccatgcat ttgtcataat tttcttcatg gtcataccca ttataattgg
+      181 aggtttcgga aactgactag tacccctgat aattggtgct cctgacatgg catttccccg
+      241 tctaaacaac atgagcttct ggctccttcc cccctccttc ctactactaa tggcatcagc
+      301 catcgtagaa gctggtgctg gaacaggctg aacggtatac ccgcccttag caggaaacct
+      361 ctcccaccca ggggcctctg tagatttggt tattttctcc ctccatttag caggagtttc
+      421 ctccatccta ggggcgatca atttcatcac caccattatc aacatgaaac cccctgctat
+      481 atcccaatac cagaccccct tgtttgtctg atctgtccta attacagcaa tcctactact
+      541 cctctcttta ccagttctag ccgctggtat tactatacta ttaacagatc gcaacctcaa
+      601 taccactttc tttgacccta ctggaggagg ggatcctatc ctata
+//
+
+LOCUS       GQ144565                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus pogonias voucher 1474 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144565
+VERSION     GQ144565.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus pogonias (crowned guenon)
+  ORGANISM  Cercopithecus pogonias
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus pogonias"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="1474"
+                     /db_xref="taxon:102108"
+                     /country="Republic of the Congo"
+                     /collection_date="04-Nov-1999"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44942.1"
+                     /translation="TLYLLFGAWAGVMGTALSLFIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 aactctatac ctactattcg gggcatgagc tggggttata ggcacagctc taagtctttt
+       61 catccgagcc gagctaggtc aacctggtag tctgctaggc agtgaccaca tctataatgt
+      121 catcgtaaca gcccatgcat ttgtcataat tttcttcatg gtcataccca ttataattgg
+      181 aggtttcgga aactgactag tacccttgat aattggtgct cctgacatgg catttccccg
+      241 tctaaacaac atgagcttct ggctccttcc cccctccttc ctactactaa tggcatcagc
+      301 catcgtagaa gctggtgctg gaacaggctg aacggtatac ccgcccttag caggaaacct
+      361 ctcccaccca ggggcctctg tagatttagt tattttctcc ctccatttag caggagtttc
+      421 ctccatccta ggggcgatca atttcatcac caccattatc aacatgaaac cccctgctat
+      481 atcccaatac cagacccccc tgtttgtctg atctgtccta attacagcaa tcctactact
+      541 cctctcttta ccagttctag ccgctggtat tactatacta ttaacagatc gcaacctcaa
+      601 taccactttc tttgacccta ctggaggagg ggatcctatc ctata
+//
+
+LOCUS       GQ144564                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus nictitans voucher 2102 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144564
+VERSION     GQ144564.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus nictitans (white-nosed guenon)
+  ORGANISM  Cercopithecus nictitans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus nictitans"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2102"
+                     /db_xref="taxon:36228"
+                     /country="Republic of the Congo"
+                     /collection_date="18-Sep-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44941.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 gactctatac ctactgtttg gtgcatgagc tggagtcata ggcactgctc taagtcttct
+       61 tattcgagct gagctgggtc aacccggtag tctattgggc agtgatcata tttacaatgt
+      121 tatcgtgaca gcccatgcat ttattataat tttcttcata gttataccca ttataattgg
+      181 agggttcggg aactgactag tccccttaat aattggtgcc cctgacatag catttccccg
+      241 tctaaataac ataagcttct ggcttctccc tccctctttt ctgctactaa tagcatcaac
+      301 cgtggtagag gctggtgctg gtacaggttg aacagtatac ccccctttag caggaaatct
+      361 ctcccaccca ggagcctccg tagacttagt aattttctcc ctccatttag caggaatttc
+      421 ctctatccta ggagccatca acttcattac cactattatt aatatgaaac cccccgctat
+      481 atcccaatat caaaccccct tattcgtttg atctgtctta atcacagcaa ttctactact
+      541 cctctcccta ccagtcttgg ctgccggtat caccatacta ttaacagacc gcaacctcaa
+      601 cactactttc tttgacccta ccggaggagg agaccctatc ctata
+//
+
+LOCUS       GQ144563                 591 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus nictitans voucher 0909 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144563
+VERSION     GQ144563.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus nictitans (white-nosed guenon)
+  ORGANISM  Cercopithecus nictitans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 591)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 591)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..591
+                     /organism="Cercopithecus nictitans"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0909"
+                     /db_xref="taxon:36228"
+                     /country="Republic of the Congo"
+                     /collection_date="02-Sep-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>591
+                     /gene="COI"
+     CDS             <1..>591
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44940.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDR"
+ORIGIN      
+        1 aactctatac ctactattcg gtgcatgagc tggagtcata ggcactgctc taagtcttct
+       61 tattcgagct gagctgggtc aacccggtag tctattgggc agtgatcata tttacaatgt
+      121 tatcgtgaca gcccatgcat ttattataat tttcttcata gttataccca ttataattgg
+      181 agggttcggg aactgactag tccccttaat aattggtgct cctgacatag catttccccg
+      241 tctaaataac ataagcttct ggcttctccc tccctctttt ctgctactaa tagcatcaac
+      301 cgtagtagag gctggtgctg gtacaggttg aacagtatac ccccctttag caggaaatct
+      361 ctcccaccca ggagcctccg tagacttagt aattttctcc ctccatttag caggaatttc
+      421 ctctatccta ggagccatca acttcattac cactattatt aatatgaaac cccccgctat
+      481 atcccaatat caaaccccct tattcgtttg atctgtctta atcacagcga ttctactact
+      541 cctctcccta ccagtcttgg ctgccggtat caccatacta ttaacagacc g
+//
+
+LOCUS       GQ144562                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus nictitans voucher 0244 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144562
+VERSION     GQ144562.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus nictitans (white-nosed guenon)
+  ORGANISM  Cercopithecus nictitans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus nictitans"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0244"
+                     /db_xref="taxon:36228"
+                     /country="Republic of the Congo"
+                     /collection_date="31-Aug-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44939.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 aactctatac ctactattcg gtgcatgagc tggagtcata ggcactgctc taagtcttct
+       61 tattcgagct gagctgggtc aacccggtag tctattgggc agtgatcata tttacaatgt
+      121 tatcgtgaca gcccatgcat ttattataat tttcttcata gttataccca ttataattgg
+      181 agggttcggg aactgactgg tccccttaat aattggtgct cctgacatag catttccccg
+      241 tctaaataac ataagcttct ggcttctccc tccctctttt ctgctactaa tagcatcaac
+      301 cgtagtagag gctggtgctg gtacaggttg aacagtatac ccccctttag caggaaatct
+      361 ctcccaccca ggagcctccg tagacttagt aattttctcc ctccatttag caggaatttc
+      421 ctctatccta ggagccatca acttcattac cactattatt aatatgaaac cccccgctat
+      481 atcccaatat caaaccccct tattcgtttg atctgtctta atcacagcga ttctactact
+      541 cctctcccta ccagtcttgg ctgccggtat caccatacta ttaacagacc gcaacctcaa
+      601 cactactttc tttgacccta ccggaggagg agaccctatc ctata
+//
+
+LOCUS       GQ144561                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus nictitans voucher 0260 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144561
+VERSION     GQ144561.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus nictitans (white-nosed guenon)
+  ORGANISM  Cercopithecus nictitans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus nictitans"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0260"
+                     /db_xref="taxon:36228"
+                     /country="Republic of the Congo"
+                     /collection_date="05-Sep-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44938.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 gactctatac ctactgtttg gtgcatgagc tggagtcata ggcactgctc taagtcttct
+       61 tattcgagct gagctgggtc aacccggtag tctattgggc agtgatcata tttacaatgt
+      121 tatcgtgaca gcccatgcat ttattataat tttcttcata gttataccca ttataattgg
+      181 agggttcggg aactgactag tccccttaat aattggtgcc cctgacatag catttccccg
+      241 tctaaataac ataagcttct ggcttctccc tccctctttt ctgctactaa tagcatcaac
+      301 cgtggtagag gctggtgctg gtacaggttg aacagtatac ccccctttag caggaaatct
+      361 ctcccaccca ggagcctccg tagacttagt aattttctcc ctccatttag caggaatttc
+      421 ctctatccta ggagccatca acttcattac cactattatt aatatgaaac cccccgctat
+      481 atcccaatat caaaccccct tattcgtttg atctgtctta atcacagcaa ttctactact
+      541 cctctcccta ccagtcttgg ctgccggtat caccatacta ttaacagacc gcaacctcaa
+      601 cactactttc tttgacccta ccggaggagg agaccctatc ctata
+//
+
+LOCUS       GQ144560                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus nictitans voucher 0613 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144560
+VERSION     GQ144560.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus nictitans (white-nosed guenon)
+  ORGANISM  Cercopithecus nictitans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus nictitans"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0613"
+                     /db_xref="taxon:36228"
+                     /country="Republic of the Congo"
+                     /collection_date="19-Nov-1999"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44937.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 gactctatac ctactgtttg gtgcatgagc tggagtcata ggcactgctc taagtcttct
+       61 tattcgagct gagctgggtc aacccggtag tctattgggc agtgatcata tttacaatgt
+      121 tatcgtgaca gcccatgcat ttattataat tttcttcata gttataccca ttataattgg
+      181 agggttcggg aactgactag tccccttaat aattggtgcc cctgacatag catttccccg
+      241 tctaaataac ataagcttct ggcttctccc tccctctttt ctgctactaa tagcatcaac
+      301 cgtggtagag gctggtgctg gtacaggttg aacagtatac ccccctttag caggaaatct
+      361 ctcccaccca ggagcctccg tagacttagt aattttctcc ctccatttag caggaatttc
+      421 ctctatccta ggagccatca acttcattac cactattatt aatatgaaac cccccgctat
+      481 atcccaatat caaaccccct tattcgtttg atctgtctta atcacagcaa ttctactact
+      541 cctctcccta ccagtcttgg ctgccggtat caccatacta ttaacagacc gcaacctcaa
+      601 cactactttc tttgacccta ccggaggagg agaccctatc ctata
+//
+
+LOCUS       GQ144559                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus nictitans voucher 2280 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144559
+VERSION     GQ144559.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus nictitans (white-nosed guenon)
+  ORGANISM  Cercopithecus nictitans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus nictitans"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2280"
+                     /db_xref="taxon:36228"
+                     /country="Republic of the Congo"
+                     /collection_date="03-Nov-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44936.1"
+                     /translation="XLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 amctctatac ctactrttcg gtgcatgagc tggagtcata ggcactgctc taagtcttct
+       61 tattcgagct gagctgggtc aacccggtag tctattgggc agtgatcata tttacaatgt
+      121 tatcgtgaca gcccatgcat ttattataat tttcttcata gttataccca ttataattgg
+      181 agggttcggg aactgactag tccccttaat aattggtgcy cctgacatag catttccccg
+      241 tctaaataac ataagcttct ggcttctccc tccctctttt ctgctactaa tagcatcaac
+      301 cgtagtagag gctggtgctg gtacaggttg aacagtatac ccccctttag caggaaatct
+      361 ctcccaccca ggagcctccg tagacttagt aattttctcc ctccatttag caggaatttc
+      421 ctctatccta ggagccatca acttcattac cactattatt aatatgaaac cccccgctat
+      481 atcccaatat caaaccccct tattcgtttg atctgtctta atcacagcga ttctactact
+      541 cctctcccta ccagtcttgg ctgccggtat caccatacta ttaacagacc gcaacctcaa
+      601 cactactttc tttgacccta ccggaggagg agaccctatc ctata
+//
+
+LOCUS       GQ144558                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus nictitans voucher 0262 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144558
+VERSION     GQ144558.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus nictitans (white-nosed guenon)
+  ORGANISM  Cercopithecus nictitans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus nictitans"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0262"
+                     /db_xref="taxon:36228"
+                     /country="Republic of the Congo"
+                     /collection_date="05-Sep-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44935.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 gactctatac ctactgtttg gtgcatgagc tggagtcata ggcactgctc taagtcttct
+       61 tattcgagct gagctgggtc aacccggtag tctattgggc agtgatcata tttacaatgt
+      121 tatcgtgaca gcccatgcat ttattataat tttcttcata gttataccca ttataattgg
+      181 agggttcggg aactgactag tccccttaat aattggtgcc cctgacatag catttccccg
+      241 tctaaataac ataagcttct ggcttctccc tccctctttt ctgctactaa tagcatcaac
+      301 cgtggtagag gctggtgctg gtacaggttg aacagtatac ccccctttag caggaaatct
+      361 ctcccaccca ggagcctccg tagacttagt aattttctcc ctccatttag caggaatttc
+      421 ctctatccta ggagccatca acttcattac cactattatt aatatgaaac cccccgctat
+      481 atcccaatat caaaccccct tattcgtttg atctgtctta atcacagcaa ttctactact
+      541 cctctcccta ccagtcttgg ctgccggtat caccatacta ttaacagacc gcaacctcaa
+      601 cactactttc tttgacccta ccggaggagg agaccctatc ctata
+//
+
+LOCUS       GQ144557                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus cephus voucher 2221 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144557
+VERSION     GQ144557.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus cephus (moustached guenon)
+  ORGANISM  Cercopithecus cephus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus cephus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2221"
+                     /db_xref="taxon:9535"
+                     /country="Republic of the Congo"
+                     /collection_date="18-Oct-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44934.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHVYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPIL"
+ORIGIN      
+        1 aactctgtac ctactattcg gtgcatgagc tggaatcata ggcactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctgttgggt agtgaccatg tttacaatgt
+      121 tatcgtaaca gcccatgcat tcatcataat tttcttcata gtcataccca ttatgattgg
+      181 aggattcggg aactgattag tgcccttaat aattggtgcc cctgacatag cattcccccg
+      241 cctaaataat ataagcttct ggcttcttcc accatctttc ctgctgttaa tagcatcagc
+      301 catagtagag gctggtgctg gaacaggttg gacagtatac cctcctttag caggaaacct
+      361 ctcccatcca ggagcctctg tggacttggt tattttctcc ctccatttag caggagtttc
+      421 ctctatctta ggggccatca actttatcac cactattatt aacatgaaac ctcccgctat
+      481 atcccaatat caaacaccct tgtttgtatg atctgtccta attacagcaa tcctactact
+      541 tctctcccta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ttggaggggg agaccccatc ctata
+//
+
+LOCUS       GQ144556                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus cephus voucher 2266 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144556
+VERSION     GQ144556.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus cephus (moustached guenon)
+  ORGANISM  Cercopithecus cephus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus cephus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2266"
+                     /db_xref="taxon:9535"
+                     /country="Republic of the Congo"
+                     /collection_date="25-Oct-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44933.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHVYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPIL"
+ORIGIN      
+        1 aactctgtac ctactattcg gtgcatgagc tggaatcata ggcactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctgttgggt agtgaccatg tttacaatgt
+      121 tatcgtaaca gcccatgcat tcatcataat tttcttcata gtcataccca ttatgattgg
+      181 aggattcggg aactgattag tgcccttaat aattggtgcc cctgacatag cattcccccg
+      241 cctaaataat ataagcttct ggcttcttcc accatctttc ctgctgttaa tagcatcagc
+      301 catagtagag gctggtgctg gaacaggttg gacagtatac cctcctttag caggaaacct
+      361 ctcccatcca ggagcctctg tggacttggt tattttctcc ctccatttag caggagtttc
+      421 ctctatctta ggggccatca actttatcac cactattatt aacatgaaac ctcccgctat
+      481 atcccaatat caaacaccct tgtttgtatg atctgtccta attacagcaa tcctactact
+      541 tctctcccta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ttggaggggg agaccccatc ctata
+//
+
+LOCUS       GQ144555                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus cephus voucher 0223 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144555
+VERSION     GQ144555.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus cephus (moustached guenon)
+  ORGANISM  Cercopithecus cephus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus cephus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0223"
+                     /db_xref="taxon:9535"
+                     /country="Republic of the Congo"
+                     /collection_date="20-Oct-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44932.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHVYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPIL"
+ORIGIN      
+        1 aactctgtac ctactattcg gtgcatgagc tggaatcata ggcactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctgttgggt agtgaccatg tttacaatgt
+      121 tatcgtaaca gcccatgcat tcatcataat tttcttcata gtcataccca ttatgattgg
+      181 aggattcggg aactgattag tgcccttaat aattggtgcc cctgacatag cattcccccg
+      241 cctaaataat ataagcttct ggcttcttcc accatctttc ctgctgttaa tagcatcagc
+      301 catagtagag gctggtgctg gaacaggttg gacagtatac cctcctttag caggaaacct
+      361 ctcccatcca ggagcctctg tggacttggt tattttctcc ctccatttag caggagtttc
+      421 ctctatctta ggggccatca actttatcac cactattatt aacatgaaac ctcccgctat
+      481 atcccaatat caaacaccct tatttgtatg atctgtccta attacagcaa tcctactact
+      541 tctctcccta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ttggaggggg agaccccatc ctata
+//
+
+LOCUS       GQ144554                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus cephus voucher 2211 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144554
+VERSION     GQ144554.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus cephus (moustached guenon)
+  ORGANISM  Cercopithecus cephus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus cephus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2211"
+                     /db_xref="taxon:9535"
+                     /country="Republic of the Congo"
+                     /collection_date="18-Sep-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44931.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHVYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPIL"
+ORIGIN      
+        1 aactctgtac ctactattcg gtgcatgagc tggaatcata ggcactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctgttgggt agtgaccatg tttacaatgt
+      121 tatcgtaaca gcccatgcat tcatcataat tttcttcata gtcataccca ttatgattgg
+      181 agggttcggg aactgattag tgcccttaat aattggtgcc cctgacatag cattcccccg
+      241 cctaaataat ataagcttct ggctscttcc accatctttc ctgctgttaa tagcatcagc
+      301 catagtagag gctggtgctg gaacaggttg gacagtatac ccycctttag caggaaacct
+      361 ctcccatcca ggagcctctg tggacttggt tattttctcc ctccatttag caggagtttc
+      421 ctctatctta ggggccatca actttatcac cactattatt aacatgaaac ctcccgctat
+      481 atcccaatat caaacmccct tatttgtatg atctgtccta attacagcaa tcctactact
+      541 tctctcccta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ttggaggggg agaccccatc ctata
+//
+
+LOCUS       GQ144553                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus cephus voucher 2250 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144553
+VERSION     GQ144553.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus cephus (moustached guenon)
+  ORGANISM  Cercopithecus cephus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus cephus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2250"
+                     /db_xref="taxon:9535"
+                     /country="Republic of the Congo"
+                     /collection_date="01-Sep-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44930.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHVYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPIL"
+ORIGIN      
+        1 aactctgtac ctactattcg gtgcatgagc tggaatcata ggcactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctgttgggt agtgaccatg tttacaatgt
+      121 tatcgtaaca gcccatgcat tcatcataat tttcttcata gtcataccca ttatgattgg
+      181 aggattcggg aactgattag tgcccttaat aattggtgcc cctgacatag cattcccccg
+      241 cctaaataat ataagcttct ggcttcttcc accatctttc ctgctgttaa tagcatcagc
+      301 catagtagag gctggtgctg gaacaggttg gacagtatac cctcctttag caggaaacct
+      361 ctcccatcca ggagcctctg tggacttggt tattttctcc ctccatttag caggagtttc
+      421 ctctatctta ggggccatca actttatcac cactattatt aacatgaaac ctcccgctat
+      481 atcccaatat caaacaccct tatttgtatg atctgtccta attacagcaa tcctactact
+      541 tctctcccta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ttggaggggg agaccccatc ctata
+//
+
+LOCUS       GQ144552                 252 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus cephus voucher 2294 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144552
+VERSION     GQ144552.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus cephus (moustached guenon)
+  ORGANISM  Cercopithecus cephus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 252)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 252)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..252
+                     /organism="Cercopithecus cephus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2294"
+                     /db_xref="taxon:9535"
+                     /country="Republic of the Congo"
+                     /collection_date="04-Nov-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>252
+                     /gene="COI"
+     CDS             <1..>252
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44929.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHVYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNM"
+ORIGIN      
+        1 actctgtacc tactattcgg tgcatgagct ggaatcatag gcactgctct aagtcttctt
+       61 attcgagctg aattaggcca acccggtagt ctgttgggta gtgaccatgt ttacaatgtt
+      121 atcgtaacag cccatgcatt catcataatt ttcttcatag tcatacccat tatgattgga
+      181 ggattcggga actgattagt gcccttaata attggtgccc ctgacatagc attcccccgc
+      241 ctaaataata ta
+//
+
+LOCUS       GQ144551                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercopithecus cephus voucher 0221 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ144551
+VERSION     GQ144551.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Cercopithecus cephus (moustached guenon)
+  ORGANISM  Cercopithecus cephus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cercopithecus cephus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0221"
+                     /db_xref="taxon:9535"
+                     /country="Republic of the Congo"
+                     /collection_date="19-Aug-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44928.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHVYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPIL"
+ORIGIN      
+        1 aactctgtac ctactattcg gtgcatgagc tggaatcata ggcactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctgttgggt agtgaccatg tttacaatgt
+      121 tatcgtaaca gcccatgcat tcatcataat tttcttcata gtcataccca ttatgattgg
+      181 aggattcggg aactgattag tgcccttaat aattggtgcc cctgacatag cattcccccg
+      241 cctaaataat ataagcttct ggcttcttcc accatctttc ctgctgttaa tagcatcagc
+      301 catagtagag gctggtgctg gaacaggttg gacagtatac cctcctttag caggaaacct
+      361 ctcccatcca ggagcctctg tggacttggt tattttctcc ctccatttag caggagtttc
+      421 ctctatctta ggggccatca actttatcac cactattatt aacatgaaac ctcccgctat
+      481 atcccaatac caaacaccct tatttgtatg atctgtccta attacagcaa tcctactact
+      541 tctctcccta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ttggaggggg agaccccatc ctata
+//
+
+LOCUS       KJ862191                 648 bp    DNA     linear   PRI 22-SEP-2015
+DEFINITION  Cercopithecus mitis voucher S36 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   KJ862191
+VERSION     KJ862191.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus mitis (blue monkey)
+  ORGANISM  Cercopithecus mitis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Using DNA Barcoding to Identify the Endangered Birds and Big
+            Mammals in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2014) College of Life Sciences, Sichuan
+            University, South section I, Yihuan Road, Chengdu, Sichuan Province
+            610064, China
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Cercopithecus mitis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="S36"
+                     /db_xref="taxon:36225"
+                     /country="China"
+                     /collection_date="23-Jan-1996"
+                     /PCR_primers="fwd_name: VF1, fwd_seq:
+                     ttctcaaccaaccacaaagacattgg, rev_name: VR1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIM44746.1"
+                     /translation="LLFGTWAGIMGTALSLLIRAELGQPGSLLGSDHVYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSLLLLMASAVVEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHLF"
+ORIGIN      
+        1 ctactgttcg gtacatgagc tggaatcata ggcactgctc taagtcttct tattcgagct
+       61 gaacttggcc agcccggcag tctacttggc agtgaccatg tttacaatgt tatcgtgaca
+      121 gcccatgcat ttattataat cttcttcata gttataccca ttataattgg ggggttcggg
+      181 aactgactag tgcccttaat aattggtgct cctgacatag catttccccg tctaaataat
+      241 ataagcttct ggcttctccc tccctcttta ctgctactaa tagcatcagc tgtagtagaa
+      301 gctggtgctg gcacaggttg aacagtatac ccccctttag caggaaacct atcccaccca
+      361 ggagcctccg tagacttagt tattttctcc ctccatttag cagggatttc ctccatccta
+      421 ggagccatca acttcattac cactattatc aatatgaaac cccccgctat atcccaatac
+      481 caaaccccct tgttcgtttg atctgtctta atcacagcaa ttcttctact cctctcccta
+      541 ccagtcctgg ctgccggtat taccatatta ctaacagacc gcaacctcaa caccaccttc
+      601 tttgatccta ccggaggagg agaccctatc ctttatcaac acctattc
+//
+
+LOCUS       KJ862190                 648 bp    DNA     linear   PRI 22-SEP-2015
+DEFINITION  Cercopithecus mitis voucher S30 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   KJ862190
+VERSION     KJ862190.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus mitis (blue monkey)
+  ORGANISM  Cercopithecus mitis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Using DNA Barcoding to Identify the Endangered Birds and Big
+            Mammals in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2014) College of Life Sciences, Sichuan
+            University, South section I, Yihuan Road, Chengdu, Sichuan Province
+            610064, China
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Cercopithecus mitis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="S30"
+                     /db_xref="taxon:36225"
+                     /country="China"
+                     /collection_date="23-Jan-1996"
+                     /PCR_primers="fwd_name: VF1, fwd_seq:
+                     ttctcaaccaaccacaaagacattgg, rev_name: VR1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIM44745.1"
+                     /translation="LLFGTWAGIMGTALSLLIRAELGQPGSLLGSDHVYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSLLLLMASAVVEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHLF"
+ORIGIN      
+        1 ctactgttcg gtacatgagc tggaatcata ggcactgctc taagtcttct tattcgagct
+       61 gaacttggcc agcccggcag tctacttggc agtgaccatg tttacaatgt tatcgtgaca
+      121 gcccatgcat ttattataat cttcttcata gttataccca ttataattgg ggggttcggg
+      181 aactgactag tgcccttaat aattggtgct cctgacatag catttccccg tctaaataat
+      241 ataagcttct ggcttctccc tccctcttta ctgctactaa tagcatcagc tgtagtagaa
+      301 gctggtgctg gcacaggttg aacagtatac ccccctttag caggaaacct atcccaccca
+      361 ggagcctccg tagacttagt tattttctcc ctccatttag cagggatttc ctccatccta
+      421 ggagccatca acttcattac cactattatc aatatgaaac cccccgctat atcccaatac
+      481 caaaccccct tgttcgtttg atctgtctta atcacagcaa ttcttctact cctctcccta
+      541 ccagtcctgg ctgccggtat taccatatta ctaacagacc gcaacctcaa caccaccttc
+      601 tttgatccta ccggaggagg agaccctatc ctttatcaac acctattc
+//
+
+LOCUS       KJ192991                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus campbelli isolate UnknownT773 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192991
+VERSION     KJ192991.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus campbelli (Campbell's monkey)
+  ORGANISM  Cercopithecus campbelli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus campbelli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT773"
+                     /db_xref="taxon:303588"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15423.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatac ttgctattcg gtgcatgagc tggagttata ggcacagccc taagtcttct
+       61 cattcgagct gagctaggcc aacctggtag tttactaggc agtgaccata tctataatgt
+      121 tattgtaaca gcccatgcat ttattataat tttcttcatg gttataccca ttataattgg
+      181 aggtttcgga aactggctag tacctctaat aattggtgct cctgatatag cattcccccg
+      241 tctaaacaac atgagcttct gacttcttcc tccctctttt ctgctactaa tagcatcagc
+      301 catcgtcgag gctggtgccg gcacaggttg aacagtatat ccacctttag cgggaaactt
+      361 ctctcaccca ggagcctccg tagatttgat tattttctcc cttcatttag caggagtttc
+      421 ctccatccta ggggccatca atttcatcac cactatcatc aatatgaaac cccccgctat
+      481 atcccaatat cagacccccc tatttgtctg atctgtccta atcacagcaa ttctattact
+      541 cctctcttta ccagtcctag ctgccggcat cactatacta ttaacagacc gcaatcttaa
+      601 tactactttc ttcgacccta ctggaggagg agatcctatc ctatatcaac acctattt
+//
+
+LOCUS       KJ192985                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus campbelli isolate UnknownT767 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192985
+VERSION     KJ192985.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus campbelli (Campbell's monkey)
+  ORGANISM  Cercopithecus campbelli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus campbelli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT767"
+                     /db_xref="taxon:303588"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15417.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLIASAIV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatac ttgctattcg gtgcatgggc tggggttata ggcacagccc taagtcttct
+       61 cattcgagct gaactaggcc aacctggtag cttactaggc agtgaccata tctataacgt
+      121 tattgtaaca gcccatgcat ttattataat tttcttcatg gttatgccca ttataattgg
+      181 aggtttcgga aactggctag tacctctaat aattggtgct cctgatatag cattcccccg
+      241 tctaaacaac atgagcttct gacttctccc tccctctttt ctgctactaa ttgcatcagc
+      301 catcgtcgag gctggtgccg ggacaggttg aacagtatac ccacctttag cgggaaactt
+      361 ctcccaccca ggagcctccg tagatttgat tattttctcc ctccatttag caggagtttc
+      421 ctccatccta ggagccatca acttcatcac cactatcatc aatatgaaac cccccgctat
+      481 atcccaatat cagacccccc tatttgtctg atctgtccta atcacagcaa ttctattact
+      541 cctctcctta ccagtcctag ctgccggcat cactatacta ttaacagacc gcaatcttaa
+      601 tactactttc tttgacccta ctggaggagg agatcctatc ctatatcaac acctattt
+//
+
+LOCUS       KJ192984                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus campbelli isolate UnknownT766 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192984
+VERSION     KJ192984.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus campbelli (Campbell's monkey)
+  ORGANISM  Cercopithecus campbelli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus campbelli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT766"
+                     /db_xref="taxon:303588"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15416.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatac ttgctattcg gtgcatgagc tggagttata ggcacagccc taagtcttct
+       61 cattcgagct gagctaggcc aacctggtag tttactaggc agtgaccata tctataatgt
+      121 tattgtaaca gcccatgcat ttattataat tttcttcatg gttataccca ttataattgg
+      181 aggtttcgga aactggctag tacctctaat aattggtgct cctgatatag cattcccccg
+      241 tctaaacaac atgagcttct gacttcttcc tccctctttt ctgctactaa tagcatcagc
+      301 catcgtcgag gctggtgccg gcacaggttg aacagtatat ccacctttag cgggaaactt
+      361 ctctcaccca ggagcctccg tagatttgat tattttctcc cttcatttag caggagtttc
+      421 ctccatccta ggggccatca atttcatcac cactatcatc aatatgaaac cccccgctat
+      481 atcccaatat cagacccccc tatttgtctg atctgtccta atcacagcaa ttctattact
+      541 cctctcttta ccagtcctag ctgccggcat cactatacta ttaacagacc gcaatcttaa
+      601 tactactttc ttcgacccta ctggaggagg agatcctatc ctatatcaac acctattt
+//
+
+LOCUS       KJ192983                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus campbelli isolate UnknownT765 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192983
+VERSION     KJ192983.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus campbelli (Campbell's monkey)
+  ORGANISM  Cercopithecus campbelli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus campbelli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT765"
+                     /db_xref="taxon:303588"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15415.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatac ttgctattcg gtgcatgagc tggagttata ggcacagccc taagtcttct
+       61 cattcgagct gagctaggcc aacctggtag tttactaggc agtgaccata tctataatgt
+      121 tattgtaaca gcccatgcat ttattataat tttcttcatg gttataccca ttataattgg
+      181 aggtttcgga aactggctag tacctctaat aattggtgct cctgatatag cattcccccg
+      241 tctaaacaac atgagcttct gacttcttcc tccctctttt ctgctactaa tagcatcagc
+      301 catcgtcgag gctggtgccg gcacaggttg aacagtatat ccacctttag cgggaaactt
+      361 ctctcaccca ggagcctccg tagatttgat tattttctcc cttcatttag caggagtttc
+      421 ctccatccta ggggccatca atttcatcac cactatcatc aatatgaaac cccccgctat
+      481 atcccaatat cagacccccc tatttgtctg atctgtccta atcacagcaa ttctattact
+      541 cctctcttta ccagtcctag ctgccggcat cactatacta ttaacagacc gcaatcttaa
+      601 tactactttc ttcgacccta ctggaggagg agatcctatc ctatatcaac acctattt
+//
+
+LOCUS       KJ192981                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus campbelli isolate UnknownT763 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192981
+VERSION     KJ192981.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus campbelli (Campbell's monkey)
+  ORGANISM  Cercopithecus campbelli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus campbelli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT763"
+                     /db_xref="taxon:303588"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15413.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatac ttgctattcg gtgcatgagc tggagttata ggcacagccc taagtcttct
+       61 cattcgagct gagctaggcc aacctggtag tttactaggc agtgaccata tctataatgt
+      121 tattgtaaca gcccatgcat ttattataat tttcttcatg gttataccca ttataattgg
+      181 aggtttcgga aactggctag tacctctaat aattggtgct cctgatatag cattcccccg
+      241 tctaaacaac atgagcttct gacttcttcc tccctctttt ctgctactaa tagcatcagc
+      301 catcgtcgag gctggtgccg gcacaggttg aacagtatat ccacctttag cgggaaactt
+      361 ctctcaccca ggagcctccg tagatttgat tattttctcc cttcatttag caggagtttc
+      421 ctccatccta ggggccatca atttcatcac cactatcatc aatatgaaac cccccgctat
+      481 atcccaatat cagacccccc tatttgtctg atctgtccta atcacagcaa ttctattact
+      541 cctctcttta ccagtcctag ctgccggcat cactatacta ttaacagacc gcaatcttaa
+      601 tactactttc ttcgacccta ctggaggagg agatcctatc ctatatcaac acctattt
+//
+
+LOCUS       KJ192979                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus campbelli isolate UnknownT761 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192979
+VERSION     KJ192979.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus campbelli (Campbell's monkey)
+  ORGANISM  Cercopithecus campbelli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus campbelli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT761"
+                     /db_xref="taxon:303588"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15411.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatac ttgctattcg gtgcatgagc tggagttata ggcacagccc taagtcttct
+       61 cattcgagct gagctaggcc aacctggtag tttactaggc agtgaccata tctataatgt
+      121 tattgtaaca gcccatgcat ttattataat tttcttcatg gttataccca ttataattgg
+      181 aggtttcgga aactggctag tacctctaat aattggtgct cctgatatag cattcccccg
+      241 tctaaacaac atgagcttct gacttcttcc tccctctttt ctgctactaa tagcatcagc
+      301 catcgtcgag gctggtgccg gcacaggttg aacagtatat ccacctttag cgggaaactt
+      361 ctctcaccca ggagcctccg tagatttgat tattttctcc cttcatttag caggagtttc
+      421 ctccatccta ggggccatca atttcatcac cactatcatc aatatgaaac cccccgctat
+      481 atcccaatat cagacccccc tatttgtctg atctgtccta atcacagcaa ttctattact
+      541 cctctcttta ccagtcctag ctgccggcat cactatacta ttaacagacc gcaatcttaa
+      601 tactactttc ttcgacccta ctggaggagg agatcctatc ctatatcaac acctattt
+//
+
+LOCUS       KJ192978                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus campbelli isolate UnknownT760 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192978
+VERSION     KJ192978.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus campbelli (Campbell's monkey)
+  ORGANISM  Cercopithecus campbelli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus campbelli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT760"
+                     /db_xref="taxon:303588"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15410.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatac ttgctattcg gtgcatgagc tggagttata ggcacagccc taagtcttct
+       61 cattcgagct gagctaggcc aacctggtag tttactaggc agtgaccata tctataatgt
+      121 tattgtaaca gcccatgcat ttattataat tttcttcatg gttataccca ttataattgg
+      181 aggtttcgga aactggctag tacctctaat aattggtgct cctgatatag cattcccccg
+      241 tctaaacaac atgagcttct gacttcttcc tccctctttt ctgctactaa tagcatcagc
+      301 catcgtcgag gctggtgccg gcacaggttg aacagtatat ccacctttag cgggaaactt
+      361 ctctcaccca ggagcctccg tagatttgat tattttctcc cttcatttag caggagtttc
+      421 ctccatccta ggggccatca atttcatcac cactatcatc aatatgaaac cccccgctat
+      481 atcccaatat cagacccccc tatttgtctg atctgtccta atcacagcaa ttctattact
+      541 cctctcttta ccagtcctag ctgccggcat cactatacta ttaacagacc gcaatcttaa
+      601 tactactttc ttcgacccta ctggaggagg agatcctatc ctatatcaac acctattt
+//
+
+LOCUS       KJ192977                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus campbelli isolate UnknownT759 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192977
+VERSION     KJ192977.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus campbelli (Campbell's monkey)
+  ORGANISM  Cercopithecus campbelli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus campbelli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT759"
+                     /db_xref="taxon:303588"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15409.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatac ttgctattcg gtgcatgagc tggagttata ggcacagccc taagtcttct
+       61 cattcgagct gagctaggcc aacctggtag tttactaggc agtgaccata tctataatgt
+      121 tattgtaaca gcccatgcat ttattataat tttcttcatg gttataccca ttataattgg
+      181 aggtttcgga aactggctag tacctctaat aattggtgct cctgatatag cattcccccg
+      241 tctaaacaac atgagcttct gacttcttcc tccctctttt ctgctactaa tagcatcagc
+      301 catcgtcgag gctggtgccg gcacaggttg aacagtatat ccacctttag cgggaaactt
+      361 ctctcaccca ggagcctccg tagatttgat tattttctcc cttcatttag caggagtttc
+      421 ctccatccta ggggccatca atttcatcac cactatcatc aatatgaaac cccccgctat
+      481 atcccaatat cagacccccc tatttgtctg atctgtccta atcacagcaa ttctattact
+      541 cctctcttta ccagtcctag ctgccggcat cactatacta ttaacagacc gcaatcttaa
+      601 tactactttc ttcgacccta ctggaggagg agatcctatc ctatatcaac acctattt
+//
+
+LOCUS       KJ192966                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus campbelli isolate UnknownT747 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192966
+VERSION     KJ192966.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus campbelli (Campbell's monkey)
+  ORGANISM  Cercopithecus campbelli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus campbelli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT747"
+                     /db_xref="taxon:303588"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15398.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatac ttgctattcg gtgcatgagc tggagttata ggcacagccc taagtcttct
+       61 cattcgagct gagctaggcc aacctggtag tttactaggc agtgaccata tctataatgt
+      121 tattgtaaca gcccatgcat ttattataat tttcttcatg gttataccca ttataattgg
+      181 aggtttcgga aactggctag tacctctaat aattggtgct cctgatatag cattcccccg
+      241 tctaaacaac atgagcttct gacttcttcc tccctctttt ctgctactaa tagcatcagc
+      301 catcgtcgag gctggtgccg gcacaggttg aacagtatat ccacctttag cgggaaactt
+      361 ctctcaccca ggagcctccg tagatttgat tattttctcc cttcatttag caggagtttc
+      421 ctccatccta ggggccatca atttcatcac cactatcatc aatatgaaac cccccgctat
+      481 atcccaatat cagacccccc tatttgtctg atctgtccta atcacagcaa ttctattact
+      541 cctctcttta ccagtcctag ctgccggcat cactatacta ttaacagacc gcaatcttaa
+      601 tactactttc ttcgacccta ctggaggagg agatcctatc ctatatcaac acctattt
+//
+
+LOCUS       KJ192964                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus campbelli isolate UnknownT745 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192964
+VERSION     KJ192964.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus campbelli (Campbell's monkey)
+  ORGANISM  Cercopithecus campbelli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus campbelli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT745"
+                     /db_xref="taxon:303588"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15396.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatac ttgctattcg gtgcatgagc tggagttata ggcacagccc taagtcttct
+       61 cattcgagct gagctaggcc aacctggtag tttactaggc agtgaccata tctataatgt
+      121 tattgtaaca gcccatgcat ttattataat tttcttcatg gttataccca ttataattgg
+      181 aggtttcgga aactggctag tacctctaat aattggtgct cctgatatag cattcccccg
+      241 tctaaacaac atgagcttct gacttcttcc tccctctttt ctgctactaa tagcatcagc
+      301 catcgtcgag gctggtgccg gcacaggttg aacagtatat ccacctttag cgggaaactt
+      361 ctctcaccca ggagcctccg tagatttgat tattttctcc cttcatttag caggagtttc
+      421 ctccatccta ggggccatca atttcatcac cactatcatc aatatgaaac cccccgctat
+      481 atcccaatat cagacccccc tatttgtctg atctgtccta atcacagcaa ttctattact
+      541 cctctcttta ccagtcctag ctgccggcat cactatacta ttaacagacc gcaatcttaa
+      601 tactactttc ttcgacccta ctggaggagg agatcctatc ctatatcaac acctattt
+//
+
+LOCUS       KJ192961                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus campbelli isolate UnknownT742 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192961
+VERSION     KJ192961.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus campbelli (Campbell's monkey)
+  ORGANISM  Cercopithecus campbelli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus campbelli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT742"
+                     /db_xref="taxon:303588"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15393.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAIV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatac ttgctattcg gtgcatgagc tggagttata ggcacagccc taagtcttct
+       61 cattcgagct gagctaggcc aacctggtag tttactaggc agtgaccata tctataatgt
+      121 tattgtaaca gcccatgcat ttattataat tttcttcatg gttataccca ttataattgg
+      181 aggtttcgga aactggctag tacctctaat aattggtgct cctgatatag cattcccccg
+      241 tctaaacaac atgagcttct gacttcttcc tccctctttt ctgctactaa tagcatcagc
+      301 catcgtcgag gctggtgccg gcacaggttg aacagtatat ccacctttag cgggaaactt
+      361 ctctcaccca ggagcctccg tagatttgat tattttctcc cttcatttag caggagtttc
+      421 ctccatccta ggggccatca atttcatcac cactatcatc aatatgaaac cccccgctat
+      481 atcccaatat cagacccccc tatttgtctg atctgtccta atcacagcaa ttctattact
+      541 cctctcttta ccagtcctag ctgccggcat cactatacta ttaacagacc gcaatcttaa
+      601 tactactttc ttcgacccta ctggaggagg agatcctatc ctatatcaac acctattt
+//
+
+LOCUS       KJ192960                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus petaurista isolate UnknownT741 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192960
+VERSION     KJ192960.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus petaurista (lesser white-nosed monkey)
+  ORGANISM  Cercopithecus petaurista
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus petaurista"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT741"
+                     /db_xref="taxon:100487"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15392.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGNDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMTSAMV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGINMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtac ttactattcg gcgcatgagc tgggatcata ggcactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattaggt aatgaccata tttacaatgt
+      121 tatcgtaaca gcccatgcgt tcattataat tttcttcata gtcataccca ttataattgg
+      181 cgggttcggg aactgattag tgcccttaat aattggtgcc cctgatatag cattcccccg
+      241 cctaaataat ataagcttct gactccttcc accatctttc ctgctgttaa taacatcagc
+      301 catagtagag gctggtgctg gaacaggttg aacagtatac ccccctttag cagggaacct
+      361 ctcccatcca ggagcctccg tggacttggt tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac caccattatt aacatgaagc cccccgctat
+      481 gtcccaatat caaacaccct tatttgtctg atctgtccta attacagcaa tcctactact
+      541 tctctcccta ccagtattgg ctgccggcat taatatgcta ttaacagacc gtaacctcaa
+      601 caccaccttc tttgacccta ctggaggggg agaccctatc ctatatcaac acttattc
+//
+
+LOCUS       KJ192905                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus erythrogaster isolate PrimateT979 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192905
+VERSION     KJ192905.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus erythrogaster (white-throated guenon)
+  ORGANISM  Cercopithecus erythrogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus erythrogaster"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PrimateT979"
+                     /db_xref="taxon:161496"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15337.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGNDHIYNVVVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMTSAMV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQVPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 tactctatat ttactattcg gcgcatgagc tgggatcata ggcactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattaggt aatgaccata tttataatgt
+      121 tgtcgtaaca gcccatgcat tcattataat tttcttcata gtcataccca ttataattgg
+      181 cgggttcggg aactgattag tgcccttaat aattggtgcc cctgacatag catttccccg
+      241 cctaaataat ataagcttct gacttctccc accatctttc ctactgctaa taacatcagc
+      301 catagtagag gctggtgctg gaacaggttg gacagtatat ccccctttag cagggaacct
+      361 ctcccatcca ggagcctccg tggacttggt tattttctcc ctccatttag caggagtctc
+      421 ctctatcttg ggggccatca actttattac caccattatt aacataaaac cccccgctat
+      481 gtcccaatat caagtaccct tgtttgtctg atctgtccta attacagcaa tcctactact
+      541 cctctccctg ccagtattgg ctgccggcat tactatgcta ttaacagacc gtaacctcaa
+      601 caccaccttc tttgacccta ctggaggagg agaccctatc ctatatcaac acttattt
+//
+
+LOCUS       KJ192773                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus erythrogaster isolate CeryT970 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192773
+VERSION     KJ192773.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus erythrogaster (white-throated guenon)
+  ORGANISM  Cercopithecus erythrogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus erythrogaster"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CeryT970"
+                     /db_xref="taxon:161496"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15205.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGNDHIYNVVVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMTSAMV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQVPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 tactctatat ttactattcg gcgcatgagc tgggatcata ggcactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattaggt aatgaccata tttataatgt
+      121 tgtcgtaaca gcccatgcat tcattataat tttcttcata gtcataccca ttataattgg
+      181 cgggttcggg aactgattag tgcccttaat aattggtgcc cctgacatag catttccccg
+      241 cctaaataat ataagcttct gacttctccc accatctttc ctactgctaa taacatcagc
+      301 catagtagag gctggtgctg gaacaggttg gacagtatat ccccctttag cagggaacct
+      361 ctcccatcca ggagcctccg tggacttggt tattttctcc ctccatttag caggagtctc
+      421 ctctatcttg ggggctatca actttattac caccattatt aacataaaac cccccgctat
+      481 gtcccaatat caagtaccct tgtttgtctg atctgtccta attacagcaa tcctactact
+      541 cctctccctg ccagtattgg ctgccggcat tactatgcta ttaacagacc gtaacctcaa
+      601 caccaccttc tttgacccta ctggaggggg agaccctatc ctatatcaac acttattt
+//
+
+LOCUS       KJ192772                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercopithecus erythrogaster isolate CeryT969 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192772
+VERSION     KJ192772.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus erythrogaster (white-throated guenon)
+  ORGANISM  Cercopithecus erythrogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercopithecus erythrogaster"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CeryT969"
+                     /db_xref="taxon:161496"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15204.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGNDHIYNVVVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMTSAMV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQVPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 tactctatat ttactattcg gcgcatgagc tgggatcata ggcactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattaggt aatgaccata tttataatgt
+      121 tgtcgtaaca gcccatgcat tcattataat tttcttcata gtcataccca ttataattgg
+      181 cgggttcggg aactgattag tgcccttaat aattggtgcc cctgacatag catttccccg
+      241 cctaaataat ataagcttct gacttctccc accatctttc ctactgctaa taacatcagc
+      301 catagtagag gctggtgctg gaacaggttg gacagtatat ccccctttag cagggaacct
+      361 ctcccatcca ggagcctccg tggacttggt tattttctcc ctccatttag caggagtctc
+      421 ctctatcttg ggggccatca actttattac caccattatt aacataaaac cccccgctat
+      481 gtcccaatat caagtaccct tgtttgtctg atctgtccta attacagcaa tcctactact
+      541 cctctccctg ccagtattgg ctgccggcat tactatgcta ttaacagacc gtaacctcaa
+      601 caccaccttc tttgacccta ctggaggagg agaccctatc ctatatcaac acttattt
+//
+
+LOCUS       DQ069713               16550 bp    DNA     circular PRI 26-JUL-2016
+DEFINITION  Cercopithecus aethiops sabaeus mitochondrion, complete genome.
+ACCESSION   DQ069713
+VERSION     DQ069713.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus sabaeus (Cercopithecus sabaeus)
+  ORGANISM  Chlorocebus sabaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 16550)
+  AUTHORS   Wang,Y.
+  TITLE     Complete mtDNA sequence of the green monkey
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 16550)
+  AUTHORS   Wang,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2005) School of Biological Sciences, University
+            of Sydney, Sydney, NSW 2006, Australia
+FEATURES             Location/Qualifiers
+     source          1..16550
+                     /organism="Chlorocebus sabaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:60711"
+     misc_feature    56..364
+                     /note="HVS2"
+     tRNA            583..656
+                     /product="tRNA-Phe"
+     rRNA            657..1604
+                     /product="12S ribosomal RNA"
+     tRNA            1605..1673
+                     /product="tRNA-Val"
+     rRNA            1674..3225
+                     /product="16S ribosomal RNA"
+     tRNA            3226..3300
+                     /product="tRNA-Leu"
+     gene            3303..4259
+                     /gene="NADH1"
+     CDS             3303..4259
+                     /gene="NADH1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AAY66406.1"
+                     /translation="MTTANLMLLVASTLTAMAFLTLVERKLLGYMQLRKGPNIVGPYG
+                     LLQPFADAMKLFTKEPLKPSTSTTTLYTIAPALAFSIALLLWTPLPMPNPLINFNLGL
+                     LFILAMSSLTVHSILWSGWASNSNYALIGALRAVAQTISYEVTLAIILLSVLLTSGSF
+                     NLNMLITTQEHIWLLLPSWPLAMMWFTSTLAETNRTPFDLMEGESELVSGFNIEYAAG
+                     PFALFFMAEYMNIIMMNALTTTIFLGTFYPTHSPELFTTCFTTKTLLLTSLFLMNSSN
+                     MPPIRYDQLMHLLWKNFLPLTLAFLMWNILTPITISSIPPQT"
+     tRNA            4259..4326
+                     /product="tRNA-Ile"
+     tRNA            4324..4395
+                     /product="tRNA-Gln"
+     tRNA            4397..4464
+                     /product="tRNA-Met"
+     gene            4465..5508
+                     /gene="NADH2"
+     CDS             4465..5508
+                     /gene="NADH2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAY66407.1"
+                     /translation="MNPLAQLIIYTTMITGTLTTLLSSHWFLAWAGLEMNMLAFIPIL
+                     IKKTNPRSTEAATKYFLMQSTASMILMMAITLNNLLSGHWMMTNTANQLPSLMMTTAL
+                     AMKLGMAPFHFWIPEVTQGTPLIPGLLLLTWQKLAPISIMCQIHPSINTCALMTLSTL
+                     SIMVGSWGGLNQTQLRKIMAYSSITHMGWMMMTLTYNPTITTLYLTMYIALTTTMFLF
+                     LNLNSNTTTLTLSLTWNKSPQLMPLTMFTLMSLGGLPPLTGFLPKWMTIQELXMNXNF
+                     VIPSIMVXMTLLNLYFYMRLIYTVSVSLFPTPNNTKMNWQLENTKPTPLTPTLTIIST
+                     LLLPITPLILTIP"
+     tRNA            5507..5569
+                     /product="tRNA-Trp"
+     tRNA            complement(5580..5648)
+                     /product="tRNA-Ala"
+     tRNA            complement(5650..5722)
+                     /product="tRNA-Asn"
+     rep_origin      complement(5724..5755)
+     tRNA            complement(5754..5815)
+                     /product="tRNA-Cys"
+     tRNA            complement(5816..5886)
+                     /product="tRNA-Tyr"
+     gene            5899..>7437
+                     /gene="COI"
+     CDS             5899..>7437
+                     /gene="COI"
+                     /note="stop codon not determined"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY66408.1"
+                     /translation="MFINRWLFSTNHKDIGTLYLLFGAWAGIMGTALSLLIRAELGQP
+                     GSLLGSDHIYNVIVTAHAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSF
+                     WLLPPSFLLLMASTMIEAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILG
+                     AINFITTIINMKPPAMSQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPTGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVTYYSGKKEPFGYMGMTWA
+                     MMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKW
+                     SAAMLWALGFIFLFTMGGLTGIILANSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG
+                     FVHWFPLFSGYTLDQTYAKAHFIIMFTGVNLTFFPQHFLGLSGMPRRYSDYPDAYTTW
+                     NILSSIGSFISLVAVILMIYMIWEAFASKRKVSMAEQSPTNLEWLNGCPPPYHTFEEP
+                     TYIKL"
+     tRNA            complement(7439..7510)
+                     /product="tRNA-Ser"
+     tRNA            7512..7580
+                     /product="tRNA-Asp"
+     gene            7582..8265
+                     /gene="COII"
+     CDS             7582..8265
+                     /gene="COII"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit II"
+                     /protein_id="AAY66409.1"
+                     /translation="MAHPVQLGLQDATSPVMEELITFHDYAFMTISLISFLVLYALSS
+                     TLTTKLTNTNITDAQEMETTWTILPAIILILIALPSLRILYLTDEINNPSFTIKSIGH
+                     QWYWTYEYTDYGGLIFNSYMLPPLFLNPGDLRLLEVDNRVVLPIEAPVRMMITSQDVL
+                     HSWTIPTLGLKTDAVPGRLNQTTFTATRPGVYYGQCSEICGANHSFMPIVAELIPLKI
+                     FEMGPVFTL"
+     tRNA            8296..8361
+                     /product="tRNA-Lys"
+     gene            8363..8569
+                     /gene="ATP8"
+     CDS             8363..8563
+                     /gene="ATP8"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATPase8"
+                     /protein_id="AAY66410.1"
+                     /translation="MPQLDTSTWFITITTMLPTLYLITQLKLLDMCYYQSPQQKNSBK
+                     QTPNNHWQLKWTKIYLPYSQLQ"
+     gene            8524..9204
+                     /gene="ATP6"
+     CDS             8524..9204
+                     /gene="ATP6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATPase6"
+                     /protein_id="AAY66411.1"
+                     /translation="MNENLFTLFATPMILNQPATIPIIMFPVLLIPTSKHLINNRLTT
+                     IQRNLVLLALKQMMMTHNAKGRTWSLMLMSLITFITTTNLLGLLPHSFTPTTPTIYKP
+                     RYSNPLWAATAITGLRFKTKNSLAHLLPQGTPTLLIPMLVMIETISLIIQPVALAVRL
+                     TANITAGHLLMHLIGNTALTLLSISPPAALLTFTLLMLLTILEIAVALIQAYVFTLLV
+                     SLYLHNNT"
+     gene            9204..9987
+                     /gene="COIII"
+     CDS             9204..9987
+                     /gene="COIII"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:9987,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit III"
+                     /protein_id="AAY66412.1"
+                     /translation="MTHQFHAYHMVKPSPWPLTGALSTLLMTSGLVMWFHFYSTTLLT
+                     LGLLTMTLTLHQWWRDVVRESTYQGHHTTPVQKNLRYGMVLFIISEIFFFTGFFWAFY
+                     HSSLAPTPYLGGHWPPTGITPLDPLEVPLLNTSVLLASGVTITWAHHSLMNNNRKQTT
+                     QALLITILLGIYFTLLQISEYFEAPFTISDGIYGSTFFIATGFHGLHVIIGSTFLLIC
+                     LIRQLLFHFTPNHHFGFEAATWYWHFVDVVWLLLYISIYWWGS"
+     tRNA            9988..10055
+                     /product="tRNA-Gly"
+     gene            10056..10395
+                     /gene="NADH3"
+     CDS             10056..10395
+                     /gene="NADH3"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:10395,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 3"
+                     /protein_id="AAY66413.1"
+                     /translation="MNLVLALTINTLLTSLLMTAMFWLPQLNSYAEKTNPYECGFDPL
+                     NPARIPFSMKFFLVALPLLFDLEIALLCPYMGSPNNNLPMMIKSSITLIIILTLSLAY
+                     EWSQKGLDWAE"
+     tRNA            10396..10460
+                     /product="tRNA-Arg"
+     gene            10461..10757
+                     /gene="NADH4L"
+     CDS             10461..10757
+                     /gene="NADH4L"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="AAY66414.1"
+                     /translation="MSPIFMNITLAFTISLLGMLVYRSHLMASLLCLEGMMMSLFIMI
+                     ALMASNAHSPLTNIMPIILLVFAACETAVGLALLVSISNTYGLDYIHNLNLLQC"
+     gene            10751..12128
+                     /gene="NADH4"
+     CDS             10751..12128
+                     /gene="NADH4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:12128,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AAY66415.1"
+                     /translation="MLKMIVPTTMLLPMTWFSTNNMIWINLTTHSLIISLIPLLFFNQ
+                     TNNNLLNHSTYLSSDPLTTPLLTLTAWLLPLMMMASQYHLCNQPPSQKKLYLSTMIFL
+                     QITLILTFMATELILFYILFETTLIPTLIIITKWGTQAERLNASTYFLFYTLTGSLPL
+                     LIMLTYTYNNTGSLNIMLLTLTDQKLTTTWSHNLIWLACMMAFMTKMPLYGLHLWLPK
+                     AHVEAPIAGSMVLAAVLLKLGGYGMMRLTSILNPLTEYMAYPFLMLALWGMIMTSSIC
+                     LRQTDLKSLIAYSSVSHMSLVIMASLIQTPWSFSGAITLMIAHGLTSSMLFCLANSNY
+                     ERTHSRIMMLSRGLQTLLPLMTFWWFTANLTNLALPPTINLIGELFVITASFSWSHIT
+                     IMLTGLNMLITALYSLHMFITMQRGKLTHHMINMKPPFTREXTLMFMHLTPIILLSLN
+                     PNIILGFTS"
+     tRNA            12129..12197
+                     /product="tRNA-His"
+     tRNA            12198..12256
+                     /product="tRNA-Ser"
+     tRNA            12257..12327
+                     /product="tRNA-Leu"
+     gene            12328..14136
+                     /gene="NADH5"
+     CDS             12328..14136
+                     /gene="NADH5"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="AAY66416.1"
+                     /translation="MTMHTSIMMATLASLTPPIIATFINPNKKQSYPNHVKTTMMYAF
+                     ITSLIPTTLYISLNQETTIWSWHWMMTQTLNLTLSFKLDYFSVMFTPIALFITWSIME
+                     FSLWYMSSDPNINQFFKYLLIFLITMLILTTANNLFQLFIGWEGMGIMSFLLIGWWYS
+                     RTDANTAAIQAILYNRIGDIGLILAMAYFLLHYNSWDMQQMLTLNPPKLPPLMGLLLA
+                     AMGKSAQLGLHPWLPSAMEGPTPVSALLHSSTMVVAGVYLLIRFHPLMESNTLLQSLT
+                     LCLGAITTMFMAICALTQNDIKKIVAFSTSSQLGLMMVTIGINQPYLAFLHICTHAFF
+                     KALLFMCSGSIIHNLNNEQDIRKMGGLFKTMPLTSTSLLIGNLALTGMPFLTGFYSKD
+                     LIIEATNTSYTNAWALSITFIATSLTSAYSTRIILLTMTGPPRFSTLMNINENNPTLL
+                     NPIKRLTMGSIITGFLITNNIPPTSLPQPTMPHYLKLSALYATILGFLMTLDLTSMTN
+                     KLKMNNPSQMFKFSNMLGYFPTTIHRMVPYQNLLMSQNLALLLLDSMWLEKSMPKMIA
+                     HVHTTASKTVTTQKGMIKLYSLSFLIPLTLTLLLMM"
+     gene            complement(14137..14658)
+                     /gene="NADH6"
+     CDS             complement(14137..14658)
+                     /gene="NADH6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 6"
+                     /protein_id="AAY66417.1"
+                     /translation="MTYILFALSVLLVMGFVGFSSKPSPIYGGLALIVSGVVGCMVVL
+                     GFGGTYMGLMLFLIYLGGMMIVFGYTTAMAIEEYPETWGSGFGVLGGLLVGLMMEVGL
+                     VLWVSSSDGVVVVSFNSMGSWVIFEGEGSGLVRGDSIGAGALYDYGRWLVVVAGWTLF
+                     VGVYIVIEITRGN"
+     tRNA            complement(14659..14727)
+                     /product="tRNA-Glu"
+     gene            14732..15872
+                     /gene="cytb"
+     CDS             14732..15872
+                     /gene="cytb"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:15872,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAY66418.1"
+                     /translation="MTPMRKSNPIMKMINHSLIDLPTPSNISMWWNFGSLLAFCLILQ
+                     IITGLFLAMHYSPDTSSAFSSIAHITRDVNHGWIIRYLHANGASMFFICLFLHVGRGL
+                     YYGSFLLLKTWNTGIMLLFLTMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTDL
+                     VQWIWGGYSIGNPTLSRFFTLHFILPFIITALTMVHLLFLHETGSNNPCGISSDSDKI
+                     PFHPYYTIKDILGLVLLLFILTTLTLLSPNLLNDPDNYIPADPLNTPPHIKPEWYFLF
+                     AYAILRSVPNKLGGVLALFLSILILSIIPTLHNSKQQSMMFRPLSQFLFWFLITTLLT
+                     LTWIGSQPVSQPFIFIGQLASTMYFTTVLILMPLTSLIENNLLKWT"
+     tRNA            15873..15939
+                     /product="tRNA-Thr"
+     tRNA            complement(15941..16009)
+                     /product="tRNA-Pro"
+     misc_feature    16010..16361
+                     /note="HVS1"
+ORIGIN      
+        1 gatcacgggt ctgtcaccct attaaccagt cactggagct tccatgcatt tggtatcttt
+       61 tatctctggt ccgcacgcag ccccatcgca gaatgctggt ctcgccataa cacacgccac
+      121 agaacctgtc tttgattgct actccatacc attattaatc gcacctacat tcaatatcct
+      181 agtcctgcat agacgttaca gggtgttatt taattcatgc ttgtaggaca taccaataac
+      241 cactatacag cctatctcta actacactat aaaaacacaa caaattttta acaaaccccc
+      301 ctcccccatc tctgacttct cccataaaaa ctcgcttttg ccaaacccca aagacaaaag
+      361 ccttgatcca cttagccaga gcttacgttc tcatctttta gctatgcaca gcttcaactg
+      421 ctatcccctc aaatgatata aaattacttc accttaccac tctcaacttc aatttctttt
+      481 cccttccata ctttctcact cccatgcatt tactcactac tgaatctgtg cccttattat
+      541 cacaacccca aagatgccac ctacattcac acccaccttc tcgtcgtacg tagcttaaac
+      601 ctaccccaaa gcaagacact gaaaatgcct agatggattc acacatccca tagacaaata
+      661 ggtttggtcc tggcctttct attgaccttt agcaagatta cacatgcaag cctccccgcc
+      721 ccagtgaaga cgccctacaa atcactatga ctaagaggag tgagtatcaa gcacgcacat
+      781 gcagctcaaa acactttgct cagccacacc cccacgggaa acagcagtga caaaccttta
+      841 gtaataaacg aaagtttaac taagctatgc tacaccaagg gttggtcaat ttcgtgccag
+      901 ccaccgcggc cacacgatta acccgagcca atagagaccg gcgtagagag tgttttagac
+      961 ccagcctaat taaagctaaa ccccacctaa actgtaaaat cctagctaac ataaaataaa
+     1021 ctacgaaagt ggctttaaaa cctctgaata cacaacagct aagacccaaa ctgggattag
+     1081 ataccccact atgcttagcc ctaaacctca gtagttaaac caacaaaact actcgccaga
+     1141 atactacaag caaccgcttg aaactcaaag gacttggcgg tgcttcaccc ccctagagga
+     1201 gcctgtccca taatcgataa accccgatcc accccaccct ctcttgctca gcctatatac
+     1261 cgccatcttc agcaaaccct gataaaggtc acaaagtgag cgcaagtacc ccttttcgca
+     1321 aaaacgttag gtcaaggtgt agcctatgag acggaaaaag atgggctaca ttttctatcc
+     1381 tagaaaaccc acgataactc tcatgaaacc taagagtcca aggaggattt agcagtaaat
+     1441 taagaataga gtgcttaatt gaacaaggcc ataaagcacg cacacaccgc ccgtcactcc
+     1501 cctcaaatat acttaaggac tatattaact aaacacccta atacctatat agaggggata
+     1561 agtcgtaaca cggtaagtgt accggaaggt gcacttggat aaatcaaggt atagcttaac
+     1621 gcaaagcatc cggcctacac ccggaagatc tcagtacaat ttgactacct tgagccaaca
+     1681 ctagccccaa acataactaa cactaatacc aaacaaccat acactaaacc attcacccac
+     1741 ataaagtata ggtgatagaa attctaactc ggcgctatag acacagtacc gtaagggaaa
+     1801 gaataatacc acccaagcat aaaatagcaa gaactaactt ctgtaccttt tgcataatga
+     1861 attaactaga aatagtttcg caaagagaac taaagccaaa ccccccgaaa tcagacgagc
+     1921 tacccaaaaa cagctaaaag agcgcacccg tctatgtagc aaaatagtgg gaagatttat
+     1981 gggtagaggt gacaagccta ccgagcctga tgatagctgg ttatccaaga tagaatttta
+     2041 gttcaacctt gagcttacct acagaacctc ttaatccttt tgtaagctca attgctagtc
+     2101 taaagaggga cagctcttta gacactagga aaaaacctta tatagagagt aaaaagcata
+     2161 accaccatag ttggcccaaa agcagccatc aattaagaaa gcgttcaagc tcaacatcaa
+     2221 ctacccaaaa aataccaaac ataaaactga actcctcatc tcacattgga tcaatctatc
+     2281 atttcataga agcaataatg ttagtataag taacatgaac attttctcca ccgcataagc
+     2341 ctaagtcaga ccgaaaacct caccgacact taacagtcca atatcaacaa acacaaacaa
+     2401 gctgacatta cttccactgt taatccaaca caggcatgcc tcaaggaagg ttataaaaag
+     2461 taaaaggaac tcggcaaaac taaccccgcc tgtttaccaa aaacatcacc tctagcatta
+     2521 ctagtattag aggcaccgcc tgcccagtga cacacgttta acggccgcgg taccctgacc
+     2581 gtgcaaaggt agcataatca cttgttctct aattagggac tcgcatgaat ggcatcacga
+     2641 gggtttaact gtctcttact ttcaaccagt gaaattggcc tgtccgtgaa gagacggaca
+     2701 tgaactaata agacgagaag accctgcgga gcttcaattt actagtacaa ctaaaaacca
+     2761 cacaaaccca caggtcttta aaccccatgc ctgtactaaa aattttggtt ggggtgacct
+     2821 cggagcacag tcaactcgaa catcatgcta agactacaca agccaaagca aaccaatact
+     2881 tgcaattgac ccaataactt gatcaacgga acaagttacc ccagggataa cagcgcaatt
+     2941 ctattctaga gtccatatca acaatagagt ttacgacctc gatgttggat caggacatcc
+     3001 taatggtgca gcagctatca agggttcgtt tgttcaacga ttaaagtcct acgtgatctg
+     3061 agttcagacc ggagcaatcc aggtcggttt ctatctattc aacatttctc cctgtacgaa
+     3121 aggacaagag aaatagggcc cacttcacaa tagcgccccc ctccccataa atgatctaat
+     3181 cttaatttaa caaaacatta caaatcccac ccaagaacag ggtttgttaa gatggcagag
+     3241 cccggcaatt gcataaaatt taaaatttta aaaccagagg ttcaacccct cttcttaaca
+     3301 ctatgactac agcaaacctt atactccttg ttgcatctac actaaccgcc atagcattcc
+     3361 ttacacttgt tgaacgaaaa ttgttaggtt atatacaact acgcaaagga cccaacattg
+     3421 taggccctta cggactacta caacccttcg ctgatgcaat aaaactcttc accaaagagc
+     3481 ctctaaaacc ctcaacatcc accactactc tctacaccat cgcacccgcc ctagccttct
+     3541 ccattgccct cctcctatga accccccttc ccatacctaa ccctctaatc aatttcaacc
+     3601 taggactcct gttcatccta gccatatcca gcctaaccgt ccactccatc ctatgatcag
+     3661 gatgggcatc aaactcaaac tacgccctaa ttggagccct acgagccgtc gctcaaacaa
+     3721 tttcatatga ggttaccctc gctattatcc tactatcagt cttactaaca agcggctcat
+     3781 ttaaccttaa catactcatt acaacacaag agcacatctg actcctcttg ccatcatgac
+     3841 ccctagccat aatatgattc acctccacac tagcagagac aaaccgaacc cccttcgacc
+     3901 tcatagaagg cgaatcagaa ctagtatcag gctttaacat cgagtatgcc gcaggtccat
+     3961 tcgccctatt ctttatagcc gaatacataa acattattat aatgaacgcc ctaacaacta
+     4021 caatctttct aggcacattc taccccaccc actcgccaga attattcaca acatgcttta
+     4081 ccaccaaaac gctcctccta acctccctat tccttatgaa ctcgagcaac atacccccga
+     4141 ttcgctacga ccaactcata catctactat gaaaaaactt ccttccactc acactagcat
+     4201 ttctcatatg aaacatccta acacccatta caatctccag cattccccct caaacctaga
+     4261 aatatgtctg acaaaagagt tactttgata gagtaaatga tagaggcccc aaccctctta
+     4321 tttctaagat tgcaggcatt gaacctaccc ctgagaatcc aaacttctcc gtgctaccta
+     4381 acacacccca tcctaaagta aggtcagcta aataagctat cgggcccata ccccgaaaat
+     4441 gttggtcaca cccttcccgt actaattaac cccctagccc aactcatcat ctacaccaca
+     4501 ataatcacag gcacactcac tacactattg agctcacact gatttctcgc ctgagcaggc
+     4561 ctggaaataa acatactagc cttcattcca attttaatca aaaaaacaaa cccccgctcc
+     4621 acagaagccg ccaccaagta tttcctaata caatccaccg catccataat tcttataata
+     4681 gcaattaccc tcaacaacct actatcgggg cactgaataa taacaaatac cgccaaccaa
+     4741 cttccatcgt taataataac aactgccctt gccataaaac taggaatagc cccattccac
+     4801 ttctgaattc cagaagtcac ccaaggaaca ccactaattc ctggcctact cctcctcaca
+     4861 tgacaaaaac tagcccccat ctcaattata tgtcaaattc acccatcaat caacacctgt
+     4921 gccctcataa ccctctcaac cctatccatc atagtaggca gctgaggagg cctaaaccaa
+     4981 acacaattac gcaaaattat agcatactcc tcaatcactc acataggctg aataataata
+     5041 acactaacat acaacccaac cattacaacc ctctacctaa ccatatacat cgccctraca
+     5101 accaccatat tcctattcct caatctgaac tcaaatacca caacccttac actatcccty
+     5161 acctgaaaca aatcacccca actcatacca ctaacaatat tcacccttat atccctagga
+     5221 ggwttacccc crctaaccgg cttyctacct aaatgaataa ctattcaaga acttrcaata
+     5281 aacarcaact tygtcatccc ctccatcata gtcaycataa cyctacttaa cctgtacttc
+     5341 tacatacgcc taatctacac tgtctcagta tcactatttc ccacccccaa caacacaaaa
+     5401 atgaactgac aacttgaaaa cacaaaaccc acacccctca cccccacact caccatcatt
+     5461 tctactctcc tactaccaat caccccccta atcctaacta ttccctagaa atttaggtta
+     5521 aataagacca agagccttca aagcccttag taagtagacc acttaatttc tgaaacatat
+     5581 aaggactgca aaaacctact ctgcatcaat tgaacgcaaa tcaaccactt taattaagct
+     5641 aagcccctac tagaccaatg ggactcaaac ccataaaaat ttagttaaca gctaaacacc
+     5701 ctaatcaact ggctttgatc cacttctccc gccacgagaa aaaaaggcgg gagaagcccc
+     5761 ggcagaaact taaaactgct cctttaaact tgcaatttaa catgaaaatc acctcggggc
+     5821 tggcaaaaag aggatcagac ctctgtcttc aggtttacag cctaatgctt actcagccat
+     5881 tttacccttc ctccacccat gttcattaat cgttgactct tttcaacaaa ccataaagac
+     5941 atcggaactc tatacctact attcggtgca tgagctggaa tcataggtac agctctaagc
+     6001 cttctcattc gagctgaatt aggccaaccc ggtagtttac taggcagtga ccatatctat
+     6061 aatgtcattg taacagccca tgcatttatt ataattttct tcatagttat acccattata
+     6121 atcggggggt tcgggaactg actagtaccc ttgataattg gtgctcctga catagcattt
+     6181 ccccgtctaa ataatatgag cttctgactt cttcccccct ccttcctgct gctaatggca
+     6241 tcaaccataa tcgaggctgg cgctggaaca ggttgaacag tatacccccc cttagcagga
+     6301 aacctctctc acccaggggc ctccgtagac ttagttattt tctccctcca cctagcagga
+     6361 gtttcctcta tcctgggggc tatcaacttc attaccacca ttatcaacat gaagcccccc
+     6421 gccatatccc agtatcaaac cccgttattt gtctgatctg tcctaatcac agcaatccta
+     6481 ctactcctct ccctgccagt cttagctgcc ggcattacta tactattaac agaccgcaac
+     6541 ctcaacacta ccttctttga tcctactgga gggggagacc ctatcctata ccaacaccta
+     6601 ttttgattct ttggtcaccc tgaagtctac atcctcattc tccccgggtt cggaataatc
+     6661 tcccacatcg taacttacta ctccgggaag aaagagccat ttggatatat aggtataacc
+     6721 tgggctataa tgtcaatcgg gttcctagga tttattgtat gagcccatca tatatttaca
+     6781 gtgggtatag atgtggacac acgggcctac tttacctctg ctactataat cattgcaatt
+     6841 cctactggag ttaaagtttt cagctgactt gctacacttc atggaggcaa tatcaaatga
+     6901 tctgccgcaa tactttgagc cctaggcttt atttttctat tcaccatagg gggtctcacc
+     6961 ggtattatct tagcaaactc atccctagat attgtactac acgatacata ctatgttgtc
+     7021 gcccatttcc actatgtttt gtcaatagga gctgtttttg ccattatagg gggctttgtc
+     7081 cactgattcc ctttattttc aggctacaca ttagaccaaa cctatgccaa agcccacttt
+     7141 attattatat tcacaggcgt aaatttaacc ttttttccac aacacttcct tggcctatcc
+     7201 ggaatacccc gacgctattc tgactacccc gatgcttata ccacatgaaa tattctatcg
+     7261 tccattggct cttttatttc actagtagca gtaatcctaa taatctacat gatctgagag
+     7321 gccttcgcct caaaacgcaa agtatcaatg gccgaacaat cccccaccaa cctcgaatga
+     7381 ttaaatggct gtcccccgcc ttaccacaca tttgaagaac caacctacat taaattgagc
+     7441 gaaaaagggg ggaatcgaac cccctaaaac cggtttcaag ccaatcctat aacccctata
+     7501 actttttcaa tgagatatta gaaaaactat ttcatggctt tgtcgaaacc aaattatagg
+     7561 ctataaccct atatatctta catggcccac ccagttcaac taggtctaca agatgctaca
+     7621 tcccctgtca tagaagagct aatcaccttc cacgactatg catttataac tatctcttta
+     7681 attagctttt tagtcctata cgccctatcc tcaacactca caacaaaact aaccaatacc
+     7741 aacattacag acgcccagga gatagagacc acttgaacca tcttacccgc aatcattcta
+     7801 atcctgattg ccctaccatc tctacgcatt ctgtacctga cagacgaaat caacaacccc
+     7861 tcctttacta ttaaatcaat tggacatcaa tgatactgaa cctacgaata cacagactac
+     7921 ggaggcctca tctttaattc ttacatactg cctccattat tcttaaaccc aggagacctt
+     7981 cgacttctag aagttgacaa ccgagtggtt ctcccaattg aagcccccgt ccgtataata
+     8041 atcacatctc aagatgtcct acactcatga actattccca cactaggttt aaaaacagat
+     8101 gcagtacccg gacgcttaaa tcaaaccaca tttaccgcca cacgaccagg cgtctattat
+     8161 ggacaatgct cagaaatctg tggagctaac cacagcttca tacctatcgt cgcagaacta
+     8221 atcccattaa aaatctttga aataggacct gtgtttaccc tataaatacc ccrctccctt
+     8281 tccactatac aaatgcactg cacagctatt ctagcgttaa ccttttaagt taaaaattga
+     8341 ggggcatacc ctctgcagcg aaatgcctca attagacaca tccacatgat ttatcactat
+     8401 tacaacaata ctccctacac tatatcttat tacacaacta aaactgctag acatatgtta
+     8461 ctatcaatcc ccccaacaaa aaaactctra caagcaaacc cccaataacc actgacaact
+     8521 aaaatgaacg aaaatttatt taccttattc gcaactccaa taatcctaaa ccaacctgct
+     8581 acaatcccca tcatcatatt ccccgtacta ctaattccaa cttccaaaca cctcattaac
+     8641 aaccgactaa ccactattca acgtaaccta gtactactcg ctctaaagca aataataata
+     8701 acccacaatg ctaaggggcg aacctggtcc ctaatactaa tgtctctaat cacctttatc
+     8761 accacaacta atctcctagg acttctaccc cactcattta cacctaccac cccaactatc
+     8821 tataaacctc gctatagcaa tcccttatga gccgcaacag caatcacagg ccttcgcttt
+     8881 aaaaccaaaa actccctagc tcacctccta ccacaaggca caccaacatt actcattccc
+     8941 atactagtaa taatcgaaac cattagcttg attattcaac cagtggccct agctgtacgc
+     9001 ttaactgcca acatcacggc cggccacctg ctaatacacc taatcggaaa cactgcacta
+     9061 acactactaa gtatcagccc ccccgctgct ttactaacct ttacacttct aatactactc
+     9121 accatcctag agatcgcagt tgctttaatc caagcctatg ttttcacact tctagttagc
+     9181 ctctatttac acaacaacac ctaatgaccc accaattcca tgcttatcac atagtcaaac
+     9241 ccagcccttg accactaaca ggagctctgt caaccctcct aataacatcc ggcttagtca
+     9301 tgtgattcca cttctattct accactctat tgacactagg cctactaacc ataacactaa
+     9361 cccttcacca atgatgacgc gatgtcgtac gagaaagcac ctatcaagga catcacacga
+     9421 cacccgttca aaaaaacctt cgctatggca tagtcctatt cattatctcg gaaatcttct
+     9481 tctttaccgg gttcttctga gcattctacc actcaagcct agccccaacc ccctatttag
+     9541 gaggccactg accaccaaca ggtattaccc cattagatcc cttagaagta ccccttctaa
+     9601 acacctccgt attattagca tcaggagtca caattacctg agctcaccac agccttataa
+     9661 acaacaatcg aaaacaaaca acccaagccc tactcattac aattctacta ggcatctact
+     9721 tcaccctact acagatctca gagtactttg aagcaccctt caccatctcc gacggcatct
+     9781 atggctcaac attctttatc gctacgggct tccatggact ccacgtcatc attggatcca
+     9841 ctttcctcct tatctgcctc attcgccaac tattattcca cttcacacca aatcaccact
+     9901 tcggctttga ggctgccact tgatattgac acttcgtaga cgtcgtatga ttactccttt
+     9961 atatctctat ttactgatga ggatcctact cttttagtat gaccagtaca attgacttcc
+    10021 aatcaattag ctttgacaat gttcaaaaag gagtaatcaa cctagtacta gccctaacaa
+    10081 tcaacaccct tttaacctca ctactaataa ctgccatatt ctgattaccc caacttaact
+    10141 cctatgcaga aaaaacaaac ccttatgagt gcggctttga cccactaaac cccgctcgca
+    10201 tcccattttc aataaaattc ttcctagttg cattacctct actattcgac ttagaaatcg
+    10261 ccctactatg tccctacatg ggctctccaa acaacaacct cccaataata attaaatcat
+    10321 ccatcacact catcatcatc ctaaccctca gtctagccta cgaatgatcc caaaaaggac
+    10381 tagattgagc cgaattggta agtagtttaa acaaaacaaa tgatttcgac tcmttaaatt
+    10441 atgattatca tactaaccaa atgtcaccta tcttcatgaa tattacacta gcattcacca
+    10501 tctcactcct gggaatgctg gtctatcgct cacacctgat agcctccctc ctctgcctag
+    10561 aaggaataat aatatcactc ttcatcataa tcgctctcat agcctcaaat gcacactccc
+    10621 ccctaaccaa tatcataccg atcatcctac tagtatttgc tgcttgcgaa acagcagtag
+    10681 gccttgccct actagtctca atctccaata catatggtct agattacatt cacaacttaa
+    10741 acctgcttca atgttaaaaa taattgtccc aacaactata ttactaccaa taacatgatt
+    10801 ctctacaaac aacataatct gaattaactt aactacacat agcctaatca ttagccttat
+    10861 tcccttgtta ttttttaatc aaaccaayaa caacctcctt aatcactcaa cctacctatc
+    10921 ctccgaccca ctaacaacac ctcttttaac actaaccgct tgactcctac ctctcatgat
+    10981 gatagctagc caataccacc tatgcaatca gcccccctca caaaaaaaac tctacctatc
+    11041 cacaataatt ttccttcaaa tcaccctaat tctaacattc atagccacag aattgatctt
+    11101 attctatatc ttatttgaaa ccacccttat tcccacccta atcatcatca ctaaatgagg
+    11161 tacccaagca gaacgcctca acgcaagcac atactttcta ttctatacac taactggctc
+    11221 tctacccctg ctcatcatat taacctacac ctacaataac acaggctcat taaatatcat
+    11281 actactaaca ctcacagacc aaaaactaac aaccacttga tcacacaacc tcatctgact
+    11341 ggcatgcata atggctttca taacaaaaat acccttatat ggcttacacc tgtgactccc
+    11401 caaagcccat gttgaagctc ctatcgcagg ctcaatagtc ctcgccgcag tactcctaaa
+    11461 actaggcggc tatggcataa tacgactcac ctctattctc aaccctctaa cagagtacat
+    11521 agcctacccc ttcctcatgc tagccctatg aggcataatt ataacaagct caatctgtct
+    11581 acgacaaaca gacctaaaat cactcatcgc atactcttct gtaagccata tatccctagt
+    11641 aatcatagcc tctctcattc aaaccccctg aagcttttcc ggcgcaatca ccctcataat
+    11701 tgcccacgga cttacttcct ctatattatt ctgcctagct aattcaaact atgaacgcac
+    11761 tcacagccgc attatgatac tctcccgagg acttcaaaca ctacttccac taataacctt
+    11821 ctgatggttc acagcaaacc tcaccaacct agccttaccc cccaccatta atctaatcgg
+    11881 agaactcttc gtgattacag cctcattctc ttgatcccac atcactatta tactaacagg
+    11941 acttaacata ctaatcacag ccctctactc tctccacata ttcattacaa tacaacgagg
+    12001 aaaactcaca caccacataa tcaacataaa accccctttc acacgagaaa awacactaat
+    12061 attcatacac ctcaccccaa ttatccttct atcccttaac cccaacatca ttctagggtt
+    12121 tacctcctgt aaatatagtt taaccaaaac actagactgt gaatctgacc atagaagctc
+    12181 accacttctt atttaccgag aaaactcgca aggactgcta acccatgccc ccatacttaa
+    12241 cactatggtt ttctcaactt ttaaaggata acagctatcc attggtttta ggaaccaaaa
+    12301 atattggtgc aactccaaat aaaagtaata accatgcaca cctccattat aatagcaacc
+    12361 ctcgcctccc taaccccccc aatcattgcc acctttatca accccaacaa aaaacaatca
+    12421 tacccaaacc atgtaaaaac aactataata tatgctttca ttaccagcct tattccaaca
+    12481 accctataca tctccctaaa ccaagaaaca accatttgaa gctgacactg aataataact
+    12541 caaacactaa atctaacact aagctttaaa ctagactact tctccgtaat attcacccca
+    12601 atcgcactat tcatcacctg gtctattata gaattctcac tatgatacat aagctcagac
+    12661 ccaaacatca accaattctt caaatatctc cttattttcc tcatcacaat actaatcttg
+    12721 accaccgcta acaacctttt tcaactcttc atcggctggg agggcatagg aatcatatct
+    12781 ttcttattaa tcggctgatg atattctcga acggacgcca acacagcagc aatccaagca
+    12841 atcctgtaca atcgcattgg cgatattggc ctcatcctag ctatagcata tttcctccta
+    12901 cactacaact catgagacat acaacaaata ctaactctaa acccacccaa actccctcca
+    12961 ctaataggcc ttctcctagc agcaatagga aaatcagctc aacttggcct tcatccttga
+    13021 ctaccctccg ccatagaagg cccaactcca gtctcagccc tactacactc tagtaccatg
+    13081 gttgttgccg gggtgtactt actcattcgc ttccaccctt taatagaaag caacacacta
+    13141 cttcaaagcc tcacactatg tctgggagct atcaccacca tatttatagc catctgcgcc
+    13201 ctcacacaaa acgacatcaa aaaaatcgta gccttctcca cctcaagcca actaggccta
+    13261 ataatagtta ccatcggcat caatcaacca tatttagcat tcctgcatat ctgtactcac
+    13321 gccttcttca aagccctact tttcatatgc tccggatcca tcattcataa cctaaataac
+    13381 gaacaagaca tccgaaaaat aggaggccta ttcaaaacaa tacccctcac ctcaacttcc
+    13441 ctactcatcg gcaacctagc actcacagga ataccattcc tcacaggctt ctactccaaa
+    13501 gatctcatta tcgaagccac aaacacgtca tataccaacg cctgagccct atctatcacc
+    13561 ttcatcgcca cctctctaac aagcgcctat agtactcgaa tcattctcct caccataaca
+    13621 gggccacctc gcttttcaac cctaataaac attaacgaaa ataaccccac cctacttaac
+    13681 ccaattaaac gcctcacaat gggcagcatt attactggat tccttatcac caacaacatc
+    13741 ccccccactt cgcttcccca accaacaata cctcactact taaaactctc agccctgtat
+    13801 gcaactatcc ttggtttcct aataacccta gacctgacct ctataaccaa caaactaaaa
+    13861 ataaacaacc catcacaaat atttaaattc tccaacatac taggatattt tcccactaca
+    13921 attcaccgca tagtcccata tcaaaaccta ctcataagcc aaaacctagc ccttcttcta
+    13981 ctagattcaa tatgactaga aaaatctata cccaagatga tcgcacatgt acataccacc
+    14041 gcttccaaaa ctgtcaccac ccaaaaaggc ataattaagc tatactccct ctcctttctc
+    14101 atccccctca ccctaaccct acttctaata atataaccta ttaccccgag tgatctcaat
+    14161 tacaatatat acacccacaa ataatgtcca accagcaacc actactaacc aacgcccata
+    14221 atcgtacaaa gcaccagcac caatagaatc cccccgaact aaccctgacc cctctccctc
+    14281 aaaaatcacc caactcccca tactattaaa actaactacc actaccccat cagaacttga
+    14341 aacccataga actaacccta cttctattat taaacccacc aaaagacccc ctaaaacccc
+    14401 aaaccctgaa ccccatgtct cagggtactc ctcaatagct atcgctgtag tataaccaaa
+    14461 aacaattatt atacccccca aataaattaa aaacaacatc agacctatat aagtcccccc
+    14521 aaaacctaaa actaccatac aaccaaccac accactaaca atcaatgcta gccccccata
+    14581 aataggagag ggcttagaag aaaatccaac aaatcccata accaacaata cactcaacgc
+    14641 aaataaaata tatgtcattg ctcttgcatg gactacagcc ataaccaatg atatgaaaaa
+    14701 ccaccgttgt acttcaacta caaaagcact aatgacccca atacgtaaat ccaacccaat
+    14761 tataaaaata attaaccact ccctcattga cctgccaacc ccatccaaca tttccatatg
+    14821 atgaaacttc ggctcactcc tcgcattctg cctaattcta cagatcatca caggcctatt
+    14881 cttagcaata cattactcac cagacacctc ttctgccttc tcttcaatcg cacacatcac
+    14941 ccgagacgta aaccacggct gaatcattcg ctacctccat gccaacggcg cctccatatt
+    15001 tttcatctgc ctctttctac acgtaggccg aggtctttac tatggctcat tccttctcct
+    15061 aaaaacctgg aacactggca ttatacttct attcttgact atagcaacag cctttatagg
+    15121 ctacgtactt ccatgaggcc aaatatcatt ctgaggggca acagtgatca caaacctatt
+    15181 atcagcaatc ccatacatcg ggaccgacct cgtccaatga atctgaggtg ggtactccat
+    15241 tggcaacccc accctttcac gattcttcac cctacacttt attctacctt tcattatcac
+    15301 cgctcttaca atagtccatc tgctattcct acacgaaaca ggatcaaaca acccctgcgg
+    15361 aatctcatca gactcagaca aaatcccctt ccacccctac tacacaatta aggatatcct
+    15421 aggcctagtc ctcctcctct tcatcctaac aacactaaca ctactctcac ccaacctcct
+    15481 aaacgaccca gacaactaca tcccagccga cccactaaat acccctccac acatcaaacc
+    15541 agagtgatac ttcctatttg catacgcaat tctacgatct gttcctaata aactaggggg
+    15601 cgtactagca ctcttccttt caatcctcat cctatctatt atccccacac ttcataattc
+    15661 caaacaacaa agcataatat tccgcccact tagccaattc ctgttctgat tcctaattac
+    15721 aaccctatta accctcacct ggatcggaag tcagccagta agccaaccct tcatttttat
+    15781 tggtcaacta gcatccacaa tatacttcac cacagttcta atcctgatac cactaacctc
+    15841 cctaatcgaa aataacctac tcaaatgaac ttgcccttgt agtataaact aatacactag
+    15901 tcttgtaaac tagagatgag actcataacc cctaggacag ctcagaaaga aagcactcga
+    15961 cttcaccacc aacacccaaa actggcattc tagcttaaac tactttctgt cttttatatt
+    16021 gtacaaaccc tacagtacaa ctcaagcacc tttacataaa tatgctatgt aattcgtgca
+    16081 ttactgctag ccaacatgaa taatatatag tactatatct gcgttaactg tacataacac
+    16141 atactatcat atccgcaccc acagcctcca aaaagcatac ccaccaaaca gagatctcac
+    16201 atacaaccca accacgaaac accataaccc gcccactcca cccacaacac accaacacag
+    16261 acagcaagac cgtcctccgt acataataca ttaccttatt tgtcgtacat agtacatacc
+    16321 tactacaaac cttcctcccc accacggatg acccccctca cttagaactc tcttactcac
+    16381 catcctccgt gaaatcaata tcccgcacaa gcagtgttac cctcctcgct ccgggcccac
+    16441 gacccgtggg ggtagctaag aaatgagctg tatccggcat ctggttctta cctcagggcc
+    16501 atgccaacta aaaccgtcca cacgttcctc ttaaataaga catctcgatg
+//
+

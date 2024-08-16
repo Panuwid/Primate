@@ -1,0 +1,252 @@
+LOCUS       JF444300                 657 bp    DNA     linear   PRI 30-JAN-2012
+DEFINITION  Erythrocebus patas voucher ROM:114257 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   JF444300
+VERSION     JF444300.1
+KEYWORDS    .
+SOURCE      mitochondrion Erythrocebus patas (red guenon)
+  ORGANISM  Erythrocebus patas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Erythrocebus.
+REFERENCE   1  (bases 1 to 657)
+  AUTHORS   Eger,J.L., Lim,B.K., Engstrom,M.D. and Borisenko,A.V.
+  TITLE     ROM Mammals - tissue collection
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 657)
+  AUTHORS   Eger,J.L., Lim,B.K., Engstrom,M.D. and Borisenko,A.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAR-2011) Biodiversity Institute of Ontario,
+            University of Guelph, 50 Stone Road East, Guelph, Ontario N1G2W1,
+            Canada
+FEATURES             Location/Qualifiers
+     source          1..657
+                     /organism="Erythrocebus patas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ROM:114257"
+                     /db_xref="taxon:9538"
+                     /collection_date="14-Nov-1998"
+                     /collected_by="Metro Toronto Zoo"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaaagacattgg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccaaagaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaargayatygg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccraaraayca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagtattcaaccaatcataaagatattgg, rev_seq:
+                     caggaaacagctatgactaaacttctggatgtccaaaaaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>657
+                     /gene="COI"
+     CDS             <1..>657
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AEA75557.1"
+                     /translation="TLYLLFGAWAGIMGAALSLLIRVELGQPGSLLGNDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 actctatacc tactattcgg cgcatgagct gggatcatag gtgctgccct aagccttctt
+       61 attcgagttg aactaggcca acccggtagt ttattaggca atgaccatat ttacaacgtt
+      121 atcgtaacgg cccatgcatt cattataatt ttcttcatag ttatgcccat tataatcggg
+      181 ggatttggaa actgactagt acccctaata attggtgctc ccgatatagc atttcctcgt
+      241 ctaaataata taagcttctg gcttcttccc ccctccttct tgctactgat agcatcgacc
+      301 gtagtggaag ccggtgctgg gacaggttga acagtatatc cccccttagc aggaaaccta
+      361 tctcacccag gagcctccgt agacttagtt attttctccc ttcacctagc aggaatttcc
+      421 tctattctag gggctatcaa cttcattact actatcatca atatgaaacc tcccgctata
+      481 tcccaatatc agaccccctt attcgtctga tctatcctaa ttacagcaat cctactactc
+      541 ctttctctac cagttttagc cgctggcatc accatattat taacagaccg caaccttaac
+      601 actactttct ttgaccctac tggaggggga gaccccatcc tatatcaaca cctattc
+//
+
+LOCUS       LC144609                 658 bp    DNA     linear   PRI 06-APR-2016
+DEFINITION  Erythrocebus patas mitochondrial COI gene for cytochrome oxidase
+            subunit I, partial cds, specimen_voucher: SDNCU:SDNCU-A2684.
+ACCESSION   LC144609
+VERSION     LC144609.1
+KEYWORDS    .
+SOURCE      mitochondrion Erythrocebus patas (red guenon)
+  ORGANISM  Erythrocebus patas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Erythrocebus.
+REFERENCE   1
+  AUTHORS   Suzuki-Matsubara,M., Murase,Y. and Moriyama,A.
+  TITLE     Higashiyama Zoo DNA Barcode Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Suzuki-Matsubara,M. and Moriyama,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-APR-2016) Contact:Mieko Suzuki-Matsubara Nagoya City
+            University, Graduate School of Natural Sciences; 1 Yamanohata,
+            Mizuho-cho, Mizuho-ku, Nagoya, Aichi 467-8501, Japan
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Erythrocebus patas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SDNCU:SDNCU-A2684"
+                     /db_xref="taxon:9538"
+                     /country="Japan: Aichi, Higashiyama Zoo"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="BAU79423.1"
+                     /translation="TLYLLFGAWAGVMGAALSLLIRVELGQPGSLLGNDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPTM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctatac ctactattcg gcgcatgagc tggggtcata ggtgctgccc taagccttct
+       61 tattcgagtt gaactaggcc aacccggtag tttattaggc aatgaccata tttacaacgt
+      121 tatcgtaacg gcccatgcat tcattataat tttcttcata gttatgccca ttataatcgg
+      181 agggtttgga aactgactag tacccctaat aattggtgct cccgatatgg catttcctcg
+      241 tctaaataat ataagcttct ggcttcttcc cccctccttc ttgctactga tagcatcaac
+      301 cgtagtggaa gccggtgctg ggacaggttg aacggtatat cctcccttag caggaaacct
+      361 atctcaccca ggagcctccg tagacttagt tattttctcc cttcatctag caggaatttc
+      421 ctctattcta ggggctatca acttcattac taccatcatc aatatgaaac ctcccactat
+      481 atcccaatat cagaccccct tgttcgtctg atctatccta attacagcga tcctactact
+      541 cctttctcta ccagttttag ccgctggcat cactatatta ttaacagacc gcaaccttaa
+      601 cactactttc tttgacccta ctggaggggg agaccccatc ctatatcaac acctattc
+//
+
+LOCUS       KJ192794                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Erythrocebus patas isolate EpatT1273 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192794
+VERSION     KJ192794.1
+KEYWORDS    .
+SOURCE      mitochondrion Erythrocebus patas (red guenon)
+  ORGANISM  Erythrocebus patas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Erythrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Erythrocebus patas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="EpatT1273"
+                     /db_xref="taxon:9538"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15226.1"
+                     /translation="TLYLLFGTWAGIMGTALSLLIRVELGQPGSLLGSDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctatac ctactattcg gcacatgggc tggaatcata ggtactgccc taagccttct
+       61 tattcgagtt gaactaggcc aacccggtag tttattaggc agcgaccata tctacaacgt
+      121 tatcgtaacg gcccatgcat tcgttataat cttcttcata gttataccca tcataatcgg
+      181 aggatttgga aactgactag tccccctaat aattggtgcc cccgatatag cattccctcg
+      241 tctaaataat ataagcttct ggcttcttcc cccctccttc ttgctactga tagcatcaac
+      301 catagtggaa gctggtgctg ggacaggttg aacagtatac ccccccttag caggaaacct
+      361 atctcaccca ggagcctccg tagacttagt tattttctcc cttcatctag caggaatttc
+      421 ctctattcta ggggctatca acttcattac taccatcatt aatatgaaac cccccgctat
+      481 atcccaatat cagacccccc tgttcgtctg atctattcta attacggcga ttctactact
+      541 cctctctcta ccagtcttgg ccgctggcat cactatatta ttaacagacc gcaaccttaa
+      601 cactactttc tttgacccta ctggaggggg agaccccatc ctatatcaac acctattc
+//
+
+LOCUS       KJ192793                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Erythrocebus patas isolate EpatT1266 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192793
+VERSION     KJ192793.1
+KEYWORDS    .
+SOURCE      mitochondrion Erythrocebus patas (red guenon)
+  ORGANISM  Erythrocebus patas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Erythrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Erythrocebus patas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="EpatT1266"
+                     /db_xref="taxon:9538"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15225.1"
+                     /translation="TLYLLFGTWAGIMGTALSLLIRVELGQPGSLLGSDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctatac ctactattcg gcacatgggc tggaatcata ggtactgccc taagccttct
+       61 tattcgagtt gaactaggcc aacccggtag tttattaggc agcgaccata tctacaacgt
+      121 tatcgtaacg gcccatgcat tcgttataat cttcttcata gttataccca tcataatcgg
+      181 aggatttgga aactgactag tccccctaat aattggtgcc cccgatatag cattccctcg
+      241 tctaaataat ataagcttct ggcttcttcc cccctccttc ttgctactga tagcatcaac
+      301 catagtggaa gctggtgctg ggacaggttg aacagtatac ccccccttag caggaaacct
+      361 atctcaccca ggagcctccg tagacttagt tattttctcc cttcatctag caggaatttc
+      421 ctctattcta ggggctatca acttcattac taccatcatt aatatgaaac cccccgctat
+      481 atcccaatat cagacccccc tgttcgtctg atctattcta attacggcga ttctactact
+      541 cctctctcta ccagtcttgg ccgctggcat cactatatta ttaacagacc gcaaccttaa
+      601 cactactttc tttgacccta ctggaggggg agaccccatc ctatatcaac acctattc
+//
+

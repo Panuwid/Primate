@@ -1,0 +1,495 @@
+LOCUS       MH101708                 642 bp    DNA     linear   PRI 21-NOV-2018
+DEFINITION  Cheracebus lucifer voucher CTGAM703 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MH101708
+VERSION     MH101708.1
+KEYWORDS    .
+SOURCE      mitochondrion Cheracebus lucifer
+  ORGANISM  Cheracebus lucifer
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Cheracebus.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Byrne,H., Lynch Alfaro,J.W., Sampaio,I., Farias,I., Schneider,H.,
+            Hrbek,T. and Boubli,J.P.
+  TITLE     Titi monkey biogeography: Parallel Pleistocene spread by
+            Plecturocebus and Cheracebus into a post-Pebas Western Amazon
+  JOURNAL   Zool. Scr. 47 (5), 499-517 (2018)
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-MAR-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Cheracebus lucifer"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CTGAM703"
+                     /db_xref="taxon:2487712"
+     gene            <1..>642
+                     /gene="COI"
+     CDS             <1..>642
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AYV99850.1"
+                     /translation="GAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGT
+                     GWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTP
+                     LFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 ggagcatggg cgggagcagt tggaactgcc ctaagccttt taattcgagc agaactagga
+       61 caacctggaa gtctaataga agatgaccat gtttataacg ttattgttac ctcccacgca
+      121 tttattataa tcttcttcat agtaatgcca attataattg ggggcttcgg aaactgactt
+      181 gtccccctta taattggtgc acctgatata gcatttcctc gaataaacaa tataagcttc
+      241 tgactcctcc ccccatcact tctattacta cttgcatctt caaccctaga ggccggcgca
+      301 ggaactggtt gaacagtata tccaccccta gctggaaaca tatcccaccc aggagcctca
+      361 gttgacctaa ctattttctc attacaccta gcaggcgtct cctctatcct aggcgctatc
+      421 aattttatta ctacaattat caatataaaa cctccagcta taacccaata tcaaacccct
+      481 ctctttgtct gatccgttct aatcacagca gtacttcttc ttctatcact cccagttcta
+      541 gctgctggaa ttactatact actaacagac cgtaacctta acactacttt ttttgatcct
+      601 gctggcgggg gtgacccaat tctataccag catttatttt ga
+//
+
+LOCUS       KU694209                 645 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Cheracebus purinus voucher CTGAM209 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694209
+VERSION     KU694209.1
+KEYWORDS    .
+SOURCE      mitochondrion Cheracebus purinus (Rio Purus titi)
+  ORGANISM  Cheracebus purinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Cheracebus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cheracebus purinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CTGAM209"
+                     /db_xref="taxon:1560619"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45716.1"
+                     /translation="FGAWAGAIGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIM
+                     IFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAG
+                     TGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQT
+                     PLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 tttggagcat gggcaggagc aattggaact gccctaagcc ttttaattcg agcagaacta
+       61 ggacaacctg gaagtctaat agaagacgac catgtttata acgttattgt tacctcccac
+      121 gcatttatta taatcttctt catagtaata ccaattataa ttgggggctt cggaaactga
+      181 cttatccccc ttataattgg tgcacccgat atagcatttc ctcgaataaa taatataagc
+      241 ttctgactcc ttcccccatc actcctatta ctacttgcat cttcaaccct agaggccggc
+      301 gcaggaactg gttgaacagt atatccaccc ctagctggaa acatatccca cccaggagcc
+      361 tcagttgacc taactatctt ctcattacac ctagcaggcg tctcctctat cctaggtgct
+      421 atcaatttta ttactactat tatcaacatg aaacccccag ctataaccca atatcaaacc
+      481 cctctttttg tctgatccgt tctaatcaca gcagtactac ttcttctatc actcccagtt
+      541 ctagccgctg gaattactat actattaaca gaccgtaacc ttaacactac tttttttgat
+      601 cctgctggtg ggggtgaccc aattctatac caacatttat tttga
+//
+
+LOCUS       KU694208                 636 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Cheracebus purinus voucher CTGAM195 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694208
+VERSION     KU694208.1
+KEYWORDS    .
+SOURCE      mitochondrion Cheracebus purinus (Rio Purus titi)
+  ORGANISM  Cheracebus purinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Cheracebus.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /organism="Cheracebus purinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CTGAM195"
+                     /db_xref="taxon:1560619"
+     gene            <1..>636
+                     /gene="COI"
+     CDS             <1..>636
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45715.1"
+                     /translation="WAGAIGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIMIFF
+                     MVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGW
+                     TVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLF
+                     VWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 tgggcaggag caattggaac tgccctaagc cttttaattc gagcagaact aggacaacct
+       61 ggaagtctaa tagaagacga ccatgtttat aacgttattg ttacctccca cgcatttatt
+      121 ataatcttct tcatagtaat accaattata attgggggct tcggaaactg acttatcccc
+      181 cttataattg gtgcacccga tatagcattt cctcgaataa ataatataag cttctgactc
+      241 cttcccccat cactcctatt actacttgca tcttcaaccc tagaggccgg cgcaggaact
+      301 ggttgaacag tatatccacc cctagctgga aacatatccc acccaggagc ctcagttgac
+      361 ctaactatct tctcattaca cctagcaggc gtctcctcta tcctaggtgc tatcaatttt
+      421 attactacta ttatcaacat gaaaccccca gctataaccc aatatcaaac ccctcttttt
+      481 gtctgatccg ttctaatcac agcagtacta cttcttctat cactcccagt tctagccgct
+      541 ggaattacta tactattaac agaccgtaac cttaacacta ctttttttga tcctgctggt
+      601 gggggtgacc caattctata ccaacattta ttttga
+//
+
+LOCUS       KU694207                 645 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Cheracebus purinus voucher CTGAM154 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694207
+VERSION     KU694207.1
+KEYWORDS    .
+SOURCE      mitochondrion Cheracebus purinus (Rio Purus titi)
+  ORGANISM  Cheracebus purinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Cheracebus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cheracebus purinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CTGAM154"
+                     /db_xref="taxon:1560619"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45714.1"
+                     /translation="FGAWAGAIGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIM
+                     IFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAG
+                     TGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQT
+                     PLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 tttggagcat gggcaggagc aattggaact gccctaagcc ttttaattcg agcagaacta
+       61 ggacaacctg gaagtctaat agaagacgac catgtttata acgttattgt tacctcccac
+      121 gcatttatta taatcttctt catagtaata ccaattataa ttgggggctt cggaaactga
+      181 cttatccccc ttataattgg tgcacccgat atagcatttc ctcgaataaa taatataagc
+      241 ttctgactcc ttcccccatc actcctatta ctacttgcat cttcaaccct agaggccggc
+      301 gcaggaactg gttgaacagt atatccaccc ctagctggaa acatatccca cccaggagcc
+      361 tcagttgacc taactatctt ctcattacac ctagcaggcg tctcctctat cctaggtgct
+      421 atcaatttta ttactactat tatcaacatg aaacccccag ctataaccca atatcaaacc
+      481 cctctttttg tctgatccgt tctaatcaca gcagtactac ttcttctatc actcccagtt
+      541 ctagccgctg gaattactat actattaaca gaccgtaacc ttaacactac tttttttgat
+      601 cctgctggtg ggggtgaccc aattctatac caacatttat tttga
+//
+
+LOCUS       KU694206                 645 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Cheracebus lugens voucher JPB136 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694206
+VERSION     KU694206.1
+KEYWORDS    .
+SOURCE      mitochondrion Cheracebus lugens (black titi)
+  ORGANISM  Cheracebus lugens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Cheracebus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Cheracebus lugens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="JPB136"
+                     /db_xref="taxon:210166"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45713.1"
+                     /translation="FGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAG
+                     TGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQYQT
+                     PLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 tttggagcat gagcaggagc agttggaact gccctaagcc ttttaattcg agcagaacta
+       61 ggacaacctg gaagtctaat agaagatgac catgtttata acgttatcgt tacctcccac
+      121 gcatttatta taatcttctt tatagtaatg ccaattataa ttgggggctt cggaaactga
+      181 cttgtccccc ttataattgg tgcgcctgat atagcatttc ctcgaataaa caatataagc
+      241 ttctgactcc ttcccccatc actcctgtta ctgcttgcat cttcaaccct agaggccggc
+      301 gcaggaactg gctgaacagt atatccaccc ctagctggaa acatatccca cccaggagcc
+      361 tcagttgacc taactatttt ctcattacat ctagcaggca tctcctctat cctaggtgct
+      421 atcaatttta ttactacaat tatcaatata aaacccccag ctataaccca atatcaaacc
+      481 cctctattcg tctgatccgt tctaatcaca gcagtacttc ttcttctatc gctcccagtt
+      541 ctagctgctg gaattactat actattaaca gaccgtaacc ttaacactac tttttttgat
+      601 cccgctggcg gaggtgaccc aattctatac caacatttat tttga
+//
+
+LOCUS       KU694205                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Cheracebus lugens voucher JPB124 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694205
+VERSION     KU694205.1
+KEYWORDS    .
+SOURCE      mitochondrion Cheracebus lugens (black titi)
+  ORGANISM  Cheracebus lugens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Cheracebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Cheracebus lugens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="JPB124"
+                     /db_xref="taxon:210166"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45712.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactgtacc tactatttgg agcatgagca ggagcagttg gaactgccct aagcctttta
+       61 attcgagcag aactaggaca acctggaagt ctaatagaag atgaccatgt ttataacgtt
+      121 atcgttacct cccacgcatt tattataatc ttctttatag taatgccaat tataattggg
+      181 ggcttcggaa actgacttgt cccccttata attggtgcgc ctgatatagc atttcctcga
+      241 ataaacaata taagcttctg actccttccc ccatcactcc tgttactgct tgcatcttca
+      301 accctagagg ccggcgcagg aactggctga acagtatatc cacccctagc tggaaacata
+      361 tcccacccag gagcctcagt tgacctaact attttctcat tacatctagc aggcatctcc
+      421 tctatcctag gtgctatcaa ttttattact acaattatca atataaaacc cccagctata
+      481 acccaatatc aaacccctct attcgtctga tccgttctaa tcacagcagt acttcttctt
+      541 ctatcgctcc cagttctagc tgctggaatt actatactat taacagaccg taaccttaac
+      601 actacttttt ttgatcccgc tggcggaggt gacccaattc tataccaaca tttattttga
+//
+
+LOCUS       KU694204                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Cheracebus lugens voucher JPB119 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694204
+VERSION     KU694204.1
+KEYWORDS    .
+SOURCE      mitochondrion Cheracebus lugens (black titi)
+  ORGANISM  Cheracebus lugens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Cheracebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Cheracebus lugens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="JPB119"
+                     /db_xref="taxon:210166"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45711.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactgtacc tactatttgg agcatgagca ggagcagttg gaactgccct aagcctttta
+       61 attcgagcag aactaggaca acctggaagt ctaatagaag atgaccatgt ttataacgtt
+      121 atcgttacct cccacgcatt cattataatc ttctttatag taatgccaat tataattggg
+      181 ggcttcggaa actgacttgt cccccttata attggtgcgc ctgatatagc atttcctcga
+      241 ataaacaata taagcttctg actccttccc ccatcactcc tgttactgct tgcatcttca
+      301 accctagagg ccggcgcagg aactggctga acagtatatc cacccctagc tggaaacata
+      361 tcccacccag gagcctcagt tgacctaact attttctcat tacatctagc aggcatctcc
+      421 tctatcctag gtgctatcaa ttttattact acaattatca atataaaacc cccagctata
+      481 acccaatatc aaacccctct attcgtctga tccgttctaa tcacagcagt acttcttctt
+      541 ctatcgctcc cagttctagc tgctggaatt actatactat taacagaccg taaccttaac
+      601 actacttttt ttgatcccgc tggcggaggt gacccaattc tataccaaca tttattttga
+//
+
+LOCUS       KU694203                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Cheracebus lugens voucher JPB81 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694203
+VERSION     KU694203.1
+KEYWORDS    .
+SOURCE      mitochondrion Cheracebus lugens (black titi)
+  ORGANISM  Cheracebus lugens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Cheracebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Cheracebus lugens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="JPB81"
+                     /db_xref="taxon:210166"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45710.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactgtacc tactatttgg agcatgagca ggagcagttg gaactgccct aagcctttta
+       61 attcgagcag aactaggaca acctggaagt ctaatagaag atgaccatgt ttataacgtt
+      121 attgttacct cccacgcatt tattataatc ttctttatag taatgccaat tataattggg
+      181 ggcttcggaa actgacttgt cccccttata attggtgcgc ctgatatagc atttcctcga
+      241 ataaataata taagcttctg actccttccc ccatcacttc tgttactact tgcatcttca
+      301 accctagagg ccggcgcagg aactggttga acagtatatc cacccctagc tggaaacata
+      361 tcccacccag gagcctcagt tgacctaact attttctcat tacatctagc aggcgtctcc
+      421 tctatcctag gtgctatcaa ttttattact acaattatca atataaaacc cccagctata
+      481 acccaatatc aaacccctct atttgtctga tccgttctaa tcacagcagt acttcttctt
+      541 ctatcactcc cagttctagc tgctggaatt actatactat taacagaccg taaccttaac
+      601 actacttttt ttgatcctgc tggcggaggt gacccaattc tataccaaca tttattttga
+//
+

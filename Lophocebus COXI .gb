@@ -1,0 +1,116 @@
+LOCUS       EU179514                 649 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Lophocebus albigena isolate PR00609 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU179514
+VERSION     EU179514.1
+KEYWORDS    .
+SOURCE      mitochondrion Lophocebus albigena (gray-cheeked mangabey)
+  ORGANISM  Lophocebus albigena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Lophocebus.
+REFERENCE   1  (bases 1 to 649)
+  AUTHORS   Lorenz,J.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-SEP-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..649
+                     /organism="Lophocebus albigena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00609"
+                     /db_xref="taxon:75567"
+                     /sex="male"
+     gene            <1..>649
+                     /gene="COXI"
+     CDS             <1..>649
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71935.1"
+                     /translation="LYLLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHTYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVE
+                     AGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMS
+                     QYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPILYQH"
+ORIGIN      
+        1 tttatatctg ctgtttggtg catgagccgg agttataggc atggccctaa gtcttcttat
+       61 tcgagctgaa ctgggccaac ccggtaacct gctaggcaat gaccacacct acaacgtcat
+      121 tgtaacggcc catgcattcg tcataatttt tttcatggtc atacctatta taattggggg
+      181 cttcggaaat tggttagtac ccctaataat cggcgctcct gacatagcat tcccccgttt
+      241 aaacaatata agcttctgac tcctcccccc ctctttctta ctactaatag catcaaccgt
+      301 agtagaggcc ggtgctggaa caggttgaac agtatacccc cctctgtcag gaaacttttc
+      361 tcacccagga gcttccgtag acctagtcat tttctctctt cacctagcag gcatttcctc
+      421 catcctagga gctatcaatt tcattaccac tattatcaac ataaaacccc ctgcaatatc
+      481 ccagtaccaa acccctctat ttgtctgatc aatcttaatt acagcaatcc tcctactcct
+      541 ctctctacca gtcctagccg ccggcatcac tatactatta acagatcgca acctcaacac
+      601 tactttcttt gaccctatcg gagggggaga ccctatccta taccaacac
+//
+
+LOCUS       AY972693                 636 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Lophocebus albigena isolate PR00616 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972693
+VERSION     AY972693.1
+KEYWORDS    .
+SOURCE      mitochondrion Lophocebus albigena (gray-cheeked mangabey)
+  ORGANISM  Lophocebus albigena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Lophocebus.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 636)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /organism="Lophocebus albigena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00616"
+                     /db_xref="taxon:75567"
+                     /sex="female"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>636
+                     /gene="COXI"
+     CDS             <1..>636
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22261.1"
+                     /translation="LLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHTYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAG
+                     AGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPILY"
+ORIGIN      
+        1 ctgctgtttg gtgcatgagc cggagttata ggcatggccc taagtcttct tattcgagct
+       61 gaactgggcc aacccggtaa cctgctaggc aatgaccaca cctacaacgt cattgtaacg
+      121 gcccatgcat tcgtcataat ttttttcatg gtcataccta ttataattgg gggcttcgga
+      181 aattggttag tacccctaat aatcggcgct cctgacatag cattcccccg tttaaacaat
+      241 ataagcttct gactcctccc cccctctttc ttactactaa tagcatcaac cgtagtagag
+      301 gccggtgctg gaacaggttg aacagtatac ccccctctgt caggaaactt ttctcaccca
+      361 ggagcttccg tagacctagt cattttctct cttcacctag caggcatttc ctccatccta
+      421 ggagctatca atttcattac cactattatc aacataaaac cccctgcaat atcccagtac
+      481 caaacccctc tatttgtctg atcaatctta attacagcaa tcctcctact cctctctcta
+      541 ccagtcctag ccgccggcat cactatacta ttaacagatc gcaacctcaa cactactttc
+      601 tttgacccta tcggaggggg agaccctatc ctatac
+//
+

@@ -1,0 +1,56 @@
+LOCUS       EF658650                 646 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Otolemur crassicaudatus isolate PR00611 cytochrome oxidase subunit
+            I (cox1) gene, partial cds; mitochondrial.
+ACCESSION   EF658650
+VERSION     EF658650.1
+KEYWORDS    .
+SOURCE      mitochondrion Otolemur crassicaudatus (thick-tailed bush baby)
+  ORGANISM  Otolemur crassicaudatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Otolemur.
+REFERENCE   1  (bases 1 to 646)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Mitochondrial cytochrome oxidase c subunit 1 (coxI) variation among
+            primates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 646)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2007) Molecular Biology Laboratory, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..646
+                     /organism="Otolemur crassicaudatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00611"
+                     /db_xref="taxon:9463"
+                     /sex="female"
+     gene            <1..>646
+                     /gene="cox1"
+     CDS             <1..>646
+                     /gene="cox1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABR68266.1"
+                     /translation="YLVFGAWAGMVGTALSLLIRAELGQPGTLLGDDQIYNVIVTAHA
+                     FVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEA
+                     GAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSQ
+                     YQTPLFVWSVIITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQH"
+ORIGIN      
+        1 gtacttagtt ttcggcgcct gggcaggaat agtaggaact gccctcagcc ttttaattcg
+       61 agcagaacta ggccaacctg gaaccctgct gggggatgat cagatctata atgtcatcgt
+      121 cacagcccac gcattcgtca taatcttctt tatagttatg ccaattataa ttggaggctt
+      181 cggaaactga ctagtcccgc taataatcgg tgcaccagat atggcatttc cacgaatgaa
+      241 taatataagc ttctgactgc ttccgccctc attcctcctc ctcctagcct cctcaatagt
+      301 cgaagccgga gccggaaccg gatggaccgt atacccccct ctagcaggca acttagccca
+      361 tgcaggagcc tccgtagacc taacaatttt ctcacttcat ctggcagggg tgtcctcaat
+      421 ccttggggct attaacttta ttacaactat tatcaacatg aaacccccag caatatccca
+      481 ataccaaacc cccttgtttg tctgatctgt gattatcaca gcagtcctgc tactcctgtc
+      541 cctacctgtt ttagcagcgg gaattaccat actcctcaca gaccgcaacc taaacacaac
+      601 tttctttgat cccgcgggag gaggagatcc aatcctttac caacac
+//
+

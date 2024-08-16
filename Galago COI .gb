@@ -1,0 +1,2110 @@
+LOCUS       KJ192820                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Galago senegalensis isolate GsenT1282 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192820
+VERSION     KJ192820.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago senegalensis (Senegal galago)
+  ORGANISM  Galago senegalensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Galago senegalensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="GsenT1282"
+                     /db_xref="taxon:9465"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15252.1"
+                     /translation="TLYLIFGAWAGMVGTALSLLIRAELGQPGTLLGDDQIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAM
+                     SQYQTPLFVWSVIITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 cactctgtat ttaatttttg gtgcttgagc aggaatagta ggaactgccc ttagcctatt
+       61 aattcgagca gaactaggtc aacctggcac tctactagga gatgatcaaa tttataatgt
+      121 cattgtcaca gcccacgcat tcgtcataat tttttttata gttataccta ttataattgg
+      181 aggcttcgga aactgactag taccattaat gattggcgcc ccagacatgg catttccccg
+      241 gataaacaac atgagtttct gactactccc gccatcattc ctcctccttc tagcctcttc
+      301 aatagtagaa gccggcgctg ggaccggatg aaccgtgtac cctcctctag caggcaactt
+      361 agcccacgca ggagcctcag tagatcttac aatcttctct cttcacctag caggagtatc
+      421 ctcaatccta ggggctatca actttattac aactactatt aacataaaac cccctgctat
+      481 atcccaatac caaactcctt tgtttgtttg atccgtaatc atcacagcgg tcttgctatt
+      541 gctatccctg cctgttctag cagcaggaat tactatactc cttacagacc gcaacttaaa
+      601 tacaactttc tttgaccctg ccggaggagg agatccaatc ctctatcaac atctattc
+//
+
+LOCUS       KJ543730                 264 bp    DNA     linear   PRI 25-MAY-2014
+DEFINITION  Galago moholi cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KJ543730
+VERSION     KJ543730.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 264)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     An endogenous lentivirus in the genome of the bushbaby Galago
+            moholi
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 264)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAR-2014) School of Veterinary Medicine and Science,
+            University of Nottingham, Sutton Bonington Campus, College Road,
+            Sutton Bonington, Loughborough, Leicestershire LE12 5RD, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..264
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:30609"
+     gene            <1..>264
+                     /gene="COI"
+     CDS             <1..>264
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHZ96697.1"
+                     /translation="IRAELGQPGTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGN
+                     WLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEAGAGT"
+ORIGIN      
+        1 attcgagcag aactaggtca acctggcact ctactaggag atgatcaaat ttataatgtc
+       61 attgtcacag cccacgcatt cgtcataatt ttttttatag ttatacctat tataattgga
+      121 ggcttcggaa actgactagt accattaatg attggcgccc cagacatggc atttccccgg
+      181 ataaacaaca tgagtttctg actactcccg ccatcattcc tccttcttct agcctcttca
+      241 atagtagaag ctggcgctgg gacc
+//
+
+LOCUS       MW300653                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU93_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300653
+VERSION     MW300653.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU93_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71453.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300652                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU92_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300652
+VERSION     MW300652.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU92_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71452.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300651                 353 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU91_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300651
+VERSION     MW300651.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 353)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 353)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..353
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU91_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>353
+                     /gene="COX1"
+     CDS             <1..>353
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71451.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttt
+//
+
+LOCUS       MW300650                 352 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU89_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300650
+VERSION     MW300650.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 352)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 352)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..352
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU89_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>352
+                     /gene="COX1"
+     CDS             <1..>352
+                     /gene="COX1"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71450.1"
+                     /translation="VMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLL
+                     ASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINM
+                     KPPAMSQYQTPLFV"
+ORIGIN      
+        1 tagttatacc tattataatt ggaggcttcg gaaactgact agtaccatta atgattggcg
+       61 ccccagacat ggcatttccc cggataaaca acatgagttt ctgactactc ccgccatcat
+      121 tcctccttct tctagcctct tcaatagtag aagctggcgc tgggaccgga tgaaccgtgt
+      181 accctcctct agcaggtaac ttagcccacg caggagcctc agtagatctt acaatcttct
+      241 ctcttcacct agcaggagta tcctcaatcc taggagctat caactttatt acaactatca
+      301 ttaacataaa accccctgct atatcccaat accaaactcc tttgtttgtt ta
+//
+
+LOCUS       MW300649                 352 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU87_COI_RP cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300649
+VERSION     MW300649.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 352)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 352)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..352
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU87_COI_RP"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>352
+                     /gene="COX1"
+     CDS             <1..>352
+                     /gene="COX1"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71449.1"
+                     /translation="VMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLL
+                     ASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINM
+                     KPPAMSQYQTPLFV"
+ORIGIN      
+        1 tagtaatacc tattataatt ggaggcttcg gaaactgact agtaccatta atgattggcg
+       61 ccccagacat ggcatttccc cggataaaca acatgagttt ctgactactc ccgccatcat
+      121 tcctccttct tctagcctct tcaatagtag aagctggcgc tgggaccgga tgaaccgtgt
+      181 accctcctct agcaggtaac ttagcccacg caggagcctc agtagacctt acaatcttct
+      241 ctcttcacct agcaggagta tcctcaatcc taggagctat caactttatt acaactatca
+      301 ttaacataaa accccctgct atatcccaat accaaactcc tttgtttgtt ta
+//
+
+LOCUS       MW300648                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU86_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300648
+VERSION     MW300648.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU86_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71448.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300647                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU84_COI_MK cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300647
+VERSION     MW300647.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU84_COI_MK"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71447.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300646                 352 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU82_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300646
+VERSION     MW300646.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 352)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 352)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..352
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU82_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>352
+                     /gene="COX1"
+     CDS             <1..>352
+                     /gene="COX1"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71446.1"
+                     /translation="VMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLL
+                     ASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINM
+                     KPPAMSQYQTPLFV"
+ORIGIN      
+        1 tagttatacc tattataatt ggaggcttcg gaaactgact agtaccatta atgattggcg
+       61 ccccagacat ggcatttccc cggataaaca acatgagttt ctgactactc ccgccatcat
+      121 tcctccttct tctagcctct tcaatagtag aagctggcgc tgggaccgga tgaaccgtgt
+      181 accctcctct agcaggtaac ttagcccacg caggagcctc agtagatctt acaatcttct
+      241 ctcttcacct agcaggagta tcctcaatcc taggagctat caactttatt acaactatca
+      301 ttaacataaa accccctgct atatcccaat accaaactcc tttgtttgtt ta
+//
+
+LOCUS       MW300645                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU81_COI_MK cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300645
+VERSION     MW300645.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU81_COI_MK"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71445.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300644                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU80_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300644
+VERSION     MW300644.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU80_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71444.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300643                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU77_COI_LJ cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300643
+VERSION     MW300643.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU77_COI_LJ"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71443.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300642                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU76_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300642
+VERSION     MW300642.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU76_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71442.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagtaata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagacc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300641                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU75_COI_MK cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300641
+VERSION     MW300641.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU75_COI_MK"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71441.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300640                 353 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU74_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300640
+VERSION     MW300640.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 353)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 353)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..353
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU74_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>353
+                     /gene="COX1"
+     CDS             <1..>353
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71440.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttt
+//
+
+LOCUS       MW300639                 353 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU73_COI_MK cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300639
+VERSION     MW300639.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 353)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 353)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..353
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU73_COI_MK"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>353
+                     /gene="COX1"
+     CDS             <1..>353
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71439.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttt
+//
+
+LOCUS       MW300638                 353 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU72_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300638
+VERSION     MW300638.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 353)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 353)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..353
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU72_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>353
+                     /gene="COX1"
+     CDS             <1..>353
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71438.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagtaata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagacc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttt
+//
+
+LOCUS       MW300637                 353 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU71_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300637
+VERSION     MW300637.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 353)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 353)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..353
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU71_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>353
+                     /gene="COX1"
+     CDS             <1..>353
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71437.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagtaata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagacc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttt
+//
+
+LOCUS       MW300636                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU70_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300636
+VERSION     MW300636.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU70_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71436.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300635                 352 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU69_COI_LJ cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300635
+VERSION     MW300635.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 352)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 352)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..352
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU69_COI_LJ"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>352
+                     /gene="COX1"
+     CDS             <1..>352
+                     /gene="COX1"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71435.1"
+                     /translation="VMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLL
+                     ASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINM
+                     KPPAMSQYQTPLFV"
+ORIGIN      
+        1 tagttatacc tattataatt ggaggcttcg gaaactgact agtaccatta atgattggcg
+       61 ccccagacat ggcatttccc cggataaaca acatgagttt ctgactactc ccgccatcat
+      121 tcctccttct tctagcctct tcaatagtag aagctggcgc tgggaccgga tgaaccgtgt
+      181 accctcctct agcaggtaac ttagcccacg caggagcctc agtagatctt acaatcttct
+      241 ctcttcacct agcaggagta tcctcaatcc taggagctat caactttatt acaactatca
+      301 ttaacataaa accccctgct atatcccaat accaaactcc tttgtttgtt ta
+//
+
+LOCUS       MW300634                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU68_COI_MK cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300634
+VERSION     MW300634.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU68_COI_MK"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71434.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300633                 352 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU67_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300633
+VERSION     MW300633.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 352)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 352)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..352
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU67_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>352
+                     /gene="COX1"
+     CDS             <1..>352
+                     /gene="COX1"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71433.1"
+                     /translation="VMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLL
+                     ASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINM
+                     KPPAMSQYQTPLFV"
+ORIGIN      
+        1 tagttatacc tattataatt ggaggcttcg gaaactgact agtaccatta atgattggcg
+       61 ccccagacat ggcatttccc cggataaaca acatgagttt ctgactactc ccgccatcat
+      121 tcctccttct tctagcctct tcaatagtag aagctggcgc tgggaccgga tgaaccgtgt
+      181 accctcctct agcaggtaac ttagcccacg caggagcctc agtagatctt acaatcttct
+      241 ctcttcacct agcaggagta tcctcaatcc taggagctat caactttatt acaactatca
+      301 ttaacataaa accccctgct atatcccaat accaaactcc tttgtttgtt ta
+//
+
+LOCUS       MW300632                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU66_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300632
+VERSION     MW300632.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU66_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71432.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagtaata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagacc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300631                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU65_COI_LJ cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300631
+VERSION     MW300631.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU65_COI_LJ"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71431.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300630                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU64_COI_MK cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300630
+VERSION     MW300630.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU64_COI_MK"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71430.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300629                 352 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU63_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300629
+VERSION     MW300629.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 352)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 352)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..352
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU63_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>352
+                     /gene="COX1"
+     CDS             <1..>352
+                     /gene="COX1"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71429.1"
+                     /translation="VMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLL
+                     ASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINM
+                     KPPAMSQYQTPLFV"
+ORIGIN      
+        1 tagtaatacc tattataatt ggaggcttcg gaaactgact agtaccatta atgattggcg
+       61 ccccagacat ggcatttccc cggataaaca acatgagttt ctgactactc ccgccatcat
+      121 tcctccttct tctagcctct tcaatagtag aagctggcgc tgggaccgga tgaaccgtgt
+      181 accctcctct agcaggtaac ttagcccacg caggagcctc agtagacctt acaatcttct
+      241 ctcttcacct agcaggagta tcctcaatcc taggagctat caactttatt acaactatca
+      301 ttaacataaa accccctgct atatcccaat accaaactcc tttgtttgtt ta
+//
+
+LOCUS       MW300628                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU62_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300628
+VERSION     MW300628.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU62_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71428.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300627                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU61_COI_LJ cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300627
+VERSION     MW300627.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU61_COI_LJ"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71427.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300626                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU60_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300626
+VERSION     MW300626.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU60_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71426.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300625                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU59_COI_LJ cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300625
+VERSION     MW300625.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU59_COI_LJ"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71425.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300624                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU57_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300624
+VERSION     MW300624.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU57_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71424.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300623                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU56_COI_RP cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300623
+VERSION     MW300623.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU56_COI_RP"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71423.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagtaata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagacc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300622                 341 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU55_COI_NZG cytochrome
+            c oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300622
+VERSION     MW300622.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 341)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 341)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..341
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU55_COI_NZG"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>341
+                     /gene="COX1"
+     CDS             <1..>341
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71422.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQT"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact c
+//
+
+LOCUS       MW300621                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU34_COI_LN cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300621
+VERSION     MW300621.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU34_COI_LN"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71421.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300620                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU32_COI_MK cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300620
+VERSION     MW300620.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU32_COI_MK"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71420.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300619                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU31_COI_MK cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300619
+VERSION     MW300619.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU31_COI_MK"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71419.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300618                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU30_COI_MK cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300618
+VERSION     MW300618.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU30_COI_MK"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71418.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+
+LOCUS       MW300617                 354 bp    DNA     linear   PRI 02-DEC-2020
+DEFINITION  Galago moholi voucher Galago_moholi_moholi_BU29_COI_MK cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW300617
+VERSION     MW300617.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     COI diversity of Galago moholi moholi from northern South Africa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Phukuntsi,M.A., DuPlessis,M.G., Dalton,D.L., Jansen,R., Sauther,M.,
+            Cuozzo,F. and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2020) Foundational Research and Services,
+            Zoological Research, South African National Biodiversity Institute,
+            232 Boom Street, Tshwane, Gauteng 0001, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Galago_moholi_moholi_BU29_COI_MK"
+                     /db_xref="taxon:30609"
+                     /country="South Africa"
+     gene            <1..>354
+                     /gene="COX1"
+     CDS             <1..>354
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPI71417.1"
+                     /translation="MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLL
+                     LASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIIN
+                     MKPPAMSQYQTPLFV"
+ORIGIN      
+        1 catagttata cctattataa ttggaggctt cggaaactga ctagtaccat taatgattgg
+       61 cgccccagac atggcatttc cccggataaa caacatgagt ttctgactac tcccgccatc
+      121 attcctcctt cttctagcct cttcaatagt agaagctggc gctgggaccg gatgaaccgt
+      181 gtaccctcct ctagcaggta acttagccca cgcaggagcc tcagtagatc ttacaatctt
+      241 ctctcttcac ctagcaggag tatcctcaat cctaggagct atcaacttta ttacaactat
+      301 cattaacata aaaccccctg ctatatccca ataccaaact cctttgtttg ttta
+//
+

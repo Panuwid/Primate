@@ -1,0 +1,2508 @@
+LOCUS       HM102309                 639 bp    DNA     linear   PRI 25-JUL-2016
+DEFINITION  Papio hamadryas strain ATCC CRL-1495 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   HM102309
+VERSION     HM102309.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Papio hamadryas (hamadryas baboon)
+  ORGANISM  Papio hamadryas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Cooper,J.K., Sykes,G., King,S., Cottrill,K., Ivanova,N.V.,
+            Hanner,R. and Ikonomi,P.
+  TITLE     Species identification in cell culture: a two-pronged molecular
+            approach
+  JOURNAL   In Vitro Cell. Dev. Biol. Anim. 43 (10), 344-351 (2007)
+   PUBMED   17934781
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Cooper,J.K., Sykes,G., King,S., Cottrill,K., Ivanova,N.V.,
+            Hanner,R. and Ikonomi,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-APR-2010) BioProduction, ATCC, 10801 University Blvd,
+            Manassas, VA 20110, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Papio hamadryas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="ATCC CRL-1495"
+                     /culture_collection="ATCC:CRL-1495"
+                     /db_xref="BOLD:ACLB045-06.COI-5P"
+                     /db_xref="taxon:9557"
+                     /country="USA"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaaagacattgg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccaaagaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaargayatygg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccraaraayca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagtattcaaccaatcataaagatattgg, rev_seq:
+                     caggaaacagctatgactaaacttctggatgtccaaaaaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>639
+                     /gene="COI"
+     CDS             <1..>639
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ADG46982.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQHLF"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataatcg ggggtttcgg aaattgatta
+      181 gtgcctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccctcttt cctactacta atagcatcaa ccgcagtaga agccggtgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc tcttcaccta gcgggcattt cctccatcct aggagccatc
+      421 aacttcatta ccactatcat caacataaaa ccccctgcaa tatcccagta tcaaacccct
+      481 ttatttgtct gatcaatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact actaacagat cgcaatctca atactacttt cttcgaccct
+      601 gtcggaggag gggaccctat tctataccaa cacctattt
+//
+
+LOCUS       FJ750653                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio papio voucher PP2 cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ750653
+VERSION     FJ750653.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio papio (Guinea baboon)
+  ORGANISM  Papio papio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio papio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PP2"
+                     /db_xref="taxon:100937"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67433.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGSLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASIAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta gcctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataattg gaggcttcgg aaattggttg
+      181 gtacctctaa taattggcgc tcctgacata gcattccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccttcttt cctgctacta atagcatcaa tcgcagtaga agccggtgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tctcccaccc gggggcctcc
+      361 gtagacctag tcatcttctc tcttcaccta gcgggcattt cctccatcct aggggccatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccagta tcaaacccct
+      481 ttatttgtct gatcgatcct aattacagcg gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact attaacagat cgtaacctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ750652                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio papio voucher PP1 cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ750652
+VERSION     FJ750652.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio papio (Guinea baboon)
+  ORGANISM  Papio papio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio papio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PP1"
+                     /db_xref="taxon:100937"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67432.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGSLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASIAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc cgaactgggc
+       61 caacccggta gcctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataattg gaggcttcgg aaattggttg
+      181 gtacctctaa taattggcgc tcctgacata gcattccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccttcttt cctgctacta atagcatcaa tcgcagtaga agccggtgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tctcccaccc gggggcctcc
+      361 gtagacctag tcatcttctc tcttcaccta gcgggcattt cctccatcct aggggccatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccagta tcaaacccct
+      481 ttatttgtct gatcgatcct aattacagcg gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact attaacagat cgtaacctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ713436                 658 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus kindae isolate BZ04059 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   FJ713436
+VERSION     FJ713436.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio kindae (Kinda baboon)
+  ORGANISM  Papio kindae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Mitochondrial evidence for the hybrid origin of the kipunji,
+            Rungwecebus kipunji (Primates: Papionini)
+  JOURNAL   Mol. Phylogenet. Evol. 51 (2), 340-348 (2009)
+   PUBMED   19236932
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2009) Anthropology Department, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Papio kindae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BZ04059"
+                     /isolation_source="feces"
+                     /db_xref="taxon:208091"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACP43682.1"
+                     /translation="IGTLYLLFGAWAGVTGMALSLLIRAELGQPGSLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     VVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attggaactt tatacctgtt atttggtgca tgagccggag ttacaggcat ggccctaagt
+       61 cttctcattc gagccgaact gggtcaaccc ggtagcctac taggcaatga tcacatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatggttat acctattata
+      181 attgggggct tcggaaattg gttggtacct ctaataattg gcgctcctga tatggcgttc
+      241 ccccgtttaa acaacataag tttctgactc cttccccctt ctttcctact actaatagca
+      301 tcaaccgtag tagaagccgg tgctgggaca ggttgaacgg tgtatccccc tttgtcagga
+      361 aacttctccc acccaggggc ctccgtagac ctagtcatct tctcccttca cctagcgggc
+      421 atttcttcca tcctaggggc catcaacttc attaccacta ttatcaacat aaaaccccct
+      481 gcaatatccc aatatcaaac ccctttattt gtctgatcga tcttaattac agcagtcctc
+      541 ctacttctct ccctaccagt cctagccgcc ggcatcacta tactactaac agatcgcaac
+      601 ctcaatacta ctttcttcga ccctgtcgga ggaggagacc ctattctata ccaacacc
+//
+
+LOCUS       FJ713432                 658 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus kindae isolate BT05002 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   FJ713432
+VERSION     FJ713432.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio kindae (Kinda baboon)
+  ORGANISM  Papio kindae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Mitochondrial evidence for the hybrid origin of the kipunji,
+            Rungwecebus kipunji (Primates: Papionini)
+  JOURNAL   Mol. Phylogenet. Evol. 51 (2), 340-348 (2009)
+   PUBMED   19236932
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2009) Anthropology Department, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Papio kindae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BT05002"
+                     /db_xref="taxon:208091"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACP43678.1"
+                     /translation="IGTLYLLFGAWAGVTGMALSLLIRAELGQPGSLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     VVEAGAGTGWTAYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attggaactt tatacctgct atttggtgca tgagccgggg ttacaggcat ggccctaagt
+       61 cttctcattc gagccgaact gggtcaaccc ggtagcctac taggcaatga tcacatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatagttat acctattata
+      181 attggaggct tcggaaattg gttggtgcct ctaataattg gcgcccctga tatggcattc
+      241 ccccgtttaa acaacataag tttctgactc cttccccctt ctttcctact actaatggca
+      301 tcaaccgtag tagaggccgg tgccgggaca ggttgaacag cgtatcctcc cttgtcagga
+      361 aacttttccc acccaggggc ctccgtagac ctagtcatct tctctcttca cctagcgggc
+      421 atttcctcca tcctaggggc catcaacttc attaccacta ttatcaacat aaaaccccct
+      481 gcaatatccc agtatcaaac ccctttattt gtctgatcga tcttaattac agcagtcctc
+      541 ctacttctct ccctaccagt cctggccgcc ggcatcacta tactactaac agatcgcaac
+      601 ctcaatacta ctttcttcga ccccgtcgga ggaggagacc ctattctata ccagcacc
+//
+
+LOCUS       FJ713429                 658 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus kindae isolate BZ04055 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   FJ713429
+VERSION     FJ713429.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio kindae (Kinda baboon)
+  ORGANISM  Papio kindae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Mitochondrial evidence for the hybrid origin of the kipunji,
+            Rungwecebus kipunji (Primates: Papionini)
+  JOURNAL   Mol. Phylogenet. Evol. 51 (2), 340-348 (2009)
+   PUBMED   19236932
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2009) Anthropology Department, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Papio kindae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BZ04055"
+                     /isolation_source="feces"
+                     /db_xref="taxon:208091"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACP43675.1"
+                     /translation="IGTLYLLFGAWAGVTGMALSLLIRAELGQPGSLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     VVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attggaactt tatacctgtt atttggtgca tgagccggag ttacaggcat ggccctaagt
+       61 cttctcattc gagccgaact gggtcaaccc ggtagcctac taggcaatga tcacatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatggttat acctattata
+      181 attgggggct tcggaaattg gttggtacct ctaataattg gcgctcctga tatggcgttc
+      241 ccccgtttaa acaacataag tttctgactc cttccccctt ctttcctact actaatagca
+      301 tcaaccgtag tagaagccgg tgctgggaca ggttgaacgg tgtatccccc tttgtcagga
+      361 aacttttccc acccaggggc ctccgtagac ctagtcatct tctcccttca cctagcgggc
+      421 atttcttcca tcctaggggc catcaacttc attaccacta ttatcaacat aaaaccccct
+      481 gcaatatccc aatatcaaac ccctttattt gtctgatcga tcttaattac agcagtcctc
+      541 ctacttctct ccctaccagt cctagccgcc ggcatcacta tactactaac agatcgcaac
+      601 ctcaatacta ctttcttcga ccctgtcgga ggaggagacc ctattctata ccaacacc
+//
+
+LOCUS       FJ713424                 658 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio papio isolate Phpapio1 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ713424
+VERSION     FJ713424.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio papio (Guinea baboon)
+  ORGANISM  Papio papio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Mitochondrial evidence for the hybrid origin of the kipunji,
+            Rungwecebus kipunji (Primates: Papionini)
+  JOURNAL   Mol. Phylogenet. Evol. 51 (2), 340-348 (2009)
+   PUBMED   19236932
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2009) Anthropology Department, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Papio papio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Phpapio1"
+                     /db_xref="taxon:100937"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACP43670.1"
+                     /translation="IGTLYLLFGAWAGVTGMALSLLIRAELGQPGSLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASI
+                     AVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attgggactt tatacctatt atttggtgca tgagccggag ttacaggcat ggccctaagt
+       61 cttctcattc gagccgaact gggccaaccc ggtagcctac taggcaatga tcacatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatggttat acctattata
+      181 attggaggct tcggaaattg gttggtacct ctaataattg gcgctcctga catagcattc
+      241 ccccgtttaa acaacataag tttctgactc cttccccctt ctttcctgct actaatagca
+      301 tcaatcgcag tagaagccgg tgctgggaca ggttgaacag tgtatcctcc tttgtcaggg
+      361 aacttctccc acccgggggc ctccgtagac ctagtcatct tctctcttca cctagcgggc
+      421 atttcctcca tcctaggggc catcaacttc attaccacta ttatcaacat aaaaccccct
+      481 gcaatatccc agtatcaaac ccctttattt gtctgatcga tcctaattac agcggtcctc
+      541 ctacttctct ccctaccagt cctagccgcc ggcatcacta tactattaac agatcgtaac
+      601 ctcaatacta ctttcttcga ccctgtcgga ggaggagacc ctattctata ccaacacc
+//
+
+LOCUS       KX012656                 575 bp    DNA     linear   PRI 01-DEC-2016
+DEFINITION  Papio ursinus voucher NZG:BWP36342 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX012656
+VERSION     KX012656.1
+DBLINK      BioProject: PRJNA301744
+KEYWORDS    .
+SOURCE      mitochondrion Papio ursinus (Chacma baboon)
+  ORGANISM  Papio ursinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 575)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Barcode of Wildlife project [South Africa]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 575)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2016) Research and Scientific Services, National
+            Zoological Garderns of South Africa, 232 Boom Street, Pretoria,
+            Gauteng 0001, South Africa
+COMMENT     ##BWP:1.0-START##
+            basisOfIdentification    :: Digital images
+            chainOfCustody           :: Yes
+            identificationConfidence :: high
+            identificationDate       :: 10-Dec-2014
+            typeStatus               :: none
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..575
+                     /organism="Papio ursinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZG:BWP36342"
+                     /db_xref="taxon:36229"
+                     /country="South Africa"
+                     /collection_date="03-Sep-2014"
+                     /collected_by="Adrian Tordiffe"
+                     /identified_by="Tracy Rehse"
+                     /PCR_primers="fwd_name: jgLCO1490, fwd_seq:
+                     tntcnacnaaycayaargayattgg, rev_name: jgHCO2198, rev_seq:
+                     tanacytcnggrtgnccraaraayca"
+     gene            <1..>575
+                     /gene="COI"
+     CDS             <1..>575
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ANH56754.1"
+                     /translation="ALLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFMVMPIMIGG
+                     FGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGAGTGWTVYPPLSGN
+                     FSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFVWSILITAV
+                     LLLLSLPVLAAGITMLLTDRNLNTTFFDPVG"
+ORIGIN      
+        1 agctcttctc attcgagccg aactaggtca acccggtaac ctactaggca atgatcacat
+       61 ctacaacgtc attgtaacgg cccatgcgtt cgtcataatc tttttcatgg ttatacccat
+      121 tataattggg ggcttcggaa attggttggt acctctaata attggcgctc ctgatatagc
+      181 attcccccgt ttaaacaaca taagcttctg actccttccc ccttctttcc tactactaat
+      241 agcatcaacc gtagtagaag ccggtgctgg gacaggctga acagtatatc cccccttgtc
+      301 gggaaacttt tcccacccag gggcctccgt agacctagtc atcttctccc ttcacctagc
+      361 gggcatttct tccatcctag gagctatcaa cttcattacc actatcatca acataaaacc
+      421 ccctgcaata tcccaatatc aaaccccttt atttgtctga tcgatcttaa ttacagcagt
+      481 cctcctactt ctctccctac cagtcctagc cgccggcatc actatactat taacagatcg
+      541 caacctcaac actactttct tcgaccctgt cggag
+//
+
+LOCUS       KX012659                 658 bp    DNA     linear   PRI 01-DEC-2016
+DEFINITION  Papio ursinus voucher NZG:BWP36344 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX012659
+VERSION     KX012659.1
+DBLINK      BioProject: PRJNA301744
+KEYWORDS    .
+SOURCE      mitochondrion Papio ursinus (Chacma baboon)
+  ORGANISM  Papio ursinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Barcode of Wildlife project [South Africa]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2016) Research and Scientific Services, National
+            Zoological Garderns of South Africa, 232 Boom Street, Pretoria,
+            Gauteng 0001, South Africa
+COMMENT     ##BWP:1.0-START##
+            basisOfIdentification    :: Digital images
+            chainOfCustody           :: Yes
+            identificationConfidence :: high
+            identificationDate       :: 10-Dec-2014
+            typeStatus               :: none
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Papio ursinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZG:BWP36344"
+                     /db_xref="taxon:36229"
+                     /country="South Africa"
+                     /collection_date="03-Sep-2014"
+                     /collected_by="Adrian Tordiffe"
+                     /identified_by="Tracy Rehse"
+                     /PCR_primers="fwd_name: LCO1490, fwd_seq:
+                     ggtcaacaaatcataaagatattgg, rev_name: HCO2198, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ANH56757.1"
+                     /translation="TLYLLFGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactttatac ctattgtttg gtgcatgagc cggggtcaca ggcatggccc taagtcttct
+       61 cattcgagcc gaactgggtc aacccggtaa cctactaggc aatgatcaca tctacaacgt
+      121 cattgtaaca gcccatgcgt tcgtcataat ctttttcatg gttataccca ttataattgg
+      181 gggcttcgga aattggttgg tacctctaat aattggcgct cctgatatag cattcccccg
+      241 tttaaacaac ataagcttct gactccttcc cccttctttc ctactactaa tagcatcaac
+      301 cgtagtagaa gccggtgctg ggacaggctg aacagtatat ccccccttgt cgggaaactt
+      361 ttcccaccca ggggcctccg tagacctagt catcttctcc cttcacctag cgggcatttc
+      421 ttccatccta ggagctatca acttcattac cactattatc aacataaaac cccctgcaat
+      481 atcccaatat caaacccctt tatttgtctg atcgatctta attacagcag tcctcctact
+      541 tctctcccta ccagtcctag ccgccggcat cactatacta ttaacagatc gcaacctcaa
+      601 cactactttc ttcgaccctg tcggaggggg agaccctatt ctataccaac acctattt
+//
+
+LOCUS       KX012657                 658 bp    DNA     linear   PRI 01-DEC-2016
+DEFINITION  Papio ursinus voucher NZG:BWP36343 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX012657
+VERSION     KX012657.1
+DBLINK      BioProject: PRJNA301744
+KEYWORDS    .
+SOURCE      mitochondrion Papio ursinus (Chacma baboon)
+  ORGANISM  Papio ursinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Barcode of Wildlife project [South Africa]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2016) Research and Scientific Services, National
+            Zoological Garderns of South Africa, 232 Boom Street, Pretoria,
+            Gauteng 0001, South Africa
+COMMENT     ##BWP:1.0-START##
+            basisOfIdentification    :: Digital images
+            chainOfCustody           :: Yes
+            identificationConfidence :: high
+            identificationDate       :: 10-Dec-2014
+            typeStatus               :: none
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Papio ursinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZG:BWP36343"
+                     /db_xref="taxon:36229"
+                     /country="South Africa"
+                     /collection_date="03-Sep-2014"
+                     /collected_by="Adrian Tordiffe"
+                     /identified_by="Tracy Rehse"
+                     /PCR_primers="fwd_name: LCO1490, fwd_seq:
+                     ggtcaacaaatcataaagatattgg, rev_name: HCO2198, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ANH56755.1"
+                     /translation="TLYLLFGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactttatac ctattgtttg gtgcatgagc cggggtcaca ggcatggccc taagtcttct
+       61 cattcgagcc gaactgggtc aacccggtaa cctactaggc aatgatcaca tctacaacgt
+      121 cattgtaacg gcccatgcgt tcgtcataat ctttttcatg gttataccca ttataattgg
+      181 gggcttcgga aattggttgg tacctctaat aattggcgct cctgatatag cattcccccg
+      241 tttaaacaac ataagcttct gactccttcc cccttctttc ctactactaa tagcatcaac
+      301 cgtagtagaa gccggtgctg ggacaggctg aacagtatat ccccccttgt cgggaaactt
+      361 ttcccaccca ggggcctccg tagacctagt catcttctcc cttcacctag cgggcatttc
+      421 ttccatccta ggagctatca acttcattac cactattatc aacataaaac cccctgcaat
+      481 atcccaatat caaacccctt tatttgtctg atcgatctta attacagcag tcctcctact
+      541 tctctcccta ccagtcctag ccgccggcat cactatacta ttaacagatc gcaacctcaa
+      601 cactactttc ttcgaccctg tcggaggggg agaccctatt ctataccaac acctattt
+//
+
+LOCUS       KX012652                 634 bp    DNA     linear   PRI 01-DEC-2016
+DEFINITION  Papio ursinus voucher NZG:BWP36345 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX012652
+VERSION     KX012652.1
+DBLINK      BioProject: PRJNA301744
+KEYWORDS    .
+SOURCE      mitochondrion Papio ursinus (Chacma baboon)
+  ORGANISM  Papio ursinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 634)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Barcode of Wildlife project [South Africa]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 634)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2016) Research and Scientific Services, National
+            Zoological Garderns of South Africa, 232 Boom Street, Pretoria,
+            Gauteng 0001, South Africa
+COMMENT     ##BWP:1.0-START##
+            basisOfIdentification    :: Digital images
+            chainOfCustody           :: Yes
+            identificationConfidence :: high
+            identificationDate       :: 10-Dec-2014
+            typeStatus               :: none
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..634
+                     /organism="Papio ursinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZG:BWP36345"
+                     /db_xref="taxon:36229"
+                     /country="South Africa"
+                     /collection_date="03-Sep-2014"
+                     /collected_by="Adrian Tordiffe"
+                     /identified_by="Tracy Rehse"
+                     /PCR_primers="fwd_name: LCO1490, fwd_seq:
+                     ggtcaacaaatcataaagatattgg, rev_name: HCO2198, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+     gene            <1..>634
+                     /gene="COI"
+     CDS             <1..>634
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ANH56750.1"
+                     /translation="LFGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFV
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGA
+                     GTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQ
+                     TPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPIL"
+ORIGIN      
+        1 tattgtttgg tgcrtgagcc ggggtcacag gcatggccct aagtcttctc attcgagccg
+       61 aactgggtca acccggtaac ctactaggca atgatcacat ctacaacgtc attgtaacgg
+      121 cccatgcgtt cgtcataatc tttttcatgg ttatacccat tataattggg ggcttcggaa
+      181 attggttggt acctctaata attggcgctc ctgatatagc attcccccgt ttaaacaaca
+      241 taagcttctg actccttccc ccttctttcc tactactaat agcatcaacc gtagtagaag
+      301 ccggtgctgg gacaggctga acagtatatc cccccttgtc gggaaacttt tcccacccmg
+      361 gggcctccgt agacctagtc atcttctccc ttcacctagc gggcatttct tccatcctag
+      421 gagctatcaa cttcattacc actattatca acataaaacc ccctgcaata tcccaatatc
+      481 aaaccccttt atttgtctga tcgatcttaa ttacagcagt cctcctactt ctctccctac
+      541 cagtcctagc cgccggcatc actatactat taacagatcg caacctcaac actactttct
+      601 tcgaccctgt cggaggagga gaccctattc tata
+//
+
+LOCUS       KX012654                 634 bp    DNA     linear   PRI 01-DEC-2016
+DEFINITION  Papio hamadryas voucher NZG:BWP35677 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX012654
+VERSION     KX012654.1
+DBLINK      BioProject: PRJNA301744
+KEYWORDS    .
+SOURCE      mitochondrion Papio hamadryas (hamadryas baboon)
+  ORGANISM  Papio hamadryas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 634)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Barcode of Wildlife project [South Africa]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 634)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2016) Research and Scientific Services, National
+            Zoological Garderns of South Africa, 232 Boom Street, Pretoria,
+            Gauteng 0001, South Africa
+COMMENT     ##BWP:1.0-START##
+            basisOfIdentification    :: Digital images
+            chainOfCustody           :: Yes
+            identificationConfidence :: high
+            identificationDate       :: 10-Dec-2014
+            typeStatus               :: none
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..634
+                     /organism="Papio hamadryas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZG:BWP35677"
+                     /db_xref="taxon:9557"
+                     /country="South Africa"
+                     /collection_date="14-Aug-2014"
+                     /collected_by="Thando Radebe"
+                     /identified_by="Tracy Rehse"
+                     /PCR_primers="fwd_name: LCO1490, fwd_seq:
+                     ggtcaacaaatcataaagatattgg, rev_name: HCO2198, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+     gene            <1..>634
+                     /gene="COI"
+     CDS             <1..>634
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ANH56752.1"
+                     /translation="TLYLLFGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAV
+                     EAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGG"
+ORIGIN      
+        1 gaactttata cctgttattt ggtgcatgag ccggagttac aggcatggcc ctgagtcttc
+       61 tcattcgagc cgaactgggt caacccggta acctactagg caatgatcac atctacaacg
+      121 tcattgtaac ggcccatgcg ttcgtcataa tctttttcat ggttatacct attataatcg
+      181 ggggtttcgg aaattgatta gtgcctctaa taattggcgc tcctgatata gcattccccc
+      241 gtttaaacaa cataagtttc tgactccttc ccccctcttt cctactacta atagcatcaa
+      301 ccgcagtaga agccggtgct gggacaggtt gaacagtgta tcctcctttg tcagggaact
+      361 tttcccaccc aggggcctcc gtagacctag tcatcttctc tcttcaccta gcgggcattt
+      421 cctccatcct aggagccatc aacttcatta ccactatcat caacataaaa ccccctgcaa
+      481 tatcccagta tcaaacccct ttatttgtct gatcaatctt aattacagca gtcctcctac
+      541 ttctctccct accagtccta gccgccggca tcactatact actaacagat cgcaatctca
+      601 atactacttt cttcgaccct gtcggaggag ggga
+//
+
+LOCUS       AY544160                 623 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Papio anubis PR00036 cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   AY544160
+VERSION     AY544160.2
+KEYWORDS    .
+SOURCE      mitochondrion Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 623)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 623)
+  AUTHORS   Lorenz,J.G., Vosbikian,A.D., Jackson,W.E., Hanner,R. and Beck,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-FEB-2004) Molecular Biology, Coriell Institute for
+            Medical Research, 403 Haddon Avenue, Camden, NJ 08103, USA
+REFERENCE   3  (bases 1 to 623)
+  AUTHORS   Lorenz,J.G., Vosbikian,A.D., Jackson,W.E., Hanner,R. and Beck,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2004) Molecular Biology, Coriell Institute for
+            Medical Research, 403 Haddon Avenue, Camden, NJ 08103, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Oct 1, 2004 this sequence version replaced AY544160.1.
+FEATURES             Location/Qualifiers
+     source          1..623
+                     /organism="Papio anubis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="skin biopsy from male baboon"
+                     /db_xref="taxon:9555"
+                     /cell_line="PR00036"
+                     /cell_type="fibroblast"
+     gene            <1..>623
+                     /gene="COI"
+     CDS             <1..>623
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAS65928.2"
+                     /translation="FGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAVEAGAG
+                     TGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDP"
+ORIGIN      
+        1 tttggtgcat gagccggagt tacaggcata gccctaagtc ttctcattcg agccgaactg
+       61 ggtcaacccg gtaacctact aggcaatgat cacatctaca acgtcattgt aacggcccat
+      121 gcgttcgtca taatcttttt catggttata cctattataa tcgggggctt cggaaattga
+      181 ttagtgcctc taataattgg cgctcctgat atagcattcc cccgtttaaa caacataagt
+      241 ttctgactcc ttcccccttc tttcctacta ctaatagcat caaccgcagt agaagccggt
+      301 gctgggacag gttgaacagt gtatcctcct ttgtcaggga acttttccca cccaggggcc
+      361 tccgtagacc tagtcatctt ctctcttcac ctagcgggca tttcctccat cctaggggcc
+      421 atcaacttca ttaccactat catcaacata aaaccccctg caatatccca gtatcaaacc
+      481 cctttatttg tctgatcaat cttaattaca gcagtcctcc tacttctctc cctaccagtc
+      541 ctagccgccg gcatcactat actactaaca gatcgcaatc tcaatactac tttcttcgac
+      601 cctgtcggag gaggggaccc tat
+//
+
+LOCUS       FJ810081                 658 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus isolate BZ04023 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   FJ810081
+VERSION     FJ810081.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio cynocephalus (Yellow baboon)
+  ORGANISM  Papio cynocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Mitochondrial evidence for the hybrid origin of the kipunji,
+            Rungwecebus kipunji (Primates: Papionini)
+  JOURNAL   Mol. Phylogenet. Evol. 51 (2), 340-348 (2009)
+   PUBMED   19236932
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAR-2009) Anthropology Department, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Papio cynocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BZ04023"
+                     /db_xref="taxon:9556"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACP43683.1"
+                     /translation="IGTLYLLFGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     AVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attggaactt tatacctgtt atttggtgca tgagccggag ttacaggcat agccctaagt
+       61 cttctcattc gagccgaact gggtcaaccc ggtaacctac taggcaatga tcacatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatggttat acctattata
+      181 atcgggggct tcggaaattg attagtgcct ctaataattg gcgctcctga tatagcattc
+      241 ccccgtttaa acaacataag tttctgactc cttccccctt ctttcctact actaatagca
+      301 tcaaccgcag tagaagccgg tgctgggaca ggttgaacag tgtatcctcc tttgtcaggg
+      361 aacttttccc acccaggggc ctccgtagac ctagtcatct tctctcttca cctagcgggc
+      421 atttcctcca tcctaggggc catcaacttc attaccacta tcatcaacat aaaaccccct
+      481 gcaatatccc agtatcaaac ccctttattt gtctgatcaa tcttaattac agcagtcctc
+      541 ctacttctct ccctaccagt cctagccgcc ggcatcacta tactactaac agatcgcaat
+      601 ctcaatacta ctttcttcga ccctgtcgga ggaggggacc ctattctata ccaacacc
+//
+
+LOCUS       FJ750676                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio ursinus voucher PU6 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750676
+VERSION     FJ750676.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio ursinus (Chacma baboon)
+  ORGANISM  Papio ursinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio ursinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PU6"
+                     /db_xref="taxon:36229"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67456.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITGALLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc tgaactggga
+       61 caacccggta acctgctagg caatgatcac atctacaacg tcattgtaac agcccatgcg
+      121 ttcgtcataa tcttcttcat ggttataccc attataattg gaggcttcgg aaattggttg
+      181 gtacctctaa taattggcgc ccctgatatg gcatttcccc gcttaaacaa cataagtttc
+      241 tgactccttc ccccttcttt cctgctacta atagcatcaa ccgtagtaga ggctggtgct
+      301 gggacaggct gaacagtcta ccctcctttg tcaggaaact tttcccaccc aggagcctcc
+      361 gtagacctag tcatcttttc ccttcaccta gcgggcattt cctccatcct aggggccatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccaata tcaaacccct
+      481 ttatttgtct gatcgatcct aattacggga gccctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact attaacagat cgcaacctca acactacttt cttcgaccct
+//
+
+LOCUS       FJ750675                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio ursinus voucher PU5 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750675
+VERSION     FJ750675.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio ursinus (Chacma baboon)
+  ORGANISM  Papio ursinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio ursinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PU5"
+                     /db_xref="taxon:36229"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67455.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITGALLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc tgaactggga
+       61 caacccggta acctgctagg caatgatcac atctacaacg tcattgtaac agcccatgcg
+      121 ttcgtcataa tcttcttcat ggttataccc attataattg gaggcttcgg aaattggttg
+      181 gtacctctaa taattggcgc ccctgatatg gcatttcccc gcttaaacaa cataagtttc
+      241 tgactccttc ccccttcttt cctgctacta atagcatcaa ccgtagtaga ggctggtgct
+      301 gggacaggct gaacagtcta ccctcctttg tcaggaaact tttcccaccc aggagcctcc
+      361 gtagacctag tcatcttttc ccttcaccta gcgggcattt cctccatcct aggggccatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccaata tcaaacccct
+      481 ttatttgtct gatcgatcct aattacggga gccctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact attaacagat cgcaacctca acactacttt cttcgaccct
+//
+
+LOCUS       FJ750674                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio ursinus voucher PU4 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750674
+VERSION     FJ750674.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio ursinus (Chacma baboon)
+  ORGANISM  Papio ursinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio ursinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PU4"
+                     /db_xref="taxon:36229"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67454.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggggtcac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttataccc attataattg ggggcttcgg aaattggttg
+      181 gtacctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagcttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa ccgtagtaga agccggtgct
+      301 gggacaggct gaacagtata tccccccttg tcgggaaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc ccttcaccta gcgggcattt cttccatcct aggagctatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccaata tcaaacccct
+      481 ttatttgtct gatcgatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact attaacagat cgcaacctca acactacttt cttcgaccct
+//
+
+LOCUS       FJ750673                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio ursinus voucher PU3 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750673
+VERSION     FJ750673.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio ursinus (Chacma baboon)
+  ORGANISM  Papio ursinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio ursinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PU3"
+                     /db_xref="taxon:36229"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67453.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggggtcac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttataccc attataattg ggggcttcgg aaattggttg
+      181 gtacctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagcttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa ccgtagtaga agccggtgct
+      301 gggacaggct gaacagtata tccccccttg tcgggaaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc ccttcaccta gcgggcattt cttccatcct aggagctatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccaata tcaaacccct
+      481 ttatttgtct gatcgatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact attaacagat cgcaacctca acactacttt cttcgaccct
+//
+
+LOCUS       FJ750672                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio ursinus voucher PU2 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750672
+VERSION     FJ750672.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio ursinus (Chacma baboon)
+  ORGANISM  Papio ursinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio ursinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PU2"
+                     /db_xref="taxon:36229"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67452.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggggtcac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttataccc attataattg gaggcttcgg aaattggttg
+      181 gtacctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagcttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa ccgtagtaga agccggtgct
+      301 ggaacaggct gaacagtata tccccccttg tcgggaaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc ccttcaccta gcgggcattt cttccatcct aggagctatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccaata tcaaacccct
+      481 ttatttgtct gatcgatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact attaacagat cgcaacctca acactacttt cttcgaccct
+//
+
+LOCUS       FJ750671                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio ursinus voucher PU1 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750671
+VERSION     FJ750671.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio ursinus (Chacma baboon)
+  ORGANISM  Papio ursinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio ursinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PU1"
+                     /db_xref="taxon:36229"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67451.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggggtcac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 cagcccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttataccc attataattg ggggcttcgg aaattggttg
+      181 gtacctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagcttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa ccgtagtaga agccggtgct
+      301 gggacaggct gaacagtata tccccccttg tcgggaaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc ccttcaccta gcgggcattt cttccatcct aggagctatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccaata tcaaacccct
+      481 ttatttgtct gatcgatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact attaacagat cgcaacctca acactacttt cttcgaccct
+//
+
+LOCUS       FJ750670                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus voucher PC7 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750670
+VERSION     FJ750670.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio cynocephalus (Yellow baboon)
+  ORGANISM  Papio cynocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio cynocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PC7"
+                     /db_xref="taxon:9556"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67450.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataattg ggggcttcgg aaattggttg
+      181 gtacctctaa taattggcgc tcctgatatg gcgttccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa ccgtagtaga agccggtgct
+      301 gggacaggtt gaacggtgta tccccctttg tcaggaaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc ccttcaccta gcgggcattt cttccatcct aggggccatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccaata tcaaacccct
+      481 ttatttgtct gatcgatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact actaacagat cgcaacctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ750669                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus voucher PC6 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750669
+VERSION     FJ750669.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio cynocephalus (Yellow baboon)
+  ORGANISM  Papio cynocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio cynocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PC6"
+                     /db_xref="taxon:9556"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67449.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGSLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta gcctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataattg ggggcttcgg aaattggttg
+      181 gtacctctaa taattggcgc tcctgatatg gcgttccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa ccgtagtaga agccggtgct
+      301 gggacaggtt gaacggtgta tccccctttg tcaggaaact tctcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc ccttcaccta gcgggcattt cttccatcct aggggccatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccaata tcaaacccct
+      481 ttatttgtct gatcgatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact actaacagat cgcaacctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ750668                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus voucher PC5 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750668
+VERSION     FJ750668.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio cynocephalus (Yellow baboon)
+  ORGANISM  Papio cynocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio cynocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PC5"
+                     /db_xref="taxon:9556"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67448.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGSLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggggtcac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta gcctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataatcg ggggcttcgg aaattggttg
+      181 gtacctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagcttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa ccgtagtaga ggccggtgct
+      301 gggacaggct gaacagtgta tccccccttg tcaggaaact tttctcaccc aggggcctcc
+      361 gtagacctag tcatcttctc ccttcaccta gcaggcattt cttccatcct aggagctatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccaata tcaaacccct
+      481 ttatttgtct gatcgatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact attaacagat cgcaacctca acactacttt cttcgaccct
+//
+
+LOCUS       FJ750667                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus voucher PC4 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750667
+VERSION     FJ750667.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio cynocephalus (Yellow baboon)
+  ORGANISM  Papio cynocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio cynocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PC4"
+                     /db_xref="taxon:9556"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67447.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagtcac aggcatggcc ctaagtcttc tcattcgggc cgaactgggc
+       61 caacccggta acctactagg caatgatcat atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataattg ggggcttcgg gaattggttg
+      181 gtgcctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagcttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa ccgcagtaga ggccggtgct
+      301 gggacaggct gaacagtgta tccccctttg tcaggaaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc ccttcaccta gcgggcattt cttccatcct aggagccatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccaata tcaaacccct
+      481 ttatttgtct gatcgatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact attaacagat cgcaacctca acactacttt cttcgaccct
+//
+
+LOCUS       FJ750666                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus voucher PC3 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750666
+VERSION     FJ750666.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio cynocephalus (Yellow baboon)
+  ORGANISM  Papio cynocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio cynocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PC3"
+                     /db_xref="taxon:9556"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67446.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGSLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggggtcac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta gcctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataattg gaggcttcgg aaactggttg
+      181 gtacctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagcttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa ccgtagtaga ggccggtgct
+      301 gggacaggct gaacagtgta tccccctttg tcaggaaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc cctccaccta gcgggcattt cttccatcct aggagccatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccaata tcaaacccct
+      481 ttatttgtct gatcgatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact attaacagat cgcaacctca acactacttt cttcgaccct
+//
+
+LOCUS       FJ750665                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus voucher PC2 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750665
+VERSION     FJ750665.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio cynocephalus (Yellow baboon)
+  ORGANISM  Papio cynocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio cynocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PC2"
+                     /db_xref="taxon:9556"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67445.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatagcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caaccaggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataatcg ggggcttcgg aaattgatta
+      181 gtgcctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa ccgcagtaga agccggtgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc tcttcaccta gcgggcattt cctccatcct aggggccatc
+      421 aacttcatta ccactatcat caacataaaa ccccctgcaa tatcccagta tcaaacccct
+      481 ttatttgtct gatcaatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact actaacagat cgcaatctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ750664                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus voucher PC1 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750664
+VERSION     FJ750664.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio cynocephalus (Yellow baboon)
+  ORGANISM  Papio cynocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio cynocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PC1"
+                     /db_xref="taxon:9556"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67444.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta atctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct atcataattg ggggcttcgg aaattgatta
+      181 gtgcctctaa taattggtgc tcctgatata gcattccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccttcctt cctactacta atagcatcaa ccgcagtaga agccggtgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tctcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc ccttcaccta gcgggcattt cctccatcct aggggccatc
+      421 aacttcatta ccactatcat caacataaaa ccccctgcaa tatctcagta tcaaacccct
+      481 ttatttgtct gatcaatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact actaacagat cgcaatctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ750663                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio hamadryas voucher PH2 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750663
+VERSION     FJ750663.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio hamadryas (hamadryas baboon)
+  ORGANISM  Papio hamadryas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio hamadryas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PH2"
+                     /db_xref="taxon:9557"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67443.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataatcg ggggtttcgg aaattgatta
+      181 gtgcctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccctcttt cctactacta atagcatcaa ccgcagtaga agccggtgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc tcttcaccta gcgggcattt cctccatcct aggagccatc
+      421 aacttcatta ccactatcat caacataaaa ccccctgcaa tatcccagta tcaaacccct
+      481 ttatttgtct gatcaatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact actaacagat cgcaatctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ750662                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio hamadryas voucher PH1 cytochrome c oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ750662
+VERSION     FJ750662.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio hamadryas (hamadryas baboon)
+  ORGANISM  Papio hamadryas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio hamadryas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PH1"
+                     /db_xref="taxon:9557"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67442.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataatcg ggggtttcgg aaattgatta
+      181 gtgcctctaa taattggcgc tcctgatatg gcattccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccctcttt cctactacta atagcatcaa ccgcagtaga agccggtgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc tcttcaccta gcgggcattt cctccatcct aggggccatc
+      421 aacttcatta ccactatcat caacataaaa ccccctgcaa tatcccagta tcaaacccct
+      481 ttatttgtct gatcaatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact actaacagat cgcaatctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ750661                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio anubis voucher PA8 cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ750661
+VERSION     FJ750661.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio anubis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PA8"
+                     /db_xref="taxon:9555"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67441.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataatcg ggggtttcgg aaattgatta
+      181 gtgcctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccctcttt cctactacta atagcatcaa ccgcagtaga agctggtgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc tcttcaccta gcgggtattt cctccatcct aggggccatc
+      421 aacttcatta ccactatcat caacataaaa ccccctgcaa tatcccagta tcaaaccccc
+      481 ttatttgtct gatcaatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact actaacagat cgcaatctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ750660                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio anubis voucher PA7 cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ750660
+VERSION     FJ750660.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio anubis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PA7"
+                     /db_xref="taxon:9555"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67440.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataatcg ggggtttcgg aaattgatta
+      181 gtgcctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccctcttt cctactacta atagcatcaa ccgcagtaga agccggtgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc tcttcaccta gcgggcattt cctccatcct aggggccatc
+      421 aacttcatta ccactatcat caacataaaa ccccctgcaa tatcccagta tcaaacccct
+      481 ttatttgtct gatcaatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact actaacagat cgcaatctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ750659                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio anubis voucher PA6 cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ750659
+VERSION     FJ750659.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio anubis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PA6"
+                     /db_xref="taxon:9555"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67439.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataatcg ggggcttcgg aaattgatta
+      181 gtgcctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa ccgcagtaga agccggtgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc tcttcaccta gcgggcattt cctccatcct aggggccatc
+      421 aacttcatta ccactatcat caacataaaa ccccctgcaa tatcccagta tcaaacccct
+      481 ttatttgtct gatcaatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact actaacagat cgcaatctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ750658                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio anubis voucher PA5 cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ750658
+VERSION     FJ750658.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio anubis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PA5"
+                     /db_xref="taxon:9555"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67438.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatagcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataattg ggggcttcgg aaattgatta
+      181 gtgcctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa ccgcagtaga agccggtgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc ccttcaccta gcgggcattt cctccatcct aggggccatc
+      421 aacttcatta ccactatcat caacataaaa ccccctgcaa tatcccagta tcaaacccct
+      481 ttatttgtct gatcaatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact attaacagat cgcaatctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ750657                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio anubis voucher PA4 cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ750657
+VERSION     FJ750657.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio anubis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PA4"
+                     /db_xref="taxon:9555"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67437.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGSLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASIAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta gcctactagg caatgatcac atctacaacg tcattgtaac ggcccatgcg
+      121 ttcgtcataa tctttttcat ggttatacct attataattg gaggcttcgg aaattggttg
+      181 gtacctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagcttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa tcgcagtaga agccggcgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcaggaaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc tcttcaccta gcgggcattt cctccatcct aggggccatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccagta tcaaacccct
+      481 ttgtttgtct gatcgatctt aattacagca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcactatact attgacagat cgcaacctca atactacttt cttcgacccc
+//
+
+LOCUS       FJ750656                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio anubis voucher PA3 cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ750656
+VERSION     FJ750656.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio anubis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PA3"
+                     /db_xref="taxon:9555"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67436.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASIAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLIIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcgtgag ccggggttac aggcatggcc ctaagtcttc tcattcgagc cgaactgggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac agcccacgcg
+      121 ttcgtcataa tctttttcat ggtcatacct attataattg ggggtttcgg aaattgattg
+      181 gtacctctaa taattggcgc tcctgatata gcattccccc gtttaaacaa tataagtttc
+      241 tgactccttc ccccttcctt cctactacta atagcatcaa tcgcagtaga agccggcgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tttcccaccc aggggcctcc
+      361 gtagacctaa ttatcttctc tcttcaccta gcgggcattt cctccatcct aggggccatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccagta tcaaacccct
+      481 ttatttgtct gatcgatctt aattacagca gtcctcctac ttctctccct gccagtccta
+      541 gccgccggca tcactatact attaacagat cgcaacctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ750655                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio anubis voucher PA2 cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ750655
+VERSION     FJ750655.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio anubis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PA2"
+                     /db_xref="taxon:9555"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67435.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASIAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFVTTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagccttc tcattcgagc cgaactgggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgca
+      121 ttcgtcataa tctttttcat ggttatacct attataattg ggggcttcgg aaattggttg
+      181 gtacccctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa tcgcagtaga agccggtgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc tcttcaccta gcgggcattt cctccatcct aggagccatc
+      421 aacttcgtta ccactattat caacataaaa ccccctgcaa tatcccagta tcaaacccct
+      481 ttatttgtct gatcgatctt aattacggca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcaccatact attaacagat cgcaacctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ750654                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio anubis voucher PA1 cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ750654
+VERSION     FJ750654.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Papio anubis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PA1"
+                     /db_xref="taxon:9555"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67434.1"
+                     /translation="GAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASIAVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttac aggcatggcc ctaagccttc tcattcgagc cgaactaggt
+       61 caacccggta acctactagg caatgatcac atctacaacg tcattgtaac ggcccatgca
+      121 ttcgtcataa tctttttcat ggttatacct attataattg ggggcttcgg aaattggttg
+      181 gtacccctaa taattggcgc tcctgatata gcattccccc gtttaaacaa cataagtttc
+      241 tgactccttc ccccttcttt cctactacta atagcatcaa tcgcagtaga agccggtgct
+      301 gggacaggtt gaacagtgta tcctcctttg tcagggaact tttcccaccc aggggcctcc
+      361 gtagacctag tcatcttctc tcttcaccta gcgggcattt cctccatcct aggagccatc
+      421 aacttcatta ccactattat caacataaaa ccccctgcaa tatcccagta tcaaacccct
+      481 ttatttgtct gatcgatctt aattacggca gtcctcctac ttctctccct accagtccta
+      541 gccgccggca tcaccatact attaacagat cgcaacctca atactacttt cttcgaccct
+//
+
+LOCUS       FJ713433                 658 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio anubis isolate 19349 cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ713433
+VERSION     FJ713433.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Mitochondrial evidence for the hybrid origin of the kipunji,
+            Rungwecebus kipunji (Primates: Papionini)
+  JOURNAL   Mol. Phylogenet. Evol. 51 (2), 340-348 (2009)
+   PUBMED   19236932
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2009) Anthropology Department, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Papio anubis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="19349"
+                     /db_xref="taxon:9555"
+                     /tissue_type="liver"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACP43679.1"
+                     /translation="IGTLYLLFGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     AVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attggaactt tatacctgtt atttggtgca tgagccggag ttacaggcat agccctaagt
+       61 cttctcattc gagccgaact gggtcaaccc ggtaacctac taggcaatga tcacatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatggttat acctattata
+      181 atcgggggct tcggaaattg attagtgcct ctaataattg gcgctcctga tatagcattc
+      241 ccccgtttaa acaacataag tttctgactc cttccccctt ctttcctact actaatagca
+      301 tcaaccgcag tagaagccgg tgctgggaca ggttgaacag tgtatcctcc tttgtcaggg
+      361 aacttttccc acccaggggc ctccgtagac ctagtcatct tctctcttca cctagcgggc
+      421 atttcctcca tcctaggggc catcaacttc attaccacta tcatcaacat aaaaccccct
+      481 gcaatatccc agtatcaaac ccctttattt gtctgatcaa tcttaattac agcagtcctc
+      541 ctacttctct ccctaccagt cctagccgcc ggcatcacta tactactaac agatcgcaat
+      601 ctcaatacta ctttcttcga ccctgtcgga ggaggggacc ctattctata ccaacacc
+//
+
+LOCUS       FJ713431                 658 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus cynocephalus isolate Phcyno12 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   FJ713431
+VERSION     FJ713431.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio cynocephalus cynocephalus
+  ORGANISM  Papio cynocephalus cynocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Mitochondrial evidence for the hybrid origin of the kipunji,
+            Rungwecebus kipunji (Primates: Papionini)
+  JOURNAL   Mol. Phylogenet. Evol. 51 (2), 340-348 (2009)
+   PUBMED   19236932
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2009) Anthropology Department, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Papio cynocephalus cynocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Phcyno12"
+                     /sub_species="cynocephalus"
+                     /db_xref="taxon:106398"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACP43677.1"
+                     /translation="IGTLYLLFGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     AVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attggaactt tatacctgtt atttggtgca tgagccggag ttacaggcat agccctaagt
+       61 cttctcattc gagccgaact gggtcaaccc ggtaacctac taggcaatga tcacatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatggttat acctattata
+      181 atcggaggct tcggaaattg attagtgcct ctaataattg gcgctcctga tatagcattc
+      241 ccccgtttaa acaacataag tttctgactc cttccccctt ctttcctact actaatagca
+      301 tcaaccgcag tagaagccgg tgctgggaca ggttgaacag tgtatcctcc tttgtcaggg
+      361 aacttttccc acccaggggc ctccgtagac ctagtcatct tctctcttca cctagcgggc
+      421 atttcctcca tcctaggggc catcaacttc attaccacta tcatcaacat aaaaccccct
+      481 gcaatatccc agtatcaaac ccctttattt gtctgatcaa tcttaattac agcagtcctc
+      541 ctacttctct ccctaccagt cctagccgcc ggcatcacta tactactaac agatcgcaat
+      601 ctcaatacta ctttcttcga ccctgtcgga ggaggggacc ctattctata ccaacacc
+//
+
+LOCUS       FJ713430                 658 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus cynocephalus isolate BZ04040 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   FJ713430
+VERSION     FJ713430.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio cynocephalus cynocephalus
+  ORGANISM  Papio cynocephalus cynocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Mitochondrial evidence for the hybrid origin of the kipunji,
+            Rungwecebus kipunji (Primates: Papionini)
+  JOURNAL   Mol. Phylogenet. Evol. 51 (2), 340-348 (2009)
+   PUBMED   19236932
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2009) Anthropology Department, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Papio cynocephalus cynocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BZ04040"
+                     /isolation_source="feces"
+                     /sub_species="cynocephalus"
+                     /db_xref="taxon:106398"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACP43676.1"
+                     /translation="IGTLYLLFGAWAGVTGMALSLLIRAELGQPGSLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     VVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attggaacct tatatctatt atttggtgca tgagccgggg tcacaggcat ggccctaagt
+       61 cttctcattc gagccgaact gggtcaaccc ggtagcctac taggcaatga tcacatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatggttat acctattata
+      181 attggaggct tcggaaattg gttggtacct ctaataattg gcgctcctga tatagcattc
+      241 ccccgtttaa acaacataag cttctgactc cttccccctt ctttcctact actaatagca
+      301 tcaaccgtag tagaggccgg tgctgggaca ggctgaacag tgtacccccc tttgtcagga
+      361 aacttttccc acccaggggc ctccgtagac ctagtcatct tctcccttca cctagcgggc
+      421 atttcttcca tcctaggagc catcaacttc attaccacta ttatcaacat aaaaccccct
+      481 gcaatatccc aatatcaaac ccctttattt gtctgatcga tcttaattac agcagtcctc
+      541 ctacttctct ccctaccagt cctagccgcc ggcatcacta tgctattaac agatcgcaac
+      601 ctcaacacta ctttcttcga ccctgtggga gggggagacc ctattctata ccaacacc
+//
+
+LOCUS       FJ713427                 658 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio cynocephalus cynocephalus isolate Pcyno5022 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   FJ713427
+VERSION     FJ713427.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio cynocephalus cynocephalus
+  ORGANISM  Papio cynocephalus cynocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Mitochondrial evidence for the hybrid origin of the kipunji,
+            Rungwecebus kipunji (Primates: Papionini)
+  JOURNAL   Mol. Phylogenet. Evol. 51 (2), 340-348 (2009)
+   PUBMED   19236932
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2009) Anthropology Department, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Papio cynocephalus cynocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pcyno5022"
+                     /sub_species="cynocephalus"
+                     /db_xref="taxon:106398"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACP43673.1"
+                     /translation="IGTLYLLFGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     VVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attggaactt tatacctgtt atttggtgca tgagccggag ttacaggcat agccctaagt
+       61 cttctcattc gagccgaact gggtcaaccc ggtaacctac taggcaatga tcacatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatggttat acctattata
+      181 atcgggggct tcggaaattg attagtgcct ctaataattg gcgctcctga tatagcattc
+      241 ccccgtttaa acaacataag tttctgactc cttccccctt ctttcctact actaatagca
+      301 tcaaccgtag tagaagccgg tgctgggaca ggttgaacag tgtatcctcc tttgtcaggg
+      361 aacttttccc acccaggggc ctccgtagac ctagtcatct tctctcttca cctagcgggc
+      421 atttcctcca tcctgggggc catcaacttc attaccacta tcatcaacat aaaaccccct
+      481 gcaatatccc agtatcaaac ccctttattt gtctgatcaa tcttaattac agcagtcctc
+      541 ctacttctct ccctaccagt cctagccgcc ggcatcacta tactactaac agatcgcaat
+      601 ctcaatacta ctttcttcga ccctgtcgga ggaggggacc ctattctata ccaacacc
+//
+
+LOCUS       FJ713425                 658 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Papio ursinus ursinus isolate 18742 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   FJ713425
+VERSION     FJ713425.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio ursinus ursinus
+  ORGANISM  Papio ursinus ursinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Mitochondrial evidence for the hybrid origin of the kipunji,
+            Rungwecebus kipunji (Primates: Papionini)
+  JOURNAL   Mol. Phylogenet. Evol. 51 (2), 340-348 (2009)
+   PUBMED   19236932
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2009) Anthropology Department, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Papio ursinus ursinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="18742"
+                     /sub_species="ursinus"
+                     /db_xref="taxon:208089"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACP43671.1"
+                     /translation="IGTLYLLFGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     VVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITGALLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attggaactt tatacctgtt atttggtgca tgagccggag ttacaggcat ggccctaagt
+       61 cttctcattc gagctgaact gggacaaccc ggtaacctgc taggcaatga tcacatctac
+      121 aacgtcattg taacagccca tgcgttcgtc ataatcttct tcatggttat acccattata
+      181 attggaggct tcggaaattg gttggtacct ctaataattg gcgcccctga tatggcattt
+      241 ccccgcttaa acaacataag tttctgactc cttccccctt ctttcctgct actaatagca
+      301 tcaaccgtag tagaggctgg tgctgggaca ggctgaacag tctaccctcc tttgtcagga
+      361 aacttttccc acccaggagc ctccgtagac ctagtcatct tttcccttca cctagcgggc
+      421 atttcctcca tcctaggggc catcaacttc attaccacta ttatcaacat aaaaccccct
+      481 gcaatatccc aatatcaaac ccctttattt gtctgatcga tcctaattac gggagccctc
+      541 ctacttctct ccctaccagt cctagccgcc ggcatcacta tactactaac agatcgcaac
+      601 ctcaacacta ctttcttcga ccctgttgga ggaggagacc ctattctata ccaacacc
+//
+
+LOCUS       KJ862206                 648 bp    DNA     linear   PRI 22-SEP-2015
+DEFINITION  Papio hamadryas voucher S61 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   KJ862206
+VERSION     KJ862206.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio hamadryas (hamadryas baboon)
+  ORGANISM  Papio hamadryas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Using DNA Barcoding to Identify the Endangered Birds and Big
+            Mammals in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2014) College of Life Sciences, Sichuan
+            University, South section I, Yihuan Road, Chengdu, Sichuan Province
+            610064, China
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Papio hamadryas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="S61"
+                     /db_xref="taxon:9557"
+                     /country="China"
+                     /collection_date="20-Mar-2012"
+                     /collected_by="Guang Zhao"
+                     /PCR_primers="fwd_name: VF1, fwd_seq:
+                     ttctcaaccaaccacaaagacattgg, rev_name: VR1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIM44761.1"
+                     /translation="LLFGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAVEAG
+                     AGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQHLF"
+ORIGIN      
+        1 ctgttatttg gtgcatgagc cggagttaca ggcatggccc taagtcttct cattcgagcc
+       61 gaactgggtc aacccggtaa cctactaggc aatgatcaca tctacaacgt cattgtaacg
+      121 gcccatgcgt tcgtcataat ctttttcatg gttataccta ttataatcgg gggtttcgga
+      181 aattgattag tgcctctaat aattggcgct cctgatatag cattcccccg tttaaacaac
+      241 ataagtttct gactccttcc cccctctttc ctactactaa tagcatcaac cgcagtagaa
+      301 gccggtgctg ggacaggttg aacagtgtat cctcctttgt cagggaactt ttcccacccg
+      361 ggggcctccg tagacctagt catcttctct cttcacctag cgggcatttc ctccatccta
+      421 ggagccatca acttcattac cactatcatc aacataaaac cccctgcaat atcccagtat
+      481 caaacccctt tatttgtctg atcaatctta attacagcag tcctcctact tctctcccta
+      541 ccagtcctag ccgccggcat cactatacta ctaacagatc gcaatctcaa tactactttc
+      601 ttcgaccctg tcggaggagg ggaccctatt ctataccaac acctattt
+//
+
+LOCUS       KJ862189                 648 bp    DNA     linear   PRI 22-SEP-2015
+DEFINITION  Papio anubis voucher S29 cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   KJ862189
+VERSION     KJ862189.1
+KEYWORDS    .
+SOURCE      mitochondrion Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Using DNA Barcoding to Identify the Endangered Birds and Big
+            Mammals in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2014) College of Life Sciences, Sichuan
+            University, South section I, Yihuan Road, Chengdu, Sichuan Province
+            610064, China
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Papio anubis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="S29"
+                     /db_xref="taxon:9555"
+                     /country="China"
+                     /collection_date="29-Dec-1995"
+                     /PCR_primers="fwd_name: VF1, fwd_seq:
+                     ttctcaaccaaccacaaagacattgg, rev_name: VR1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIM44744.1"
+                     /translation="LLFGAWAGVTGMALSLLIRAELGQPGSLLGNDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTAVEAG
+                     AGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQHLF"
+ORIGIN      
+        1 ctgttatttg gtgcatgagc cggagttaca ggcatggccc taagtcttct cattcgagcc
+       61 gaactgggtc aacccggtag cctactaggc aatgatcaca tctacaacgt cattgtaacg
+      121 gcccatgcgt tcgtcataat ctttttcatg gttataccta ttataatcgg gggtttcgga
+      181 aattgattag tgcctctaat aattggcgct cctgatatgg cattcccccg tttaaacaac
+      241 ataagtttct gactccttcc cccctctttc ctactactaa tagcatcaac cgcagtagaa
+      301 gccggtgctg ggacaggttg aacagtgtat cctcctttgt cagggaactt ttcccaccca
+      361 ggggcctccg tagacctagt catcttctct cttcacctag cgggcatttc ctccatccta
+      421 ggggccatca acttcattac cactatcatc aacataaaac cccctgcaat atcccagtat
+      481 caaacccctt tatttgtctg atcaatctta attacagcag tcctcctact tctctcccta
+      541 ccagtcctag ccgccggcat cactatacta ctaacagatc gcaatctcaa tactactttc
+      601 ttcgaccctg tcggaggagg ggaccctatt ctataccaac acctattt
+//
+

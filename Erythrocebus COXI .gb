@@ -1,0 +1,121 @@
+LOCUS       AY972702                 627 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Erythrocebus patas isolate PR00688 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972702
+VERSION     AY972702.1
+KEYWORDS    .
+SOURCE      mitochondrion Erythrocebus patas (red guenon)
+  ORGANISM  Erythrocebus patas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Erythrocebus.
+REFERENCE   1  (bases 1 to 627)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 627)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 627)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..627
+                     /organism="Erythrocebus patas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00688"
+                     /db_xref="taxon:9538"
+                     /sex="male"
+     gene            <1..>627
+                     /gene="COXI"
+     CDS             <1..>627
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22270.1"
+                     /translation="AWAGVMGTALSLLIRVELGQPGSLLGNDHIYNVIVTAHAFIMIF
+                     FMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGAGTG
+                     WTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPTMSQYQTPL
+                     FVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILY"
+ORIGIN      
+        1 cgcatgagct ggagtcatag gtactgccct aagccttctt attcgagttg aactaggcca
+       61 acccggtagt ttattaggca atgaccatat ttacaacgtt atcgtaacgg cccatgcatt
+      121 cattataatt ttcttcatag ttatgcccat tataatcgga gggtttggaa actgactagt
+      181 acccctaata attggtgctc ccgatatagc attccctcgt ctaaataata taagcttctg
+      241 gcttcttccc ccctccttct tgctactgat agcatcaacc gtagtggaag ccggtgctgg
+      301 aacaggttga acggtatatc ctcccttagc aggaaaccta tctcacccag gagcctccgt
+      361 agacttagtt attttctccc ttcatctagc aggaatttcc tctattctag gggctatcaa
+      421 cttcattact accatcatca atatgaaacc tcccactata tcccaatatc agaccccctt
+      481 gttcgtctga tctatcctaa ttacagcgat cctactactc ctttctctac cagttttagc
+      541 cgctggcatc actatattat taacagaccg caaccttaac actactttct ttgaccctac
+      601 tggaggggga gaccccatcc tatatca
+//
+
+LOCUS       EF568610                 640 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Erythrocebus patas voucher AG06254 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568610
+VERSION     EF568610.1
+KEYWORDS    .
+SOURCE      mitochondrion Erythrocebus patas (red guenon)
+  ORGANISM  Erythrocebus patas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Erythrocebus.
+REFERENCE   1  (bases 1 to 640)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 640)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..640
+                     /organism="Erythrocebus patas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG06254"
+                     /db_xref="taxon:9538"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>640
+                     /gene="COXI"
+     CDS             <1..>640
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81519.1"
+                     /translation="LYLLFGAWAGVMGTALSLLIRVELGQPGSLLGNDHIYNVIVTAH
+                     AFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVE
+                     AGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPTMS
+                     QYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 ctatacctac tattcggcgc atgagctgga gtcataggta ctgccctaag ccttcttatt
+       61 cgagttgaac taggccaacc cggtagttta ttaggcaatg accatattta caacgttatc
+      121 gtaacggccc atgcattcat tataattttc ttcatagtta tgcccattat aatcggaggg
+      181 tttggaaact gactagtacc cctaataatt ggtgctcccg atatagcatt tcctcgtcta
+      241 aataatataa gcttctggct tcttcccccc tccttcttgc tactgatagc atcaaccgta
+      301 gtggaagccg gtgctggaac aggttgaacg gtatatcctc ccttagcagg aaacctatct
+      361 cacccaggag cctccgtaga cttagttatt ttctcccttc atctagcagg aatttcctct
+      421 attctagggg ctatcaactt cattactacc atcatcaata tgaaacctcc cactatatcc
+      481 caatatcaga cccccttgtt cgtctgatct atcctaatta cagcgatcct actactcctt
+      541 tctctaccag ttttagccgc tggcatcact atattattaa cagaccgcaa ccttaacact
+      601 actttctttg accctactgg agggggagac cccatcctat
+//
+

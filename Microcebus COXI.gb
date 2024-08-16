@@ -1,0 +1,50 @@
+LOCUS       EU179510                 649 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Microcebus murinus isolate PR00275 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU179510
+VERSION     EU179510.1
+KEYWORDS    .
+SOURCE      mitochondrion Microcebus murinus (gray mouse lemur)
+  ORGANISM  Microcebus murinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lemuriformes; Cheirogaleidae; Microcebus.
+REFERENCE   1  (bases 1 to 649)
+  AUTHORS   Lorenz,J.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-SEP-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..649
+                     /organism="Microcebus murinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00275"
+                     /db_xref="taxon:30608"
+     gene            <1..>649
+                     /gene="COXI"
+     CDS             <1..>649
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71931.1"
+                     /translation="LYLLFGAWAGMVGTALSLLIRAELGQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGISSILGAINFITTVVNMKPPAMS
+                     QYQTPLFVWSVVITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQH"
+ORIGIN      
+        1 tctttatctc ttatttggag cttgagccgg aatagtagga acagccctta gccttctcat
+       61 ccgcgcagag ctcggccaac caggagctct attaggtgat gatcaaattt ataacgtaat
+      121 tgtaactgcc cacgcatttg tcataatctt ctttatggtc ataccaatta tgattggagg
+      181 ctttggtaat tgactagttc cattaataat tggagcccca gacatggcat ttccacgaat
+      241 aaataatata agtttttgac ttttaccacc atctttcctg ctccttctcg cctcttcaat
+      301 agtagaagcg ggcgcaggta ctgggtgaac ggtatatccc cctttagcag gaaatttagc
+      361 tcacgcagga gcatcagtag atctaactat tttttcttta cacttggccg gaatttcatc
+      421 aatcttaggt gctattaatt tcattactac agtagttaat ataaaacccc cagccatatc
+      481 acaatatcaa actcccttat ttgtctgatc agtagtaatc accgctgtgc ttctactttt
+      541 atctttacca gttttggcag caggaattac catgctttta actgatcgaa atcttaatac
+      601 tactttcttt gatcctgcag gaggaggtga ccccatctta tatcaacat
+//
+

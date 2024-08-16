@@ -1,0 +1,658 @@
+LOCUS       GQ144598                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Lophocebus albigena voucher 2209 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   GQ144598
+VERSION     GQ144598.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Lophocebus albigena (gray-cheeked mangabey)
+  ORGANISM  Lophocebus albigena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Lophocebus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Lophocebus albigena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2209"
+                     /db_xref="taxon:75567"
+                     /country="Republic of the Congo"
+                     /collection_date="09-Aug-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq: ttctccaccaaccacaargayatygg,
+                     rev_seq: cacctcagggtgtccgaaraaycaraa"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44975.1"
+                     /translation="TLYLLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHTYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPIL"
+ORIGIN      
+        1 caccttatat ctgctgtttg gtgcatgagc tggagttata ggtatggccc taagcctcct
+       61 tattcgagct gaactgggac agcccggtaa cttgctaggc aatgaccaca cctacaacgt
+      121 cattgtaacg gcccatgcat tcgtcataat ctttttcata gtcataccta ttataattgg
+      181 aggcttcgga aattgactag tacctttaat aatcggcgct cctgacatag catttccccg
+      241 tctaaacaat ataagcttct gactcctccc cccctctttc ttactactaa tagcatcaac
+      301 cgtagtagaa gccggtgctg gaacaggttg aacagtatac ccccctctat caggaaactt
+      361 ttcccaccca ggagcttccg tagacctagt cattttctct cttcacctag caggcatttc
+      421 ctccatcctg ggagctatca atttcattac cactattatc aacataaaac cccctgcaat
+      481 atcccagtac caaacccccc tatttgtctg atcaatctta attacggcaa tcctcctgct
+      541 cctctctcta ccagtcctag ccgccggcat cactatgcta ttaacagatc gcaacctcaa
+      601 cactactttc tttgaccctg ttggaggagg agaccctatc ctata
+//
+
+LOCUS       GQ144597                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Lophocebus albigena voucher 2247 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   GQ144597
+VERSION     GQ144597.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Lophocebus albigena (gray-cheeked mangabey)
+  ORGANISM  Lophocebus albigena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Lophocebus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Lophocebus albigena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2247"
+                     /db_xref="taxon:75567"
+                     /country="Republic of the Congo"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq: ttctccaccaaccacaargayatygg,
+                     rev_seq: cacctcagggtgtccgaaraaycaraa"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44974.1"
+                     /translation="TLYLLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHTYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPIL"
+ORIGIN      
+        1 caccttatat ctgctgtttg gtgcatgagc tggagttata ggtatagccc taagcctcct
+       61 tattcgagct gaactgggac agcccggtaa cttgctaggc aatgaccaca cctacaacgt
+      121 cattgtaacg gcccatgcat tcgtcataat ctttttcata gtcataccta ttataattgg
+      181 aggcttcgga aattgactag tacctttaat aatcggcgct cctgacatag catttccccg
+      241 tctaaacaat ataagcttct gactcctccc cccctctttc ttactactaa tagcatcaac
+      301 cgtagtagaa gccggtgctg gaacaggttg aacagtatac ccccctctat caggaaactt
+      361 ttcccaccca ggagcttccg tagacctagt cattttctct cttcacctag caggcatttc
+      421 ctccatcctg ggagctatca atttcattac cactattatc aacataaaac cccctgcaat
+      481 atcccagtac caaacccccc tatttgtctg atcaatctta attacggcaa tcctcctgct
+      541 cctctctcta ccagtcctag ccgccggcat cactatgcta ttaacagatc gcaacctcaa
+      601 cactactttc tttgaccctg ttggaggagg agaccctatc ctata
+//
+
+LOCUS       GQ144596                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Lophocebus albigena voucher 2245 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   GQ144596
+VERSION     GQ144596.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Lophocebus albigena (gray-cheeked mangabey)
+  ORGANISM  Lophocebus albigena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Lophocebus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Lophocebus albigena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2245"
+                     /db_xref="taxon:75567"
+                     /country="Republic of the Congo"
+                     /collection_date="31-Aug-2000"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq: ttctccaccaaccacaargayatygg,
+                     rev_seq: cacctcagggtgtccgaaraaycaraa"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44973.1"
+                     /translation="TLYLLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHTYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPIL"
+ORIGIN      
+        1 caccttatat ctgctgtttg gtgcatgagc tggagttata ggtatagccc taagcctcct
+       61 tattcgagct gaactgggac agcccggtaa cttgctaggc aatgaccaca cctacaacgt
+      121 cattgtaacg gcccatgcat tcgtcataat ctttttcata gtcataccta ttataattgg
+      181 aggcttcgga aattgactag tacctttaat aatcggcgct cctgacatag catttccccg
+      241 tctaaacaat ataagcttct gactcctccc cccctctttc ttactactaa tagcatcaac
+      301 cgtagtagaa gccggtgctg gaacaggttg aacagtatac ccccctctat caggaaactt
+      361 ttcccaccca ggagcttccg tagacctagt cattttctct cttcacctag caggcatttc
+      421 ctccatcctg ggagctatca atttcattac cactattatc aacataaaac cccctgcaat
+      481 atcccagtac caaacccccc tatttgtctg atcaatctta attacggcaa tcctcctgct
+      541 cctctctcta ccagtcctag ccgccggcat cactatgcta ttaacagatc gcaacctcaa
+      601 cactactttc tttgaccctg ttggaggagg agaccctatc ctata
+//
+
+LOCUS       GQ144595                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Lophocebus albigena voucher 0523 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   GQ144595
+VERSION     GQ144595.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Lophocebus albigena (gray-cheeked mangabey)
+  ORGANISM  Lophocebus albigena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Lophocebus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Lophocebus albigena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0523"
+                     /db_xref="taxon:75567"
+                     /country="Republic of the Congo"
+                     /collection_date="11-Nov-1999"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq: ttctccaccaaccacaargayatygg,
+                     rev_seq: cacctcagggtgtccgaaraaycaraa"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44972.1"
+                     /translation="TLYLLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHTYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPIL"
+ORIGIN      
+        1 caccttatat ctgctgtttg gtgcatgagc tggagttata ggtatggccc taagcctcct
+       61 tattcgagct gaactgggac agcccggtaa cttgctaggc aatgaccaca cctacaacgt
+      121 cattgtaacg gcccatgcat tcgtcataat ctttttcata gtcataccta ttataattgg
+      181 aggcttcgga aattgactag tacctttaat aatcggcgct cctgacatag catttccccg
+      241 tctaaacaat ataagcttct gactcctccc cccctctttc ttactactaa tagcatcaac
+      301 cgtagtagaa gccggtgctg gaacaggttg aacagtatac ccccctctat caggaaactt
+      361 ttcccaccca ggagcttccg tagacctagt cattttctct cttcacctag caggcatttc
+      421 ctccatcctg ggagctatca atttcattac cactattatc aacataaaac cccctgcaat
+      481 atcccagtac caaacccccc tatttgtctg atcaatctta attacggcaa tcctcctgct
+      541 cctctctcta ccagtcctag ccgccggcat cactatgcta ttaacagatc gcaacctcaa
+      601 cactactttc tttgaccctg ttggaggagg agaccctatc ctata
+//
+
+LOCUS       GQ144594                 618 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Lophocebus albigena voucher 0550 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   GQ144594
+VERSION     GQ144594.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Lophocebus albigena (gray-cheeked mangabey)
+  ORGANISM  Lophocebus albigena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Lophocebus.
+REFERENCE   1  (bases 1 to 618)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 618)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..618
+                     /organism="Lophocebus albigena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0550"
+                     /db_xref="taxon:75567"
+                     /country="Republic of the Congo"
+                     /collection_date="12-Nov-1999"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq: ttctccaccaaccacaargayatygg,
+                     rev_seq: cacctcagggtgtccgaaraaycaraa"
+     gene            <1..>618
+                     /gene="COI"
+     CDS             <1..>618
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44971.1"
+                     /translation="TLYLLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHTYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMESTVV
+                     EAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 caccttatat ctgctgtttg gtgcatgagc tggagttata ggtatrgccc taagcctcct
+       61 tattcgagcw gaactgggac agcccggtaa cttgctaggc aatgaccaca cctacaacgt
+      121 cattgtaacg gcccatgcat tcgtcataat ctttttcata gtcataccta ttataattgg
+      181 aggcttcgga aattgactag tacctttaat aatcggcgct cctgacatag catttccccg
+      241 tctaaacaat ataagcttct gactcctccc cccctctttc ttactactaa tagaatcaac
+      301 cgtagtagaa gccggtgctg gaacaggttg aacagtatac ccccctctat caggaaactt
+      361 ttcccaccca ggagcttccg tagacctagt cattttctct cttcacctag caggcatttc
+      421 ctccatcctg ggagctatca atttcattac cactattatc aacataaaac cccctgcaat
+      481 atcccagtac caaacccccc tatttgtctg atcaatctta attacggcaa tcctcctgct
+      541 cctctctcta ccagtcctag ccgccggcat cactatgcta ttaacagatc gcaacctcaa
+      601 cactactttc tttgaccc
+//
+
+LOCUS       GQ144593                 222 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Lophocebus albigena voucher 0505 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   GQ144593
+VERSION     GQ144593.1
+KEYWORDS    .
+SOURCE      mitochondrion Lophocebus albigena (gray-cheeked mangabey)
+  ORGANISM  Lophocebus albigena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Lophocebus.
+REFERENCE   1  (bases 1 to 222)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 222)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..222
+                     /organism="Lophocebus albigena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0505"
+                     /db_xref="taxon:75567"
+                     /country="Republic of the Congo"
+                     /collection_date="07-Nov-1999"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq: ttctccaccaaccacaargayatygg,
+                     rev_seq: cacctcagggtgtccgaaraaycaraa"
+     gene            <1..>222
+                     /gene="COI"
+     CDS             <1..>222
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44970.1"
+                     /translation="GVMGMALSLLIRAELGQPGNLLGNDHTYNVIVTAHAFVMIFFMV
+                     MPIMIGGFGNWLVPLMIGAPDMAFPRLNNM"
+ORIGIN      
+        1 ggagttatag gtatggccct aagcctcctt attcgagctg aactgggaca gcccggtaac
+       61 ttgctaggca atgaccacac ctacaacgtc attgtaacgg cccatgcatt cgtcataatc
+      121 tttttcatag tcatacctat tataattgga ggcttcggaa attgactagt acctttaata
+      181 atcggcgctc ctgacatagc atttccccgt ctaaacaata ta
+//
+
+LOCUS       GQ144592                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Lophocebus albigena voucher 0511 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   GQ144592
+VERSION     GQ144592.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Lophocebus albigena (gray-cheeked mangabey)
+  ORGANISM  Lophocebus albigena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Lophocebus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Lophocebus albigena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0511"
+                     /db_xref="taxon:75567"
+                     /country="Republic of the Congo"
+                     /collection_date="07-Nov-1999"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq: ttctccaccaaccacaargayatygg,
+                     rev_seq: cacctcagggtgtccgaaraaycaraa"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44969.1"
+                     /translation="TLYLLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHTYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPIL"
+ORIGIN      
+        1 caccttatat ctgctgtttg gtgcatgagc tggagttata ggtatggccc taagcctcct
+       61 tattcgagct gaactgggac agcccggtaa cttgctaggc aatgaccaca cctacaacgt
+      121 cattgtaacg gcccatgcat tcgtcataat ctttttcata gtcataccta ttataattgg
+      181 aggcttcgga aattgactag tacctttaat aatcggcgct cctgacatag catttccccg
+      241 tctaaacaat ataagcttct gactcctccc cccctctttc ttactactaa tagcatcaac
+      301 cgtagtagaa gccggtgctg gaacaggttg aacagtatac ccccctctat caggaaactt
+      361 ttcccaccca ggagcttccg tagacctagt cattttctct cttcacctag caggcatttc
+      421 ctccatcctg ggagctatca atttcattac cactattatc aacataaaac cccctgcaat
+      481 atcccagtac caaacccccc tatttgtctg atcaatctta attacggcaa tcctcctgct
+      541 cctctctcta ccagtcctag ccgccggcat cactatgcta ttaacagatc gcaacctcaa
+      601 cactactttc tttgaccctg ttggaggagg agaccctatc ctata
+//
+
+LOCUS       GQ144591                 645 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Lophocebus albigena voucher 0512 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   GQ144591
+VERSION     GQ144591.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Lophocebus albigena (gray-cheeked mangabey)
+  ORGANISM  Lophocebus albigena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Lophocebus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Barcoding bushmeat: molecular identification of Central African and
+            South American harvested vertebrates
+  JOURNAL   Conserv. Genet. 11 (4), 1389-1404 (2010)
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Eaton,M.J., Meyers,G.L., Kolokotronis,S.-O., Leslie,M.S.,
+            Martin,A.P. and Amato,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2009) Patuxent Wildlife Research Center, United
+            States Geological Survey, 12100 Beech Forest Road, Laurel, MD
+            20708-4017, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Lophocebus albigena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="0512"
+                     /db_xref="taxon:75567"
+                     /country="Republic of the Congo"
+                     /collection_date="07-Nov-1999"
+                     /collected_by="Mitchell Eaton"
+                     /PCR_primers="fwd_seq: ttctccaccaaccacaargayatygg,
+                     rev_seq: cacctcagggtgtccgaaraaycaraa"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACS44968.1"
+                     /translation="TLYLLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHTYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPIL"
+ORIGIN      
+        1 caccttatat ctgctgtttg gtgcatgagc tggagttata ggtatggccc taagcctcct
+       61 tattcgagct gaactgggac agcccggtaa cttgctaggc aatgaccaca cctacaacgt
+      121 cattgtaacg gcccatgcat tcgtcataat ctttttcata gtcataccta ttataattgg
+      181 aggcttcgga aattgactag tacctttaat aatcggcgct cctgacatag catttccccg
+      241 tctaaacaat ataagcttct gactcctccc cccctctttc ttactactaa tagcatcaac
+      301 cgtagtagaa gccggtgctg gaacaggttg aacagtatac ccccctctat caggaaactt
+      361 ttcccaccca ggagcttccg tagacctagt cattttctct cttcacctag caggcatttc
+      421 ctccatcctg ggagctatca atttcattac cactattatc aacataaaac cccctgcaat
+      481 atcccagtac caaacccccc tatttgtctg atcaatctta attacggcaa tcctcctgct
+      541 cctctctcta ccagtcctag ccgccggcat cactatgcta ttaacagatc gcaacctcaa
+      601 cactactttc tttgaccctg ttggaggagg agaccctatc ctata
+//
+
+LOCUS       FJ750677                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Lophocebus aterrimus cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ750677
+VERSION     FJ750677.1
+KEYWORDS    .
+SOURCE      mitochondrion Lophocebus aterrimus (Black crested mangabey)
+  ORGANISM  Lophocebus aterrimus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Lophocebus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Lophocebus aterrimus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:75566"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67457.1"
+                     /translation="GAWAGVMGMALSLLIRAELGQPGNLLGNDHTYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGAGT
+                     GWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttat aggcatggcc ctaagtcttc ttattcgagc tgaactgggc
+       61 caacccggta acctgctagg caatgaccac acctacaacg tcatcgtaac agcccatgca
+      121 ttcgtcataa tctttttcat ggtcatacct attataattg ggggcttcgg aaattggtta
+      181 gtacccctaa taatcggcgc tcctgacata gcattccccc gtttaaacaa cataagcttc
+      241 tgactcctcc ccccctcttt cttactacta atagcatcaa ccgtagtaga agccggtgct
+      301 ggaacaggtt gaacagtata ccccccgcta tcaggaaact tttcccaccc gggagcttcc
+      361 gtagacctag tcattttctc tcttcaccta gcaggcattt cctccatcct aggagctatc
+      421 aatttcatca ccactattat caacataaaa ccccctgcaa tgtcccagta ccaaacccct
+      481 ctatttgtct gatcaatctt aattacagca atcctcctgc tcctctccct accagtccta
+      541 gccgccggca tcactatgct attaacagat cgcaacctca acactacttt ctttgaccct
+//
+
+LOCUS       FJ713428                 658 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Lophocebus aterrimus isolate 871167 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   FJ713428
+VERSION     FJ713428.1
+KEYWORDS    .
+SOURCE      mitochondrion Lophocebus aterrimus (Black crested mangabey)
+  ORGANISM  Lophocebus aterrimus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Lophocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Mitochondrial evidence for the hybrid origin of the kipunji,
+            Rungwecebus kipunji (Primates: Papionini)
+  JOURNAL   Mol. Phylogenet. Evol. 51 (2), 340-348 (2009)
+   PUBMED   19236932
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2009) Anthropology Department, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Lophocebus aterrimus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="871167"
+                     /db_xref="taxon:75566"
+                     /tissue_type="blood"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACP43674.1"
+                     /translation="IGTLYLLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHTYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     VVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attgggactt tatatctgct gtttggtgca tgagccggag ttataggcat ggccctaagt
+       61 cttcttattc gagctgaact gggccaaccc ggtaacctgc taggcaatga ccacacctac
+      121 aacgtcattg taacggccca tgcattcgtc ataatttttt tcatggtcat acctattata
+      181 attgggggct tcggaaattg gttagtaccc ctgataatcg gcgctcctga catagcattc
+      241 ccccgtttaa acaatataag cttctgactc ctccccccct ctttcttact actaatagca
+      301 tcaaccgtag tagaggccgg tgctggaaca ggttgaacag tatacccccc tctgtcagga
+      361 aacttttctc acccaggagc ttccgtagac ctagtcattt tctctcttca cctagcaggc
+      421 atttcctcca tcctaggagc tatcaatttc attaccacta ttatcaacat aaaaccccct
+      481 gcaatatccc agtaccaaac ccctctattt gtctgatcaa tcttaattac agcaatcctc
+      541 ctactcctct ctctaccagt cctagccgcc ggcatcacta tactattaac agatcgcaac
+      601 ctcaacacta ctttctttga ccctgtcgga ggaggagacc ctatcctata ccaacacc
+//
+
+LOCUS       KJ192835                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Lophocebus albigena isolate LalgT1042 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192835
+VERSION     KJ192835.1
+KEYWORDS    .
+SOURCE      mitochondrion Lophocebus albigena (gray-cheeked mangabey)
+  ORGANISM  Lophocebus albigena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Lophocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Lophocebus albigena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LalgT1042"
+                     /db_xref="taxon:75567"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15267.1"
+                     /translation="TLYLLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHTYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccttatat ctgctgtttg gtgcatgagc tggagttata ggtatggccc taagcctcct
+       61 tattcgagct gaactgggac agcccggtaa cttgctaggc aatgaccaca cctacaacgt
+      121 cattgtaacg gcccatgcat tcgtcataat ctttttcata gtcataccta ttataattgg
+      181 aggcttcgga aattgactag tacctctaat aatcggcgct cctgacatag catttccccg
+      241 tctaaacaat ataagcttct gactcctccc cccctctttc ttactactaa tagcatcaac
+      301 cgtagtagaa gccggtgctg gaacaggttg aacagtatac ccccctctat caggaaactt
+      361 ttcccaccca ggagcttccg tagacctagt cattttctct cttcacctag caggcatttc
+      421 ctccatcctg ggagctatca atttcattac cactattatc aacataaaac cccctgcaat
+      481 gtcccagtac caaacccccc tatttgtctg atcaatctta attacggcaa tcctcctgct
+      541 cctctctcta ccagtcctag ccgccggcat cactatgcta ttaacagatc gcaacctcaa
+      601 cactactttc tttgaccctg ttggaggagg agaccctatc ctataccaac acctattt
+//
+

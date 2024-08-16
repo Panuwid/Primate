@@ -1,0 +1,111 @@
+LOCUS       KJ192904                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Perodicticus potto isolate PpotT774 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192904
+VERSION     KJ192904.1
+KEYWORDS    .
+SOURCE      mitochondrion Perodicticus potto (potto)
+  ORGANISM  Perodicticus potto
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Perodicticus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Perodicticus potto"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PpotT774"
+                     /db_xref="taxon:9472"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15336.1"
+                     /translation="TLYLVFGAWAGMVGTALSLLIRAELGQPGTLLGDDQIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLMASSMV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIVNMKPPAM
+                     TQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 cacactatac ttagtatttg gcgcatgagc gggaatagta gggacagccc taagtctcct
+       61 catccgagca gaactaggcc agccaggaac cctattagga gacgaccaga tctacaatgt
+      121 tatcgtcaca gctcatgcat ttgtcataat ttttttcatg gttatgccaa ttataattgg
+      181 gggatttgga aactgattag tgccactaat aattggagcc cctgacatag cattcccccg
+      241 aataaacaat ataagcttct gactgctacc gccttccttc cttcttctta tagcctcatc
+      301 aatagtagaa gcaggtgcag gaacaggatg aactgtgtac cccccattag caggcaactt
+      361 agcccacgca ggggcctcag tagatctcac catcttctca ctccatctag caggggtttc
+      421 atctatctta ggcgctatca acttcatcac aactattgtt aatataaaac caccagccat
+      481 gactcaatac caaacccccc tatttgtatg atccgttata attacagcag tcctactcct
+      541 cctgtccctc cctgtactcg cagcaggcat taccatgctc ttaacagacc gaaatctcaa
+      601 cacaaccttc tttgaccctg ctggaggagg ggaccctatc ctataccaac atctgttt
+//
+
+LOCUS       KJ543731                 207 bp    DNA     linear   PRI 25-MAY-2014
+DEFINITION  Perodicticus potto cytochrome oxidase subunit I (COI) gene, partial
+            cds; mitochondrial.
+ACCESSION   KJ543731
+VERSION     KJ543731.1
+KEYWORDS    .
+SOURCE      mitochondrion Perodicticus potto (potto)
+  ORGANISM  Perodicticus potto
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Perodicticus.
+REFERENCE   1  (bases 1 to 207)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     An endogenous lentivirus in the genome of the bushbaby Galago
+            moholi
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 207)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAR-2014) School of Veterinary Medicine and Science,
+            University of Nottingham, Sutton Bonington Campus, College Road,
+            Sutton Bonington, Loughborough, Leicestershire LE12 5RD, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /organism="Perodicticus potto"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9472"
+     gene            <1..>207
+                     /gene="COI"
+     CDS             <1..>207
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHZ96698.1"
+                     /translation="IRAELSQPGTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGN
+                     WLIPLMIGAPDMAFPRMNNMSFWLL"
+ORIGIN      
+        1 atccgagcag aattaagcca gccagggact cttctaggag atgatcaaat ctacaatgtc
+       61 attgtcacag cccatgcttt tgtcataatc ttctttatag ttatacccat cataatcgga
+      121 gggtttggta actgattaat ccctcttata attggtgctc ctgatatagc ctttccccga
+      181 ataaataaca taagcttctg acttctg
+//
+

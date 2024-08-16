@@ -1,0 +1,736 @@
+LOCUS       HM102294                 639 bp    DNA     linear   PRI 25-JUL-2016
+DEFINITION  Chlorocebus aethiops strain ATCC CRL-1587 cytochrome oxidase
+            subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   HM102294
+VERSION     HM102294.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Cooper,J.K., Sykes,G., King,S., Cottrill,K., Ivanova,N.V.,
+            Hanner,R. and Ikonomi,P.
+  TITLE     Species identification in cell culture: a two-pronged molecular
+            approach
+  JOURNAL   In Vitro Cell. Dev. Biol. Anim. 43 (10), 344-351 (2007)
+   PUBMED   17934781
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Cooper,J.K., Sykes,G., King,S., Cottrill,K., Ivanova,N.V.,
+            Hanner,R. and Ikonomi,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-APR-2010) BioProduction, ATCC, 10801 University Blvd,
+            Manassas, VA 20110, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="ATCC CRL-1587"
+                     /culture_collection="ATCC:CRL-1587"
+                     /db_xref="BOLD:ACLB021-06.COI-5P"
+                     /db_xref="taxon:9534"
+                     /country="USA"
+                     /PCR_primers="fwd_seq: ttctctacaaatcataaagatattgg,
+                     rev_seq: taaacttcagggtgtccgaagaatca"
+                     /PCR_primers="fwd_seq: ttctccactaatcataaagacatcgg,
+                     rev_seq: tatacctcaggatgcccaaaaaatca"
+                     /PCR_primers="fwd_seq: ttctcaaccaaccacaaagacattgg,
+                     rev_seq: tagacttctgggtggccaaagaatca"
+                     /PCR_primers="fwd_seq: ttctcaaccaaccacaargayatygg,
+                     rev_seq: tagacttctgggtggccraaraayca"
+                     /PCR_primers="fwd_seq: ttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq: tagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>639
+                     /gene="COI"
+     CDS             <1..>639
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ADG46967.1"
+                     /translation="GAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFIMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGAGT
+                     GWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHLF"
+ORIGIN      
+        1 ggtgcatgag ctggaatcat aggaacagct ctaagccttc tcattcgagc tgaattaggc
+       61 caacccggta gtttactagg cagtgaccat atctataatg tcattgtaac agcccatgca
+      121 tttattataa ttttcttcat agttataccc attataatcg gagggttcgg gaactgacta
+      181 gtacccttga taattggtgc tcctgacata gcatttcccc gtctaaataa tatgagcttc
+      241 tgacttcttc ccccctcctt cctgctgcta atggcatcaa ccataatcga ggctggcgct
+      301 ggaacaggtt gaacagtata ccccccctta gcaggaaacc tctctcaccc aggggcctcc
+      361 gtagacttag ttattttctc cctccaccta gcaggagttt cctctatcct gggggctatc
+      421 aacttcatta ccaccattat caacatgaag ccccccgcca tatcccagta tcaaaccccg
+      481 ttatttgtct gatctgtcct aatcacagca atcctactac tcctctccct gccagtctta
+      541 gctgccggca ttactatact attaacagac cgcaacctca acactacctt ctttgatcct
+      601 actggagggg gagaccctat cctataccaa cacctattt
+//
+
+LOCUS       KX012693                 685 bp    DNA     linear   PRI 01-DEC-2016
+DEFINITION  Chlorocebus aethiops voucher NZG:BWP36340 cytochrome oxidase
+            subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX012693
+VERSION     KX012693.1
+DBLINK      BioProject: PRJNA301744
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 685)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Barcode of Wildlife project [South Africa]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 685)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2016) Research and Scientific Services, National
+            Zoological Garderns of South Africa, 232 Boom Street, Pretoria,
+            Gauteng 0001, South Africa
+COMMENT     ##BWP:1.0-START##
+            basisOfIdentification    :: Digital images
+            chainOfCustody           :: Yes
+            identificationConfidence :: high
+            identificationDate       :: 10-Dec-2014
+            typeStatus               :: none
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..685
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZG:BWP36340"
+                     /db_xref="taxon:9534"
+                     /country="South Africa"
+                     /collection_date="03-Sep-2014"
+                     /collected_by="Adrian Tordiffe"
+                     /identified_by="Tracy Rehse"
+                     /PCR_primers="fwd_name: LCO1490, fwd_seq:
+                     ggtcaacaaatcataaagatattgg, rev_name: HCO2198, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+     gene            <1..>685
+                     /gene="COI"
+     CDS             <1..>685
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ANH56790.1"
+                     /translation="TNHKDIGTLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHI
+                     YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLL
+                     LMASTMIEAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTII
+                     NMKPPAMSQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGD
+                     PILYQHLFWF"
+ORIGIN      
+        1 acaaatcata aagatattgg aactctatac ctactattcg gtgcatgagc tggaatcatg
+       61 ggcacagctc taagccttct tattcgagct gaactaggcc aacccggtag tttactaggc
+      121 agcgaccata tctataatgt cattgtaaca gcccatgcat ttgttataat tttcttcata
+      181 gttataccca tcataattgg aggattcggg aactgactag tacccttgat aattggtgct
+      241 cctgacatgg cattcccccg tctaaataat ataagcttct gactccttcc cccctctttc
+      301 ctactgctaa tggcatcaac cataatcgag gctggcgccg gaactggttg aacagtatat
+      361 ccccctttag caggaaactt ctcccatcca ggggcctccg tagacttagt tattttctcc
+      421 ctccacctag cagggatttc ctctatccta ggggctatca acttcatcac taccattatc
+      481 aacatgaagc cccccgccat atcccagtat caaaccccac tgtttgtctg atctgtccta
+      541 atcacagcaa tcctactact cctctcccta ccagtcttag ctgccggcat tactatacta
+      601 ttaacagacc gcaacctcaa cactaccttc tttgatccta ctggaggagg agacccgatc
+      661 ctataccaac atctattttg atttt
+//
+
+LOCUS       KX012691                 694 bp    DNA     linear   PRI 01-DEC-2016
+DEFINITION  Chlorocebus aethiops voucher NZG:BWP36339 cytochrome oxidase
+            subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX012691
+VERSION     KX012691.1
+DBLINK      BioProject: PRJNA301744
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 694)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Barcode of Wildlife project [South Africa]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 694)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2016) Research and Scientific Services, National
+            Zoological Garderns of South Africa, 232 Boom Street, Pretoria,
+            Gauteng 0001, South Africa
+COMMENT     ##BWP:1.0-START##
+            basisOfIdentification    :: Digital images
+            chainOfCustody           :: Yes
+            identificationConfidence :: high
+            identificationDate       :: 10-Dec-2014
+            typeStatus               :: none
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..694
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZG:BWP36339"
+                     /db_xref="taxon:9534"
+                     /country="South Africa"
+                     /collection_date="03-Sep-2014"
+                     /collected_by="Adrian Tordiffe"
+                     /identified_by="Tracy Rehse"
+                     /PCR_primers="fwd_name: LCO1490, fwd_seq:
+                     ggtcaacaaatcataaagatattgg, rev_name: HCO2198, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+     gene            <1..>694
+                     /gene="COI"
+     CDS             <1..>694
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ANH56788.1"
+                     /translation="DIGTLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVI
+                     VTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAS
+                     TMIEAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKP
+                     PAMSQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDTILY
+                     QHLLNFXTLKXK"
+ORIGIN      
+        1 aagatattgg aactctatac ctactattcg gtgcatgagc tggaatcatg ggcacagctc
+       61 taagtcttct tattcgagct gaactaggcc aacccggtag cttactaggt agcgaccata
+      121 tctataatgt cattgtaaca gcccatgcat ttgtcataat tttcttcata gttataccca
+      181 tcataattgg aggattcggg aattgactag tacccttgat aattggtgct cctgacatag
+      241 cattcccccg tctaaataat ataagcttct gactcctccc cccctctttc ctactgctaa
+      301 tggcatcaac cataatcgag gctggcgccg gaacaggttg aacagtatat ccccctttag
+      361 caggaaactt ctcccatcca ggagcctccg tagacttagt tattttctcc ctccacctag
+      421 cagggatttc ctctatctta ggggctatca acttcatcac tactattatc aacatgaagc
+      481 cccccgccat atcccagtat caaaccccac tgtttgtctg atctgtccta atcacagcaa
+      541 tcctactact cctctcccta ccagtcttag ctgccggcat tactatacta ttaacagacc
+      601 gcaacctcaa cactaccttc tttgatccta ctggaggagg agacactatc ctataccaac
+      661 atctattgaa ttttttkacc cttaaatawa aaaa
+//
+
+LOCUS       KX012689                 665 bp    DNA     linear   PRI 01-DEC-2016
+DEFINITION  Chlorocebus aethiops voucher NZG:BWP36338 cytochrome oxidase
+            subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX012689
+VERSION     KX012689.1
+DBLINK      BioProject: PRJNA301744
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 665)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Barcode of Wildlife project [South Africa]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 665)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2016) Research and Scientific Services, National
+            Zoological Garderns of South Africa, 232 Boom Street, Pretoria,
+            Gauteng 0001, South Africa
+COMMENT     ##BWP:1.0-START##
+            basisOfIdentification    :: Digital images
+            chainOfCustody           :: Yes
+            identificationConfidence :: high
+            identificationDate       :: 10-Dec-2014
+            typeStatus               :: none
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..665
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZG:BWP36338"
+                     /db_xref="taxon:9534"
+                     /country="South Africa"
+                     /collection_date="03-Sep-2014"
+                     /collected_by="Adrian Tordiffe"
+                     /identified_by="Tracy Rehse"
+                     /PCR_primers="fwd_name: LCO1490, fwd_seq:
+                     ggtcaacaaatcataaagatattgg, rev_name: HCO2198, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+     gene            <1..>665
+                     /gene="COI"
+     CDS             <1..>665
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ANH56786.1"
+                     /translation="IGTLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     MIEAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQ
+                     HLL"
+ORIGIN      
+        1 atattggaac tctataccta ctattcggtg catgagctgg aatcatgggc acagctctaa
+       61 gtcttcttat tcgggctgaa ctaggccaac ccggtagctt actaggtagc gaccatatct
+      121 ataatgtcat tgtaacagcc catgcatttg tcataatttt cttcatagtt atacccatca
+      181 taattggagg attcgggaat tgactagtac ccttgataat tggtgctcct gacatagcat
+      241 tcccccgtct aaataatata agcttctgac tcctcccccc ctctttccta ctgctaatgg
+      301 catcaaccat aatcgaggct ggcgccggaa caggttgaac agtatatccc cctttagcag
+      361 gaaacttctc ccatccagga gcctccgtag acttagttat tttctccctc cacctagcag
+      421 ggatttcctc tatcttaggg gctatcaact tcatcactac tattatcaac atgaagcccc
+      481 ccgccatatc ccagtatcaa accccactgt ttgtctgatc tgtcctaatc acagcaatcc
+      541 tactactcct ctccctacca gtcttagctg ccggcattac tatactatta acagaccgca
+      601 acctcaacac taccttcttt gatcctactg gaggaggaga ccctatccta taccaacatc
+      661 tattg
+//
+
+LOCUS       KX012688                 660 bp    DNA     linear   PRI 01-DEC-2016
+DEFINITION  Chlorocebus aethiops voucher NZG:BWP36337 cytochrome oxidase
+            subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX012688
+VERSION     KX012688.1
+DBLINK      BioProject: PRJNA301744
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Barcode of Wildlife project [South Africa]
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Mwale,M., Dalton,D.L., Roelofse,M., Mokgokong,P.S., Labuschagne,K.
+            and Kotze,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2016) Research and Scientific Services, National
+            Zoological Garderns of South Africa, 232 Boom Street, Pretoria,
+            Gauteng 0001, South Africa
+COMMENT     ##BWP:1.0-START##
+            basisOfIdentification    :: Digital images
+            chainOfCustody           :: Yes
+            identificationConfidence :: high
+            identificationDate       :: 10-Dec-2014
+            typeStatus               :: none
+            ##BWP:1.0-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NZG:BWP36337"
+                     /db_xref="taxon:9534"
+                     /country="South Africa"
+                     /collection_date="03-Sep-2014"
+                     /collected_by="Adrian Tordiffe"
+                     /identified_by="Tracy Rehse"
+                     /PCR_primers="fwd_name: LCO1490, fwd_seq:
+                     ggtcaacaaatcataaagatattgg, rev_name: HCO2198, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ANH56785.1"
+                     /translation="IGTLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     MIEAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQ
+                     H"
+ORIGIN      
+        1 atattggaac tctataccta ctattcggtg catgagctgg aatcatgggc acagctctaa
+       61 gccttcttat tcgagctgaa ctaggccaac ccggtagttt actaggcagc gaccatatct
+      121 ataatgtcat tgtaacagcc catgcatttg ttataatttt cttcatagtt atacccatca
+      181 taattggagg attcgggaac tgactagtac ccttgataat tggtgctcct gacatggcat
+      241 tcccccgtct aaataatata agcttctgac tccttccccc ctctttccta ctgctaatgg
+      301 catcaaccat aatcgaggct ggcgccggaa ctggttgaac agtatatccc cctttagcag
+      361 gaaacttctc ccatccaggg gcctccgtag acttagttat tttctccctc cacctagcag
+      421 ggatttcctc tatcctaggg gctatcaact tcatcactac cattatcaac atgaagcccc
+      481 ccgccatatc ccagtatcaa accccactgt ttgtctgatc tgtcctaatc acagcaatcc
+      541 tactactcct ctccctacca gtcttagctg ccggcattac tatactatta acagaccgca
+      601 acctcaacac taccttcttt gatcctactg gaggaggaga ccckatccta taccaacatc
+//
+
+LOCUS       KJ862209                 648 bp    DNA     linear   PRI 22-SEP-2015
+DEFINITION  Chlorocebus aethiops voucher S64 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   KJ862209
+VERSION     KJ862209.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Using DNA Barcoding to Identify the Endangered Birds and Big
+            Mammals in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2014) College of Life Sciences, Sichuan
+            University, South section I, Yihuan Road, Chengdu, Sichuan Province
+            610064, China
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="S64"
+                     /db_xref="taxon:9534"
+                     /country="China"
+                     /collected_by="Guang Zhao"
+                     /PCR_primers="fwd_name: VF1, fwd_seq:
+                     ttctcaaccaaccacaaagacattgg, rev_name: VR1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIM44764.1"
+                     /translation="LLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHLF"
+ORIGIN      
+        1 ctactattcg gtgcatgagc tggaatcata ggcacagctc taagtcttct cattcgagct
+       61 gaactaggcc aacccggtag tttactaggt agtgaccata tctataatgt cattgtgaca
+      121 gcccatgcat ttgttataat tttcttcata gttataccca ttataattgg aggattcggg
+      181 aactgactag tacccttgat aattggtgct cctgacatag cattcccccg tttaaataat
+      241 ataagcttct gacttcttcc cccctctttc ctgctgctaa tggcatcaac cataatcgag
+      301 gctggcgccg gaacaggctg aacagtatat ccccccttag caggaaacct ctctcatcca
+      361 ggggcctccg tagacttagt tattttctcc ctccacctag cagggatttc ctctatccta
+      421 ggagctatca acttcatcac taccattatc aacatgaagc cccccgccat atcccagtac
+      481 caaaccccat tgtttgtctg gtctgtccta atcacagcaa tcctactact cctctcccta
+      541 ccagtcttag ctgccggcat tactatacta ttaacagacc gcaacctcaa cactaccttc
+      601 tttgatccca ctggaggagg agaccctatc ctataccaac acctattt
+//
+
+LOCUS       KJ192959                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Chlorocebus sabaeus isolate UnknownT740 cytochrome oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192959
+VERSION     KJ192959.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus sabaeus (Cercopithecus sabaeus)
+  ORGANISM  Chlorocebus sabaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Chlorocebus sabaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT740"
+                     /db_xref="taxon:60711"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15391.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMI
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctatac ctactattcg gtgcatgagc tggaatcata ggcacagctc taagccttct
+       61 cattcgagct gaattaggcc aacccggtag tttactaggc agtgaccata tctataatgt
+      121 cattgtaaca gcccatgcat ttattataat tttcttcata gttataccca ttataatcgg
+      181 ggggttcggg aactgactag tacccttgat aattggtgct cctgacatag catttccccg
+      241 tctaaataat ataagcttct gacttcttcc cccctctttc ctgctgctaa tggcatcaac
+      301 cataatcgag gctggcgctg gaacaggttg aacagtatac ccccccttag caggaaacct
+      361 ctctcaccca ggggcctccg tagacttagt tattttctcc ctccacctag caggagtttc
+      421 ctctatcctg ggggctatca acttcattac caccattatc aacatgaaac cccccgccat
+      481 atcccagtat caaaccccat tatttgtctg atctgtccta atcacagcaa tcctactact
+      541 cctctccctg ccagtcttag ctgccggcat tactatacta ttaacagacc gcaacctcaa
+      601 cactaccttc tttgatccta ctggaggggg agaccctatc ctataccaac acctattt
+//
+
+LOCUS       KJ192754                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Chlorocebus sabaeus isolate CsabT1275 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192754
+VERSION     KJ192754.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus sabaeus (Cercopithecus sabaeus)
+  ORGANISM  Chlorocebus sabaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Chlorocebus sabaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CsabT1275"
+                     /db_xref="taxon:60711"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15186.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMI
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctatac ctactattcg gtgcatgagc tggaatcata ggtacagctc taagccttct
+       61 cattcgagct gaattaggcc aacccggtag tttactaggc agtgaccata tctataatgt
+      121 cattgtaaca gcccatgcat ttattataat tttcttcata gttataccca ttataatcgg
+      181 ggggttcggg aactgactag tacccttgat aattggtgct cctgacatag catttccccg
+      241 tctaaataat atgagcttct gacttcttcc cccctccttc ctgctgctaa tggcatcaac
+      301 cataatcgag gctggcgctg gaacaggttg aacagtatac ccccccttag caggaaacct
+      361 ctctcaccca ggggcctccg tagacttaat tattttctcc ctccacctag caggagtttc
+      421 ctctatcctg ggggctatca acttcattac caccattatc aacatgaagc cccccgccat
+      481 atcccagtat caaaccccgt tatttgtctg atctgtccta atcacagcaa tcctactact
+      541 cctctccctg ccagtcttag ctgccggcat tactatacta ttaacagacc gcaacctcaa
+      601 cactaccttc tttgatccta ctggaggggg agaccctatc ctataccaac acctattt
+//
+
+LOCUS       KJ192753                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Chlorocebus sabaeus isolate CsabT1272 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192753
+VERSION     KJ192753.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus sabaeus (Cercopithecus sabaeus)
+  ORGANISM  Chlorocebus sabaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Chlorocebus sabaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CsabT1272"
+                     /db_xref="taxon:60711"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15185.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMI
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctatac ctactattcg gtgcatgagc tggaatcata ggtacagctc taagccttct
+       61 cattcgagct gaattaggcc aacccggtag tttactaggc agtgaccata tctataatgt
+      121 cattgtaaca gcccatgcat ttattataat tttcttcata gttataccca ttataatcgg
+      181 ggggttcggg aactgactag tacccttgat aattggtgct cctgacatag catttccccg
+      241 tctaaataat atgagcttct gacttcttcc cccctccttc ctgctgctaa tggcatcaac
+      301 cataatcgag gctggcgctg gaacaggttg aacagtatac ccccccttag caggaaacct
+      361 ctctcaccca ggggcctccg tagacttaat tattttctcc ctccacctag caggagtttc
+      421 ctctatcctg ggggctatca acttcattac caccattatc aacatgaagc cccccgccat
+      481 atcccagtat caaaccccgt tatttgtctg atctgtccta atcacagcaa tcctactact
+      541 cctctccctg ccagtcttag ctgccggcat tactatacta ttaacagacc gcaacctcaa
+      601 cactaccttc tttgatccta ctggaggggg agaccctatc ctataccaac acctattt
+//
+
+LOCUS       KJ192752                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Chlorocebus sabaeus isolate CsabT1271 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192752
+VERSION     KJ192752.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus sabaeus (Cercopithecus sabaeus)
+  ORGANISM  Chlorocebus sabaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Chlorocebus sabaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CsabT1271"
+                     /db_xref="taxon:60711"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15184.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMI
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctatac ctactattcg gtgcatgagc tggaatcata ggtacagctc taagccttct
+       61 cattcgagct gaattaggcc aacccggtag tttactaggc agtgaccata tctataatgt
+      121 cattgtaaca gcccatgcat ttattataat tttcttcata gttataccca ttataatcgg
+      181 ggggttcggg aactgactag tacccttgat aattggtgct cctgacatag catttccccg
+      241 tctaaataat atgagcttct gacttcttcc cccctccttc ctgctgctaa tggcatcaac
+      301 cataatcgag gctggcgctg gaacaggttg aacagtatac ccccccttag caggaaacct
+      361 ctctcaccca ggggcctccg tagacttagt tattttctcc ctccacctag caggagtttc
+      421 ctctatcctg ggggctatca acttcattac caccattatc aacatgaagc cccccgccat
+      481 atcccagtat caaaccccgt tatttgtctg atctgtccta atcacagcaa tcctactact
+      541 cctctccctg ccagtcttag ctgccggcat tactatacta ttaacagacc gcaacctcaa
+      601 cactaccttc tttgatccta ctggaggggg agaccctatc ctataccaac acctattt
+//
+
+LOCUS       KJ192751                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Chlorocebus sabaeus isolate CsabT1268 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192751
+VERSION     KJ192751.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus sabaeus (Cercopithecus sabaeus)
+  ORGANISM  Chlorocebus sabaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Chlorocebus sabaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CsabT1268"
+                     /db_xref="taxon:60711"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15183.1"
+                     /translation="TLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMI
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctatac ctactattcg gtgcatgagc tggaatcata ggtacagctc taagccttct
+       61 cattcgagct gaattaggcc aacccggtag tttactaggc agtgaccata tctataatgt
+      121 cattgtaaca gcccatgcat ttattataat tttcttcata gttataccca ttataattgg
+      181 ggggttcggg aactgactag tacccttgat aattggtgct cctgacatag catttccccg
+      241 tctaaataat atgagcttct gacttcttcc cccctccttc ctgctgctaa tggcatcaac
+      301 cataatcgag gctggcgctg ggacaggttg aacagtatac ccccccttag caggaaacct
+      361 ctctcaccca ggggcctccg tagacttagt tattttctcc ctccacctag caggagtttc
+      421 ctctatcctg ggggctatca acttcattac caccattatc aacatgaagc cccccgccat
+      481 atcccagtat caaaccccgt tatttgtctg atctgtccta atcacagcaa tcctactact
+      541 cctctccctg ccagtcttag ctgccggcat tactatacta ttaacagacc gcaacctcaa
+      601 cactaccttc tttgatccta ctggaggggg agaccctatc ctataccaac acctattt
+//
+

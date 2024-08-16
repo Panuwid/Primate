@@ -1,0 +1,2131 @@
+LOCUS       EU185733                 406 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Macaca silenus voucher PR00833 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EU185733
+VERSION     EU185733.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca silenus (liontail macaque)
+  ORGANISM  Macaca silenus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 406)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 406)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave., Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..406
+                     /organism="Macaca silenus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR00833"
+                     /db_xref="taxon:54601"
+                     /sex="female"
+     gene            <1..>406
+                     /gene="COXI"
+     CDS             <1..>406
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71167.1"
+                     /translation="YNVIVTAHAFIMIFFTVMPIMIGGFGNWLVPLMIGAPDMAFPRL
+                     NNMSFWLLPPSFLLLMASAVVEAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGI
+                     SSILGAINFITTIINMKPPAMSLYQTPLFVWS"
+ORIGIN      
+        1 tctacaacgt tattgtaacg gcccacgcat tcattataat tttctttaca gtcataccta
+       61 ttatgattgg gggcttcggg aattgattag tacccttgat aatcggcgca cccgacatag
+      121 catttccccg cctaaataat ataagcttct gactcctccc tccttctttc ttgctactaa
+      181 tggcatcagc cgtagtagaa gctggcgctg ggacaggttg aacagtatac ccccctttag
+      241 caggaaactt ctcccaccca ggagcttccg tagacctaat catcttctcc cttcacctgg
+      301 caggtatttc ctctatcctg ggagccatca actttattac cactatcatc aacataaaac
+      361 cccccgcaat atccctatac caaacccctt tatttgtctg atcaat
+//
+
+LOCUS       AY972709                 653 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Macaca fuscata isolate PR00782 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972709
+VERSION     AY972709.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca fuscata (Japanese macaque)
+  ORGANISM  Macaca fuscata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 653)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 653)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 653)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..653
+                     /organism="Macaca fuscata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00782"
+                     /db_xref="taxon:9542"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>653
+                     /gene="COXI"
+     CDS             <1..>653
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22276.1"
+                     /translation="WCMSWNMGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFTVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGT
+                     GWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAVSQYQTP
+                     LFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQHLFWFFG"
+ORIGIN      
+        1 tttggtgcat gagctggaat ataggcactg ccctaagcct cctcattcga gctgaactag
+       61 gccaacccgg caacctacta ggcaacgacc atatctataa cgttattgta acggcccatg
+      121 catttgtcat aattttcttc acagttatac ccattataat tggggggttc gggaactgac
+      181 tagtgcccct aataatcggc gctcccgaca tagcattccc ccgtctaaat aacatgagct
+      241 tctgactcct ccccccttct ttcctgctac taatagcatc cgccgtggta gaagctggcg
+      301 ccggaacagg ctgaacagta tatccccccc tagcaggaaa cttctcccac ccaggggctt
+      361 ctgtagactt agtcatcttc tctctccacc tagcaggtat ttcttctatc ttaggagcca
+      421 tcaacttcat taccaccatc atcaacataa aaccccctgc agtatcccaa taccaaaccc
+      481 ctttatttgt ctgatcaatc ttaatcacag caatccttct actcctctct ctaccagtcc
+      541 tagccgctgg cattaccatg ctactaacag accgcaacct caacactact ttctttgacc
+      601 ctgttggagg aggagatcct atcttatatc aacacctatt ttgattcttc ggc
+//
+
+LOCUS       AY972704                 647 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Macaca thibetana isolate PR00711 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972704
+VERSION     AY972704.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca thibetana (Pere David's macaque)
+  ORGANISM  Macaca thibetana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 647)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 647)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 647)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..647
+                     /organism="Macaca thibetana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00711"
+                     /db_xref="taxon:54602"
+                     /sex="female"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>647
+                     /gene="COXI"
+     CDS             <1..>647
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22272.1"
+                     /translation="YLLFGAWAGVMGTALSLLIRAELGQPGNLLGNDHIYNVVVTAHA
+                     FIMIFFTVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEA
+                     GAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPALSQ
+                     YQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQH"
+ORIGIN      
+        1 tatatttact atttggtgcg tgagctggag tcataggcac cgccctgagc cttctcattc
+       61 gagctgaact aggccaaccc ggcaacctat taggcaacga ccacatctac aacgttgttg
+      121 taacggccca tgctttcatt ataatcttct ttacagttat acccattata attggggggt
+      181 tcgggaactg attagtaccc ctaataatcg gcgctcctga catagcattt ccccgtttaa
+      241 acaatataag cttctgactc ctccctcctt ctttcctgct attaatagca tcagccgtag
+      301 tagaagctgg cgccggaaca ggctgaacag tatacccccc tttagcagga aatttctccc
+      361 acccaggagc ttctgtagat ttagttatct tctccctcca cctagcaggt atttcctcca
+      421 tcttgggggc catcaacttt attaccacta ttatcaacat aaaaccccct gcactatccc
+      481 aataccagac tcctttattc gtctgatcaa tcttaatcac agctatcctt ctactcctct
+      541 ccctaccggt cttagctgct ggcattacca tactgctaac agatcgcaat ctcaatacta
+      601 ccttctttga ccctgttgga ggaggagacc ctatcctata ccaacac
+//
+
+LOCUS       AY972676                 572 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Macaca mulatta isolate PR00408 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972676
+VERSION     AY972676.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 572)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 572)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 572)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..572
+                     /organism="Macaca mulatta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00408"
+                     /db_xref="taxon:9544"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>572
+                     /gene="COXI"
+     CDS             <1..>572
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22246.1"
+                     /translation="IMGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFTVM
+                     PIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGTGWTVY
+                     PPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAVSQYQTPLFVWS
+                     ILITAILLLLSLPVLAAGITMLLTDRNLNTT"
+ORIGIN      
+        1 atcataggca ctgccctaag cctcctcatt cgagctgaac taggccaacc cggcaaccta
+       61 ctaggcaacg accacatcta taacgttatt gtaacggccc atgcatttgt cataattttc
+      121 tttacagtca tacccattat aattggaggg ttcgggaact gactagtacc cctaataatc
+      181 ggcgcccccg acatagcatt cccccgtcta aacaatatga gcttctgact cctcccccct
+      241 tctttcctgc tactaatagc atccgccgtg gtagaagctg gcgccggaac aggctgaaca
+      301 gtataccccc ctctagcagg aaacttctcc cacccaggag cttctgtaga tttagtcatc
+      361 ttctctcttc acctagcagg tatttcctct atcttaggag ccatcaactt cattaccacc
+      421 attatcaaca taaaaccccc cgcagtatcc caataccaaa cccctttatt tgtctgatca
+      481 atcttaatca cagcaatcct tctactcctc tctctaccag ttctagccgc cggcattacc
+      541 atgctactaa cagatcgcaa cctcaatact ac
+//
+
+LOCUS       AY972657                 630 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Macaca mulatta isolate PR00112 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972657
+VERSION     AY972657.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /organism="Macaca mulatta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00112"
+                     /db_xref="taxon:9544"
+                     /sex="male"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>630
+                     /gene="COXI"
+     CDS             <1..>630
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22232.1"
+                     /translation="FGAWAGIMGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVM
+                     IFFTVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAG
+                     TGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAVSQYQT
+                     PLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPIL"
+ORIGIN      
+        1 tatttggtgc atgagctgga atcataggca ctgccctaag cctcctcatt cgagctgaac
+       61 taggccaacc cggcaaccta ctaggcaacg accacatcta taacgttatt gtaacggccc
+      121 atgcatttgt cataattttc tttacagtca tacccattat aattggaggg ttcgggaact
+      181 gactagtacc cctaataatc ggcgcccccg acatagcatt cccccgtcta aacaatatga
+      241 gcttctgact cctcccccct tctttcctgc tactaatagc atccgccgtg gtagaagctg
+      301 gcgccggaac aggctgaaca gtataccccc ctctagcagg aaacttctcc cacccaggag
+      361 cttctgtaga tttagtcatc ttctctcttc acctagcagg tatttcctct atcttaggag
+      421 ccatcaactt cattaccacc attatcaaca taaaaccccc cgcagtatcc caataccaaa
+      481 cccctttatt tgtctgatca atcttaatca cagcaatcct tctactcctc tctctaccag
+      541 ttctagccgc cggcattacc atgctactaa cagatcgcaa cctcaatact actttctttg
+      601 accctgttgg aggaggagac cctatcctat
+//
+
+LOCUS       AY972643                 641 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Macaca nemestrina isolate PR00028 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972643
+VERSION     AY972643.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca nemestrina (pig-tailed macaque)
+  ORGANISM  Macaca nemestrina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 641)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 641)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 641)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..641
+                     /organism="Macaca nemestrina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00028"
+                     /db_xref="taxon:9545"
+                     /sex="male"
+                     /cell_type="keratinocyte"
+                     /tissue_type="skin"
+     gene            <1..>641
+                     /gene="COXI"
+     CDS             <1..>641
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22220.1"
+                     /translation="LLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVIVTAXAF
+                     IMIFFTVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVEAG
+                     AGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGISSILGAINFITTIINMKPPAMSLY
+                     QTPLFVWSILITAXLMLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ"
+ORIGIN      
+        1 cttactattt ggtgcatgag ctggagtcat aggtacagcc ctgagcctcc tnatccgagc
+       61 tgaactgggt caacccggca gcctattagg aaacgaccac atctacaacg ttattgtaac
+      121 ggcccangca ttcattataa ttttctttac agtcatacct attatgattg ggggtttcgg
+      181 gaattgatta gtgcccttaa taatcggcgc acccgacatg gcatttcccc gcctaaataa
+      241 cataagcttc tgactcctcc ctccttcttt cctgctacta atagcatcag ccatagtaga
+      301 agctggcgct ggaacaggtt gaacagtata ccccccttta gcaggaaact tctcccaccc
+      361 aggagcttcc gtagacctaa tcatcttctc cctccacctg gcaggtatct cctctatcct
+      421 aggggccatc aactttatta ccactatcat caacataaaa ccccccgcaa tatccctata
+      481 ccaaacccct ttatttgtct gatcgatctt aatcacagca rtccttatac tcctctccct
+      541 accagtctta gccgctggca ttaccatact gctaacagac cgcaacctca atactacctt
+      601 ttttgacccc gttggaggag gagaccctat cctataccaa c
+//
+
+LOCUS       AY972642                 630 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Macaca fascicularis isolate PR00013 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972642
+VERSION     AY972642.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca fascicularis (crab-eating macaque)
+  ORGANISM  Macaca fascicularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /organism="Macaca fascicularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00013"
+                     /db_xref="taxon:9541"
+                     /sex="male"
+                     /cell_type="keratinocyte"
+                     /tissue_type="skin"
+     gene            <1..>630
+                     /gene="COXI"
+     CDS             <1..>630
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22219.1"
+                     /translation="FGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVIVTAHAFVM
+                     IFFTVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAG
+                     TGWTVYPPLAGNFSHPGASVDLIIFSLHLAGISSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPIL"
+ORIGIN      
+        1 tatttggtgc atgagctgga gtcataggca ctgccctgag cctcctcatt cgagctgagc
+       61 taggccaacc cggcagccta ctaggcaacg atcacatcta caacgttatt gtaacggccc
+      121 atgcattcgt cataattttc tttacagtta tacccattat aattggaggg ttcgggaact
+      181 gactggtgcc cctaataatc ggcgctcccg acatagcatt tccccgtcta aacaatataa
+      241 gcttctgact cctcccccct tctttcctgc tactaatagc atcagccgtg gtagaagctg
+      301 gcgccggaac aggctgaaca gtatatcccc ctctagcagg aaacttttcc cacccaggag
+      361 cttccgtaga tttgattatc ttctccctcc acttagcagg tatttcctcc atcttagggg
+      421 ccatcaactt tattaccact attatcaaca taaagcctcc cgcaatatcc caataccaga
+      481 cccctttatt tgtctgatca atcttaatca cagcagtcct tctacttctc tctctaccag
+      541 tcctagccgc cggcattacc atattactaa cagatcgcaa cctcaatact accttctttg
+      601 atcctgttgg aggaggagat cctatcctat
+//
+
+LOCUS       EF568737                 419 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca nemestrina voucher AG08453 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568737
+VERSION     EF568737.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca nemestrina (pig-tailed macaque)
+  ORGANISM  Macaca nemestrina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 419)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 419)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..419
+                     /organism="Macaca nemestrina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG08453"
+                     /db_xref="taxon:9545"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>419
+                     /gene="COXI"
+     CDS             <1..>419
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81646.1"
+                     /translation="PRLNNMSFWLLPPSFLLLMASAMVEAGAGTGWTVYPPLAGNFSH
+                     PGASVDLIIFSLHLAGISSILGAINFITTIINMKPPAMSLYQTPLFVWSILITAVLLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQH"
+ORIGIN      
+        1 tccccgccta aataacataa gcttctgact cctccctcct tctttcctgc tactaatagc
+       61 atcagccata gtagaagctg gcgctggaac aggttgaaca gtataccccc ctttagcagg
+      121 aaacttctcc cacccaggag cttccgtaga cctaatcatc ttctccctcc acctggcagg
+      181 tatttcctct atcctagggg ccatcaactt tattaccact atcatcaaca taaaaccccc
+      241 cgcaatatcc ctataccaaa cccctttatt tgtctgatcg atcttaatca cagcagtcct
+      301 tttactcctc tccctaccag tcttagccgc tggcattacc atactgctaa cagaccgcaa
+      361 cctcaatact accttttttg accccgttgg aggaggagac cctatcctat accaacacc
+//
+
+LOCUS       EF568736                 492 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca nemestrina voucher AG08491 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568736
+VERSION     EF568736.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca nemestrina (pig-tailed macaque)
+  ORGANISM  Macaca nemestrina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 492)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 492)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..492
+                     /organism="Macaca nemestrina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG08491"
+                     /db_xref="taxon:9545"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>492
+                     /gene="COXI"
+     CDS             <1..>492
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81645.1"
+                     /translation="MPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMA
+                     SAMVEAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGISSILGAINFITTIINMK
+                     PPAMSLYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPIL
+                     YQH"
+ORIGIN      
+        1 tcatacctat tatgattggg ggtttcggga attgattagt gcccttaata atcggcgcac
+       61 ccgacatggc atttccccgc ctaaataaca taagcttctg actcctccct ccttctttcc
+      121 tgctactaat agcatcagcc atagtagaag ctggcgctgg aacaggttga acagtatacc
+      181 cccctttagc aggaaacttc tcccacccag gagcttccgt agacctaatc atcttctccc
+      241 tccacctggc aggtatttcc tctatcctag gggccatcaa ctttattacc actatcatca
+      301 acataaaacc ccccgcaata tccctatacc aaaccccttt atttgtctga tcgatcttaa
+      361 tcacagcagt ccttttactc ctctccctac cagtcttagc cgctggcatt accatactgc
+      421 taacagaccg caacctcaat actacctttt ttgaccccgt tggaggagga gaccctatcc
+      481 tataccaaca cc
+//
+
+LOCUS       EF568735                 496 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca nemestrina voucher AG08488 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568735
+VERSION     EF568735.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca nemestrina (pig-tailed macaque)
+  ORGANISM  Macaca nemestrina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 496)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 496)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..496
+                     /organism="Macaca nemestrina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG08488"
+                     /db_xref="taxon:9545"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>496
+                     /gene="COXI"
+     CDS             <1..>496
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81644.1"
+                     /translation="TVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLL
+                     MASAMVEAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGISSILGAINFITTIIN
+                     MKPPAMSLYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDP
+                     ILYQH"
+ORIGIN      
+        1 acagtcatac ctattatgat tgggggtttc gggaattgat tagtacccct aataatcggc
+       61 gcacccgaca tggcatttcc ccgcctaaat aacataagct tctgactcct ccctccttct
+      121 ttcctgctac taatagcatc agccatagta gaggctggcg ctggaacagg ttgaacggta
+      181 tacccccctt tagcaggaaa cttctcccac ccaggagctt ccgtagacct aatcatcttc
+      241 tccctccacc tggcaggtat ttcctctatc ctaggggcca tcaactttat taccactatc
+      301 atcaacataa aaccccccgc aatatcccta taccaaaccc ctttatttgt ctgatcaatc
+      361 ttaatcacag cagtcctttt actcctctcc ctaccagtct tagccgctgg cattaccata
+      421 ctgctaacag atcgcaacct caatactacc ttttttgacc ccgttggagg aggagaccct
+      481 atcctatacc aacacc
+//
+
+LOCUS       EF568734                 487 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca mulatta voucher AG07127 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF568734
+VERSION     EF568734.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 487)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 487)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..487
+                     /organism="Macaca mulatta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG07127"
+                     /db_xref="taxon:9544"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>487
+                     /gene="COXI"
+     CDS             <1..>487
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81643.1"
+                     /translation="TVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLL
+                     MASAVVEAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIIN
+                     MKPPAVSQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDP
+                     IL"
+ORIGIN      
+        1 acagtcatac ccattataat tggagggttc gggaactgac tagtacccct aataatcggc
+       61 gcccccgaca tagcattccc ccgtctaaac aatatgagct tctgactcct ccccccttct
+      121 ttcctgctac taatagcatc cgccgtggta gaagctggcg ccggaacagg ctgaacagta
+      181 tacccccctc tagcaggaaa cttctcccac ccaggagctt ctgtagattt agtcatcttc
+      241 tctcttcatc tagcaggtat ttcctctatc ttaggagcca tcaacttcat taccaccatt
+      301 atcaacataa aaccccccgc agtatcccaa taccaaaccc ctttatttgt ctgatcaatc
+      361 ttaatcacag caatccttct actcctctct ctaccagttc tagccgccgg cattaccatg
+      421 ctactaacag atcgcaacct caatactact ttctttgacc ctgttggggg aggagaccct
+      481 atcctat
+//
+
+LOCUS       EF568728                 540 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca nemestrina voucher AG07915 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568728
+VERSION     EF568728.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca nemestrina (pig-tailed macaque)
+  ORGANISM  Macaca nemestrina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 540)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 540)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..540
+                     /organism="Macaca nemestrina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG07915"
+                     /db_xref="taxon:9545"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>540
+                     /gene="COXI"
+     CDS             <1..>540
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81637.1"
+                     /translation="NVIVTAHAFIMIFFTVMPIMIGGFGNWLVPLMIGAPDMAFPRLN
+                     NMSFWLLPPSFLLLMASAMVEAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGIS
+                     SILGAINFITTIINMKPPAMSLYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRN
+                     LNTTFFDPVGGGDPILYQH"
+ORIGIN      
+        1 acaacgttat tgtaacggcc cacgcattca ttataatctt ctttacagtc atacctatta
+       61 tgattggggg tttcgggaat tgattagtgc ccttaataat cggcgcaccc gacatggcat
+      121 ttccccgcct aaataacata agcttctgac tcctccctcc ttctttcctg ctactaatag
+      181 catcagccat agtagaagct ggcgctggaa caggttgaac agtatacccc cctttagcag
+      241 gaaacttctc ccacccagga gcttccgtag acctaatcat cttctccctc cacctggcag
+      301 gtatttcctc tatcctaggg gccatcaact ttattaccac tatcatcaac ataaaacccc
+      361 ccgcaatatc cctataccaa acccctttat ttgtctgatc gatcttaatc acagcagtcc
+      421 tcttactcct ctccctacca gtcttagccg ctggcattac catactgcta acagaccgca
+      481 acctcaatac tacctttttt gaccccgttg gaggaggaga ccctatccta taccaacacc
+//
+
+LOCUS       EF568722                 529 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca fascicularis voucher AG18584 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568722
+VERSION     EF568722.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca fascicularis (crab-eating macaque)
+  ORGANISM  Macaca fascicularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 529)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 529)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..529
+                     /organism="Macaca fascicularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG18584"
+                     /db_xref="taxon:9541"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>529
+                     /gene="COXI"
+     CDS             <1..>529
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81631.1"
+                     /translation="PGSLLGNDHIYNVIVTAHAFVMIFFTVMPIMIGGFGNWLVPLMI
+                     GAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGTGWTVYPPLAGNFSHPGASVDL
+                     IIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFVWSILITAVLLLLSLPVLA
+                     AGITMLLTDRNLNTTF"
+ORIGIN      
+        1 acccggcagc ctactaggca acgaccacat ctacaacgtc attgtaacgg cccatgcatt
+       61 cgttataatt ttctttacag ttatacccat tataattgga gggttcggga actgactggt
+      121 gcccctaata atcggcgctc ccgacatagc atttccccgt ctaaacaata taagcttctg
+      181 actcctcccc ccttctttcc tgctactaat agcatcagcc gtagtagaag ctggcgccgg
+      241 aacaggctga acggtatatc ctcctctagc aggaaacttc tcccacccag gagcttccgt
+      301 agatttgatt atcttctccc ttcacttagc aggtatttcc tccatcttag gggccatcaa
+      361 ctttatcacc actattatca acataaagcc tcccgcaata tcccaatacc agaccccttt
+      421 atttgtctga tcaatcttaa tcacagcagt ccttctactc ctctctctac cagtcctagc
+      481 cgccggcatt accatgttac taacagatcg caacctcaat actaccttc
+//
+
+LOCUS       EF568707                 575 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca mulatta voucher AG07107 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF568707
+VERSION     EF568707.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 575)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 575)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..575
+                     /organism="Macaca mulatta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG07107"
+                     /db_xref="taxon:9544"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>575
+                     /gene="COXI"
+     CDS             <1..>575
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81616.1"
+                     /translation="IRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFTVMPIMIGGFGN
+                     WLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGTGWTVYPPLAGNFSH
+                     PGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAVSQYQTPLFVWSILITAILLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPVGGGDP"
+ORIGIN      
+        1 attcgagctg aactaggcca acccggcaac ctactaggca acgaccacat ctataacgtt
+       61 attgtaacgg cccatgcatt tgtcataatt ttctttacag tcatacccat tataattgga
+      121 gggttcggga actgactagt acccctaata atcggcgccc ccgacatagc attcccccgt
+      181 ctaaacaata tgagcttctg actcctcccc ccttctttcc tgctactaat agcatccgcc
+      241 gtggtagaag ctggcgccgg aacaggctga acagtatacc cccctctagc aggaaacttc
+      301 tcccacccag gagcttctgt agatttagtc atcttctctc ttcatctagc aggtatttcc
+      361 tctatcttag gagccatcaa cttcattacc accattatca acataaaacc ccccgcagta
+      421 tcccaatacc aaaccccttt atttgtctga tcaatcttaa tcacagcaat ccttctactc
+      481 ctctctctac cagttctagc cgccggcatt accatgctac taacagatcg caacctcaat
+      541 actactttct ttgaccctgt tgggggagga gaccc
+//
+
+LOCUS       EF568680                 569 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca nemestrina voucher AG07923 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568680
+VERSION     EF568680.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca nemestrina (pig-tailed macaque)
+  ORGANISM  Macaca nemestrina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 569)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 569)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..569
+                     /organism="Macaca nemestrina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG07923"
+                     /db_xref="taxon:9545"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>569
+                     /gene="COXI"
+     CDS             <1..>569
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81589.1"
+                     /translation="SLLIRAELGQPGSLLGNDHIYNVIVTAHAFIMIFFTVMPIMIGG
+                     FGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVEAGAGTGWTVYPPLAGN
+                     FSHPGASVDLIIFSLHLAGISSILGAINFITTIINMKPPAMSLYQTPLFVWSILITAV
+                     LLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 tgagcctcct tatccgagct gaactaggtc aacccggcag cctattagga aacgaccaca
+       61 tctacaacgt tattgtaacg gcccacgcat tcattataat tttctttaca gtcataccta
+      121 ttatgattgg gggtttcggg aattgattag tacctctaat aatcggcgca cccgacatgg
+      181 catttccccg cctaaataac ataagcttct gactcctccc tccttctttc ctgctactaa
+      241 tagcatcagc catagtagaa gctggcgctg gaacaggttg aacagtatac ccccctttag
+      301 caggaaactt ctcccaccca ggagcttccg tagacctaat catcttctcc ctccacctgg
+      361 caggtatttc ctctatccta ggggccatca actttattac cactatcatc aacataaaac
+      421 cccccgcaat atccctatac caaacccctt tatttgtctg atcgatctta atcacagcag
+      481 tccttttact cctctcccta ccagtcttag ccgctggcat taccatactg ctaacagatc
+      541 gcaacctcaa tactaccttt tttgacccc
+//
+
+LOCUS       EF568676                 588 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca nemestrina voucher AG08495 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568676
+VERSION     EF568676.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca nemestrina (pig-tailed macaque)
+  ORGANISM  Macaca nemestrina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Macaca nemestrina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG08495"
+                     /db_xref="taxon:9545"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>588
+                     /gene="COXI"
+     CDS             <1..>588
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81585.1"
+                     /translation="LSLLIRAELGQPGSLLGNDHIYNVIVTAHAFIMIFFTVMPIMIG
+                     GFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVEAGAGTGWTVYPPLAG
+                     NFSHPGASVDLIIFSLHLAGISSILGAINFITTIINMKPPAMSLYQTPLFVWSILITA
+                     VLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDP"
+ORIGIN      
+        1 ctgagcctcc ttatccgagc tgaactgggt caacccggca gcctattagg aaacgaccac
+       61 atctacaacg ttattgtaac ggcccacgca ttcattataa tcttctttac agtcatacct
+      121 attatgattg ggggtttcgg gaattgatta gtgcccttaa taatcggcgc acccgacatg
+      181 gcatttcccc gcctaaataa cataagcttc tgactcctcc ctccttcttt cctgctacta
+      241 atagcatcag ccatagtaga agctggcgct ggaacaggtt gaacagtata ccccccttta
+      301 gcaggaaact tctcccaccc aggagcttcc gtagacctaa tcatcttctc cctccacctg
+      361 gcaggtattt cctctatcct aggggccatc aactttatta ccactatcat caacataaaa
+      421 ccccccgcaa tatccctata ccaaacccct ttatttgtct gatcgatctt aatcacagca
+      481 gtcctcttac tcctctccct accagtctta gccgctggca ttaccatact gctaacagac
+      541 cgcaacctca atactacctt ttttgacccc gttggaggag gagaccct
+//
+
+LOCUS       EF568667                 554 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca nemestrina voucher AG07921 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568667
+VERSION     EF568667.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca nemestrina (pig-tailed macaque)
+  ORGANISM  Macaca nemestrina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 554)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 554)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..554
+                     /organism="Macaca nemestrina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG07921"
+                     /db_xref="taxon:9545"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>554
+                     /gene="COXI"
+     CDS             <1..>554
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81576.1"
+                     /translation="ALSLLIRAELGQPGSLLGNDHIYNVIVTAHAFIMIFFTVMPIMI
+                     GGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVEAGAGTGWTVYPPLA
+                     GNFSHPGASVDLIIFSLHLAGISSILGAINFITTIINMKPPAMSLYQTPLFVWSILIT
+                     AVLLLLSLPVLAAGITMLLTDRNL"
+ORIGIN      
+        1 cagccctgag cctccttatc cgagctgaac tgggtcaacc cggcagccta ttaggaaacg
+       61 accacatcta caacgttatt gtaacggccc acgcattcat tataattttc tttacagtca
+      121 tacctattat gattgggggt ttcgggaatt gattagtgcc cttaataatc ggcgcacccg
+      181 acatggcatt cccccgccta aataacataa gcttctgact cctccctcct tctttcctgc
+      241 tactaatagc atcagccata gtagaagctg gcgctggaac aggttgaaca gtgtaccccc
+      301 ccttagcagg aaacttctcc cacccgggag cttccgtaga cctaatcatc ttctccctcc
+      361 acctggcagg tatttcctcc atcctagggg ccatcaactt tattaccact atcatcaaca
+      421 taaaaccccc cgcaatatcc ctataccaaa cccctttatt tgtctgatcg atcttaatca
+      481 cagcagtcct tttactcctc tccctaccag tcttagccgc tggcattacc atactgctaa
+      541 cagaccgcaa cctt
+//
+
+LOCUS       EF568651                 603 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca mulatta voucher AG07110 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF568651
+VERSION     EF568651.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 603)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 603)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /organism="Macaca mulatta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG07110"
+                     /db_xref="taxon:9544"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>603
+                     /gene="COXI"
+     CDS             <1..>603
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81560.1"
+                     /translation="AGIMGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFT
+                     VMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGTGWT
+                     VYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAVSQYQTPLFV
+                     WSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGG"
+ORIGIN      
+        1 agctggaatc ataggcactg ccctaagcct cctcattcga gctgaactag gccaacccgg
+       61 caacctacta ggcaacgacc acatctataa cgttattgta acggcccatg catttgtcat
+      121 aattttcttt acagtcatac ccattataat tggagggttc gggaactgac tagtacccct
+      181 aataatcggc gcccccgaca tagcattccc ccgtctaaac aatatgagct tctgactcct
+      241 ccccccttct ttcctgctac taatagcatc cgccgtggta gaagctggcg ccggaacagg
+      301 ctgaacagta tacccccctc tagcaggaaa cttctcccac ccaggagctt ctgtagattt
+      361 agtcatcttc tctcttcacc tagcaggtat ttcctctatc ttaggagcca tcaacttcat
+      421 taccaccatt atcaacataa aaccccccgc agtatcccaa taccaaaccc ctttatttgt
+      481 ctgatcaatc ttaatcacag caatccttct actcctctct ctaccagttc tagccgccgg
+      541 cattaccatg ctactaacag atcgcaacct caatactact ttctttgacc ctgttggagg
+      601 agg
+//
+
+LOCUS       EF568650                 619 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca mulatta voucher AG07098 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF568650
+VERSION     EF568650.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 619)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 619)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..619
+                     /organism="Macaca mulatta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG07098"
+                     /db_xref="taxon:9544"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>619
+                     /gene="COXI"
+     CDS             <1..>619
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81559.1"
+                     /translation="AGIMGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFT
+                     VMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGTGWT
+                     VYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAVSQYQTPLFV
+                     WSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPIL"
+ORIGIN      
+        1 gagctggaat cataggcact gccctaagcc tcctcattcg agctgaacta ggccaacccg
+       61 gcaacctact aggcaacgac cacatctata acgttattgt aacggcccat gcatttgtca
+      121 taattttctt tacagtcata cccattataa ttggagggtt cgggaactga ctagtacccc
+      181 taataatcgg cgcccccgac atagcattcc cccgtctaaa caatatgagc ttctgactcc
+      241 tccccccttc tttcctgcta ctaatagcat ccgccgtggt agaagctggc gccggaacag
+      301 gctgaacagt atacccccct ctagcaggaa acttctccca cccaggagct tctgtagatt
+      361 tagtcatctt ctctcttcac ctagcaggta tttcctctat cttaggagcc atcaacttca
+      421 ttaccaccat tatcaacata aaaccccccg cagtatccca ataccaaacc cctttatttg
+      481 tctgatcaat cttaatcaca gcaatccttc tactcctctc tctaccagtt ctagccgccg
+      541 gcattaccat gctactaaca gatcgcaacc tcaatactac tttctttgac cctgttggag
+      601 gaggagaccc tatcctata
+//
+
+LOCUS       EF568646                 586 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca fuscata voucher AG18716 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF568646
+VERSION     EF568646.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca fuscata (Japanese macaque)
+  ORGANISM  Macaca fuscata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 586)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 586)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..586
+                     /organism="Macaca fuscata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG18716"
+                     /db_xref="taxon:9542"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>586
+                     /gene="COXI"
+     CDS             <1..>586
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81555.1"
+                     /translation="WAGIMGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFF
+                     TVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGTGW
+                     TVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAVSQYQTPLF
+                     VWSILITAILLLLSLPVLAAGITMLLTDRNLNTTF"
+ORIGIN      
+        1 tgagctggaa tcataggcac tgccctaagc ctcctcattc gagctgaact aggccaaccc
+       61 ggcaacctac taggcaacga ccatatctat aacgttattg taacggccca tgcatttgtc
+      121 ataattttct tcacagttat acccattata attggggggt tcgggaactg actagtgccc
+      181 ctaataatcg gcgctcccga catagcattc ccccgtctaa ataacatgag cttctgactc
+      241 ctcccccctt ctttcctgct actaatagca tccgccgtgg tagaagctgg cgccggaaca
+      301 ggctgaacag tatatccccc cctagcagga aacttctccc acccaggggc ttctgtagac
+      361 ttagtcatct tctctctcca cctagcaggt atttcttcta tcttaggagc catcaacttc
+      421 attaccacca tcatcaacat aaaaccccct gcagtatccc aataccaaac ccctttattt
+      481 gtctgatcaa tcttaatcac agcaatcctt ctactcctct ctctaccagt cctagccgct
+      541 ggcattacca tgctactaac agaccgcaac ctcaacacta ctttct
+//
+
+LOCUS       EF568642                 611 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca nemestrina voucher AG08346 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568642
+VERSION     EF568642.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca nemestrina (pig-tailed macaque)
+  ORGANISM  Macaca nemestrina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 611)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 611)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..611
+                     /organism="Macaca nemestrina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG08346"
+                     /db_xref="taxon:9545"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>611
+                     /gene="COXI"
+     CDS             <1..>611
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81551.1"
+                     /translation="AWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVIVTAHAFIMIF
+                     FTVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVEAGAGTG
+                     WTVYPPLAGNFSHPGASVDLIIFSLHLAGISSILGAINFITTIINMKPPAMSLYQTPL
+                     FVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGG"
+ORIGIN      
+        1 tgcatgagct ggagttatag gtacagccct gagccttctt atccgagctg aactaggtca
+       61 acccggcagc ctattaggaa acgaccacat ctacaacgtt atcgtaacgg cccacgcatt
+      121 cattataatt ttctttacag tcatacctat tatgattggg ggtttcggga attgattagt
+      181 acccctaata atcggcgcac ccgacatggc atttccccgc ctaaataaca taagcttctg
+      241 actcctccct ccttctttcc tgctactaat agcatcagcc atagtagagg ctggcgctgg
+      301 aacaggttga acggtatacc cccctttagc aggaaacttc tcccacccag gagcttccgt
+      361 agacctaatc atcttctccc tccacctggc aggtatttcc tctatcctag gggccatcaa
+      421 ctttattacc actatcatca acataaaacc ccccgcaata tccctatacc aaaccccttt
+      481 atttgtctga tcaatcttaa tcacagcagt ccttttactc ctctccctac cagtcttagc
+      541 cgctggcatt accatactgc taacagatcg caacctcaat actacctttt ttgaccccgt
+      601 tggaggagga g
+//
+
+LOCUS       EF568639                 591 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca mulatta voucher AG06249 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF568639
+VERSION     EF568639.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 591)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 591)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..591
+                     /organism="Macaca mulatta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG06249"
+                     /db_xref="taxon:9544"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>591
+                     /gene="COXI"
+     CDS             <1..>591
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81548.1"
+                     /translation="GAWAGVMGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFTVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGT
+                     GWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAVSQYQTP
+                     LFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTF"
+ORIGIN      
+        1 ggtgcatgag ctggagtcat aggcactgcc ctaagcctcc tcattcgagc tgaactaggc
+       61 caacccggca acctactagg caacgaccac atctataacg ttattgtaac ggcccatgca
+      121 tttgtcataa ttttctttac agtcataccc attataattg gagggttcgg gaactgacta
+      181 gtacccctaa taatcggcgc ccccgacata gcattccccc gtctaaacaa tatgagcttc
+      241 tgactcctcc ccccttcttt cctgctacta atagcatccg ccgtggtaga agctggcgcc
+      301 ggaacaggct gaacagtata cccccctcta gcaggaaact tctcccaccc aggagcttct
+      361 gtagatttag tcatcttctc tcttcaccta gcaggtattt cctctatctt aggagccatc
+      421 aacttcatta ccaccattat caacataaaa ccccccgcag tatcccaata ccaaacccct
+      481 ttatttgtct gatcaatctt aatcacagca atccttctac tcctctctct accagttcta
+      541 gccgccggca ttaccatgct actaacagat cgcaacctca atactacttt c
+//
+
+LOCUS       EF568620                 445 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca mulatta voucher AG07108 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF568620
+VERSION     EF568620.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 445)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 445)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..445
+                     /organism="Macaca mulatta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG07108"
+                     /db_xref="taxon:9544"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>445
+                     /gene="COXI"
+     CDS             <1..>445
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81529.1"
+                     /translation="YLLFGAWAGIMGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHA
+                     FVMIFFTVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEA
+                     GAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFIT"
+ORIGIN      
+        1 tatttactat ttggtgcatg agctggaatc ataggcactg ccctaagcct cctcattcga
+       61 gctgaactag gccaacccgg caacctacta ggcaacgacc acatctataa cgttattgta
+      121 acggcccatg catttgtcat aattttcttt acagtcatac ccattataat tggagggttc
+      181 gggaactgac tagtacccct aataatcggc gcccccgaca tagcattccc ccgtctaaac
+      241 aatatgagct tctgactcct ccccccttct ttcctgctac taatagcatc cgccgtggta
+      301 gaagctggcg ccggaacagg ctgaacagta tacccccctc tagcaggaaa cttctcccac
+      361 ccaggagctt ctgtagattt agtcatcttc tctcttcacc tagcaggtat ttcctctatc
+      421 ttaggagcca tcaacttcat tacca
+//
+
+LOCUS       EF568612                 648 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca mulatta voucher AG16694 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF568612
+VERSION     EF568612.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Macaca mulatta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG16694"
+                     /db_xref="taxon:9544"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>648
+                     /gene="COXI"
+     CDS             <1..>648
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81521.1"
+                     /translation="YLLFGAWAGIMGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHA
+                     FVMIFFTVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEA
+                     GAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAVSQ
+                     YQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQH"
+ORIGIN      
+        1 tgtatttact atttggtgca tgagctggaa tcataggcac tgccctaagc ctcctcattc
+       61 gagctgaact aggccaaccc ggcaacctac taggcaacga ccacatctat aacgttattg
+      121 taacggccca tgcatttgtc ataattttct ttacagtcat acccattata attggagggt
+      181 tcgggaactg actagtaccc ctaataatcg gcgcccccga catagcattc ccccgtctaa
+      241 acaatatgag cttctgactc ctcccccctt ctttcctgct actaatagca tccgccgtgg
+      301 tagaagctgg cgccggaaca ggctgaacag tatacccccc tctagcagga aacttctccc
+      361 acccaggagc ttctgtagat ttagtcatct tctctcttca cctagcaggt atttcctcta
+      421 tcttaggagc catcaacttc attaccacca ttatcaacat aaaacccccc gcagtatccc
+      481 aataccaaac ccctttattt gtctgatcaa tcttaatcac agcaatcctt ctactcctct
+      541 ctctaccagt tctagccgcc ggcattacca tgctactaac agatcgcaac ctcaatacta
+      601 ctttctttga ccctgttgga ggaggagacc ctatcctata tcaacacc
+//
+
+LOCUS       EF568611                 648 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca mulatta voucher AG16700 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF568611
+VERSION     EF568611.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Macaca mulatta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG16700"
+                     /db_xref="taxon:9544"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>648
+                     /gene="COXI"
+     CDS             <1..>648
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81520.1"
+                     /translation="YLLFGAWAGIMGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHA
+                     FVMIFFTVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEA
+                     GAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAVSQ
+                     YQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQH"
+ORIGIN      
+        1 tgtatttact atttggtgca tgagctggaa tcataggcac tgccctaagc ctcctcattc
+       61 gagctgaact aggccaaccc ggcaacctac taggcaacga ccacatctat aacgttattg
+      121 taacggccca tgcatttgtc ataattttct ttacagtcat acccattata attggagggt
+      181 tcgggaactg actagtaccc ctaataatcg gcgcccccga catagcattc ccccgtctaa
+      241 acaatatgag cttctgactc ctcccccctt ctttcctgct actaatagca tccgccgtgg
+      301 tagaagctgg cgccggaaca ggctgaacag tatacccccc tctagcagga aacttctccc
+      361 acccaggagc ttctgtagat ttagtcatct tctctcttca cctagcaggt atttcctcta
+      421 tcttaggagc catcaacttc attaccacca ttatcaacat aaaacccccc gcagtatccc
+      481 aataccaaac ccctttattt gtctgatcaa tcttaatcac agcaatcctt ctactcctct
+      541 ctctaccagt tctagccgcc ggcattacca tgctactaac agatcgcaac ctcaatacta
+      601 ctttctttga ccctgttgga ggaggagacc ctatcctata tcaacacc
+//
+
+LOCUS       EF568609                 649 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca nemestrina voucher AG08493 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568609
+VERSION     EF568609.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca nemestrina (pig-tailed macaque)
+  ORGANISM  Macaca nemestrina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 649)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 649)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..649
+                     /organism="Macaca nemestrina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG08493"
+                     /db_xref="taxon:9545"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>649
+                     /gene="COXI"
+     CDS             <1..>649
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81518.1"
+                     /translation="LYLLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVIVTAH
+                     AFIMIFFTVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVE
+                     AGAGTGWTVYPPLAGNFSHPGASVDLIVFSLHLAGISSILGAINFITTIINMKPPAMS
+                     LYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQH"
+ORIGIN      
+        1 ctatacttac tatttggtgc atgagctgga gtcataggta cagccctgag cctccttatc
+       61 cgagctgaac taggtcaacc cggcagcctg ttaggaaacg accacatcta caacgttatt
+      121 gtaacggccc acgcattcat tataattttc tttacagtca tacctattat gattgggggt
+      181 ttcgggaatt gattagtgcc cttaataatc ggcgcacccg acatggcatt tccccgccta
+      241 aataacataa gcttctgact cctccctcct tctttcctgc tactaatggc atcagccata
+      301 gtagaggctg gcgctggaac aggttgaaca gtataccccc ctttagcagg aaacttctcc
+      361 cacccaggag cttccgtaga cctaatcgtc ttctccctcc acctggcagg tatttcctct
+      421 atcctagggg ccatcaactt tattaccact atcatcaaca taaaaccccc cgcaatatcc
+      481 ctataccaaa cccctttatt tgtctgatcg atcttaatca cagcagtcct tttactcctc
+      541 tccctaccag tcttagccgc tggcattacc atactactaa cagatcgcaa cctcaatact
+      601 accttttttg accccgttgg aggaggagat cctatcctat accaacacc
+//
+
+LOCUS       EF568608                 632 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Macaca nemestrina voucher AG08494 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568608
+VERSION     EF568608.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca nemestrina (pig-tailed macaque)
+  ORGANISM  Macaca nemestrina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 632)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 632)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..632
+                     /organism="Macaca nemestrina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG08494"
+                     /db_xref="taxon:9545"
+                     /country="USA"
+                     /PCR_primers="fwd_name: OWMCO-If, fwd_seq:
+                     rctsttttcaacaaaycayaaagac, rev_name: OWMCO-Ir, rev_seq:
+                     gtaracttcsgggtgrccraagaatc"
+     gene            <1..>632
+                     /gene="COXI"
+     CDS             <1..>632
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81517.1"
+                     /translation="LYLLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVIVTAH
+                     AFIMIFFTVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVE
+                     AGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGISSILGAINFITTIINMKPPAMS
+                     LYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDP"
+ORIGIN      
+        1 ctatacttac tgtttggtgc atgagctgga gttataggta cagccctgag ccttcttatc
+       61 cgagctgaac taggtcaacc cggcagccta ttaggaaacg accacatcta caacgttatc
+      121 gtaacggccc acgcattcat tataattttc tttacagtca tacctattat gattgggggt
+      181 ttcgggaatt gattagtacc cctaataatc ggcgcacccg acatggcatt tccccgccta
+      241 aataacataa gcttctgact cctccctcct tctttcctgc tactaatagc atcagccata
+      301 gtagaggctg gcgctggaac aggttgaacg gtataccccc ctttagcagg aaacttctcc
+      361 cacccaggag cttccgtaga cctaatcatc ttctccctcc acctggcagg tatttcctct
+      421 atcctagggg ccatcaactt tattaccact atcatcaaca taaaaccccc cgcaatatcc
+      481 ctataccaaa cccctttatt tgtctgatca atcttaatca cagcagtcct tttactcctc
+      541 tccctaccag tcttagccgc tggcattacc atactgctaa cagatcgcaa cctcaatact
+      601 accttttttg accccgttgg aggaggagac cc
+//
+
+LOCUS       AY612638               16564 bp    DNA     circular PRI 26-JUL-2016
+DEFINITION  Macaca mulatta mitochondrion, complete genome.
+ACCESSION   AY612638
+VERSION     AY612638.1
+KEYWORDS    .
+SOURCE      mitochondrion Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 16564)
+  AUTHORS   Gokey,N.G., Cao,Z., Pak,J.W., Lee,D., McKiernan,S.H., McKenzie,D.,
+            Weindruch,R. and Aiken,J.M.
+  TITLE     Molecular analyses of mtDNA deletion mutations in microdissected
+            skeletal muscle fibers from aged rhesus monkeys
+  JOURNAL   Aging Cell 3 (5), 319-326 (2004)
+   PUBMED   15379855
+REFERENCE   2  (bases 1 to 16564)
+  AUTHORS   Pak,J.W., Cao,Z., Gokey,N.G., Lee,D., Lee,C.M. and Aiken,J.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2004) Animal Health and Biomedical Sciences,
+            University of Wisconsin-Madison, 1656 Linden Drive, Madison, WI
+            53706-1581, USA
+FEATURES             Location/Qualifiers
+     source          1..16564
+                     /organism="Macaca mulatta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9544"
+     D-loop          join(16015..16564,1..535)
+     tRNA            536..607
+                     /product="tRNA-Phe"
+     rRNA            608..1554
+                     /product="12S ribosomal RNA"
+     tRNA            1555..1623
+                     /product="tRNA-Val"
+     rRNA            1624..3181
+                     /product="16S ribosomal RNA"
+     tRNA            3182..3256
+                     /product="tRNA-Leu"
+                     /note="codons recognized: UUR"
+     gene            3259..4215
+                     /gene="ND1"
+     CDS             3259..4215
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AAT11987.1"
+                     /translation="MTTVNLLLMIMPTLAAMAFLTLVERKLLGHMQLRKGPNIVGPCG
+                     LLQPFADAVKLFTKEPLKPATSTTILYVVAPALAFFIALLLWTPLPMPNALINFNLGL
+                     LFILAMLSLIVYSILWSGWASNSNYALIGALRAVAQTISYEVTLTIILLSVLLMSGSF
+                     NLNTLITTQEHLWLLLPSWPLAMMWFTSTLAETNRTPFDLMEGESELVSGFNIEYAAG
+                     PFALFFMAEYTNIIMMNALTTTIFLGTSHSTYSPELFTTCFATKTLFLTSLFLWIRAA
+                     YPRFRYDQLMHLLWKNFLPLTLALLMWSTSMPIAISSIPPQT"
+     tRNA            4214..4282
+                     /product="tRNA-Ile"
+     tRNA            complement(4280..4351)
+                     /product="tRNA-Gln"
+     tRNA            4353..4420
+                     /product="tRNA-Met"
+     gene            4421..5464
+                     /gene="ND2"
+     CDS             4421..5464
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAT11988.1"
+                     /translation="MNPLAQPIIYTTMITGTLITTLSSHWFLAWTGLEMNMLAFIPIL
+                     MKKTSLRSTEAATKYFLIQSTASMVLMMAIISNNLLSGCWTTTNYISQPPSLMMTTAL
+                     AMKLGMAPFHFWVPEVTQGTPLTSGLLLLTWQKLAPISIMYQIHPSINTHILLTLSTL
+                     SIAVGSWGGLNQTQLRKILGYSSITHMGWMMMTLVYNPATTIFYLTTYIILTTTMFLT
+                     LNLSSSTTTLMLSRTWNKSTHLAPLMAPILMSLGGLPPLTGFLPKWIIIQELTMNNNF
+                     LIPSIMTIMTLLNLYFYMRLIYTTSLTLFPTSNNTKMTWQLENTKPTLLIPPLIITST
+                     LLLPISPLLLTLH"
+     tRNA            5463..5529
+                     /product="tRNA-Trp"
+     tRNA            complement(5537..5605)
+                     /product="tRNA-Ala"
+     tRNA            complement(5607..5679)
+                     /product="tRNA-Asn"
+     rep_origin      5681..5713
+     tRNA            complement(5712..5780)
+                     /product="tRNA-Cys"
+     tRNA            complement(5781..5849)
+                     /product="tRNA-Tyr"
+     gene            5850..>7391
+                     /gene="COXI"
+     CDS             5850..>7391
+                     /gene="COXI"
+                     /note="stop codon not determined"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAT11999.1"
+                     /translation="MLINRWLFSTNHKDIGTLYLLFGAWAGIMGTALSLLIRAELGQP
+                     GNLLGNDHIYNVIVTAHAFVMIFFTVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSF
+                     WLLPPSFLLLMASAVVEAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILG
+                     AINFITTIINMKPPAVSQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPVGGGDPILYQHLFWFFGHPEVYILILPGFGMVSHIVTYYSGKKEPFGYMGMVWA
+                     MMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKW
+                     SPAMLWALGFIFLFTVGGLTGIILANSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG
+                     FMHWFPLFSGYTLNQTCAKAHFIIMFMGVNLTFFPQHFLGLSGMPRRYSDYPDAYTTW
+                     NTLSSMGSFISLVAVILMIYMIWEAFASKRKVLLIEQPLTNLEWLNGCPPPYHTFEEP
+                     PYIKLV"
+     tRNA            complement(7391..7459)
+                     /product="tRNA-Ser"
+                     /note="codons recognized: UCN"
+     tRNA            7463..7530
+                     /product="tRNA-Asp"
+     gene            7532..8215
+                     /gene="COXII"
+     CDS             7532..8215
+                     /gene="COXII"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit II"
+                     /protein_id="AAT11989.1"
+                     /translation="MAHPVQLSLQDATSPVMEELITFHDHAFMAMSLISFLVLYALLS
+                     TLTTKLTNTSITDAQEMETIWTILPAIILILIALPSLRILYLTDEVNDPSFTIKSIGH
+                     QWYWTYEYTDYGSLIFNSYMLPPLFLNPGDLRLLEVDNRVVLPIEAPVRMMITSQDVL
+                     HSWTIPTLGLKTDAVPGRLNQTVFTATRPGVYYGQCSEICGANHSFMPIVAELIPLKI
+                     FEMGPVFTL"
+     tRNA            7761..7830
+                     /product="tRNA-Lys"
+     gene            8357..8563
+                     /gene="ATP8"
+     CDS             8357..8563
+                     /gene="ATP8"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 8"
+                     /protein_id="AAT11990.1"
+                     /translation="MPQLDTSTWFTTIMTMLPTLYLIMQLKLLNTNHHQPPLTKTPTL
+                     QSHNVRWQPKWTKTCLPLSQPQQF"
+     gene            8518..9198
+                     /gene="ATP6"
+     CDS             8518..9198
+                     /gene="ATP6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 6"
+                     /protein_id="AAT11991.1"
+                     /translation="MNENLFTPFSAPTILNQPATIPIILFPTLLILTPKHPINNRLAT
+                     IQQNLTRFTLKQMMMTHNAKGQTWSLMLTSLITFTATTNLLGLMPYSFTPTTQLSMNL
+                     AMAIPLWAGTVMVGLRFKTKNSLAHLLPQGTPTPLIPMLVAIETISLLIQPVALAVRL
+                     TANITAGHLLMHLIGNTVLALSTTNLSMALLASTLLVLLTILEIAVALIQAYVFTLLI
+                     SLYLRNNT"
+     gene            9198..9982
+                     /gene="COXIII"
+     CDS             9198..9982
+                     /gene="COXIII"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:9981..9982,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit III"
+                     /protein_id="AAT11992.1"
+                     /translation="MTHQTHAYHMVKPSPWPLTGALSAFLMTSGLVMWFHFYSTTLLM
+                     LGLLTNTLTLYQWWRDIVRESTYQGHHTTPVQKSLRYGMTLFIISEAFFFVGFFWAFY
+                     HSSLAPTPCLGGHWPPTGITPLNPMEVPLLNTSVLLASGVTITWAHHSLMNNDRKQTI
+                     QALLITILLGTYFTLLQISEYFEAPFTISDGIYGSTFFITTGFHGLHVIIGSTFLFVC
+                     LIRQLLHHFTSNHHFGFEAAAWYWHFVDVIWLLLYISVYWWGS"
+     tRNA            9982..10049
+                     /product="tRNA-Gly"
+     gene            10050..10395
+                     /gene="ND3"
+     CDS             10050..10395
+                     /gene="ND3"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:10395,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 3"
+                     /protein_id="AAT11993.1"
+                     /translation="MNLVLALTINTLLTSLLMIIMFWLPQLNPYTEKTSPYECGFDPL
+                     NPARIPFSMKFFLVAITFLLFDLEIALLLSLPWAIQTTNLPMMIKSTIAFIIILILSL
+                     TYEWTQKGLDWAE"
+     tRNA            10396..10460
+                     /product="tRNA-Arg"
+     gene            10461..10757
+                     /gene="ND4L"
+     CDS             10461..10757
+                     /gene="ND4L"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="AAT11994.1"
+                     /translation="MTLTYMNIMLAFAISLLGMLTYRSHLVASLLCLEGMMMSLFIMA
+                     TLIASNTHFPLINIMPIILLVFAACETAVGLALLISISNTYGLDYVHNLNLLQC"
+     gene            10751..12128
+                     /gene="ND4"
+     CDS             10751..12128
+                     /gene="ND4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:12128,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AAT11995.1"
+                     /translation="MLKMIIPTTMLLPMTWLSKNNTIWINLTMHSLTISLIPLLFFNQ
+                     TSTNLLNHSTYLSSDPLAAPLLTLTIWLLPLMIMASQYHLYNEPPSQKKLFLFTMILL
+                     QITLILTFMATELIMFYILFETTLIPTLIIITKWGNQAKRLNASTYFLFYTLTGSLPL
+                     LIMLSHTYNNTGSLNITLLTLTDQKLTTTWSHNFTWLACMMAFMTKMPLYGLHLWLPK
+                     AHVEAPIAGSMVLAAVLLKLGGYGMMRLTPILNPLTEYMAYPFLMLSLWGMIMTGLTC
+                     LRQTDLKSLIAYSSVSHMALVIVASLIQTPWSFSGATILMIAHGLTSSMYFCLANSNY
+                     ERTHSRTMLLSRGLQILLPLTAFWWLTASLTNLALPPTINLLGELFVITTSFSWSHIT
+                     IMLTGLNMLITALYSLHMFITTQRGMLTHHMINMKPSFTRENMLMFMHLAPIILLSLN
+                     PNIILGFTS"
+     tRNA            12129..12197
+                     /product="tRNA-His"
+     tRNA            12198..12256
+                     /product="tRNA-Ser"
+                     /note="codons recognized: AGY"
+     tRNA            12257..12327
+                     /product="tRNA-Leu"
+                     /note="codons recognized: CUN"
+     gene            12328..14139
+                     /gene="ND5"
+     CDS             12328..14139
+                     /gene="ND5"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="AAT11996.1"
+                     /translation="MTMHTPIMMTTLISLTLPIFATLINPYKKRPYPDYVKTTVMYAF
+                     TISLPSTTLFIFSNQETTIWSWHWMMAQTLDLTLSFKLDYFSMMFIPIALFITWSIME
+                     FSLWYMNSDPNINQFFKYLLIFLTAMLILVTANNLFQFLIGWEGVGIMSFLLISWWYA
+                     RTDANTAAIQAILYNRIGDIGLILAMAWFLLHYNSWDLQQMLALNFNSSSLPLMGLLL
+                     AAAGKSAQFGLHPWLPSAMEGPTPVSALLHSSTMVIAGVFLLIRFHPLMETNTMIQNL
+                     TLCLGAITTLFTAICALTQNDIKKIVAFSTSSQLGLMMITIGINQPYLAFLHICTHAF
+                     FKAMLFMCSGSIIHNLNNEQDIRKMGGLFKTMPLTSTSMIIGNLALTGMPFLTGFYSK
+                     DLIIEATNTSYTNAWALFITLITTSLTSAYSTRTILLTLTGQPRFPALTNINENNPAL
+                     LNPIKRLTMGSMITGFLITNNIPPTLLPQPTMPLYLKLSALCATVLGFLAALDLTLMT
+                     NKLKMKTPSQMFKFSNMLGYFPTTIHRTIPYQNLLMSQNLALLLLDSAWLEKSMPKMI
+                     SQAHITASMTVTTQKGMIKLYSLSFLIPLTLALILMM"
+     gene            complement(14140..14667)
+                     /gene="ND6"
+     CDS             complement(14140..14667)
+                     /gene="ND6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 6"
+                     /protein_id="AAT11997.1"
+                     /translation="MTYILFALSVLLVMGFVGFSSKPSPIYGGLALIVSGVIGCVIVL
+                     SCGGAYMGLMMFLVYLGGMMVVFGYTTAMAIEEYPETWGSGFEVLGGLLVGLMMEVML
+                     VLWVLSLDEAVEVVVSFSDTGDWVIFEGEGSGLIRGDSIGAGALYDYGRWLVVVAGWT
+                     LFVGVYVVIEIVRGN"
+     tRNA            complement(14668..14736)
+                     /product="tRNA-Glu"
+     gene            14741..15881
+                     /gene="CYTB"
+     CDS             14741..15881
+                     /gene="CYTB"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:15881,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAT11998.1"
+                     /translation="MTPMRKSNPILKMINRSFIDLPAPPNLSMWWNFGSLLAACLILQ
+                     IITGLLLAMHYSPDTSSAFSSIAHITRDVKYGWITRYLHANGASMLFICLFLHIGRGL
+                     YYGSYLLLETWNIGIMLLLMTMTTAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTNL
+                     VQWIWGGYAIDSPTLTRFFTLHFILPFIIIALTTVHLLFLHETGSNNPCGISSDSDKI
+                     AFHPYYTTKDILGLVLLLFILATLTLLSPNLLNDPDNYIPADPLNTPPHIKPEWYFLF
+                     AYTILRSIPNKLGGVLALFLSILILAAIPMLHKSKQQSMMFRPLSQFLFWLLITILLT
+                     LTWIGSEPVVQPLTTIGQVASMMYFITILILMPLASLIENNLLKWT"
+     tRNA            15882..15945
+                     /product="tRNA-Thr"
+     tRNA            complement(15947..16014)
+                     /product="tRNA-Pro"
+ORIGIN      
+        1 gatcacgggt ctatcaccct attaaccagt cacgggagat ttccatgcat ttggtatctt
+       61 ttatctctgg tctgcacgca accccattgc agaatgctga ctcccaccac atcccgtcct
+      121 gtatgcgcct gtctttgatt cctagtacat gcagttgttg atcgcaccta cgttcaatat
+      181 tctagctcca cgcaaacctt agcaaggtgt tatttaattc atgcttgtag gacataccaa
+      241 taatcatccc agccgacacc acaccacacc accaatcact aaccgtatct tatcaaaccc
+      301 ccccaccccc atctccgacc ttcatccaaa ccccactctt gccaaacccc aaaaacaaaa
+      361 gtcttaacat atccgatcag agcctatatt tccatctttt aggtgtgcac aactccaact
+      421 gccactccct caactaataa acatttactt cactaaacac cctctacacc aacccgcaac
+      481 aaatccttct catacaaccc gaaagaggct gcctcacaac tatactagca cctttgttta
+      541 tgtagcttaa acccacccaa agcaagacac tgaaaatgcc tagatgggtt tgcacacccc
+      601 ataaacatat aggcttggtc ctggcctttc tattagctct tggcaggatt acacatgcaa
+      661 acatcctcgc tccggtgaag acgccctaca aatcatcatg accaagagga gcaagcatca
+      721 agcacgcgca cgcagctcaa aacgctttgc ctagccacac ccccacggga gacagcagtg
+      781 acaaatattt agcaataaac gaaagttcaa ctaagccatg ctatatttag ggttggtcaa
+      841 tttcgtgcca gccaccgcgg ttacacgatt aaccctagct aatagagacc ggcgtagagg
+      901 gtgtttaaga tctgatataa taaagctaaa ctccatctaa actgtaaaac tctagctgat
+      961 gtaaaataaa ctacgaaagt ggctttaaag cttctgaaca cacaatagcc aggacccaaa
+     1021 ctgggattag acaccctact atgcttggcc ctaaacctca gtagttagat aacaaaacta
+     1081 ctcgccagaa tactacaagc tatagcttaa aactcaaagg acttgacggt gctttacacc
+     1141 ccctagagga gcctgttccg taatcgataa accccgatcc accccaccct ctcttgctca
+     1201 gcctatatac cgccatcttc agcaaaccct aatgagggtc acaaagtgag cgcaaatgcc
+     1261 attgccgcaa acacgttagg tcaaggtgta gcctatgaga cggtaaaaaa tgggctacat
+     1321 tttctacctc agaaaattcc acgaaaaccc ttatgaaatt taagggtcca aggaggattt
+     1381 agcagtaaat taagaataga gtgcttaatt gaaccaggcc ataaagcgcg cacacaccgc
+     1441 ccgtcactcc tctcaaatat atttaaggaa catcttaact aaacgcccta atatttatat
+     1501 agagaggata agtcgtaaca tggtaagcgt actggaaggt gcgcttggat aaatcaaggc
+     1561 atagcttaat ataaagcacc tggcctacac ccagaaaatc tcaataccac ttgattgcct
+     1621 tgagccaata ctagccctaa gcataaccaa cactaatacc aaactaacac gcactaaacc
+     1681 attcacctac acaaagtata ggcgatagaa attttaatct ggcgctatag acgcagtacc
+     1741 gtaagggaaa gatgaaacca cccaagcaca aaacagcaag gactaacccc tgtacctttc
+     1801 gcataatgaa ttagctagaa acaatttcac aaagagaact acaagccaaa ttccccgaaa
+     1861 ccagacgagc tacccaaaaa cagctaaaag agcgcaccca tctatgtggc aaaatagtgg
+     1921 gaagatttct gggtagaggt gacaagccta ccgagcctgg tgatagctgg ttatccaaga
+     1981 cagaatctta gttcgacctt aagcttacct atagaaccac ctaatctccc tgtaagctta
+     2041 attgctagtc taaagaggga cagctcttta gacactagga aaaaacctta tagagagagt
+     2101 aaaatcctca attaccatag ttggcttaaa agcagccatc aattaagaaa gcgttcaagc
+     2161 tcaacactaa ccaccccaaa aataccaaac acatagctga actcctcaca ccacattgga
+     2221 ttaatctatc accatataga agcaataatg ctagtataag taacatgaat attttctcca
+     2281 ctgcataagc ccaaatcgga tcgaaaacct caccgatacc taacagccag gcatagcaag
+     2341 cacaaacaag cccatgctac cttcactgtt aacccaacac aggcatgcct caaggaaagg
+     2401 ttaaaaaaag taaaaggaac tcggcaaacc taaaccccgc ctgtttacca aaaacatcac
+     2461 ctctagcatt actagtatta gaggcactgc ctgcccagtg acacacgttt aacggccgcg
+     2521 gtaccctgac cgtgcaaagg tagcataatc acttgttctt taaatgggga ctcgcatgaa
+     2581 aggcaccacg agggtttaac tgtctcttac ttttaaccag tgaaattgac ctgcccgcga
+     2641 agaggcggac atagtataat aagacgagaa gaccctatgg agctttaatc tattaatgca
+     2701 atcaaaaatt acacaaaccc acggaccttt aaactatcga cacctgcatt aaaaattttg
+     2761 gttggggcga cctcggagca caacaaaacc tccgaataac acatgctaag accacacaag
+     2821 tcaaagcgaa ctaacactta taattgatcc aataacttga tcaacggaac aagttaccct
+     2881 agggataaca gcgcaattct attctagagt ccatatcgac aatagagctt acgacctcga
+     2941 tgttggatca ggacatccta atggtgcagc agctatcaag ggttcgtttg ttcaacgatt
+     3001 aaagtcctac gtgatctgag ttcagaccgg agcaatccag gtcggtttct atctattgca
+     3061 catttctccc tgtacgaaag gacaagagaa ataaggccca cttcacaaag cgccttcact
+     3121 acataaatga cctagtctta atttagcaaa ataccacaca ttccacccga aaacagggtt
+     3181 tgttaagatg gcagagcccg gtaattgcat aaaacttaaa actttgtaac cagaggttca
+     3241 attcctcttc ttaacaccat gaccacagta aatctcctac ttataatcat acccacatta
+     3301 gccgccatag catttctcac actcgttgaa cgaaaattac taggccacat gcaactacga
+     3361 aaagggccca atattgtagg tccatgcgga ctattacaac ccttcgccga tgccgtaaaa
+     3421 cttttcacta aagaacccct gaaacccgca acatctacca ccatcctcta tgtcgtcgca
+     3481 cctgctctag ccttcttcat tgccctcctc ctatgaaccc ccctccccat acccaacgct
+     3541 ctaatcaact tcaacctagg gctcctattc atcctagcca tactcagcct aattgtctac
+     3601 tccatcctat gatcaggatg agcatcaaac tcaaactacg ccctaatcgg agctctgcga
+     3661 gccgtcgccc aaacaatttc atatgaagtc acccttacta ttatcctcct atcagtccta
+     3721 ctaataagcg gctcatttaa ccttaacaca ctcattacaa cgcaagagca tctatgactc
+     3781 ctcctaccat catgacccct agccataata tgatttacct ccacactagc agaaacaaac
+     3841 cgaacccctt ttgatctcat agagggcgaa tcagaattag tatcaggctt caacattgaa
+     3901 tacgccgcag gtccattcgc cctattcttc atagccgaat acacaaacat catcataata
+     3961 aacgccctaa caaccacaat cttcctaggc acatcccact ccacttattc accagaacta
+     4021 ttcacaacat gcttcgccac caaaacactc ttcctaacct ccctattcct atgaatccgg
+     4081 gcagcatacc cccgattccg ttacgaccaa cttatacacc tactatgaaa aaacttcctc
+     4141 cccctcacac tagcactact catatgatcc acctcaatac ccatcgcaat ctccagcatt
+     4201 ccccctcaaa cctagaaata tgtctgacaa aagagttact ttgatggagt aaataataga
+     4261 ggccccaatc ctcttgtttc taggactgta ggtatcgaac ctacccctga gaatccaaac
+     4321 ttctccgtgc taccctacac actctatcct aaagtaaggt cagctaaaca agctatcggg
+     4381 cccatacccc gaaaatgttg gtcacatcct tcccgtacta attaacccac tagctcaacc
+     4441 cattatctac accacaataa tcacaggcac acttatcaca acactaagct cacactgatt
+     4501 tctcgcctga acaggcctag aaataaacat actagctttc attccgatct taataaaaaa
+     4561 aacaagcctc cgctccacag aagccgctac taaatacttc ctaattcaat ctaccgcatc
+     4621 tatagtcctc ataatagcaa tcatctccaa caacctgcta tcagggtgct gaacaacaac
+     4681 gaactacatc agccaacccc catccctaat aataacaacc gccctcgcca taaaactagg
+     4741 aatagccccc ttccacttct gagtcccaga agtcacccaa ggaacacccc taacctcagg
+     4801 tctactcctt cttacatgac aaaaactagc ccccatctca atcatgtacc aaattcaccc
+     4861 atcaatcaac acccacatcc tcctaaccct ctccacccta tccattgcag taggcagttg
+     4921 aggaggtcta aaccaaacac aattacgcaa gatcctaggg tactcttcaa tcacacacat
+     4981 gggttgaata atgataacac ttgtatacaa cccagcaact acaattttct atttaactac
+     5041 atacattatc ctaacaacta ccatattcct aaccctcaac ttaagctcaa gcaccacaac
+     5101 cctcatacta tcccgcacct gaaacaaatc aacccaccta gcaccgctaa tagcacccat
+     5161 tctcatatct ctaggaggcc taccacccct aaccggcttc ctacctaaat gaattatcat
+     5221 ccaagaactc acaatgaaca acaacttcct catcccctct attataacta tcataaccct
+     5281 acttaaccta tacttttata tacgcctaat ctacaccacc tccctaacgc tattccctac
+     5341 atccaacaac acaaaaataa catgacaact cgaaaataca aaacccacac tccttatccc
+     5401 cccactcatc atcacctcca cccttctact accaatctcc cccctactct taacccttca
+     5461 ctagaaattt aggttaaaca agaccaagag ccttcaaagc ccttagtaag taaaaacact
+     5521 taatttctga aacacataag gactgcaaac acctactctg catcaattga acgcaaatca
+     5581 accactttaa ttaagctaag cccttactag atcaatggga ctcgaaccca caaaaactta
+     5641 gttaacagct aagcacccta accgactggc tttgacccac ttctcccgcc gcagggagaa
+     5701 aaaggcggga gaagccccgg cagaaactct aagactgctc ctttgaactt gcaattcaac
+     5761 atgaaaatca cctcggggct ggtaaaaggg ggactaaacc cccgtcttta ggtttacagc
+     5821 ctaatactta ctcagccatt ttaccactta tgctcattaa tcgctgactc ttttcaacaa
+     5881 atcacaaaga cattggaacc ctgtatttac tatttggtgc atgagctgga atcataggca
+     5941 ctgccctaag cctcctcatt cgagctgaac taggccaacc cggcaaccta ctaggcaacg
+     6001 accacatcta taacgttatt gtaacggccc atgcatttgt cataattttc tttacagtca
+     6061 tacccattat aattggaggg ttcgggaact gactagtacc cctaataatc ggcgcccccg
+     6121 acatagcatt cccccgtcta aacaatatga gcttctgact cctcccccct tctttcctgc
+     6181 tactaatagc atccgccgtg gtagaagctg gcgccggaac aggctgaaca gtataccccc
+     6241 ctctagcagg aaacttctcc cacccaggag cttctgtaga tttagtcatc ttctctcttc
+     6301 acctagcagg tatttcctct atcttaggag ccatcaactt cattaccacc attatcaaca
+     6361 taaaaccccc cgcagtatcc caataccaaa cccctttatt tgtctgatca atcttaatca
+     6421 cagcaatcct tctactcctc tctctaccag ttctagccgc cggcattacc atgctactaa
+     6481 cagatcgcaa cctcaatact actttctttg accctgttgg aggaggagac cctatcctat
+     6541 atcaacacct attctgattc tttggtcacc cggaagtcta catccttatt ctccccggct
+     6601 tcggaatagt ctcccacatt gtaacctact actctgggaa aaaagaacca tttgggtaca
+     6661 tgggtatagt ttgagccata atatcaattg ggtttttagg ttttattgta tgagcccacc
+     6721 acatgtttac agttggcata gacgtagata cacgagccta tttcacctcc gccactataa
+     6781 tcattgcaat ccccaccggt gtgaaagttt ttagctggct tgctacactt catgggggca
+     6841 acatcaaatg gtccccagca atactttgag ccctaggctt tatcttccta tttactgtag
+     6901 ggggtctaac tggcatcatc ttagcaaact catccctaga tatcgtacta cacgatacat
+     6961 actacgttgt cgcccacttt cattatgttc tatcaatagg agctgtattc gccattatgg
+     7021 ggggctttat acactgattc cctttattct caggctacac actgaaccaa acctgtgcca
+     7081 aagcccactt catcattata ttcatgggcg taaatttaac cttctttcca caacacttcc
+     7141 ttggcctgtc cggaataccc cgacgctact ctgattatcc cgatgcctac actacatgaa
+     7201 ataccctatc atctataggc tccttcatct cactagtagc agtaatttta ataatctaca
+     7261 tgatctgaga agcctttgct tcaaaacgta aagtactact aatcgaacaa ccccttacta
+     7321 acctagagtg actaaatggc tgccccccgc cttatcacac attcgaagaa ccaccctaca
+     7381 ttaaactagt cgaaaaagga gggagtcgaa ccccctaaaa ctggtttcaa gccaatctta
+     7441 tagcccctat aactttttcg gcaaggtatt agaaaagtca tttcgtagct ttgtcaaagc
+     7501 taaatcatag gccaaaccct atatatctta catggcccac ccagttcaac taagcctaca
+     7561 agacgccaca tcccctgtta tagaggaatt aattactttc catgaccatg cttttatagc
+     7621 catatctcta atcagcttcc tggtattata tgccctgctc tcaacactca caacaaaact
+     7681 aaccaatact agcatcacag atgcccaaga aatagaaact atctgaacta tcttacccgc
+     7741 aattatctta atcctaattg ctctcccatc tctacgtatc ctatacctaa cagatgaagt
+     7801 caatgaccca tccttcacca tcaaatcaat cggacaccag tgatattgaa cctacgaata
+     7861 cacggactac gggagcctaa ttttcaactc ctacatacta cctccattat tcctaaaccc
+     7921 aggggacctc cgactcctag aagttgacaa tcgggtagtc cttccaattg aagctcctgt
+     7981 acgtataata attacatctc aagacgtcct acactcatga actatcccca cactaggcct
+     8041 aaaaacagac gccgtacctg ggcgtctaaa tcaaaccgtt ttcacggcta cacgaccagg
+     8101 cgtctattac ggacaatgct cagaaatctg tggcgcaaat catagcttca taccaattgt
+     8161 tgcagagcta atcccactaa aaatctttga aataggacct gtatttactc tgtaaacaac
+     8221 cctgcccact ctcttttttc ccccaacacc cctctcccac cccataaacc ctcaaaacac
+     8281 tctacaaact cactgtatag ctatcttagc attaaccttt taagttaaag acgggggaca
+     8341 caccccctac agtgaaatgc cccagttaga tacatcaaca tgattcacca ctattatgac
+     8401 gatgcttccc acactatatc ttatcatgca gctaaagcta ctaaacacaa atcaccacca
+     8461 accacccctt acaaaaaccc ccacccttca gtctcacaat gtccgctgac aaccaaaatg
+     8521 aacgaaaact tgtttacccc tttctcagcc ccaacaattc taaaccaacc cgctacaatc
+     8581 cccattatcc tattccccac cctactaatc ttaaccccca aacatcccat taataatcga
+     8641 ctagctacca ttcaacaaaa tctgactcga ttcactctaa aacaaataat aataactcac
+     8701 aacgctaagg gacaaacctg atccttaata ctaacatccc taatcacctt tactgctaca
+     8761 acaaacctcc taggacttat gccttactcg ttcacgccaa ctacccaact ttccataaac
+     8821 ctagctatag caatccccct atgagcgggc acagtaatag tggggcttcg ctttaaaacc
+     8881 aaaaactccc tagcccacct cctaccacaa ggcacaccca cacctctcat tcctatgcta
+     8941 gtagcaatcg aaactatcag tctacttatt caaccagtgg ctctagccgt acgattaacc
+     9001 gcaaacatca cagccggcca tctgctaata cacctgatcg gaaacactgt actagcacta
+     9061 tcaaccacca acctctccat agctctacta gcctctacac ttctggtatt actaactatt
+     9121 ctagaaattg cagtagccct aattcaagcc tatgtcttca cactcttaat tagcctttat
+     9181 ctacggaaca acacctaatg acccaccaga cccacgctta tcacatagtt aaacccagtc
+     9241 cctggccgct gacaggagct ctgtcagcct tcttaataac atctggctta gtcatgtgat
+     9301 ttcacttcta ctccaccacc ctactaatac taggcctact aaccaataca ctaaccttat
+     9361 accaatgatg acgcgacatt gtacgagaaa gcacatacca aggccaccac acaacacccg
+     9421 tccaaaaaag ccttcggtac ggaataacac tattcatcat ctcagaagca ttcttctttg
+     9481 tcggcttctt ctgagcattt taccactcaa gccttgctcc aacaccctgc ttaggaggcc
+     9541 attgaccacc aacaggcatc acccctctaa accccataga agtacccctc ctaaacacct
+     9601 ctgtattact tgcatccgga gttacaatta cctgagctca tcacagtctc ataaacaacg
+     9661 atcgaaaaca aacaatccaa gccctactca tcacaatcct actcggcacc tatttcaccc
+     9721 tactacaaat ctcagaatac tttgaagcac ccttcaccat ctccgatggc atctacggtt
+     9781 caacattctt cattaccaca ggcttccatg gactccacgt tattattgga tccacattcc
+     9841 tctttgtctg cctcatccgc caactactac accacttcac atcgaaccat cacttcggct
+     9901 tcgaagccgc cgcttgatat tgacacttcg tggatgttat ctgactactc ctctatattt
+     9961 ctgtctattg atgaggatcc tactctttta gtataacaag tacaattgac ttccaatcaa
+    10021 tcagttttga caacattcaa aaaagagtaa ttaatctagt gctagcccta acaatcaaca
+    10081 ccctattaac ctcgctactg ataattatca tattctgact accccagctc aacccctata
+    10141 cagaaaaaac cagcccctac gagtgcggat ttgaccccct aaaccctgct cgcatcccat
+    10201 tctcaataaa attcttccta gttgccatta ctttcctgct atttgaccta gaaatcgccc
+    10261 tactactatc tctaccgtga gccattcaaa caacaaacct cccaataata atcaaatcga
+    10321 ccattgcctt tattattatc ctaattctca gtttaaccta tgaatgaacc caaaaagggt
+    10381 tagactgggc cgaattggta agtagtttaa ataaaataaa tgatttcgac tcattagatt
+    10441 atgataacca tactaaccaa atgaccctta cctatataaa cattatacta gcattcgcta
+    10501 tctctcttct aggtatacta acctaccgct cacacctagt agcctctctc ctctgcctag
+    10561 agggaataat aatatcgctc tttattatgg ccacccttat tgcctcaaac acacacttcc
+    10621 ccctaatcaa cattataccc atcattttgt tagtatttgc cgcctgtgaa acagcagtag
+    10681 gtcttgccct actaatctca atctccaaca catacggact agactacgtc cacaacctaa
+    10741 acctgcttca atgctaaaaa taattattcc cacaaccata ctactaccca taacatgact
+    10801 ctctaaaaat aatacaattt gaatcaactt gaccatgcat agcttaacta tcagcctcat
+    10861 ccccttacta ttcttcaacc aaaccagcac caacctcctc aatcactcaa cctatctatc
+    10921 ttctgaccca ctagcagcac ccctcctaac actaactatc tgacttctac ccctcatgat
+    10981 tatagcgagc cagtatcacc tatataacga acccccctca caaaaaaaac ttttcctctt
+    11041 cacaataatt ctcctacaaa tcaccctaat tctgacattc atggccacag agctaattat
+    11101 attctacatt ctatttgaaa ccaccctaat tcccacccta attatcatta ctaaatgggg
+    11161 caaccaagca aaacgcctca acgcaagtac ctactttcta ttctatacac taaccggctc
+    11221 tctaccccta ctcatcatac taagccacac ctacaacaac acaggctcat taaatattac
+    11281 attactaaca ctcacagacc aaaaactaac aaccacctga tctcacaact ttacctgact
+    11341 agcatgcata atagccttta tgacaaaaat acccctatat ggcctacacc tgtgacttcc
+    11401 taaagcccat gtcgaagccc ccattgcagg atcaatagtc cttgccgcag tactcctaaa
+    11461 actaggtggc tacggcataa tacgacttac tcccatcctt aaccccttaa cagaatacat
+    11521 agcttaccca ttcctcatat tatccttatg gggtataatc ataacaggcc taacatgcct
+    11581 ccgacaaaca gatctaaaat cacttatcgc atactcttct gtaagccaca tggcccttgt
+    11641 aattgtagcc tctctcatcc aaaccccctg aagcttttcc ggcgcaacca tccttataat
+    11701 cgctcacgga ctcacctctt ccatgtactt ctgcctagcc aattcaaact atgaacgcac
+    11761 ccacagccgt accatactac tgtcccgagg acttcaaatc ctactcccac taacagcctt
+    11821 ctgatgatta acagcaagcc ttactaacct tgccctgccc cccactatca acctactagg
+    11881 cgaactcttt gtaatcacga cctcattttc ctgatcccat atcaccatta tgttgacagg
+    11941 gcttaatata ctaattacgg ccctctactc tctccacata ttcattacaa cgcaacgagg
+    12001 aatacttaca caccatataa tcaacataaa accctccttc acacgagaaa atatattaat
+    12061 attcatacac ctcgccccaa ttatccttct gtctctcaat cccaacatca tcctaggatt
+    12121 tacctcctgt agatatagtt taactaaaac attagattgt gaatctaacc acagagactt
+    12181 accacctctt atttaccgag aaaactcaca aggattgcta acccatgtac ccgtacctaa
+    12241 aattacggtt ttctcaactt ttaaaggata acagctatcc attgacctta ggagtcaaaa
+    12301 acattggtgc aactccaaat aaaagtaata accatgcaca cccccatcat aataacaacc
+    12361 cttatctccc taaccctccc aatttttgcc accctcatca acccttacaa aaaacgtcca
+    12421 tacccagatt acgtaaaaac aaccgtaata tatgctttca ccatcagcct cccctcaaca
+    12481 accttattca tcttctcgaa ccaagaaaca accatttgga gctgacattg aataatagcc
+    12541 caaacattag acctaacact aagcttcaaa ctagattact tctccatgat atttattcca
+    12601 atcgcactat tcatcacctg gtccatcata gaattctcgc tatgatacat aaactcagac
+    12661 ccaaacatca accaattctt caaatatctt cttattttcc tcactgccat actaattcta
+    12721 gtcactgcta acaacctctt ccaattcctt atcggctgag agggcgtagg aatcatatct
+    12781 tttctcctaa ttagctgatg atacgctcga acagacgcca acacagcagc catccaagca
+    12841 atcttatata atcgcattgg cgacattggt cttatcctag ccatagcatg atttctccta
+    12901 cattacaact catgagacct ccaacaaata ctagccctaa atttcaactc aagctccctc
+    12961 ccactaatag gcctcctcct agcagcagca ggaaaatcag ctcaattcgg tcttcacccc
+    13021 tgactaccct ctgccataga aggcccaact ccagtctcag ccctacttca ctccagtacc
+    13081 atagtcattg ccggagtgtt cttactcatc cgcttccacc ctctaataga aaccaacaca
+    13141 ataattcaaa atcttacatt atgcctgggg gctattacta ccctatttac agccatctgc
+    13201 gcccttacac aaaacgacat taaaaagatt gtagccttct ccacctcaag ccaactaggc
+    13261 ctaataataa tcaccatcgg catcaaccaa ccatacttag cattcctaca catctgcacc
+    13321 catgctttct ttaaagccat actttttata tgctccggat ccattatcca taacctaaac
+    13381 aacgaacaag acattcgaaa aataggaggc ctattcaaaa caatacccct cacctcaact
+    13441 tccataatca ttggcaacct agcactcaca ggaataccct tcctcacagg cttctactcc
+    13501 aaagacctta ttatcgaagc cacaaacacg tcgtacacca acgcctgagc cctattcatc
+    13561 actctcatca ctacctctct aacaagcgcc tatagcactc gaactatcct tctcacccta
+    13621 acaggacaac cccgttttcc agccctaaca aacatcaacg aaaacaaccc cgctctacta
+    13681 aacccaatta aacgcctcac aatgggcagc ataatcacag gatttcttat caccaacaac
+    13741 atccccccca ccttactccc ccaaccaaca atacccctct acttaaaact ctcagctcta
+    13801 tgcgcaactg tcctaggctt cctagcagcc ctagacctca cccttataac aaacaaactg
+    13861 aaaataaaaa ccccatcaca aatattcaaa ttctccaata tactaggata ttttcccacc
+    13921 acaattcacc gcacaatccc ctatcaaaac ctactcataa gccaaaattt agcccttctc
+    13981 ctattggatt cagcatgact agagaaatct atacctaaaa taatctcaca agcacacatt
+    14041 actgcctcca taactgtaac cacccaaaaa ggcataatca aactctactc cctttctttc
+    14101 ctcatccccc ttaccctagc cctaattcta atgatataac ctattacccc gaacaatctc
+    14161 aatcacaaca tacacaccaa caaataatgt ccaaccagca actaccacta atcaacgccc
+    14221 ataatcatat aaggcacccg caccaataga atcacctcga atcaatcctg acccctcccc
+    14281 ctcaaaaatc acccaatcac cagtatcact aaaactaacc accacttcta ccgcctcatc
+    14341 caaacttaaa acccataaaa ctaatatcac ctccattatc aaccctacta aaagaccccc
+    14401 taaaacctca aaccccgaac cccatgtctc aggatactct tcaatagcca ttgcagtagt
+    14461 ataaccaaaa acaaccatca taccccccag ataaactaaa aacatcatca aacccatata
+    14521 agccccccca caacttaaaa caatcacaca accaatcaca ccactaacaa ttaacgccag
+    14581 acccccataa ataggagaag gcttagaaga aaaccccaca aaccccataa ctaataaaac
+    14641 actcaatgca aacaaaatat acgtcattgc tttcacatgg actccaacca tgactaatgg
+    14701 tacgaaaaac catcgttgta tttcaactat aaaagcacca atgactccaa tacgcaaatc
+    14761 caacccaatc ctaaaaataa ttaatcgctc cttcatcgat ttacccgccc cacccaacct
+    14821 ctccatatgg tgaaactttg gctcacttct tgcagcctgc ctaattttac aaatcatcac
+    14881 aggcctactc ctagcaatac actactcacc agacacctcc tccgccttct cctcaattgc
+    14941 acatatcacc cgagatgtaa agtacggctg aatcactcgc tacctccacg ccaatggtgc
+    15001 ctctatactc ttcatttgcc ttttcctaca catcggtcgg ggcctttact acggctcata
+    15061 cctcctccta gaaacctgaa acattggtat tatactcctt cttataacta taacaacggc
+    15121 tttcatgggt tatgttctcc catgaggcca aatatcattc tggggagcaa cagtaatcac
+    15181 aaacctgcta tcagcaatcc cgtatatcgg aaccaatctc gtccaatgaa tctgaggagg
+    15241 atacgccatc gacagcccta ctctcacacg attcttcacc ttacacttta tcctaccctt
+    15301 catcatcatc gccctcacaa ccgtgcacct actattcctg cacgaaacag gatcaaacaa
+    15361 cccttgcgga atctcctccg actcagacaa aatcgccttc cacccctact acacaaccaa
+    15421 agacatcctg ggcctagtcc tccttctctt catcctagca acactaacac tactctcacc
+    15481 caacctccta aacgacccag acaactacat tccagccgac ccattaaaca ctcccccaca
+    15541 tatcaaacca gagtgatact tcctatttgc atacacaatc ctacgatcca tccccaacaa
+    15601 actgggaggc gtactagcac tctttctatc gatcctcatt ctagcagcca tccctatact
+    15661 tcacaaatcc aaacaacaaa gcataatatt ccgcccactc agccaatttc tattctgact
+    15721 cctaatcaca atcctattga cccttacctg aattggaagc gaaccagtag tccaacccct
+    15781 taccactatc ggccaagtag catccataat atacttcatc acaattctaa tcctaatacc
+    15841 actggcctcc ctaatcgaaa acaacctact caagtgaact tgccctcgta gtataaatta
+    15901 gtacactggc cttgtaaacc agaaatgaac actcttccta gggcagtcag aaagaaagta
+    15961 cctaactcca ccaccaacac ccaaagctgg cattctaatt taaactactt tctgcattct
+    16021 tatattgcat aagcttcata aataactcta gcaccaatcc acccataata ctactatgta
+    16081 attcgtgcat tactgctagc caacatgtat aatatatagt actatatatg cttaactgta
+    16141 cataacacat attattacat accaacttga cattccaaac agcatgctta caagcaagta
+    16201 tcctaataca aacctcaaca gtaacacata acatggttcc ctcggactta acttgtcccc
+    16261 cctcatgaat atcaactaaa ccagtccttg ccagtcgtcc atagtacatt aaatcgttca
+    16321 tcggacatag cacatatcta ttaaataatc ctcctcacca cggatgctcc ccttcactta
+    16381 ggagtccctt actcaccatc ctccgtgaaa tcaatatccc gcacaagagt gctactctcc
+    16441 tcgctccggg cccataactc gtgggggtag ctatacctga actgtatccg gcatctggtt
+    16501 cttacctcag ggccataaca atcaagatcg cccacacgtt ccccttaaat aagacatctc
+    16561 gatg
+//
+

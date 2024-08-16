@@ -1,0 +1,104 @@
+LOCUS       EU179513                 647 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercocebus agilis isolate PR00608 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU179513
+VERSION     EU179513.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercocebus agilis (agile mangabey)
+  ORGANISM  Cercocebus agilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercocebus.
+REFERENCE   1  (bases 1 to 647)
+  AUTHORS   Lorenz,J.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-SEP-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..647
+                     /organism="Cercocebus agilis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00608"
+                     /db_xref="taxon:255237"
+                     /sex="female"
+     gene            <1..>647
+                     /gene="COXI"
+     CDS             <1..>647
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71934.1"
+                     /translation="YLLFGAWAGVMGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHA
+                     FVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMLEA
+                     GAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQ
+                     YQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQH"
+ORIGIN      
+        1 tatacctact attcggtgca tgagcaggag ttatgggcac agccctaagc cttctcattc
+       61 gagctgaact aggccaaccc ggtaatctac tgggcaatga tcacatttac aacgttatcg
+      121 taacagccca tgcattcgtc ataatcttct tcatagtcat acccattata atcggaggct
+      181 ttggaaactg gctagtaccc ctaataattg gcgctcctga catagcattc cctcgcttaa
+      241 ataacataag cttctgactc cttcccccct ccttcctact actaatagca tcaactatac
+      301 tagaagccgg tgctgggacg ggttgaacag tatacccccc tttagcagga aacttctccc
+      361 acccaggagc ctccgtagac ctagttattt tttcccttca cctagcaggc atttcttcta
+      421 ttctaggggc tatcaacttc attactacta ttatcaacat aaaacctccc gcaatatctc
+      481 aatatcaaac tcccctgttc gtctgatcaa tcttaatcac agcaatcctt ctactcctct
+      541 cactaccagt cctggccgcc ggcatcacca tgctactaac agatcgtaac cttaacacta
+      601 ctttcttcga tccagttgga ggaggagatc ctattctata ccaacac
+//
+
+LOCUS       EU179511                 661 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercocebus torquatus isolate PR00485 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU179511
+VERSION     EU179511.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercocebus torquatus (collared mangabey)
+  ORGANISM  Cercocebus torquatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercocebus.
+REFERENCE   1  (bases 1 to 661)
+  AUTHORS   Lorenz,J.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-SEP-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..661
+                     /organism="Cercocebus torquatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00485"
+                     /db_xref="taxon:9530"
+                     /sex="male"
+     gene            <1..>661
+                     /gene="COXI"
+     CDS             <1..>661
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71932.1"
+                     /translation="YLLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVIVTAHA
+                     FVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMLEA
+                     GAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIMNMKPPAMSQ
+                     YQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQHLFW
+                     F"
+ORIGIN      
+        1 tatacctact atttggtgca tgagccggag ttataggcac agccctaagc ctccttattc
+       61 gagctgaact aggccaaccc ggtagtctac tgggcaatga tcatatttat aacgttatcg
+      121 taacggccca tgcatttgtc ataattttct tcatagttat acccatcatg atcggaggtt
+      181 ttggaaactg actagtgccc cttataattg gcgcccccga tatagcattc ccccgtttga
+      241 ataatataag cttctgactc cttccccctt cctttctact actaatggca tcaactatac
+      301 tagaagccgg cgctgggaca ggctgaacag tataccctcc tttagcagga aacttctctc
+      361 acccaggagc ctccgtagac ctagtcattt tttctcttca cctggcaggc atttcttcta
+      421 tcttaggggc cattaacttc attaccacta ttataaacat aaaacccccc gcaatatctc
+      481 agtatcaaac tcccctattc gtctgatcaa tcctaatcac agcaatcctc ctacttctct
+      541 cactaccagt tctggccgcc ggcatcacca tgctactaac agatcgtaac ctcaatacta
+      601 ctttcttcga tccagttgga ggaggagatc ctattctata tcagcactta ttctgattct
+      661 t
+//
+

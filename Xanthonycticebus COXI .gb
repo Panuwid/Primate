@@ -1,0 +1,73 @@
+LOCUS       GQ259902                1542 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Nycticebus pygmaeus cytochrome oxidase subunit I (COXI) gene,
+            complete cds; mitochondrial.
+ACCESSION   GQ259902
+VERSION     GQ259902.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 1542)
+  AUTHORS   Somura,H., Hori,H., Watanabe,M. and Manome,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2009) Asian Wildlife Research Center Foundation
+            and Jikei University School of Medicine, 1-3-728, Akebono-cho,
+            Naka-ku, Yokohama, Kanagawa 231-0057, Japan
+FEATURES             Location/Qualifiers
+     source          1..1542
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PS-02"
+                     /db_xref="taxon:101278"
+                     /sex="female"
+                     /country="Japan: Nasu World Monkey Park"
+     gene            1..1542
+                     /gene="COXI"
+     CDS             1..1542
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACT64830.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKW
+                     SPAMLWALGFIFLFTVGGLTGIVLSNSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG
+                     FVHWFPLFSGYTLDQTWAKIHFTIMFVGVNLTFFPQHFLGLSGMPRRYSDYPDAYTMW
+                     NSISSIGSFISLTAVVLMIFMVWEAFASKREVMMVELTHTNLEWLHGCPPPYHTFEEP
+                     TYVKA"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaatct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgctt acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acatcctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcctgg gctttattgt atgagctcac catatgttta cagttggcat agatgtagac
+      901 acccgagcat actttacatc tgctacaata atcatcgcta ttcccactgg agtaaaagta
+      961 tttagctgat tggctaccct acatggtgga aacattaaat gatccccagc catattatga
+     1021 gctctaggat ttattttcct gtttacggta gggggcttaa ccggaatcgt attatctaat
+     1081 tcttctctag atattgtact tcatgacact tactatgtag tagcacattt tcactatgtt
+     1141 ttatcaatag gagctgtatt tgccattata ggaggattcg tccactgatt cccgctattc
+     1201 tctggctaca ccttagacca aacctgggct aaaattcact tcaccatcat atttgtaggc
+     1261 gtaaatctaa ctttcttccc ccaacatttt ctcggtctat caggaatacc acggcgctac
+     1321 tctgattacc cagacgcata cacaatatga aactcaatct catcaatcgg atcatttatc
+     1381 tccctaacag cagtagtact aataattttt atagtttgag aagcctttgc ctcaaaacga
+     1441 gaagtcataa tagtagagct gacacatact aatctagagt gactacacgg atgccctcca
+     1501 ccttatcata cattcgagga gcccacatac gtaaaagcct aa
+//
+

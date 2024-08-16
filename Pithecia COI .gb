@@ -1,0 +1,124 @@
+LOCUS       JF459229                 657 bp    DNA     linear   PRI 30-JAN-2012
+DEFINITION  Pithecia pithecia voucher ROM:109235 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   JF459229
+VERSION     JF459229.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Pithecia pithecia (white-faced saki)
+  ORGANISM  Pithecia pithecia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Pitheciinae; Pithecia.
+REFERENCE   1  (bases 1 to 657)
+  AUTHORS   Lim,B.K., Engstrom,M.D., Eger,J.L. and Borisenko,A.V.
+  TITLE     ROM Mammals - Guyana
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 657)
+  AUTHORS   Lim,B.K., Engstrom,M.D., Eger,J.L. and Borisenko,A.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAR-2011) Biodiversity Institute of Ontario,
+            University of Guelph, 50 Stone Road East, Guelph, Ontario N1G2W1,
+            Canada
+FEATURES             Location/Qualifiers
+     source          1..657
+                     /organism="Pithecia pithecia"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ROM:109235"
+                     /db_xref="BOLD:ABGYD812-06.COI-5P"
+                     /db_xref="taxon:43777"
+                     /country="Guyana: Potaro-Siparuni, Pakatau Falls, Siparuni
+                     River, Iwokrama Reserve"
+                     /lat_lon="4.75 N 59.017 W"
+                     /collection_date="18-Nov-1997"
+                     /collected_by="Lim, BK, Scully, WMR, Arjoon, JD,
+                     Jafferally, DM"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaaagacattgg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccaaagaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaargayatygg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccraaraayca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagtattcaaccaatcataaagatattgg, rev_seq:
+                     caggaaacagctatgactaaacttctggatgtccaaaaaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>657
+                     /gene="COI"
+     CDS             <1..>657
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AEA91707.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 acactatacc tattatttgg tgcatgagca ggagcagtag gaactgccct aagccttctt
+       61 atccgagcgg agctaggcca accgggaagc ctcatagaag atgaccatgt ctacaacgtt
+      121 atcgtcacct cccatgcatt tattataatc ttttttatag tcatgcctat tataatcgga
+      181 ggatttggaa actgactcgt cccgctaata attggtgccc ctgacatagc gtttccccga
+      241 ataaacaaca taagcttttg acttctccct ccatcactcc ttcttcttct agcatcatca
+      301 accctagagg caggcgctgg aaccggttga acagtttacc cgccactagc aggaaacata
+      361 tcgcacccag gagcctctgt agacctaact attttttcac tccacttggc aggcatttcc
+      421 tctatcctag gagcaattaa ctttattaca acaattatta acatgaaacc cccagcaata
+      481 acccaatacc aaacaccctt atttgtctga tctgttctaa ttacagctgt tctcctcctc
+      541 ctctccctcc cagtcctagc tgcaggaatt acaatattgt taactgaccg caaccttaat
+      601 actaccttct ttgaccccgc tggtggcgga gatccaattc tataccaaca tttgttt
+//
+
+LOCUS       AY549424                 505 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Pithecia pithecia PR00239 cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   AY549424
+VERSION     AY549424.1
+KEYWORDS    .
+SOURCE      mitochondrion Pithecia pithecia (white-faced saki)
+  ORGANISM  Pithecia pithecia
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Pitheciinae; Pithecia.
+REFERENCE   1  (bases 1 to 505)
+  AUTHORS   Lorenz,J.G., Vosbikian,A.D., Jackson,W.E., Hanner,R. and Beck,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2004) Molecular Biology, Coriell Institute for
+            Medical Research, 403 Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..505
+                     /organism="Pithecia pithecia"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="skin biopsy from male white-faced saki"
+                     /db_xref="taxon:43777"
+                     /cell_line="PR00239"
+                     /cell_type="fibroblast"
+     gene            <1..>505
+                     /gene="COI"
+     CDS             <1..>505
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAS55880.1"
+                     /translation="PGSLMEDDHVYNVIVXSHAFIMIFFMVMPIMIGGFGNWLVPLMI
+                     GAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNMSHPGASVDL
+                     TIFSLHLAGISSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLLLSLPVLA
+                     AGITMLLT"
+ORIGIN      
+        1 ccgggaagcc tcatagaaga tgaccatgtc tacaacgtta tcgtcncctc ccatgcattt
+       61 attataatct tttttatagt catgcctatt ataatcggag gatttggaaa ctgactcgtc
+      121 ccgctaataa ttggtgcccc tgacatagcg tttccccgaa taaacaacat aagcttttga
+      181 cttctccctc catcactcct tcttcttcta gcatcatcaa ccctagaggc aggcgctgga
+      241 accggttgaa cagtttaccc gccactagca ggaaacatat cgcacccagg agcctctgta
+      301 gacctaacta ttttttcact ccacttggca ggcatttcct ctatcctagg agcaattaac
+      361 tttattacaa caattattaa catgaaaccc ccagcaataa cccaatacca aacaccctta
+      421 tttgtctgat ctgttctaat tacagctgtt ctcctcctcc tctccctccc agtcctagct
+      481 gcaggaatta caatattgtt aactg
+//
+

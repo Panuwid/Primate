@@ -1,0 +1,963 @@
+LOCUS       EU179512                 646 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus hamlyni isolate PR00522 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU179512
+VERSION     EU179512.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus hamlyni (owl-faced monkey)
+  ORGANISM  Cercopithecus hamlyni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 646)
+  AUTHORS   Lorenz,J.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-SEP-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..646
+                     /organism="Cercopithecus hamlyni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00522"
+                     /db_xref="taxon:9536"
+                     /sex="male"
+     gene            <1..>646
+                     /gene="COXI"
+     CDS             <1..>646
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71933.1"
+                     /translation="LYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVIE
+                     AGAGTGWTVYPPLAGNLYHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPATS
+                     QYQTPLFIWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQ"
+ORIGIN      
+        1 ctgtacctat tgttcggagc atgagccggg gtcataggca cagctctaag tcttctcatt
+       61 cgagctgaac taggccaacc cggtagtcta ctaggcagtg accatatcta caatgtcatc
+      121 gtaacggccc atgcattcgt tataattttc ttcatagtta tacccatcat gatcgggggg
+      181 tttgggaact gactagtgcc cctaatgatc ggtgcccctg acatagcatt tccacgtcta
+      241 aataacataa gcttctgact tctcccccca tctttcctac tactaatagc atcagccgta
+      301 atcgaggctg gtgctgggac aggttgaaca gtataccccc ccttagcggg aaacctctat
+      361 cacccaggag cttccgtaga cctagtcatt ttctccctcc acttagcagg aatctcctcc
+      421 atcctagggg ccatcaactt tattacaacc attatcaata tgaaacctcc cgctacatcc
+      481 cagtatcaaa cccccttgtt tatctgatct atcctaatca cagcgattct cctacttctc
+      541 tctctgccag tcctggccgc cggcattact atgttattaa cagatcgcaa cctcaacact
+      601 accttctttg atccaactgg agggggggac cctatcctat accaac
+//
+
+LOCUS       AY972809                 642 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus neglectus isolate PR01121 cytochrome c oxidase
+            subunit I (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972809
+VERSION     AY972809.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus neglectus (De Brazza's monkey)
+  ORGANISM  Cercopithecus neglectus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Cercopithecus neglectus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01121"
+                     /db_xref="taxon:36227"
+                     /sex="female"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>642
+                     /gene="COXI"
+     CDS             <1..>642
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22375.1"
+                     /translation="YLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHA
+                     FIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVEA
+                     GAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQ
+                     YQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILY"
+ORIGIN      
+        1 gtatctacta ttcggtgcat gagctgggat tataggcaca gctctaagcc tcctcatccg
+       61 agctgagcta ggtcaacccg gtagcttatt aggtagcgac cacatttaca atgttattgt
+      121 aacagcccat gcatttatta taattttctt tatggttata cccattataa ttggaggctt
+      181 cgggaactgg ctagtgccct taataattgg tgctcctgat atagcattcc ctcgtctaaa
+      241 caacataagc ttctggcttc tccctccctc cttcctgttg ctaatagcat cagccatggt
+      301 agaagctggt gctgggacag gctgaacggt gtatcctccc ctggcgggaa acctctccca
+      361 cccaggagcc tccgtagatc tggttatttt ttcccttcac ctagcaggag tttcttccat
+      421 cctaggggcc attaacttca ttaccactat tatcaacatg aagcctcccg ctatatccca
+      481 ataccagact cccttgtttg tctgatctgt cctaatcacg gcaatcctat tacttctctc
+      541 tttaccagtc ttagccgccg gcattactat actattaaca gaccgcaacc tcaatacgac
+      601 tttctttgat cctactgggg gaggggatcc tatcctatat ca
+//
+
+LOCUS       AY972791                 644 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus mitis isolate PR00997 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972791
+VERSION     AY972791.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus mitis (blue monkey)
+  ORGANISM  Cercopithecus mitis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 644)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 644)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 644)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..644
+                     /organism="Cercopithecus mitis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00997"
+                     /db_xref="taxon:36225"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>644
+                     /gene="COXI"
+     CDS             <1..>644
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22357.1"
+                     /translation="YLLFGAWAGVMGTALSLLIRAELGQPGSLFGSDHVYNVIVTAHA
+                     FIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEA
+                     GAGTGWTAYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQ
+                     YQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQ"
+ORIGIN      
+        1 tatacctgtt gttcggtgca tgagctggag tcataggcac tgctctaagt cttcttattc
+       61 gagctgaact gggccaaccc ggtagtctat ttggcagtga ccatgtttac aatgttatcg
+      121 tgacagccca tgcatttatt ataattttct tcatagttat gcccattata attggaggat
+      181 tcgggaactg actagtgccc ttaataattg gtgcccctga tatagcattt ccccgtctaa
+      241 acaatataag cttctggctt ctccctccct ctttcctact actaatagca tcaaccgtag
+      301 tagaagctgg tgctggcaca ggttgaacag catatcctcc tttagcagga aacctctccc
+      361 acccaggagc ctccgtagac ttagttattt tctccctcca tctggcaggg atttcctcta
+      421 tcctaggagc catcaacttc attaccacta ttatcaatat gaaacccccc gctatatccc
+      481 aatatcaaac ccccttgttc gtttgatctg tcttaatcac agcaattcta ctactcctct
+      541 ccctaccagt cctggctgcc ggtattacca tattattaac agaccgcaac ctcaacacca
+      601 ccttctttga ccccaccgga ggaggagacc ctatcctata tcaa
+//
+
+LOCUS       AY972790                 655 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus mitis isolate PR00995 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972790
+VERSION     AY972790.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus mitis (blue monkey)
+  ORGANISM  Cercopithecus mitis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 655)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 655)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 655)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /organism="Cercopithecus mitis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00995"
+                     /db_xref="taxon:36225"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>655
+                     /gene="COXI"
+     CDS             <1..>655
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22356.1"
+                     /translation="LLFGTWAGIMGTALSLLIRAELGQPGSLLGSDHVYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHLFWF
+                     "
+ORIGIN      
+        1 ctactattcg gtacatgagc tggaatcata ggcactgctc taagtcttct tattcgagct
+       61 gaacttggcc aacccggtag tctacttggc agtgaccatg tttacaatgt tatcgtgaca
+      121 gcccatgcat ttattataat cttcttcata gttataccca ttataattgg ggggttcggg
+      181 aactgactag tgcccttgat aattggtgct cctgacatag catttccccg tctaaataat
+      241 ataagcttct ggcttctccc tccctctttt ctgctactaa tagcatcagc tatggtagaa
+      301 gctggcgctg gcacaggttg aacagtatac cctcctttag caggaaacct ctcccaccca
+      361 ggagcctccg tagacttagt tattttctcc ctccatttag cagggatttc ctccatccta
+      421 ggagccatca acttcattac cactattatc aatatgaagc cccccgctat atcccaatac
+      481 caaaccccct tgttcgtttg atctgtctta atcacagcaa tccttctact cctctcccta
+      541 ccagtcctgg ctgccggtat taccatatta ctaacagacc gcaacctcaa cactaccttc
+      601 tttgacccta ccgggggagg agaccctatc ctttatcaac acctattctg attct
+//
+
+LOCUS       AY972789                 639 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus mitis isolate PR00993 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972789
+VERSION     AY972789.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus mitis (blue monkey)
+  ORGANISM  Cercopithecus mitis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 639)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Cercopithecus mitis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00993"
+                     /db_xref="taxon:36225"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>639
+                     /gene="COXI"
+     CDS             <1..>639
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22355.1"
+                     /translation="YLLFGTWAGIMGTALSLLIRAELGQPGSLLGSDHVYNVIVTAHA
+                     FIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVEA
+                     GAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQ
+                     YQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 tatacctact gttcggtaca tgagctggaa tcataggcac tgctctaagt cttcttattc
+       61 gagctgaact tggccagccc ggtagtctac ttggcagtga ccatgtttac aatgttatcg
+      121 tgacagccca tgcatttatt ataatcttct tcatagttat acccattata attggggggt
+      181 tcgggaactg actagtgccc ttaataattg gtgctcctga catagcattt ccccgtctaa
+      241 ataatataag cttctggctt ctccccccct cttttctgct actaatagca tcagctatgg
+      301 tagaagccgg tgctggcaca ggttgaacag tataccctcc tttagcagga aacctctccc
+      361 acccaggagc ctccgtagac ttagttattt tctccctcca tttagcaggg atttcctcca
+      421 tcctaggagc catcaacttc attaccacta ttatcaatat gaaacccccc gctatatccc
+      481 aataccaaac ccccttgttc gtttgatctg tcttaatcac agcaattctt ctactcctct
+      541 ccctaccagt cctggctgcc ggtattacca tattactaac agaccgcaac ctcaacacta
+      601 ccttctttga ccctaccgga ggaggagacc ctatccttt
+//
+
+LOCUS       AY972788                 616 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus mitis isolate PR00991 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972788
+VERSION     AY972788.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus mitis (blue monkey)
+  ORGANISM  Cercopithecus mitis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 616)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Cercopithecus mitis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00991"
+                     /db_xref="taxon:36225"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>616
+                     /gene="COXI"
+     CDS             <1..>616
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22354.1"
+                     /translation="LLFGAWAGVMGTALSLLIRAELGQPGSLFGSDHVYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAG
+                     AGTGWTAYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTG"
+ORIGIN      
+        1 acctgttgtt cggtgcatga gctggagtca taggcactgc tctaagtctt cttattcgag
+       61 ctgaactggg ccaacccggt agtctatttg gcagtgacca tgtttacaat gttatcgtga
+      121 cagcccatgc atttattata attttcttca tagttatgcc cattataatt ggaggattcg
+      181 ggaactgact agtgccctta ataattggtg cccctgatat agcatttccc cgtctaaaca
+      241 atataagctt ctggcttctc cctccctctt tcctactact aatagcatca accgtagtag
+      301 aagctggtgc tggcacaggt tgaacagcat atcctccttt agcaggaaac ctctcccacc
+      361 caggagcctc cgtagactta gttattttct ccctccatct ggcagggatt tcctctatcc
+      421 taggagccat caacttcatt accactatta tcaatatgaa accccccgct atatcccaat
+      481 atcaaacccc cttgttcgtt tgatctgtct taatcacagc aattctacta ctcctctccc
+      541 taccagtcct ggctgccggt attaccatat tattaacaga ccgcaacctc aacaccacct
+      601 tctttgaccc caccgg
+//
+
+LOCUS       AY972786                 624 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus mitis isolate PR00987 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972786
+VERSION     AY972786.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus mitis (blue monkey)
+  ORGANISM  Cercopithecus mitis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 624)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 624)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Cercopithecus mitis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00987"
+                     /db_xref="taxon:36225"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>624
+                     /gene="COXI"
+     CDS             <1..>624
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22352.1"
+                     /translation="LLFGAWAGVMGTALSLLIRAELGQPGSLFGSDHVYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAG
+                     AGTGWTAYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGG"
+ORIGIN      
+        1 cctgttgttc ggtgcatgag ctggagtcat aggcactgct ctaagtcttc ttattcgagc
+       61 tgaactgggc caacccggta gtctatttgg cagtgaccat gtttacaatg ttatcgtgac
+      121 agcccatgca tttattataa ttttcttcat agttatgccc attataattg gaggattcgg
+      181 gaactgacta gtgcccttaa taattggtgc ccctgatata gcatttcccc gtctaaacaa
+      241 tataagcttc tggcttctcc ctccctcttt cctactacta atagcatcaa ccgtagtaga
+      301 agctggtgct ggcacaggtt gaacagcata tcctccttta gcaggaaacc tctcccaccc
+      361 aggagcctcc gtagacttag ttattttctc cctccatctg gcagggattt cctctatcct
+      421 aggagccatc aacttcatta ccactattat caatatgaaa ccccccgcta tatcccaata
+      481 tcaaaccccc ttgttcgttt gatctgtctt aatcacagca attctactac tcctctccct
+      541 accagtcctg gctgccggta ttaccatatt attaacagac cgcaacctca acaccacctt
+      601 ctttgacccc accggaggag gaga
+//
+
+LOCUS       AY972785                 634 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus neglectus isolate PR00985 cytochrome c oxidase
+            subunit I (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972785
+VERSION     AY972785.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus neglectus (De Brazza's monkey)
+  ORGANISM  Cercopithecus neglectus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..634
+                     /organism="Cercopithecus neglectus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00985"
+                     /db_xref="taxon:36227"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>634
+                     /gene="COXI"
+     CDS             <1..>634
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22351.1"
+                     /translation="LLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 ctactattcg gtgcatgagc tgggattata ggcacagctc taagcctcct catccgagct
+       61 gagctaggtc aacccggtag cttattaggt agcgaccaca tttacaatgt tattgtaaca
+      121 gcccatgcat ttattataat tttctttatg gttataccca ttataattgg aggcttcggg
+      181 aactggctag tgcccttaat aattggtgct cctgatatag cattccctcg tctaaacaac
+      241 ataagcttct ggcttctccc tccctccttc ctgttgctaa tagcatcagc catggtagaa
+      301 gctggtgctg ggacaggctg aacggtgtat cctcccctgg cgggaaacct ctcccaccca
+      361 ggagcctccg tagatctggt tattttttcc cttcacctag caggagtttc ttccatccta
+      421 ggggccatta acttcattac cactattatc aacatgaagc ctcccgctat atcccaatac
+      481 cagactccct tgtttgtctg atctgtccta atcacggcaa tcctattact tctctcttta
+      541 ccagtcttag ccgccggcat tactatacta ttaacagacc gcaacctcaa tacgactttc
+      601 tttgatccta ctgggggagg ggatcctatc ctat
+//
+
+LOCUS       AY972784                 609 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus neglectus isolate PR00983 cytochrome c oxidase
+            subunit I (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972784
+VERSION     AY972784.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus neglectus (De Brazza's monkey)
+  ORGANISM  Cercopithecus neglectus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 609)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 609)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 609)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..609
+                     /organism="Cercopithecus neglectus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00983"
+                     /db_xref="taxon:36227"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>609
+                     /gene="COXI"
+     CDS             <1..>609
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22350.1"
+                     /translation="LFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFI
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVEAGA
+                     GTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQ
+                     TPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPT"
+ORIGIN      
+        1 ctattcggtg catgagctgg gattataggc acagctctaa gcctcctcat ccgagctgag
+       61 ctaggtcaac ccggtagctt attaggtagc gaccacattt acaatgttat tgtaacagcc
+      121 catgcattta ttataatttt ctttatggtt atacccatta taattggagg cttcgggaac
+      181 tggctagtgc ccttaataat tggtgctcct gatatagcat tccctcgtct aaacaacata
+      241 agcttctggc ttctccctcc ctccttcctg ttgctaatag catcagccat ggtagaagct
+      301 ggtgctggga caggctgaac ggtgtatcct cccctggcgg gaaacctctc ccacccagga
+      361 gcctccgtag atctggttat tttttccctt cacctagcag gagtttcttc catcctaggg
+      421 gccattaact tcattaccac tattatcaac atgaagcctc ccgctatatc ccaataccag
+      481 actcccttgt ttgtctgatc tgtcctaatc acggcaatcc tattacttct ctctttacca
+      541 gtcttagccg ccggcattac tatactatta acagaccgca acctcaatac gactttcttt
+      601 gatcctact
+//
+
+LOCUS       AY972783                 637 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus neglectus isolate PR00981 cytochrome c oxidase
+            subunit I (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972783
+VERSION     AY972783.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus neglectus (De Brazza's monkey)
+  ORGANISM  Cercopithecus neglectus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 637)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 637)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 637)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..637
+                     /organism="Cercopithecus neglectus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00981"
+                     /db_xref="taxon:36227"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>637
+                     /gene="COXI"
+     CDS             <1..>637
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22349.1"
+                     /translation="LLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILY"
+ORIGIN      
+        1 ctactattcg gtgcatgagc tgggattata ggcacagctc taagcctcct catccgagct
+       61 gagctaggtc aacccggtag cttattaggt agcgaccaca tttacaatgt tattgtaaca
+      121 gcccatgcat ttattataat tttctttatg gttataccca ttataattgg aggcttcggg
+      181 aactggctag tgcccttaat aattggtgct cctgatatag cattccctcg tctaaacaac
+      241 ataagcttct ggcttctccc tccctccttc ctgttgctaa tagcatcagc catggtagaa
+      301 gctggtgctg ggacaggctg aacggtgtat cctcccctgg cgggaaacct ctcccaccca
+      361 ggagcctccg tagatctggt tattttttcc cttcacctag caggagtttc ttccatccta
+      421 ggggccatta acttcattac cactattatc aacatgaagc ctcccgctat atcccaatac
+      481 cagactccct tgtttgtctg atctgtccta atcacggcaa tcctattact tctctcttta
+      541 ccagtcttag ccgccggcat tactatacta ttaacagacc gcaacctcaa tacgactttc
+      601 tttgatccta ctgggggagg ggatcctatc ctatatc
+//
+
+LOCUS       AY972703                 630 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus mitis isolate PR00710 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972703
+VERSION     AY972703.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus mitis (blue monkey)
+  ORGANISM  Cercopithecus mitis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /organism="Cercopithecus mitis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00710"
+                     /db_xref="taxon:36225"
+                     /sex="male"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>630
+                     /gene="COXI"
+     CDS             <1..>630
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22271.1"
+                     /translation="LLFGTWAGIMGTALSLLIRAELGQPGSLLGSDHVYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMTSAVVEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIVNMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPI"
+ORIGIN      
+        1 ctactgttcg gtacatgagc tggaatcata ggcactgctc taagtcttct tattcgagct
+       61 gaacttggtc aacccggtag tctacttggc agtgaccatg tttacaatgt tatcgtgaca
+      121 gcccatgcat ttattataat cttcttcata gttatgccca ttataattgg ggggttcggg
+      181 aactgactag tgcccttaat aattggtgct cctgacatag catttccccg tctaaataat
+      241 ataagcttct ggcttctccc tccctctttt ctgctactaa taacatcagc tgtggtagaa
+      301 gctggtgctg gcacaggttg aacagtatac cctcctttag caggaaacct ctcccaccca
+      361 ggagcctccg tagacttagt tattttctcc ctccatttag cagggatttc ctccatccta
+      421 ggagccatca acttcattac cactattgtc aatatgaaac cccccgctat atcccaatac
+      481 caaaccccct tgttcgtttg atctgtctta attacagcaa ttcttctact cctctcccta
+      541 ccagtcctgg ctgctggtat taccatatta ctaacagacc gcaacctcaa cactaccttc
+      601 tttgacccta ccggaggagg agaccctatc
+//
+
+LOCUS       AY972695                 659 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus ascanius isolate PR00634 cytochrome c oxidase subunit
+            I (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972695
+VERSION     AY972695.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus ascanius (red-tailed monkey)
+  ORGANISM  Cercopithecus ascanius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 659)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 659)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 659)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..659
+                     /organism="Cercopithecus ascanius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00634"
+                     /db_xref="taxon:36223"
+                     /sex="female"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>659
+                     /gene="COXI"
+     CDS             <1..>659
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22263.1"
+                     /translation="LLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAMVEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHLFWF
+                     F"
+ORIGIN      
+        1 cctactattc ggtgcatgag ctggaatcat aggcactgct ctaagtcttc ttattcgagc
+       61 tgaattaggc caacccggta gtctgttggg tagtgatcat atttacaatg ttatcgtaac
+      121 agcccatgca ttcatcataa ttttcttcat agtcataccc attataattg gggggttcgg
+      181 gaactgatta gtgcccttaa taattggtgc ccctgatata gcattccccc gcctgaataa
+      241 tataagcttc tgacttcttc caccatcctt cctgctgtta atagcatcag ccatagtaga
+      301 ggctggtgct ggaacaggtt gaacagtata ccccccttta gcaggaaacc tctcccatcc
+      361 aggagcctcc gtggacttgg ttattttctc cctccattta gcaggagttt cctctatctt
+      421 aggggccatc aactttatta ccactattat taacataaaa ccccccgcta tatcccaata
+      481 tcaaacaccc ttgtttgtct gatctgtcct aattacagca atcctactac ttctttccct
+      541 accagtcttg gctgccggca ttactatact attaacagac cgaaacctca acaccacctt
+      601 ctttgacccc actggagggg gagaccccat cctatatcaa cacttattct gattcttcg
+//
+
+LOCUS       AY972685                 653 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus ascanius isolate PR00566 cytochrome c oxidase subunit
+            I (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972685
+VERSION     AY972685.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus ascanius (red-tailed monkey)
+  ORGANISM  Cercopithecus ascanius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 653)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 653)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 653)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..653
+                     /organism="Cercopithecus ascanius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00566"
+                     /db_xref="taxon:36223"
+                     /sex="male"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>653
+                     /gene="COXI"
+     CDS             <1..>653
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22253.1"
+                     /translation="IGTLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIV
+                     TAHAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASA
+                     MVEAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTEGETPSYI"
+ORIGIN      
+        1 acattggaac tctgtaccta ctattcggtg catgagctgg aatcataggc actgctctaa
+       61 gtcttcttat tcgagctgaa ttaggccaac ccggtagtct gttgggtagt gatcatattt
+      121 acaatgttat cgtaacagcc catgcattca tcataatttt cttcatagtc atacccatta
+      181 taattggggg gttcgggaac tgattagtgc ccttaataat tggtgcccct gatatagcat
+      241 tcccccgcct gaataatata agcttctgac ttcttccacc atccttcctg ctgttaatag
+      301 catcagccat agtagaggct ggtgctggaa caggttgaac agtatacccc cctttagcag
+      361 gaaacctctc ccatccagga gcctccgtgg acttggttat tttctccctc catttagcag
+      421 gagtttcctc tatcttaggg gccatcaact ttattaccac tattattaac ataaaacccc
+      481 ccgctatatc ccaatatcaa acacccttgt ttgtctgatc tgtcctaatt acagcaatcc
+      541 tactacttct ttccctacca gtcttggctg ccggcattac tatactatta acagaccgaa
+      601 acctcaacac caccttcttt gaccccacgg agggggagac cccatcctat atc
+//
+
+LOCUS       AY972679                 629 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus wolfi isolate PR00486 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972679
+VERSION     AY972679.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercopithecus wolfi (Wolf's monkey)
+  ORGANISM  Cercopithecus wolfi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercopithecus.
+REFERENCE   1  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..629
+                     /organism="Cercopithecus wolfi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00486"
+                     /db_xref="taxon:263448"
+                     /sex="female"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>629
+                     /gene="COXI"
+     CDS             <1..>629
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22249.1"
+                     /translation="LLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMTSAIVEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDP"
+ORIGIN      
+        1 ctgctattcg gggcatgagc tggagttata ggcacagctc taagtcttct catccgagcc
+       61 gagctaggcc aacctggtag tttgctaggc agtgaccaca tctataatgt catcgtaaca
+      121 gcccatgcat ttgttataat tttcttcatg gtcataccca ttataattgg gggtttcgga
+      181 aactgactag tacccctaat aattggtgct cctgacatgg catttccccg tctaaacaat
+      241 ataagcttct ggcttcttcc cccctctttc ctattactaa tgacatcagc catcgtagaa
+      301 gctggtgctg gaacaggctg aacagtgtac ccacccctag caggaaacct ctcccatcca
+      361 ggggcctccg tagacttggt tattttctcc ctccatttag caggagtttc ctccatccta
+      421 ggggccatca acttcatcac caccattatc aacatgaaac cccctgctat atcccaatac
+      481 cagacccccc tgtttgtctg atctgtccta attacagcaa tcctactact cctctcttta
+      541 ccagttctag ccgccggtat tactatacta ttaacagatc gcaacctcaa taccactttc
+      601 tttgacccta ctggaggggg ggatcctat
+//
+
+LOCUS       AY972666                 632 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Cercopithecus lhoesti isolate PR00283 cytochrome c oxidase subunit
+            I (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972666
+VERSION     AY972666.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus lhoesti (L'Hoest's monkey)
+  ORGANISM  Allochrocebus lhoesti
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 632)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 632)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 632)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..632
+                     /organism="Allochrocebus lhoesti"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00283"
+                     /db_xref="taxon:100224"
+                     /sex="male"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>632
+                     /gene="COXI"
+     CDS             <1..>632
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22239.1"
+                     /translation="FGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFIM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAG
+                     TGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILY"
+ORIGIN      
+        1 tattcggtgc atgagctgga attataggta ctgctctaag tcttcttatt cgagctgaat
+       61 taggccaacc cggtagttta ttgggtagcg accatatcta caatgttatc gtaacagccc
+      121 atgcatttat tataatcttc ttcatagtca tacccattat aattgggggg ttcgggaact
+      181 gattggtacc cttaataatc ggtgcccctg acatagcatt ccctcgccta aataatataa
+      241 gcttctggct tcttccgccc tctttcctac tattaatagc atcagccgta gtagaagctg
+      301 gtgctggaac aggttgaacg gtatatcccc ctttggcagg aaacctttcc catccaggag
+      361 cctccgtgga cttagttatt ttctccctcc atttagcagg agtttcctct atcttagggg
+      421 ccatcaactt tattactacc attattaaca tgaaaccccc tgctatatcc caatatcaaa
+      481 cacccttatt tgtctgatct atcctaatta cagcaatcct gctacttctc tccttaccag
+      541 tcttagctgc cggcattact atgctattaa cagaccgtaa tctcaacaca accttctttg
+      601 accccactgg aggcggagat cccatcctat at
+//
+

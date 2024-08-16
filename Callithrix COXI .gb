@@ -1,0 +1,112 @@
+LOCUS       EU185732                 609 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Callithrix jacchus voucher PR00756 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU185732
+VERSION     EU185732.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix jacchus (white-tufted-ear marmoset)
+  ORGANISM  Callithrix jacchus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 609)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 609)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave., Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..609
+                     /organism="Callithrix jacchus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR00756"
+                     /db_xref="taxon:9483"
+                     /sex="male"
+     gene            <1..>609
+                     /gene="COXI"
+     CDS             <1..>609
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71166.1"
+                     /translation="WAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIMIFF
+                     MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGW
+                     TVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLF
+                     VWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGG"
+ORIGIN      
+        1 catgagcagg agcagtagga acagccctaa gcctcctaat ccgagcagag ctaggccaac
+       61 caggaagcct aatagaagat gatcatgttt acaatgttat cgtcacatct cacgcattta
+      121 ttataatttt ctttatggta ataccaatca taattggggg cttcggaaac tgacttgtcc
+      181 ccttaataat tggcgcccca gacatagcat ttccccgaat aaataacatg agcttttgac
+      241 tcctaccccc ctcactactt ctcctactag catcctctac ccttgaggcc ggtgccggaa
+      301 ctggttgaac agtctacccg cccttagcag gtaacatatc acacccagga gcttctgtag
+      361 acctgaccat cttttcattg catttagcag gtgtgtcttc cattttaggg gctatcaact
+      421 ttattacaac aatcattaac ataaaacccc cagccatgac ccaataccaa acccccctat
+      481 tcgtatgatc tgtactaatt acagcagtcc tccttctact ttccctccca gttctagctg
+      541 ccggaattac tatactacta actgaccgca acctcaacac taccttcttc gaccctgctg
+      601 gtggcggag
+//
+
+LOCUS       EU185730                 624 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Callithrix geoffroyi voucher PR00729 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU185730
+VERSION     EU185730.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix geoffroyi (Geoffroy's marmoset)
+  ORGANISM  Callithrix geoffroyi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 624)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave., Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Callithrix geoffroyi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR00729"
+                     /db_xref="taxon:52231"
+                     /sex="male"
+     gene            <1..>624
+                     /gene="COXI"
+     CDS             <1..>624
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71164.1"
+                     /translation="FGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAG
+                     TGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQT
+                     PLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPV"
+ORIGIN      
+        1 atttggtgca tgagcagggg cagtaggaac agccctaagc ctcctaatcc gagcagagct
+       61 aggccaacca gggagcctga tagaagatga tcatgtttac aatgttatcg tcacatctca
+      121 cgcatttatt ataatttttt ttatggtaat accaattata attgggggct tcggaaactg
+      181 acttgtcccc ttaataattg gcgccccaga catagcattt ccccgaataa ataacatgag
+      241 cttttgactc ctacccccct cactacttct cctactagca tcctctaccc ttgaggccgg
+      301 tgccggaact ggttgaacag tctacccgcc cttagcaggt aacatatcac acccaggagc
+      361 ttctgtagac ctgaccatct tttcattgca tctagcaggt gtatcttcca ttttaggagc
+      421 tatcaacttt attacaacaa tcattaacat aaaaccccca gccatgaccc aataccaaac
+      481 ccccctattc gtatgatctg tactaattac agcagtcctc cttctacttt ccctcccagt
+      541 tctagctgcc ggaattacta tactattaac tgaccgcaac ctcaacacta ccttcttcga
+      601 ccctgctggt ggcggagacc cagt
+//
+

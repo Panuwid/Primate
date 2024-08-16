@@ -1,0 +1,1928 @@
+LOCUS       MW514167                 615 bp    DNA     linear   PRI 31-DEC-2022
+DEFINITION  Nasalis larvatus isolate BMNLQ34 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW514167
+VERSION     MW514167.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 615)
+  AUTHORS   Md-Zain,B.M., Mohd-Ridwan,A.R., Ramli,F.F., Ahmad-Nadzair,N.A.,
+            Aifat,N.R., Karuppannan,K.V., Mohd-Kulaimi,N.A., Mohd-Yusof,N.S.,
+            Abdul-Latiff,M.A.B., Ampeng,A., Liam,J. and Shukor,M.N.
+  TITLE     Molecular identification reveals wildlife consumption in Malaysian
+            Borneo ethnics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 615)
+  AUTHORS   Md-Zain,B.M., Mohd-Ridwan,A.R., Ramli,F.F., Ahmad-Nadzair,N.A.,
+            Aifat,N.R., Karuppannan,K.V., Mohd-Kulaimi,N.A., Mohd-Yusof,N.S.,
+            Abdul-Latiff,M.A.B., Ampeng,A., Liam,J. and Shukor,M.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JAN-2021) Department of Biological Sciences and
+            Biotechnology, Universiti Kebangsaan Malaysia, Bangi, Bangi,
+            Selangor 43600, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BMNLQ34"
+                     /db_xref="taxon:43780"
+     gene            <1..>615
+                     /gene="COX1"
+     CDS             <1..>615
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QQW55769.1"
+                     /translation="KDIGTLYLLFGAWAGTAGMAMSLLIRAELGQPGNLLGNDHIYNV
+                     IVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLA
+                     SAMVEAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMK
+                     PPAMSQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNT"
+ORIGIN      
+        1 aaagatattg ggactttata tttattattt ggcgcatgag ctggaaccgc aggtatagct
+       61 ataagcctcc ttatccgagc cgaactaggt caacccggca acctactagg caacgaccac
+      121 atttacaatg ttatcgttac agcccatgca tttgtcataa ttttctttat ggttatgcct
+      181 atcatgattg gaggattcgg aaactgacta gtacccttaa taattggcgc tcctgatatg
+      241 gcattccccc gcctaaataa tataagcttt tgacttcttc caccgtcttt cctgctcctt
+      301 cttgcatcag ctatagtaga agctggtgca gggacaggct gaacagtata cccgcctcta
+      361 gcaggaaatt tctcccaccc aggagcttct gtagacctaa ctatcttctc acttcatcta
+      421 gcaggcattt cttctatctt aggagctatc aattttatca caactatcat taacataaaa
+      481 ccccccgcta tatcccaata tcaaactcct ttgtttgtct gatctgttct aattacagca
+      541 gtcctgctac ttctatccct acccgtactg gctgccggca ttacaatgct actaacagac
+      601 cgcaatctca atact
+//
+
+LOCUS       MW514166                 615 bp    DNA     linear   PRI 31-DEC-2022
+DEFINITION  Nasalis larvatus isolate BMNLQ33 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MW514166
+VERSION     MW514166.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 615)
+  AUTHORS   Md-Zain,B.M., Mohd-Ridwan,A.R., Ramli,F.F., Ahmad-Nadzair,N.A.,
+            Aifat,N.R., Karuppannan,K.V., Mohd-Kulaimi,N.A., Mohd-Yusof,N.S.,
+            Abdul-Latiff,M.A.B., Ampeng,A., Liam,J. and Shukor,M.N.
+  TITLE     Molecular identification reveals wildlife consumption in Malaysian
+            Borneo ethnics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 615)
+  AUTHORS   Md-Zain,B.M., Mohd-Ridwan,A.R., Ramli,F.F., Ahmad-Nadzair,N.A.,
+            Aifat,N.R., Karuppannan,K.V., Mohd-Kulaimi,N.A., Mohd-Yusof,N.S.,
+            Abdul-Latiff,M.A.B., Ampeng,A., Liam,J. and Shukor,M.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JAN-2021) Department of Biological Sciences and
+            Biotechnology, Universiti Kebangsaan Malaysia, Bangi, Bangi,
+            Selangor 43600, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BMNLQ33"
+                     /db_xref="taxon:43780"
+     gene            <1..>615
+                     /gene="COX1"
+     CDS             <1..>615
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QQW55768.1"
+                     /translation="KDIGTLYLLFGAWAGTAGMAMSLLIRAELGQPGNLLGNDHIYNV
+                     IVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLA
+                     SAMVEAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMK
+                     PPAMSQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNT"
+ORIGIN      
+        1 aaagatattg ggactttata tttattattt ggcgcatgag ctggaaccgc aggtatagct
+       61 ataagcctcc ttatccgagc cgaactaggt caacccggca acctactagg caacgaccac
+      121 atttacaatg ttatcgttac agcccatgca tttgtcataa ttttctttat ggttatgcct
+      181 atcatgattg gaggattcgg aaactgacta gtacccttaa taattggcgc tcctgatatg
+      241 gcattccccc gcctaaataa tataagcttt tgacttcttc caccgtcttt cctgctcctt
+      301 cttgcatcag ctatagtaga agctggtgca gggacaggct gaacagtata cccgcctcta
+      361 gcaggaaatt tctcccaccc aggagcttct gtagacctaa ctatcttctc acttcatcta
+      421 gcaggcattt cttctatctt aggagctatc aattttatca caactatcat taacataaaa
+      481 ccccccgcta tatcccaata tcaaactcct ttgtttgtct gatctgttct aattacagca
+      541 gtcctgctac ttctatccct acccgtactg gctgccggca ttacaatgct actaacagac
+      601 cgcaatctca atact
+//
+
+LOCUS       MW514165                 615 bp    DNA     linear   PRI 31-DEC-2022
+DEFINITION  Nasalis larvatus isolate PM03 cytochrome c oxidase subunit I (COX1)
+            gene, partial cds; mitochondrial.
+ACCESSION   MW514165
+VERSION     MW514165.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 615)
+  AUTHORS   Md-Zain,B.M., Mohd-Ridwan,A.R., Ramli,F.F., Ahmad-Nadzair,N.A.,
+            Aifat,N.R., Karuppannan,K.V., Mohd-Kulaimi,N.A., Mohd-Yusof,N.S.,
+            Abdul-Latiff,M.A.B., Ampeng,A., Liam,J. and Shukor,M.N.
+  TITLE     Molecular identification reveals wildlife consumption in Malaysian
+            Borneo ethnics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 615)
+  AUTHORS   Md-Zain,B.M., Mohd-Ridwan,A.R., Ramli,F.F., Ahmad-Nadzair,N.A.,
+            Aifat,N.R., Karuppannan,K.V., Mohd-Kulaimi,N.A., Mohd-Yusof,N.S.,
+            Abdul-Latiff,M.A.B., Ampeng,A., Liam,J. and Shukor,M.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JAN-2021) Department of Biological Sciences and
+            Biotechnology, Universiti Kebangsaan Malaysia, Bangi, Bangi,
+            Selangor 43600, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PM03"
+                     /db_xref="taxon:43780"
+     gene            <1..>615
+                     /gene="COX1"
+     CDS             <1..>615
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QQW55767.1"
+                     /translation="KDIGTLYLLFGAWAGTAGMAMSLLIRAELGQPGNLLGNDHIYNV
+                     IVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLA
+                     SAMVEAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMK
+                     PPAMSQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNFNT"
+ORIGIN      
+        1 aaagatattg ggactttata tttattattt ggcgcatgag ctggaaccgc aggtatagct
+       61 ataagcctcc ttatccgagc cgaactaggt caacccggca acctactagg caacgaccac
+      121 atttacaatg ttatcgttac agcccatgca tttgtcataa ttttctttat ggttatgcct
+      181 atcatgattg gaggattcgg aaactgacta gtacccttaa taattggcgc tcctgatatg
+      241 gcattccccc gcctaaataa tataagcttt tgacttcttc caccgtcttt cctgctcctt
+      301 cttgcatcag ctatagtaga agctggtgca gggacaggct gaacagtata cccgcctcta
+      361 gcaggaaatt tctcccaccc aggagcttct gtagacctaa ctatcttctc acttcatcta
+      421 gcaggcattt cttctatctt aggagctatc aattttatca caactatcat taacataaaa
+      481 ccccccgcta tatcccaata tcaaactcct ttgtttgtct gatctgttct aattacagca
+      541 gtcctgctac ttctatccct acccgtactg gctgccggca ttacaatgct actaacagac
+      601 cgcaatttca atact
+//
+
+LOCUS       MW514164                 615 bp    DNA     linear   PRI 31-DEC-2022
+DEFINITION  Nasalis larvatus isolate PM02 cytochrome c oxidase subunit I (COX1)
+            gene, partial cds; mitochondrial.
+ACCESSION   MW514164
+VERSION     MW514164.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 615)
+  AUTHORS   Md-Zain,B.M., Mohd-Ridwan,A.R., Ramli,F.F., Ahmad-Nadzair,N.A.,
+            Aifat,N.R., Karuppannan,K.V., Mohd-Kulaimi,N.A., Mohd-Yusof,N.S.,
+            Abdul-Latiff,M.A.B., Ampeng,A., Liam,J. and Shukor,M.N.
+  TITLE     Molecular identification reveals wildlife consumption in Malaysian
+            Borneo ethnics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 615)
+  AUTHORS   Md-Zain,B.M., Mohd-Ridwan,A.R., Ramli,F.F., Ahmad-Nadzair,N.A.,
+            Aifat,N.R., Karuppannan,K.V., Mohd-Kulaimi,N.A., Mohd-Yusof,N.S.,
+            Abdul-Latiff,M.A.B., Ampeng,A., Liam,J. and Shukor,M.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JAN-2021) Department of Biological Sciences and
+            Biotechnology, Universiti Kebangsaan Malaysia, Bangi, Bangi,
+            Selangor 43600, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PM02"
+                     /db_xref="taxon:43780"
+     gene            <1..>615
+                     /gene="COX1"
+     CDS             <1..>615
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QQW55766.1"
+                     /translation="KDIGTLYLLFGAWAGTAGMAMSLLIRAELGQPGNLLGNDHIYNV
+                     IVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLA
+                     SAMVEAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMK
+                     PPAMSQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNFNT"
+ORIGIN      
+        1 aaagatattg ggactttata tttattattt ggcgcatgag ctggaaccgc aggtatagct
+       61 ataagcctcc ttatccgagc cgaactaggt caacccggca acctactagg caacgaccac
+      121 atttacaatg ttatcgttac agcccatgca tttgtcataa ttttctttat ggttatgcct
+      181 atcatgattg gaggattcgg aaactgacta gtacccttaa taattggcgc tcctgatatg
+      241 gcattccccc gcctaaataa tataagcttt tgacttcttc caccgtcttt cctgctcctt
+      301 cttgcatcag ctatagtaga agctggtgca gggacaggct gaacagtata cccgcctcta
+      361 gcaggaaatt tctcccaccc aggagcttct gtagacctaa ctatcttctc acttcatcta
+      421 gcaggcattt cttctatctt aggagctatc aattttatca caactatcat taacataaaa
+      481 ccccccgcta tatcccaata tcaaactcct ttgtttgtct gatctgttct aattacagca
+      541 gtcctgctac ttctatccct acccgtactg gctgccggca ttacaatgct actaacagac
+      601 cgcaatttca atact
+//
+
+LOCUS       MW514163                 615 bp    DNA     linear   PRI 31-DEC-2022
+DEFINITION  Nasalis larvatus isolate PM01 cytochrome c oxidase subunit I (COX1)
+            gene, partial cds; mitochondrial.
+ACCESSION   MW514163
+VERSION     MW514163.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 615)
+  AUTHORS   Md-Zain,B.M., Mohd-Ridwan,A.R., Ramli,F.F., Ahmad-Nadzair,N.A.,
+            Aifat,N.R., Karuppannan,K.V., Mohd-Kulaimi,N.A., Mohd-Yusof,N.S.,
+            Abdul-Latiff,M.A.B., Ampeng,A., Liam,J. and Shukor,M.N.
+  TITLE     Molecular identification reveals wildlife consumption in Malaysian
+            Borneo ethnics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 615)
+  AUTHORS   Md-Zain,B.M., Mohd-Ridwan,A.R., Ramli,F.F., Ahmad-Nadzair,N.A.,
+            Aifat,N.R., Karuppannan,K.V., Mohd-Kulaimi,N.A., Mohd-Yusof,N.S.,
+            Abdul-Latiff,M.A.B., Ampeng,A., Liam,J. and Shukor,M.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JAN-2021) Department of Biological Sciences and
+            Biotechnology, Universiti Kebangsaan Malaysia, Bangi, Bangi,
+            Selangor 43600, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PM01"
+                     /db_xref="taxon:43780"
+     gene            <1..>615
+                     /gene="COX1"
+     CDS             <1..>615
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QQW55765.1"
+                     /translation="KDIGTLYLLFGAWAGTAGMAMSLLIRAELGQPGNLLGNDHIYNV
+                     IVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLA
+                     SAMVEAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMK
+                     PPAMSQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNFNT"
+ORIGIN      
+        1 aaagatattg ggactttata tttattattt ggcgcatgag ctggaaccgc aggtatagct
+       61 ataagcctcc ttatccgagc cgaactaggt caacccggca acctactagg caacgaccac
+      121 atttacaatg ttatcgttac agcccatgca tttgtcataa ttttctttat ggttatgcct
+      181 atcatgattg gaggattcgg aaactgacta gtacccttaa taattggcgc tcctgatatg
+      241 gcattccccc gcctaaataa tataagcttt tgacttcttc caccgtcttt cctgctcctt
+      301 cttgcatcag ctatagtaga agctggtgca gggacaggct gaacagtata cccgcctcta
+      361 gcaggaaatt tctcccaccc aggagcttct gtagacctaa ctatcttctc acttcatcta
+      421 gcaggcattt cttctatctt aggagctatc aattttatca caactatcat taacataaaa
+      481 ccccccgcta tatcccaata tcaaactcct ttgtttgtct gatctgttct aattacagca
+      541 gtcctgctac ttctatccct acccgtactg gctgccggca ttacaatgct actaacagac
+      601 cgcaatttca atact
+//
+
+LOCUS       MT876696                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Nasalis larvatus voucher M01 cytochrome c oxidase subunit I (COX1)
+            gene, partial cds; mitochondrial.
+ACCESSION   MT876696
+VERSION     MT876696.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="M01"
+                     /db_xref="taxon:43780"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68850.1"
+                     /translation="MGMVWAMVSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFIIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatgg tctgagctat agtatcaatt ggattcctag gctttatcgt atgagctcac
+       61 catatattta ctgttggtat agacgtggat acacgagcct actttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tcgctacatt acacggagga
+      181 aatatcaagt gatctcccgc aatactctga gccctgggct ttatctttct ttttactgta
+      241 ggaggtttaa ccggtattgt actagcaaac tcatcactag atattgtact acacgataca
+      301 tattatgtcg tagctcattt ccactatgtc ttatcaatag gagctgtctt tgctattata
+      361 ggaggcttta ttcactgatt tcccctattc tcaggttaca ccctagatca ggtatgcgcc
+      421 aaagcccact ttattattat attcgtaggt gtaaacttaa ccttcttccc acaacacttt
+      481 cttggcttat ccggaatacc ccgacgttac tcgga
+//
+
+LOCUS       MT876695                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Nasalis larvatus voucher PRP0013 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876695
+VERSION     MT876695.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PRP0013"
+                     /db_xref="taxon:43780"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68849.1"
+                     /translation="MGMVWAMVSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFIIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatgg tctgagctat agtatcaatt ggattcctag gctttatcgt atgagctcac
+       61 catatattta ctgttggtat agacgtggat acacgagcct actttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tcgctacatt acacggagga
+      181 aatatcaagt gatctcccgc aatactctga gccctgggct ttatctttct ttttactgta
+      241 ggaggtttaa ccggtattgt actagcaaac tcatcactag atattgtact acacgataca
+      301 tattatgtcg tagctcattt ccactatgtc ttatcaatag gagctgtctt tgctattata
+      361 ggaggcttta ttcactgatt tcccctattc tcaggttaca ccctagatca ggtatgcgcc
+      421 aaagcccact ttattattat attcgtaggt gtaaacttaa ccttcttccc acaacacttt
+      481 cttggcttat ccggaatacc ccgacgttac tcgga
+//
+
+LOCUS       MT876694                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Nasalis larvatus voucher KLS03 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876694
+VERSION     MT876694.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KLS03"
+                     /db_xref="taxon:43780"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68848.1"
+                     /translation="MGMVWAMVSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFIIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatgg tctgagctat agtatcaatt ggattcctag gctttatcgt atgagctcac
+       61 catatattta ctgttggtat agacgtggat acacgagcct actttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tcgctacatt acacggagga
+      181 aatatcaagt gatctcccgc aatactctga gccctgggct ttatctttct ttttactgta
+      241 ggaggtttaa ccggtattgt actagcaaac tcatcactag atattgtact acacgataca
+      301 tattatgtcg tagctcattt ccactatgtc ttatcaatag gagctgtctt tgctattata
+      361 ggaggcttta ttcactgatt tcccctattc tcaggttaca ccctagatca ggtatgcgcc
+      421 aaagcccact ttattattat attcgtaggt gtaaacttaa ccttcttccc acaacacttt
+      481 cttggcttat ccggaatacc ccgacgttac tcgga
+//
+
+LOCUS       MT876693                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Nasalis larvatus voucher SWS30 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876693
+VERSION     MT876693.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SWS30"
+                     /db_xref="taxon:43780"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68847.1"
+                     /translation="MGMVWAMVSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFIIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatgg tctgagctat agtatcaatt ggattcctag gctttatcgt atgagctcac
+       61 catatattta ctgttggtat agacgtggat acacgagcct actttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tcgctacatt acacggagga
+      181 aatatcaagt gatctcccgc aatactctga gccctgggct ttatctttct ttttactgta
+      241 ggaggtttaa ccggtattgt actagcaaac tcatcactag atattgtact acacgataca
+      301 tattatgtcg tagctcattt ccactatgtc ttatcaatag gagctgtctt tgctattata
+      361 ggaggcttta ttcactgatt tcccctattc tcaggttaca ccctagatca ggtatgcgcc
+      421 aaagcccact ttattattat attcgtaggt gtaaacttaa ccttcttccc acaacacttt
+      481 cttggcttat ccggaatacc ccgacgttac tcgga
+//
+
+LOCUS       MT876692                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Nasalis larvatus voucher LB001 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876692
+VERSION     MT876692.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LB001"
+                     /db_xref="taxon:43780"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68846.1"
+                     /translation="MGMVWAMVSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFIIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatgg tctgagctat agtatcaatt ggattcctag gctttatcgt atgagctcac
+       61 catatattta ctgttggtat agacgtggat acacgagcct actttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tcgctacatt acacggagga
+      181 aatatcaagt gatctcccgc aatactctga gccctgggct ttatctttct ttttactgta
+      241 ggaggtttaa ccggtattgt actagcaaac tcatcactag atattgtact acacgataca
+      301 tattatgtcg tagctcattt ccactatgtc ttatcaatag gagctgtctt tgctattata
+      361 ggaggcttta ttcactgatt tcccctattc tcaggttaca ccctagatca ggtatgcgcc
+      421 aaagcccact ttattattat attcgtaggt gtaaacttaa ccttcttccc acaacacttt
+      481 cttggcttat ccggaatacc ccgacgttac tcgga
+//
+
+LOCUS       MT876691                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Nasalis larvatus voucher PRP0009 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876691
+VERSION     MT876691.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PRP0009"
+                     /db_xref="taxon:43780"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68845.1"
+                     /translation="MGMVWAMVSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFIIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatgg tctgagctat agtatcaatt ggattcctag gctttatcgt atgagctcac
+       61 catatattta ctgttggtat agacgtggat acacgagcct actttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tcgctacatt acacggagga
+      181 aatatcaagt gatctcccgc aatactctga gccctgggct ttatctttct ttttactgta
+      241 ggaggtttaa ccggtattgt actagcaaac tcatcactag atattgtact acacgataca
+      301 tattatgtcg tagctcattt ccactatgtc ttatcaatag gagctgtctt tgctattata
+      361 ggaggcttta ttcactgatt tcccctattc tcaggttaca ccctagatca ggtatgcgcc
+      421 aaagcccact ttattattat attcgtaggt gtaaacttaa ccttcttccc acaacacttt
+      481 cttggcttat ccggaatacc ccgacgttac tcgga
+//
+
+LOCUS       MT876690                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Nasalis larvatus voucher PRP0008 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876690
+VERSION     MT876690.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PRP0008"
+                     /db_xref="taxon:43780"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68844.1"
+                     /translation="MGMVWAMVSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFIIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatgg tctgagctat agtatcaatt ggattcctag gctttatcgt atgagctcac
+       61 catatattta ctgttggtat agacgtggat acacgagcct actttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tcgctacatt acacggagga
+      181 aatatcaagt gatctcccgc aatactctga gccctgggct ttatctttct ttttactgta
+      241 ggaggtttaa ccggtattgt actagcaaac tcatcactag atattgtact acacgataca
+      301 tattatgtcg tagctcattt ccactatgtc ttatcaatag gagctgtctt tgctattata
+      361 ggaggcttta ttcactgatt tcccctattc tcaggttaca ccctagatca ggtatgcgcc
+      421 aaagcccact ttattattat attcgtaggt gtaaacttaa ccttcttccc acaacacttt
+      481 cttggcttat ccggaatacc ccgacgttac tcgga
+//
+
+LOCUS       MT876689                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Nasalis larvatus voucher PRP0005 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876689
+VERSION     MT876689.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PRP0005"
+                     /db_xref="taxon:43780"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68843.1"
+                     /translation="MGMVWAMVSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFIIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatgg tctgagctat agtatcaatt ggattcctag gctttatcgt atgagctcac
+       61 catatattta ctgttggtat agacgtggat acacgagcct actttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tcgctacatt acacggagga
+      181 aatatcaagt gatctcccgc aatactctga gccctgggct ttatctttct ttttactgta
+      241 ggaggtttaa ccggtattgt actagcaaac tcatcactag atattgtact acacgataca
+      301 tattatgtcg tagctcattt ccactatgtc ttatcaatag gagctgtctt tgctattata
+      361 ggaggcttta ttcactgatt tcccctattc tcaggttaca ccctagatca ggtatgcgcc
+      421 aaagcccact ttattattat attcgtaggt gtaaacttaa ccttcttccc acaacacttt
+      481 cttggcttat ccggaatacc ccgacgttac tcgga
+//
+
+LOCUS       NC_008216              16570 bp    DNA     circular PRI 03-APR-2023
+DEFINITION  Nasalis larvatus mitochondrion, complete genome.
+ACCESSION   NC_008216
+VERSION     NC_008216.1
+DBLINK      BioProject: PRJNA927338
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 16570)
+  AUTHORS   Sterner,K.N., Raaum,R.L., Zhang,Y.P., Stewart,C.B. and
+            Disotell,T.R.
+  TITLE     Mitochondrial data support an odd-nosed colobine clade
+  JOURNAL   Mol. Phylogenet. Evol. 40 (1), 1-7 (2006)
+   PUBMED   16500120
+REFERENCE   2  (bases 1 to 16570)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUN-2006) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 16570)
+  AUTHORS   Disotell,T.R., Raaum,R.L. and Sterner,K.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2006) Molecular Anthropology, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DQ355298.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..16570
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:43780"
+     tRNA            1..71
+                     /product="tRNA-Phe"
+     rRNA            72..1020
+                     /product="s-rRNA"
+                     /note="12S ribosomal RNA"
+     tRNA            1021..1089
+                     /product="tRNA-Val"
+     rRNA            1090..2655
+                     /product="l-rRNA"
+                     /note="16S ribosomal RNA"
+     tRNA            2656..2730
+                     /product="tRNA-Leu"
+                     /codon_recognized="UUR"
+     gene            2733..3689
+                     /gene="ND1"
+                     /db_xref="GeneID:4171504"
+     CDS             2733..3689
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="YP_659447.1"
+                     /db_xref="GeneID:4171504"
+                     /translation="MFTMNLLLTILPVIAAMAFLTLTERKLLGYMQLRKGPNIVGPYG
+                     LLQPFADAMKLFTKEPLKPSTSTTTLYIIAPALAFSIALLLWMPLPMPNSLINLNLGL
+                     LFILATSSLAVYSILWSGWASNSNYALIGALRAVAQTISYEVTLAIIVLSVLLMSGSF
+                     NLYTLITTQEHLWLLLPSWPLAMMWFTSTLAETNRAPFDLTEGESELVSGFNIEYAAG
+                     PFALFFMAEYMNIILMNALTVTIFLGTLYPTHSPELFTTCFITKTLLLTSLFLWIRAT
+                     YPRFRYDQLMHLLWKNFLPLTLALLMWYISTPIMTSGIPPQN"
+     tRNA            3688..3757
+                     /product="tRNA-Ile"
+     tRNA            complement(3755..3826)
+                     /product="tRNA-Gln"
+     tRNA            3827..3894
+                     /product="tRNA-Met"
+     gene            3895..4938
+                     /gene="ND2"
+                     /db_xref="GeneID:4171505"
+     CDS             3895..4938
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="YP_659448.1"
+                     /db_xref="GeneID:4171505"
+                     /translation="MNPLAQLIIYSTMIMGTLITSLSSHWFLAWAGLEMNMLAFTSIL
+                     IKKANSRSTEAATKYFLTQSTASMILMMAIMYNNLYPGQWTLLSNPDQLSALIMTVAL
+                     AMKLGMAPFHFWIPEVTQGTSLTSGLLLLTWQKLAPMSIMYQMYPSINMTILMTLSTL
+                     SIMAGSWGGLNQTQLRKILAYSSITHMGWMMMTLTYNPNITTFYLLTYIIMTSTAFLA
+                     LNLNSNTTTLMLSRTWNKLTWLMPLTASTLLSMGGLPPLTGFLPKWITIQELTKNNNF
+                     IMPSIMIVMALINLYFYLRLIYIISMTLLPTTNNTKMKWQFENTKPTPFIPSLIILTT
+                     LLLPVSPTTLMTF"
+     tRNA            4937..5004
+                     /product="tRNA-Trp"
+     tRNA            complement(5013..5081)
+                     /product="tRNA-Ala"
+     tRNA            complement(5083..5155)
+                     /product="tRNA-Asn"
+     rep_origin      complement(5157..5188)
+                     /direction=right
+     tRNA            complement(5187..5253)
+                     /product="tRNA-Cys"
+     tRNA            complement(5254..5318)
+                     /product="tRNA-Tyr"
+     gene            5329..6873
+                     /gene="COX1"
+                     /db_xref="GeneID:4171506"
+     CDS             5329..6873
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="YP_659449.1"
+                     /db_xref="GeneID:4171506"
+                     /translation="MLINRWLFSTNHKDIGTLYLLFGAWAGTAGMAMSLLIRAELGQP
+                     GNLLGNDHIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSF
+                     WLLPPSFLLLLASAMVEAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILG
+                     AINFITTIINMKPPAMSQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVTYYSGKKEPFGYMGMVWA
+                     MVSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKW
+                     SPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG
+                     FIHWFPLFSGYTLDQVCAKAHFIIMFVGVNLTFFPQHFLGLSGMPRRYSDYPDAYTTW
+                     NIVSSMGSFISLVAMLLMIYMIWEAFASKRKVMLIEQPTSNLEWLHGSPPPYHTFDEP
+                     AFIKVK"
+     tRNA            complement(6871..6939)
+                     /product="tRNA-Ser"
+                     /codon_recognized="UCN"
+     tRNA            6943..7011
+                     /product="tRNA-Asp"
+     gene            7013..7696
+                     /gene="COX2"
+                     /db_xref="GeneID:4171507"
+     CDS             7013..7696
+                     /gene="COX2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit II"
+                     /protein_id="YP_659450.1"
+                     /db_xref="GeneID:4171507"
+                     /translation="MPHPVQLGLQDATSPIMEELIAFHDHAFMIVSLISFLVLYVLSS
+                     VLTTKLTNTNITDAQEMETIWTILPAIILILIALPSLRILYLTDEINNPSFTIKSIGH
+                     QWYWTYEYTDYGGLIFNSYMLPPLFLNPGDLRLLEVDNRVVLPIEAPVRMMITSQDVL
+                     HSWTIPTLGLKTDAIPGRLNQTAFTAMRPGVYYGQCSEICGANHSFMPIVAELIPLKI
+                     FEMGPVFTL"
+     tRNA            7744..7811
+                     /product="tRNA-Lys"
+     gene            7813..8019
+                     /gene="ATP8"
+                     /db_xref="GeneID:4171508"
+     CDS             7813..8019
+                     /gene="ATP8"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 8"
+                     /protein_id="YP_659451.1"
+                     /db_xref="GeneID:4171508"
+                     /translation="MPQLNTSTWFITIMAMLPALYLIMQLKLLNTTYHFSPSQKVLSM
+                     QTTNNSWQLKWTKIYLPHSQPQHS"
+     gene            7974..8654
+                     /gene="ATP6"
+                     /db_xref="GeneID:4171509"
+     CDS             7974..8654
+                     /gene="ATP6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 6"
+                     /protein_id="YP_659452.1"
+                     /db_xref="GeneID:4171509"
+                     /translation="MNENLFTPFTTPTLLELPVVVPIILFPTLLLPTSKYLINNRLIT
+                     IQQKLVQLILKQMMVIHNTKGQTWSLMLMSLIIFIASTNFLGLLPYSFTATTQLSMNL
+                     AMAIPLWAGTVITGLRFKTKSSLAHFLPQGTPTPLIPALVIIETISLFIQPMALAVRL
+                     TANITAGHLLMHLIGSATLALLTISLLATSLTLVLLVMLTILEMAVALIQAYVFTLLV
+                     SLYLHDNT"
+     gene            8654..9437
+                     /gene="COX3"
+                     /db_xref="GeneID:4171510"
+     CDS             8654..9437
+                     /gene="COX3"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:9437,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit III"
+                     /protein_id="YP_659453.1"
+                     /db_xref="GeneID:4171510"
+                     /translation="MTHQAHPYHMVKPSPWPLTGALSALLMTSGLIMWFHFYSTTLLM
+                     LGLLTNMLTMYQWWRDIIRESTYQGHHTMPVQKGLRYGMVLFIISEVFFFAGFFWAFY
+                     HSSLAPTPHLGGHWPPTGITPLNPLEVPLLNTSVLLASGVTITWAHHSLMENNRKEMI
+                     QALLTTILLGIYFTLLQASEYYEAPFTISDGIYGSTFFVATGFHGLHVIIGSTFLTVC
+                     LTRQLFYHFTSSHHFGFEAAAWYWHFVDVVWLFLYISIYWWGS"
+     tRNA            9438..9504
+                     /product="tRNA-Gly"
+     gene            9505..9850
+                     /gene="ND3"
+                     /db_xref="GeneID:4171511"
+     CDS             9505..9850
+                     /gene="ND3"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:9850,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 3"
+                     /protein_id="YP_659454.1"
+                     /db_xref="GeneID:4171511"
+                     /translation="MNLVLALTINTFLTLLLMTIMFWLPQLNSYTEKANPYECGFDPL
+                     NSARIPFSMKFFLVAITFLLFDLEIALLLPLPWALQTTNLPMMIKSSIMLIIILTLSL
+                     AYEWTQKGLDWTE"
+     tRNA            9851..9915
+                     /product="tRNA-Arg"
+     gene            9916..10212
+                     /gene="ND4L"
+                     /db_xref="GeneID:4171512"
+     CDS             9916..10212
+                     /gene="ND4L"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="YP_659455.1"
+                     /db_xref="GeneID:4171512"
+                     /translation="MPIIYTNIVLAFMISLLGMLIYRSHLMSSLLCLEGMMLSLFMMS
+                     TLMALNMHFPLANIVPIALLVFAACEAAVGLALLISISNTYGLDHIHNLNLLQC"
+     gene            10206..11583
+                     /gene="ND4"
+                     /db_xref="GeneID:4171513"
+     CDS             10206..11583
+                     /gene="ND4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:11583,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="YP_659456.1"
+                     /db_xref="GeneID:4171513"
+                     /translation="MLKMIIPTMMLLPTTWFSKNNLIWINLTTHSLIISLIPLLFFNQ
+                     INNNLTSHSTHLSSDPLTTPLLTLTAWLLPLMIMASQYHMYNESPLRKKLYLSMMIFL
+                     QISLIMTFMATELILFYILFETTLIPTLIIITRWGNQAERLNASTYFLFYTLAGSLPL
+                     LIMLMFTHNNLGSLNIPLLTLMTQNMTTTWSHNLIWLACMMAFMVKMPLYGLHLWLPK
+                     AHVEAPIAGSMVLAAVLLKLGGYGMMRLTSILNPLTEYMAYPFLMLSLWGMIMTSSTC
+                     LRQTDLKSLIAYSSVSHMALVIMASLIQTPWSFTGAIILMIAHGLTSSMLFCLANSNY
+                     ERTHSRIMMLSRGLQTLLPLMAFWWFVANLTNLALPPTINLIGELLVVVTSFSWSYIT
+                     IALTGLNMLITALYSIYMFITTQRGALTSHIISMKPSFTRENMLMFMHISPIILLSLN
+                     PSIIMGFTP"
+     tRNA            11584..11652
+                     /product="tRNA-His"
+     tRNA            11653..11711
+                     /product="tRNA-Ser"
+                     /codon_recognized="AGY"
+     tRNA            11712..11782
+                     /product="tRNA-Leu"
+                     /codon_recognized="CUN"
+     gene            11783..13594
+                     /gene="ND5"
+                     /db_xref="GeneID:4171514"
+     CDS             11783..13594
+                     /gene="ND5"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="YP_659457.1"
+                     /db_xref="GeneID:4171514"
+                     /translation="MMMYTSTVMLTLTSLTFPIIIALTKPNKNHLYPNYVKTIMMFTF
+                     IISLLPTTLYIFLDQDTIISNWHWMTIQSLEITLSLKLDYFSMMFTPIALFITWCIME
+                     FSLWYMNSDPNINQFFKYLLIFLITMLILVTANNLFQLFIGWEGVGIMSFLLIGWWHA
+                     RTDANTAALQAILYNRIGDIGFILAMAWFILHYNSWDFQQMFTLNSSPDMLPLVGLLL
+                     AATGKSAQLGLHPWLPSAMEGPTPVSALLHSSTMVVAGVFLLIRFHPLMENNMLIQSL
+                     TLCLGAITTVFMAICALTQNDIKKIVAFSTSSQLGLMMVTIGINQPYLAFLHICTHAF
+                     FKAMLFICSGSIIHNLNNEQDIRKMGGLFKMMPLTSTSLTIGSLALAGMPFLTGFYSK
+                     DLIIETASTSYTNAWALSITLIATSLTSAYSTRTIILTLTGRPRFSTSTCINENNLAL
+                     LNPMKRLTMGSLLAGFLIINNILPTTLPQSTMPYYLKLLALCVTALGFLMALDLALMT
+                     NNLKTKTSSHMFKFSNMLGYFPITIHRMIPYQNLIMSQNLAFLLLDLIWLEKSMPKTI
+                     SHTHIITAITTTTQKGMIKLYFLSFLIPLALISLLMM"
+     gene            complement(13595..14119)
+                     /gene="ND6"
+                     /db_xref="GeneID:4171515"
+     CDS             complement(13595..14119)
+                     /gene="ND6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 6"
+                     /protein_id="YP_659458.1"
+                     /db_xref="GeneID:4171515"
+                     /translation="MSYVLFLLSVLLIMGFVGFSSKPSPIYGGLALVVSGVVGCIIIL
+                     NCGGAYMGLMMFLIYLGGMMVVFGYTTAMAIEEYPEAWVSGFEVLGSLLIGLAMEVGL
+                     VLWVLDYNESVVVVNLNNMGNWVIFEGEGPGLIREDSIGAGALYDYGRWLVVVVGWTL
+                     FVGVYIVIEITRGN"
+     tRNA            complement(14120..14188)
+                     /product="tRNA-Glu"
+     gene            14193..15327
+                     /gene="CYTB"
+                     /db_xref="GeneID:4171516"
+     CDS             14193..15327
+                     /gene="CYTB"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:15327,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="YP_659459.1"
+                     /db_xref="GeneID:4171516"
+                     /translation="MTPTRKSNLIMKMINHSLIDLPTPSNISMWWNFGSLLATCLILQ
+                     IITGLFLAMHYSPDTSSAFSSIAHITRDVNYGWIIRYLHANGASMFFICLFLHVGRGL
+                     YYGSFLLLETWNIGVTLLLMIMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTNI
+                     VQWVWGGYSIDSPTLTRFFTFHFTLPFIIAALTTLHLLFLHETGSNNPCGIPSNPDKI
+                     PFHPYYTIKDILGLILLLLILMVLVLFLPDLLGDPDNYTPANPLSTPPHIKPEWYFLF
+                     AYAILRSVPNKLGGVLALLMSILILMIIPMLHKSKQQSMMFRPLSQLVLWFLITILLT
+                     LTWIGSQPVNQPFIMIGQTASMMYFITILILMPLASSIENNLLK"
+     tRNA            15334..15398
+                     /product="tRNA-Thr"
+     tRNA            complement(15401..15467)
+                     /product="tRNA-Pro"
+     D-loop          15468..16570
+ORIGIN      
+        1 gtttatgtag cttaacaaat tcaaagcaag acactgaaaa tgcctagacg ggctcataaa
+       61 ccccataaac aaacaggttt ggtcccggcc tttctattgg cttatagcaa gattacacat
+      121 gcaagcatcc ccgctccagt gaggacaccc tacaaatcac tatgattaaa aggagtaagt
+      181 atcaagcgcg ctcaatgcag ctcaagacac tttgcttagc cacaccccca cgggaaacag
+      241 cagtgactaa tatttagcaa taaacgaaag ttcaactaag ctatgctatc atagggttgg
+      301 tcaacttcgt gccagccacc gcggccatac gattgacccg agctaataaa catcggcgta
+      361 aagggtgttt tagataaatt caaccaaata aagctaaact ccttctaaac tgtaaaatcc
+      421 tagctaacat aaaaacaact acgaaagtgg ctttaaaatt tctgaacaca caatagctaa
+      481 gattcaaact gggattagag accccactat gcttagccct aaactctaat agtttaaaca
+      541 acaaaactac tcgccagaac actacaagca acagcttaaa actcaaagga cttggcggtg
+      601 cttcatatcc ccctagagga gcctgttcta taatcgataa accccgatct acctcaccat
+      661 ctctcgctca gcctatatac cgccatcttc agcaaacctc aacaagagac ataaagtaag
+      721 cacaaacgcc cacgcaaaga cgttaggtca aggtgtagct tatgagctgg aagaaatggg
+      781 ctacattttc taccctagaa aagcctacga tagctcttat gaaatctaag agcccaagga
+      841 ggatttagta gtaaactaag agcagagtgc ttagttgaat caggccatga agcacgcaca
+      901 caccgcccgt cgctctcctc aaatatattt aaggactaac ttaactaaac attccaacat
+      961 ctatatagaa gagataagtc gtaacatggt aagtgtactg gaaggtgcac ttggataaat
+     1021 caaggcatag ctcaatataa agcatccagt ttacacccgg aagacatcaa cactatttga
+     1081 ttgccttgag ccaatcctag ctcaaaacct aatcaatatt actatcaaac taatatatat
+     1141 atactaaacc atttataatt ataaaagtat aggcgataga aatttactct gacgccatag
+     1201 atatagtacc gcaagggaaa gatgaaaaat ttaaccaaag cacaaaacag caaggactta
+     1261 cccctatacc ttctgcataa tgaactaacc agagaccact tcgcaaagag aactaaagtc
+     1321 aagtaccccg aagccagacg agctacccaa aaacagctga aagagcgcac ccgtctatgt
+     1381 ggcaaaatag tgggaagatt tctgggtaga ggtgatacac ctaccgagcc tggggatagc
+     1441 tggttatcca agatagaatc ttagttcaac cttaagttta cccacagaac tattaatccc
+     1501 cctgtaaact taattgttag tctaaagagg gacagctctt tagacactag gaaaaaacct
+     1561 tatatagaga gtaaaagaat tctaagccca tagttggccc aaaagcagcc atcaattaag
+     1621 aaagcgttca agctcaactc ttaatactaa aaaaaatcct aaacatatta ttgaactcct
+     1681 cacatcacat tggattaatc tattaaccca tagaagcaat aatgctagta tcagtaacat
+     1741 gaataagttc tcccgtgcat aagcctaaat caaaccaaaa atcttcaccg atacttaaca
+     1801 gtttaatacc aataaccaca agcaagctaa tattatatat actgttaacc caacacaggc
+     1861 atgccctaag ggaaaggtta aaaaaagtaa aaggaactcg gcaaacttaa ccccgcctgt
+     1921 ttaccaaaaa catcacctct agcattacta atattagagg cactgcctgc ccagtgacat
+     1981 atgttcaacg gccgcggtac cctgaccgtg caaaggtagc ataatcactt gttctttaaa
+     2041 tagggacttg tatgaatggc aacacgaggg ttcaactgtc tcttactttc aaccagtgaa
+     2101 attgacctgc ccgtgaagag gcgggcataa aacaataaga cgagaagacc ctgtggagct
+     2161 tcaatttact aatgcaacca taatcaacac aaatccaagg acctaatata tcttgcccct
+     2221 gcattagaaa ttttggttgg ggtgacctcg gagcataaac aaacctccga acaaactatg
+     2281 ctaagactat acaagtcaaa gcgacctaat acccataatt gatccaataa cttgaccaac
+     2341 ggaacaagtt accccaggga taacagcgca atcctattcc agagttcata tcgacaatag
+     2401 ggtttacgac ctcgatgttg gatcaggaca tcctaatggt gcagcagcta tcaagggttc
+     2461 gtttgttcaa cgattaaagt cctacgtgat ctgagttcag accggagcaa tccaggtcgg
+     2521 tttctatcta ttctacattt ctccctgtac gaaaggacaa gagaaatagg gctcacttca
+     2581 caaagcgccc tccttccata aatgacctag tctcaattta acaaaaacca cacatatatc
+     2641 ccaagaacag ggattgttaa gatggcagag cccggtaatt gcataaaact taagacttta
+     2701 caatcagagg ttcaattcct cttcttaaca ttatgttcac aataaacctc ctattaacca
+     2761 ttctacctgt tatcgctgct atagcatttc ttacactcac tgagcgaaag ctactaggct
+     2821 atatacaatt acgcaaagga cctaacatcg taggccctta tggactacta caaccctttg
+     2881 ccgacgcaat aaaactcttc accaaggaac ccctaaaacc ttcaacctcc accaccaccc
+     2941 tatacattat tgcacccgcc ctagccttct ccatcgccct ccttctatga atacccctcc
+     3001 ccatacctaa ctcactaatt aacctcaacc taggactcct attcattcta gctacatcta
+     3061 gcttagctgt ttactccatt ttatgatcag gatgagcatc aaactcaaac tacgcattaa
+     3121 ttggagcact acgagcagtc gcccaaacaa tctcatacga agtaactctc gctattattg
+     3181 tactatcagt cctactgata agcggctcat ttaatctcta tacacttatt acaacacaag
+     3241 aacatctctg acttctacta ccatcatgac ctttagccat aatatgattt acatccacac
+     3301 tagcagaaac caatcgagcc ccctttgatc tcacagaagg agaatcagaa ctggtatcag
+     3361 gctttaatat tgaatatgct gcaggcccat ttgccctttt cttcatagcc gaatatataa
+     3421 atattatttt aataaacgcc ctaacagtca caatttttct agggacccta taccccaccc
+     3481 actcaccaga actattcaca acatgcttta ttaccaaaac actcctctta acatctctat
+     3541 ttttatgaat ccgagcaacc tacccccgat tccgttatga tcagctaata cacttgctat
+     3601 gaaaaaattt tctccctctt acactggcac tccttatatg atatatctca accccaatca
+     3661 taacctctgg catcccccct caaaactaga aatatgtctg acaaaagaat tactttgata
+     3721 gagtaaataa tagaggtatt taatcctctt atttctagaa tcataggtat tgaacctact
+     3781 cctgagaatc caaatttctc cgtgctacct attacaccca actctaagta aggtcagcta
+     3841 aacaagctat cgggcccata ccccgaaaat gttggtcgaa cccttcccgt actaattaac
+     3901 ccactagctc aacttattat ttattctacc ataattatag gcacccttat tacatcatta
+     3961 agctcccact gattccttgc ctgagcgggc ctagaaataa atatattagc ttttacctca
+     4021 attttaatta aaaaagcaaa ttctcgctcc acagaagctg ctaccaaata tttcctcaca
+     4081 caatccactg catccataat tctcataata gcaattatat ataataacct gtatccagga
+     4141 caatgaacct tattaagtaa tcctgaccaa ctctcagccc taattataac agtagccctc
+     4201 gctataaaac taggaatagc ccccttccac ttttgaattc cagaagttac ccaaggaaca
+     4261 tccctaacct ccggcctact cctcctcaca tgacaaaaac tagcccccat atcaattata
+     4321 tatcaaatgt acccatcaat caatataacc attcttataa ctctatcaac tctatccatc
+     4381 atagcaggca gctgaggagg ccttaaccaa acacaactac gtaaaattct agcatactct
+     4441 tcaatcacac acataggctg aataataata acactaacat ataacccaaa cattacaacc
+     4501 ttctacctac tcacgtacat tattataaca agcaccgcat ttctagccct aaacctaaac
+     4561 tcaaacacca caaccctaat actatcacgc acctgaaaca aattaacctg actaatacca
+     4621 ctaacagcat ccacccttct atccatagga ggcctacctc ctctaaccgg ctttctaccc
+     4681 aaatgaatta ccattcaaga acttacaaaa aataataact tcatcatacc ctctattata
+     4741 atcgttatag ccttaatcaa cctatatttc tatctccgct taatttatat tatctccatg
+     4801 acactactcc ctacaaccaa caacacaaaa ataaaatgac agttcgaaaa tacaaaaccc
+     4861 acacccttta tcccctcact cattattcta acaacccttc tcctaccagt atccccaaca
+     4921 accttaataa cattctagaa atttaggtta aaccagacca aaagccttca aagcttttag
+     4981 taagttaaat atacttaatt tctgaaatac actaaggact gcagtactct actccgcatc
+     5041 aactgaacgc aaatcaatca ctttaattaa gctaagccct cactagatta atgggattta
+     5101 aacccacaaa aacttagtta acagctaaac accctaatca actggcttta atctacttct
+     5161 cccgccgcag ggaaaaaagg cgggagaagc cccggcagaa atataatctg ctcctttgaa
+     5221 tttgcaattc aacatgaaaa tcacctcggg actggtaaaa agaggactaa acctctgtcc
+     5281 ttaggtttac agcctaatgc ctactcagcc attttacctc tcctacctat gcttattaac
+     5341 cgctggctat tctccacaaa tcataaagac attgggactt tatatttatt atttggcgca
+     5401 tgagctggaa ccgcaggtat agctataagc ctccttatcc gagccgaact aggtcaaccc
+     5461 ggcaatctac taggcaacga ccacatttac aatgttatcg ttacagccca tgcatttgtc
+     5521 ataattttct ttatggttat gcctatcatg attggaggat tcggaaactg actagtaccc
+     5581 ttaataattg gcgctcctga tatggcattc ccccgcctaa ataatataag cttttgactt
+     5641 cttccaccgt ctttcctgct ccttcttgca tcagctatag tagaagctgg tgcagggaca
+     5701 ggctgaacag tatacccgcc tctagcagga aatttctccc acccaggagc ttctgtagac
+     5761 ctaactatct tctcacttca tctagcaggc atttcttcta tcttaggggc tatcaatttt
+     5821 atcacaacta tcattaacat aaaacccccc gctatatccc aatatcaaac tcctttgttt
+     5881 gtctgatctg ttctaattac agcagtcctg ctacttctat ccctacccgt actggctgcc
+     5941 ggcattacaa tgctactaac agaccgcaat ctcaatacta ctttctttga ccccgccgga
+     6001 ggaggggatc caatcctata tcaacattta ttctgatttt tcggtcaccc tgaagtctac
+     6061 attcttatct tgcctgggtt tggaataatt tcccacatcg taacatatta ttctggaaaa
+     6121 aaggaaccat tcggatatat aggtatggtc tgagctatag tatcaattgg attcctaggc
+     6181 tttatcgtat gagctcacca tatatttact gttggtatag acgtggatac acgagcctac
+     6241 tttacctctg ccactataat tattgcaatt ccaactggcg ttaaagtctt tagctgactc
+     6301 gctacattac acggaggaaa tatcaagtga tctcccgcaa tactctgagc cctgggcttt
+     6361 atctttcttt ttactgtagg aggtttaacc ggtattgtac tagcaaactc atcactagat
+     6421 attgtactac acgatacata ttatgtcgta gctcatttcc actatgtctt atcaatagga
+     6481 gctgtctttg ctattatagg aggctttatt cactgatttc ccctattctc aggttacacc
+     6541 ctagatcagg tatgcgccaa agcccacttt attattatat ttgtaggtgt aaacttaacc
+     6601 ttcttcccac aacactttct tggcttatcc ggaatacccc gacgctattc cgactaccct
+     6661 gatgcctaca ccacatgaaa tattgtatca tccatgggct cctttatttc cctagtagca
+     6721 atactattaa taatctatat aatctgagaa gcctttgcct caaaacgcaa agtaatatta
+     6781 atcgaacaac ctacctctaa cctagagtga ctacacggct ccccaccacc atatcacaca
+     6841 tttgatgaac cagcgttcat caaagttaaa taaaaaagga aggaatcgaa cctcctgaaa
+     6901 ctggtttcaa gccaatccta taacccctat aactttttca ataagatatt agaaaaatta
+     6961 tttcatagtt ttgtcaaagc taaattatag gatatacccc tatatatctt atatgcctca
+     7021 cccagttcaa ctaggcctac aagatgccac atcccctatc atagaagaat taattgcctt
+     7081 tcacgaccat gcctttataa tcgtatccct aattagcttt ttagttttat atgttttatc
+     7141 atcagtactc acaacaaaat taactaacac caacatcaca gatgctcaag agatagaaac
+     7201 tatctgaact atcttaccag caattattct aatcctaatt gcacttccat ccctacgtat
+     7261 tctctactta acagacgaaa tcaataatcc ctcatttact atcaaatcaa ttggacacca
+     7321 atgatattga acttatgaat atacggacta cggaggctta atctttaatt cttatatact
+     7381 tccaccacta ttcttaaatc caggagacct tcgacttcta gaagttgaca atcgagtagt
+     7441 acttccaatt gaagcccctg tccgtataat aattacatcc caagacgtcc tacactcctg
+     7501 aactatccct acactgggtt taaaaacaga tgctatcccc ggacgcttaa accaaaccgc
+     7561 tttcactgct atacgaccag gcgtttacta cggacaatgc tcagaaatct gcggcgccaa
+     7621 ccacagcttt atgccaattg ttgcagaact aatcccgcta aaaatttttg aaatagggcc
+     7681 tgttttcact ctataaacac attaaaacac cttacttaat aatctcttaa aattaccaaa
+     7741 acccactgta tagctgccac agcattaacc ttttaagtta aagattgaga aaacaccttt
+     7801 ctctgtagtg aaatgcctca actaaataca tccacgtggt ttattactat tatagccatg
+     7861 ctgcccgcac tttaccttat catacaatta aagctactaa acacaaccta ccatttctcc
+     7921 ccgtcacaaa aagtccttag tatacaaaca actaacaatt cttgacaact aaaatgaacg
+     7981 aaaatttatt taccccattc acaaccccaa cactcttaga attacccgtt gtagtaccta
+     8041 ttattctatt tcctacgtta ttgctcccaa cctcaaaata ccttattaat aatcgactaa
+     8101 ttactattca acaaaaactg gttcaactaa tcctaaaaca aataatagta atccataata
+     8161 ccaaaggaca aacctgatcc ctaatattaa tatccttaat tatttttatt gcctcaacca
+     8221 attttctcgg actcttgccc tattcattta cagctactac ccagctgtcc ataaacctag
+     8281 ctatagcgat ccctctatga gcaggtacag taattacagg tcttcgcttc aaaaccaaaa
+     8341 gctcattagc ccacttttta ccacaaggta cacccacacc ccttattccc gcattagtaa
+     8401 ttattgaaac tatcagctta ttcatccaac caatggccct agccgtgcgc ctaaccgcca
+     8461 atattacagc aggccatcta ctcatacacc taatcggaag tgctactctg gcattattaa
+     8521 ccattagtct ccttgcaacc tcactaacct tagtactcct agtaatacta acaattctag
+     8581 aaatagcagt tgctctaatc caggcttacg tttttacact cctagtaagc ctttacttac
+     8641 atgataatac ttaatgacac accaagccca cccttatcac atagttaaac ctagcccatg
+     8701 accactaaca ggagccttat cagctctcct aataacatct ggcctaatca tatggttcca
+     8761 cttttactct acaaccttac taatgctagg attattaacc aacatattaa ccatatacca
+     8821 atggtgacgc gatattatcc gagagagtac ctatcaaggc caccatacaa taccagtcca
+     8881 aaaaggtctt cgctacggaa tagttttatt tattatttca gaagttttct tctttgctgg
+     8941 cttcttctgg gcattctatc actcaagcct cgcccctact ccacatctag gaggacactg
+     9001 accaccaaca ggtatcaccc ctctaaaccc tctagaagta ccactcctaa atacttcagt
+     9061 attacttgca tcgggagtta caatcacttg agctcatcat agcttaatag aaaataaccg
+     9121 gaaagaaata attcaagccc tcttgactac aattttatta ggcatttatt ttactttatt
+     9181 acaagcctca gaatactatg aagcaccttt cactatctct gatggcattt atggctcaac
+     9241 attctttgtc gctactggtt ttcacggact tcacgtcatt attggatcta catttcttac
+     9301 cgtttgcctc actcgccaat tgttctacca ctttacatca agccaccatt tcggatttga
+     9361 agccgccgct tgatattgac atttcgtaga cgtcgtctga ctcttcctct acatctccat
+     9421 ttattgatga ggttcttatt cttttagtat aatcagtaca gccgacttcc aatcagctag
+     9481 tttcgatagt atcgaaaaag aataattaac ctagtattag ccctaacaat caataccttc
+     9541 ctgactttat tactaataac tattatattt tgattacccc aactaaactc ctacacagaa
+     9601 aaagccaacc cctacgaatg cggatttgac ccactaaatt ctgcacggat tcctttttct
+     9661 ataaaatttt ttctagtcgc tattaccttc ctattattcg acttagaaat tgccctgcta
+     9721 ctaccactac catgagctct ccaaacaaca aacctcccca taataattaa atcatcaatt
+     9781 atattaatta tcattctaac ccttagccta gcctacgaat gaactcaaaa aggattagat
+     9841 tgaactgaat tggtaagtag tttaaataaa acgaatgatt tcggctcatt agattatgat
+     9901 aatcatacta accaaatgcc cattatttac acaaatatcg tactagcatt tataatctca
+     9961 ctcctaggca tattaattta ccgctcgcac ctaatgtcat ccctattatg tctagaaggg
+    10021 ataatacttt cactatttat aataagtacc ctcatggcat taaatataca ctttccccta
+    10081 gctaatattg tacctattgc tctattagta ttcgccgctt gcgaggcggc agtaggcctt
+    10141 gccctactaa tttcaatctc aaatacatat ggcctagatc acatccataa cctaaatcta
+    10201 ctccaatgct aaaaataatt attcccacaa taatattact accaacaaca tgattctcca
+    10261 aaaacaactt gatctgaatt aatttaacca cacacagctt aattattagc ctcattcctc
+    10321 ttctattctt caatcaaatc aacaacaatc tcactagcca ttcaacccat ctgtcttccg
+    10381 acccattaac aacacctctt ctaacattaa ccgcctgact cttacccctc ataattatag
+    10441 caagccaata tcatatgtac aatgaaagtc ctttacgaaa aaaactttat ctctccataa
+    10501 taattttctt acaaatttct ttaattataa catttatagc tacagaatta atcttgttct
+    10561 acatcctctt cgaaactacc ctcattccta ccctaattat tattacccga tgaggtaatc
+    10621 aagcagaacg cctcaacgca agtacatact tcttatttta tacactagcc ggctcccttc
+    10681 ccctactaat catactaata tttacgcata ataatttggg ctcactaaac atcccactat
+    10741 taacacttat aacccaaaac atgacaacca cctgatccca caacttaatt tgactagcat
+    10801 gcataatagc ctttatagtg aaaatacccc tgtatggcct acacctgtgg cttcccaaag
+    10861 cccacgttga agcccctatt gccgggtcaa tagtccttgc cgcagtactt ttaaaactag
+    10921 gtggctatgg catgatacga ctcacctcaa tcctcaatcc tctgacagag tatatagcct
+    10981 accccttcct tatattatcc ctatgaggca tgattataac aagctctact tgccttcgac
+    11041 aaacagacct aaaatcactc atcgcatact cctctgtaag ccacatagcc ctagtaatca
+    11101 tagcctctct aatccaaacc ccctgaagct ttactggcgc tattattctt ataatcgccc
+    11161 acggactcac ttcatctatg ctattctgcc tagcaaattc aaactacgaa cgaacccata
+    11221 gtcgtattat aatactctcc cgaggactcc aaactctact cccactaata gccttctgat
+    11281 gattcgtagc aaatctcacc aacctagcat tacctcccac tattaatctt attggagaac
+    11341 tattagtagt agtaacctca ttttcctgat catatattac catcgcactt acaggactaa
+    11401 acatattaat caccgccctt tattctattt atatatttat cacaacacaa cgaggagcac
+    11461 ttacctccca catcatcagt ataaaaccct ccttcacacg agaaaatata ctaatattta
+    11521 tacacatctc ccctattatt cttctatccc ttaaccctag cattatcata ggctttactc
+    11581 cctgtaaata tagtttaacc aaaacgttag attgtgaatc taaacataga aacccaacac
+    11641 ttcttattta ccgagaaagc ttgcaaggac tgctaatcca tgcctccgta cttaacaaaa
+    11701 cggctatctc aacttttaaa ggataacagc tatccattgg tcttaggaac caaaaacatt
+    11761 ggtgcaactc caaataaaag taataataat gtacacttcc accgttatat taaccctgac
+    11821 ctctctaact tttccaatca tcatcgccct taccaaacct aataaaaatc atctataccc
+    11881 caactatgta aaaacaatta taatatttac ctttattatt agtctccttc ccacaaccct
+    11941 atatatcttt ctagaccaag acacaatcat ctcaaactga cattgaataa ccattcaatc
+    12001 actagaaatt acactaagtt taaaactaga ctacttttcc ataatattca ctccaattgc
+    12061 actatttatt acctgatgta ttatagaatt ttcactatga tatataaact cagacccaaa
+    12121 tatcaaccaa ttctttaaat atctccttat tttcctcatt actatactaa ttttggtcac
+    12181 cgctaataac ctcttccaac tattcattgg ttgagaaggc gtaggaatta tatccttctt
+    12241 attgatcggc tgatggcacg cccgaacaga cgccaacaca gcagccctcc aggcaatttt
+    12301 atacaaccgc attggtgaca tcggctttat tctagctata gcatgattta ttctccatta
+    12361 caactcatga gatttccaac aaatatttac cctaaactct agcccagata tactaccact
+    12421 agtaggcctc cttttagcag caacaggaaa atcagcccaa cttggccttc acccttgact
+    12481 accctcagct atagaaggcc caactcctgt atcagcccta cttcactcca gcactatagt
+    12541 cgtagctgga gtattcctac ttattcgctt tcacccctta atagaaaata atatattaat
+    12601 tcaaagcctt acactatgtc taggagccat caccactgta tttatagcaa tctgcgcttt
+    12661 aacacaaaat gatatcaaaa aaattgtagc cttctccacc tcaagtcaac taggactaat
+    12721 aatagtcacc atcggcatta accagccata cttagcattt ctacacatct gtactcacgc
+    12781 cttcttcaaa gctatattat tcatctgctc tgggtctatt attcacaacc taaacaacga
+    12841 acaagatatt cgaaaaatag gaggactatt caaaataata ccccttacct caacctcctt
+    12901 aaccattggc agcctagcac ttgcaggcat accattcctt acaggctttt attctaaaga
+    12961 tcttattatc gaaactgcaa gtacatcata taccaacgcc tgagccctat ctattactct
+    13021 cattgctact tccctaacaa gtgcctacag cactcgaact atcatcctca cactaacagg
+    13081 acgcccccgt ttctcaactt caacatgcat taatgaaaac aacctagccc tattaaaccc
+    13141 aataaaacga ctaacaatag gcagtttact cgcaggattc cttattatta ataacatcct
+    13201 ccctactaca cttccccagt caacaatacc ttactatcta aagctcctag ccctatgcgt
+    13261 gactgcccta ggctttctaa tagccctaga tttagccctt ataaccaaca atctcaaaac
+    13321 aaaaacttca tcccacatat tcaaattctc taatatatta ggatattttc ctattacaat
+    13381 tcaccgaata atcccttatc aaaatctaat cataagccaa aacctagcct ttcttttatt
+    13441 agacttaatc tgactagaaa aatcaatacc caaaacaatt tcacacactc acattattac
+    13501 agccatcact acaaccaccc aaaaaggtat aatcaaactt tatttcctct ccttccttat
+    13561 tccccttgcc ctaatttcac ttttaataat ataatctatt tcctcgagtg atctcaataa
+    13621 caatataaac accaacaaac aatgtccaac caacaaccac caccaaccaa cgcccatagt
+    13681 catataaggc acccgcacca atagaatcct cacgaattaa tcctggtccc tccccctcaa
+    13741 aaattactca attccccata ttatttaaat taactaccac caccgactca ttataatcta
+    13801 aaacccacaa aaccaacccc acctccatcg ccaatccaat caagagacta cccaaaacct
+    13861 caaagcctga aacccatgct tcaggatact cctcaatagc tatcgcagta gtataaccaa
+    13921 aaacaaccat catacctccc aagtaaatta aaaatatcat caaacccata taagcacctc
+    13981 cacaattcaa aataataata caaccaacta caccactaac aaccaatgct aaacctccat
+    14041 aaataggaga aggtttagaa gaaaaaccca caaaacctat aattaataat acacttaaca
+    14101 aaaataaaac atacgacatc gtttctacat gggctccaac catgaccgat gatatgaaaa
+    14161 accatcgttg tatttcaact ataaaaacac caatgacccc cacacgcaag tccaatttaa
+    14221 ttataaaaat aatcaatcat tcccttattg atttacccac cccatcaaac atttccatgt
+    14281 gatgaaactt cggctctctt ctagcaactt gcttaatttt gcaaatcatt accggcctat
+    14341 tcctagcgat acattactca ccagacacct cttccgcctt ctcctcaatc gcccatatta
+    14401 cccgagatgt aaactatggt tgaattattc gctatctcca cgctaatggc gcctctatgt
+    14461 tctttatctg cttattccta cacgtgggcc gaggactgta ttatggctca ttcctcctcc
+    14521 ttgaaacctg aaatattggc gtcacactcc tactcataat catagcaaca gccttcatag
+    14581 gatacgtact tccatgaggg caaatatcat tttgaggcgc tacagtaatc acaaatttat
+    14641 tatccgcaat tccatatatc ggaactaata tcgttcaatg agtttgagga ggatactcta
+    14701 ttgatagccc aaccctcaca cgattcttta cctttcactt cacccttccc tttattatcg
+    14761 cagctcttac aaccctacac ctacttttcc tgcatgaaac aggatctaac aatccctgcg
+    14821 gaattccctc caaccctgac aaaattccct tccaccccta ctacacaatc aaagatatcc
+    14881 taggcctaat tctccttctc cttatcctaa tagtactagt actattttta cctgaccttt
+    14941 taggtgaccc agacaactat acaccagcca acccactaag caccccacca cacattaaac
+    15001 cagagtgata tttcctattc gcatacgcaa tcctgcggtc cgttcctaat aaattaggag
+    15061 gagtgctagc acttcttata tccattctca tcctaataat cattcctata ctccacaaat
+    15121 ccaaacaaca aagcataata ttccgcccac tcagccaact tgtactatga ttcctgatca
+    15181 caattctact aaccctcacc tgaattggaa gccaaccagt aaaccaaccc ttcattataa
+    15241 tcggacaaac agcatccata atatatttca tcacaatcct aattctaata ccattagcat
+    15301 cctcgatcga aaataacctc ctcaaatgaa cttgcccttg tagtataaat taatacaccg
+    15361 gtcttgtaaa ccagaaacgg atatctttcc ccagggcaac tcagaaagag agcactcaac
+    15421 tccaccacca acacccaaaa ttggcattct atttaaacta ctttctgtat tctagggggt
+    15481 acaactcaaa aaataactca agtacaatct agctttatat gcccctatgt aattcgtgca
+    15541 ttactgctag ccagcatgaa tattatatag tactataaat gttttatcgt ccataagaca
+    15601 taaaattaca tatttactaa catttcatcc aggacatgct tacaagcaag aactttcata
+    15661 gaagtacctg gctataatac ataccattca agccttcaaa taccatggtg caacccaccg
+    15721 gaataccaac cgatgtcata tattcattaa tcgtacatag tacattaggt tctttatcgg
+    15781 gcatagcaca ttactattga gcatccccaa aacaattctt aacagcacgg atattcccgt
+    15841 caattaggta tcccttgttc accatcctcc gtgaaatcaa tatcccgcac aagagtgcta
+    15901 ctctcctcgc accgggccca taactcgtgg gggtagctaa acatgatatc aacggacatc
+    15961 tggttcttac ctcacggcca tgtcattata accgctcaca cgttcccctt aaataagaca
+    16021 tctcgatgga tcacgggtct atcaccctat taaccagtca cgggagctct ccatgcattt
+    16081 ggtatctttt atctctggtc tgcacgcgac cccattgcag aatgctggtc tcgccacaat
+    16141 caatcccgca gcgcctgtct ttgattccta gtacatgcta gttattaatc gcacctacgt
+    16201 tcaatattct agccccgcat acgaccatac aaggtgttat ttaattcatg cttgtaggac
+    16261 atacatacaa ctaaccacac gtgtcgatca cacacttaat tcaaattaca actatctctc
+    16321 ctcaaacccc cccccccccc aactcggcca ccccccctta taatatgcct ttgccaaacc
+    16381 ccaaaaacaa aaacttgcaa tctggtcgaa ttttacattt tttttttatc ttttaggtgt
+    16441 gcataactca actgtcgttt cctcaactaa taaaaattta tttcacccac cacccttgat
+    16501 gtcacaccca gttttcttac cgggctcctc caagaacccc caaagatacc attacaacac
+    16561 ccattatcct
+//
+
+LOCUS       KM889667               16574 bp    DNA     circular PRI 14-JAN-2015
+DEFINITION  Nasalis larvatus mitochondrion, complete genome.
+ACCESSION   KM889667
+VERSION     KM889667.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 16574)
+  AUTHORS   Subbiah,V.K., Rodrigues,K.F. and Yung,C.V.L.
+  TITLE     Comparison of mitochondrial DNA sequences of proboscis monkey
+            (Nasalis larvatus) from Sabah and Sarawak
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 16574)
+  AUTHORS   Subbiah,V.K., Rodrigues,K.F. and Yung,C.V.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2014) Biotechnology Research Institute,
+            University Malaysia Sabah, Jalan Ums, Kota Kinabalu, Sabah 88400,
+            Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..16574
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:43780"
+     tRNA            1..71
+                     /product="tRNA-Phe"
+     rRNA            72..1019
+                     /product="12S ribosomal RNA"
+     tRNA            1020..1088
+                     /product="tRNA-Val"
+     rRNA            1089..2661
+                     /product="16S ribosomal RNA"
+     tRNA            2662..2736
+                     /product="tRNA-Leu"
+                     /note="codons recognized: UUR"
+     gene            2739..3693
+                     /gene="ND1"
+     CDS             2739..3693
+                     /gene="ND1"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:3693,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AJD22333.1"
+                     /translation="MFTMNLLLTILPIIAAMAFLTLTERKLLGYMQLRKGPNIVGPYG
+                     LLQPFADAMKLFTKEPLKPSTSTTTLYIIAPALAFSIALLLWMPLPMPNSLINLNLGL
+                     LFILATSSLAVYSILWSGWASNSNYALIGALRAVAQTISYEVTLAIIVLSVLLMSGSF
+                     NLYTLITTQEHLWLLLPSWPLAMMWFTSTLAETNRAPFDLTEGESELVSGFNIEYAAG
+                     PFALFFMAEYMNIILMNALTVTIFLGTLYPTHSPELFTTCFITKTLLLTSLFLWIRAT
+                     YPRFRYDQLMHLLWKNFLPLTLALLMWYISTPIMTSGIPPQN"
+     tRNA            3694..3763
+                     /product="tRNA-Ile"
+     tRNA            complement(3761..3832)
+                     /product="tRNA-Gln"
+     tRNA            3833..3900
+                     /product="tRNA-Met"
+     gene            3901..4942
+                     /gene="ND2"
+     CDS             3901..4942
+                     /gene="ND2"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:4942,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AJD22334.1"
+                     /translation="MNPLAQLIIYSTMIMGTLITSLSSHWFLAWAGLEMNMLAFTSIL
+                     IKKANSRSTEAATKYFLTQSTASMILMMAIMYNNLYPGQWTLLSNPDQLSALIMTVAL
+                     AMKLGMAPFHFWIPEVTQGTSLTSGLLLLTWQKLAPMSIMYQMYPSINTTILMTLSTL
+                     SIMAGSWGGLNQTQLRKILAYSSITHMGWMMMTLTYNPNITTFYLLMYIIMTSTAFLA
+                     LNLNSNTTTLMLSRTWNKLTWLMPLTASTLLSMGGLPPLTGFLPKWITIQELTKNNNF
+                     IMPSIMIVMALINLYFYLRLIYIISMTLLPTTNNTKMKWQFENTKPTPFIPSLIILTT
+                     LLLPVSPTTLMTF"
+     tRNA            4943..5010
+                     /product="tRNA-Trp"
+     tRNA            complement(5019..5087)
+                     /product="tRNA-Ala"
+     tRNA            complement(5089..5161)
+                     /product="tRNA-Asn"
+     rep_origin      complement(5163..5194)
+                     /direction=right
+     tRNA            complement(5193..5259)
+                     /product="tRNA-Cys"
+     tRNA            complement(5260..5324)
+                     /product="tRNA-Tyr"
+     gene            5335..6879
+                     /gene="COX1"
+     CDS             5335..6879
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AJD22335.1"
+                     /translation="MLINRWLFSTNHKDIGTLYLLFGAWAGTAGMAMSLLIRAELGQP
+                     GNLLGNDHIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSF
+                     WLLPPSFLLLLASAMVEAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILG
+                     AINFITTIINMKPPAMSQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVTYYSGKKEPFGYMGMVWA
+                     MVSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKW
+                     SPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG
+                     FIHWFPLFSGYTLDQVCAKAHFIIMFVGVNLTFFPQHFLGLSGMPRRYSDYPDAYTTW
+                     NIVSSMGSFISLVAMLLMIYMIWEAFASKRKVMLIEQPTSNLEWLHGSPPPYHTFDEP
+                     AFIKVK"
+     tRNA            complement(6877..6945)
+                     /product="tRNA-Ser"
+                     /note="codons recognized: UCN"
+     tRNA            6949..7017
+                     /product="tRNA-Asp"
+     gene            7019..7702
+                     /gene="COX2"
+     CDS             7019..7702
+                     /gene="COX2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit II"
+                     /protein_id="AJD22336.1"
+                     /translation="MPHPVQLGLQDATSPIMEELIAFHDHAFMIVSLISFLVLYVLSS
+                     VLTTKLTNTNITDAQEMETIWTILPAIILILIALPSLRILYLTDEINNPSFTIKSIGH
+                     QWYWTYEYTDYGGLIFNSYMLPPLFLNPGDLRLLEVDNRVVLPIEAPVRMMITSQDVL
+                     HSWTIPTLGLKTDAIPGRLNQTTFTAMRPGVYYGQCSEICGANHSFMPIVAELIPLKI
+                     FEMGPVFTL"
+     tRNA            7750..7817
+                     /product="tRNA-Lys"
+     gene            7819..8025
+                     /gene="ATP8"
+     CDS             7819..8025
+                     /gene="ATP8"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 8"
+                     /protein_id="AJD22337.1"
+                     /translation="MPQLNTSTWFITIMAMLPALYLIMQLKLLNTTYHFSPSQKVLSM
+                     QTTNNSWQLKWTKIYLPHSQPQHS"
+     gene            7980..8660
+                     /gene="ATP6"
+     CDS             7980..8660
+                     /gene="ATP6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 6"
+                     /protein_id="AJD22338.1"
+                     /translation="MNENLFTPFTTPTLLELPVVVPIILFPTLLLPTSKYLINNRLIT
+                     IQQKLVQLILKQMMVIHNTKGQTWSLMLMSLIIFIASTNFLGLLPYSFTATTQLSMNL
+                     AMAIPLWAGTVITGLRFKTKSSLAHFLPQGTPTPLIPALVIIETISLFIQPMALAVRL
+                     TANITAGHLLMHLIGSATLALLTISLLATSLTLVLLVMLTILEMAVALIQAYVFTLLV
+                     SLYLHDNT"
+     gene            8660..9443
+                     /gene="COX3"
+     CDS             8660..9443
+                     /gene="COX3"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:9443,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit III"
+                     /protein_id="AJD22339.1"
+                     /translation="MTHQAHPYHMVKPSPWPLTGALSALLMTSGLIMWFHFYSTTLLM
+                     LGLLTNMLTMYQWWRDIIRESTYQGHHTMPVQKGLRYGMVLFIISEVFFFAGFFWAFY
+                     HSSLAPTPHLGGHWPPTGITPLNPLEVPLLNTSVLLASGVTITWAHHSLMENNRKEMI
+                     QALLTTILLGIYFTLLQASEYYEAPFTISDGIYGSTFFVATGFHGLHVIIGSTFLTVC
+                     LIRQLFYHFTSSHHFGFEAAAWYWHFVDVVWLFLYISIYWWGS"
+     tRNA            9444..9510
+                     /product="tRNA-Gly"
+     gene            9511..9856
+                     /gene="ND3"
+     CDS             9511..9856
+                     /gene="ND3"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:9856,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 3"
+                     /protein_id="AJD22340.1"
+                     /translation="MNLVLALTINTFLTLLLMTIMFWLPQLNSYTEKANPYECGFDPL
+                     NSARIPFSMKFFLVAITFLLFDLEIALLLPLPWALQTTNLPMMIKSSIMLIIILTLSL
+                     AYEWTQKGLDWTE"
+     tRNA            9857..9921
+                     /product="tRNA-Arg"
+     gene            9922..10218
+                     /gene="ND4L"
+     CDS             9922..10218
+                     /gene="ND4L"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="AJD22341.1"
+                     /translation="MPIIYTNIVLAFMISLLGMLIYRSHLMSSLLCLEGMMLSLFMMS
+                     TLMALNMHFPLANIVPIALLVFAACEAAVGLALLISISNTYGLDHIHNLNLLQC"
+     gene            10212..11589
+                     /gene="ND4"
+     CDS             10212..11589
+                     /gene="ND4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:11589,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AJD22342.1"
+                     /translation="MLKMIIPTMMLLPTTWFSKNNLIWINLTTHSLIISLIPLLFFNQ
+                     INNNLTSHSTHLSSDPLTTPLLTLTAWLLPLMIMASQYHMYNESPLRKKLYLSMMIFL
+                     QISLIMTFMATELILFYILFETTLIPTLIIITRWGNQAERLNASTYFLFYTLAGSLPL
+                     LIMLMFTHNNLGSLNIPLLTLMTQNMTTTWSHNLIWLACMMAFMVKMPLYGLHLWPPK
+                     AHVEAPIAGSMVLAAVLLKLGGYGMMRLTSILNPLTEYMAYPFLMLSLWGMIMTSSTC
+                     LRQTDLKSLIAYSSVSHMALVIMASLIQTPWSFTGAIILMIAHGLTSSMLFCLANSNY
+                     ERTHSRIMMLSRGLQTLLPLMAFWWFVANLTNLALPPTINLIGELLVVVTSFSWSHIT
+                     IALTGLNMLITALYSIYMFITTQRGALTSHIISMKPSFTRENMLMFMHISPIILLSLN
+                     PSIIMGFTP"
+     tRNA            11590..11658
+                     /product="tRNA-His"
+     tRNA            11659..11717
+                     /product="tRNA-Ser"
+                     /note="codons recognized: AGY"
+     tRNA            11718..11788
+                     /product="tRNA-Leu"
+                     /note="codons recognized: CUN"
+     gene            11789..13600
+                     /gene="ND5"
+     CDS             11789..13600
+                     /gene="ND5"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="AJD22343.1"
+                     /translation="MMMYTSTVMLTLTSLTFPIIIALTKPNKNHLYPNYVKTIMMFTF
+                     IISLLPTTLYIFLDQDTIISNWHWMTIQSLEITLSLKLDYFSMMFTPIALFITWCIME
+                     FSLWYMNSDPNINQFFKYLLIFLITMLILVTANNLFQLFIGWEGVGIMSFLLIGWWHA
+                     RTDANTAALQAILYNRIGDIGFILAMAWFILHYNSWDFQQMFTLNSSPDMLPLVGLLL
+                     AATGKSAQLGLHPWLPSAMEGPTPVSALLHSSTMVVAGVFLLIRFHPLMENNMLIQSL
+                     TLCLGAITTVFMAICALTQNDIKKIVAFSTSSQLGLMMVTIGINQPYLAFLHICTHAF
+                     FKAMLFICSGSIIHNLNNEQDIRKMGGLFKMMPLTSTSLTIGSLALAGMPFLTGFYSK
+                     DLIIETASTSYTNAWALSITLIATSLTSAYSTRTIILTLTGRPRFSTSTCINENNLAL
+                     LNPMKRLTMGSLLAGFLIINNILPTTLPQLTMPYYLKLLALCVTALGFLMALDLALMT
+                     NNLKTKTSSHMFKFSNMLGYFPITIHRMIPYQNLIMSQNLAFLLLDLIWLEKSMPKTI
+                     SHTHIITAITTTTQKGMIKLYFLSFLIPLALISLLMM"
+     gene            complement(13601..14125)
+                     /gene="ND6"
+     CDS             complement(13601..14125)
+                     /gene="ND6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 6"
+                     /protein_id="AJD22344.1"
+                     /translation="MSYVLFLLSVLLIMGFVGFSSKPSPIYGGLALVVSGVVGCIIIL
+                     NCGGAYMGLMMFLIYLGGMMVVFGYTTAMAIEEYPEAWVSGFEVLGSLLIGLAMEVGL
+                     VLWVLDYNESVVVVNLNNMGNWVIFEGEGPGLIREDSIGAGALYDYGRWLVVVVGWTL
+                     FVGVYIVIEITRGN"
+     tRNA            complement(14126..14194)
+                     /product="tRNA-Glu"
+     gene            14199..15333
+                     /gene="CYTB"
+     CDS             14199..15333
+                     /gene="CYTB"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:15333,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AJD22345.1"
+                     /translation="MTPTRKSNLIMKMINHSLIDLPTPSNISMWWNFGSLLATCLILQ
+                     IITGLFLAMHYSPDTSSAFSSIAHITRDVNYGWIIRYLHANGASMFFICLFLHVGRGL
+                     YYGSFLLLETWNIGVTLLLMIMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTNI
+                     VQWVWGGYSIDSPTLTRFFTFHFTLPFIITALTTLHLLFLHETGSNNPCGIPSNPDKI
+                     PFHPYYTIKDILGLILLLLILMVLVLFLPDLLGDPDNYTPANPLSTPPHIKPEWYFLF
+                     AYAILRSVPNKLGGVLALLMSILILMIIPMLHKSKQQSMMFRPLSQLVLWFLITILLT
+                     LTWIGSQPVNQPFIMIGQTASMMYFITILILMPLASLIENNLLK"
+     tRNA            15340..15404
+                     /product="tRNA-Thr"
+     tRNA            complement(15407..15473)
+                     /product="tRNA-Pro"
+     D-loop          15474..16574
+ORIGIN      
+        1 gtttatgtag cttaacaaat tcaaagcaag acactgaaaa tgcctagacg ggctcataaa
+       61 ccccataaac aaacaggttt ggtcccggcc tttctattgg cttatagcaa gattacacat
+      121 gcaagcatcc ccgctccagt gaggacaccc tacaaatcac tatgattaaa aggagtaagt
+      181 atcaagcgcg ctcaatgcag ctcaagacac tttgcttagc cacaccccca cgggaaacag
+      241 cagtgactaa tatttagcaa taaacgaaag ttcaactaag ctatgctatc atagggttgg
+      301 tcaacttcgt gccagccccc gggccatacg attgacccga gctaataaac atcggcgtaa
+      361 agggtgtttt agataaattc aaccaaataa agctaaactc cttctaaact gtaaaatcct
+      421 agctaacata aaaacaacta cgaaagtggc tttaaaattt ctgaacacac aatagctaag
+      481 attcaaactg ggattacaga ccccactatg cttagcccta aactctaata gtttaaataa
+      541 caaaactcct cgccagaaca ctacaagcaa cagcttaaaa ctcaaagaac ttggcggtgc
+      601 ttcatatccc cctagaggag cctgttctat aatcgataaa ccccgatcta cctcaccatc
+      661 tctcgctcag cctatatacc gccatcttca gcaaacctca acaagagaca taaagtaagc
+      721 acaaacgccc acgcaaagac gttaggtcaa ggtgtagctt atgagctgga agaaatgggc
+      781 tacattttct accctagaaa agcctacgat agctcttatg aaatctaaga gcccaaggag
+      841 gatttagtag taaactaaga gcagagtgct tagttgaatc aggccatgaa gcacgcacac
+      901 accgcccgtc gctctcctca aatatattta aggactaact taactaaaca ttccaacatc
+      961 tatatagaag agataagtcg taacatggta agtgtactgg aaggtgcact tggataaatc
+     1021 aaggcatagc tcaatataaa gcatccagtt tacacccgga agacatcaac actatttgat
+     1081 tgccttgagc caatcctagc tcaaaaccta atcaatatta ctatcaaact aatatatata
+     1141 tatatactaa accatttata attataaaag tataggcgat agaaatttac tctgacgcta
+     1201 tagatatagt accgcagggg aaagatgaaa aatttaacca aagcacaaaa cagcaaggac
+     1261 ttacccctat accttctgca taatgaacta accagagacc acttcgcaaa gagaactaaa
+     1321 gtcaagtacc ccgaagccag acgagctacc caaaaacagc tgaaagagcg cacccgtcta
+     1381 tgtagcaaaa tagtgggaag atttctgggt agaggtgata cacctaccga gcctggggat
+     1441 agctggttat ccaagataga atcttagttc aaccttaagt ttacccacag aactattaat
+     1501 ccccctgtaa acttaattgt tagtctaaag agggacagct ctttagacac taggaaaaaa
+     1561 ccttatatag agagtaaaag aattctaagc ccatagttgg ctcaaaagca gccatcaatt
+     1621 aagaaagcgt tcaagctcaa ctcttaatac taaaaaaaaa tcctaaacat attattgaac
+     1681 tcctcacatc acattggatt aatctattaa cccatagaag caataatgct agtatcagta
+     1741 acatgaataa gttctcccgt gcataagcct aaatcaaacc aaaaatcttc accgatactt
+     1801 aacagtttaa taccaataac cacaagcaag ctaatattat atatactgtt aacccaacac
+     1861 aggcatgccc taagggaaag gttaaaaaaa gtaaaaggaa ctcggcaaac ttaaccccgc
+     1921 ctgtttacca aaaacatcac ctctagcatt actaatatta gaggcactgc ctgcccagtg
+     1981 acatatgttc aacggccgcg atatcctgac cgtgcaaagg tagcataatc acttgttctt
+     2041 taaataggga cttgtatgaa tggcaacacg agggttcaac tgtctcttac tttcaaccag
+     2101 tgaaattgac ctgcccgtga agaggcgggc ataaaacaat aagacgagaa gaccctgtgg
+     2161 agcttcaatt tactaatgca accataatca acacaaatcc aaggacctaa tatatcttgc
+     2221 ccctgcatta gaaattttgg ttggggtgac ctcggagcat aaacaaacct ccgaacaaac
+     2281 tatgctaaga ctatacaagt caaagcaacc taatacccat aattgatcca ataacttgac
+     2341 caacggaaca agttacccca gggataacag cgcaatccta ttccagagtt catatcgaca
+     2401 atagggttta cgacctcgat gttggatcag gacatcctaa tggtgcagca gctatcaagg
+     2461 gttcgtttgt tcaacgatta aagtcctacg tgatctgagt tcagaccgga gcaatccagg
+     2521 tcggtttcta tctattctac atttctccct gtacgaaagg acaagagaaa tagggctcac
+     2581 ttcacaaagc gccctccttc cataaatgac ctagtctcaa tttaacaaaa accacacata
+     2641 tatatcccaa gaacagggat tgttaagatg gcagagcccg gtaattgcat aaaacttaag
+     2701 actttacaat cagaggttca attcctcttc ttaacattat gttcacaata aacctcctat
+     2761 taaccattct acctattatc gctgctatag catttcttac actcactgag cgaaagctac
+     2821 taggctatat acaattacgc aaaggaccta acatcgtagg cccttatgga ctactacaac
+     2881 cctttgccga cgcaataaaa ctcttcacca aggaacccct aaaaccttca acctccacca
+     2941 ccaccctata cattattgca cccgccctag ccttctccat cgccctcctt ctatgaatac
+     3001 ccctccccat acctaactca ctaattaacc tcaacctagg actcctattc attctagcta
+     3061 catctagctt agctgtttac tccattttat gatcaggatg agcatcaaac tcaaactacg
+     3121 cattaattgg agcactacga gcagtcgccc aaacaatctc atacgaagta actctcgcta
+     3181 ttattgtact atcagtccta ctgataagcg gctcatttaa tctctataca cttattacaa
+     3241 cacaagaaca tctctgactt ctactaccat catgaccttt agccataata tgatttacat
+     3301 ccacactagc agaaaccaat cgagccccct ttgatctcac agaaggagaa tcagaactgg
+     3361 tatcaggctt taatattgaa tatgctgcag gcccatttgc ccttttcttc atagccgaat
+     3421 atataaatat tattttaata aacgccctaa cagtcacaat ttttctaggg accctatacc
+     3481 ccacccactc accagaacta ttcacaacat gctttattac caaaacactc ctcttaacat
+     3541 ctctattttt atgaatccga gcaacctacc cccgattccg ttatgatcag ctaatacact
+     3601 tgctatgaaa aaattttctc cctcttacac tggcactcct tatatgatat atctcaaccc
+     3661 caatcataac ctctggcatc ccccctcaaa actagaaata tgtctgacaa aagaattact
+     3721 ttgatagagt aaataataga ggtatttaat cctcttattt ctagaatcat aggtattgaa
+     3781 cctactcctg agaatccaaa tttctccgtg ctacctatta cacccaactc taagtaaggt
+     3841 cagctaaaca agctatcggg cccatacccc gaaaatgttg gtcgaaccct tcccgtacta
+     3901 attaacccac tagctcaact tattatttat tctaccataa ttataggcac ccttattaca
+     3961 tcattaagct cccactgatt ccttgcctga gcgggcctag aaataaatat attagctttt
+     4021 acctcaattt taattaaaaa agcaaattct cgctccacag aagctgctac caaatatttc
+     4081 ctcacacaat ccactgcatc cataattctc ataatagcaa ttatatataa taacctgtat
+     4141 ccaggacaat gaaccttatt aagtaatcct gaccaactct cagccctaat tataacagta
+     4201 gccctcgcta taaaactagg aatagccccc ttccactttt gaattccaga agttacccaa
+     4261 ggaacatccc taacctccgg cctactcctc ctcacatgac aaaaactagc ccccatatca
+     4321 attatatatc aaatgtaccc atcaatcaat acaaccattc ttataactct atcaactcta
+     4381 tccatcatag caggcagctg aggaggcctt aaccaaacac aactacgtaa aattctagca
+     4441 tactcttcaa tcacacacat aggctgaata ataataacac taacatataa cccaaacatt
+     4501 acaaccttct acctactcat gtatattatt ataacaagca ccgcatttct agccctaaac
+     4561 ctaaactcaa acaccacaac cctaatacta tcacgcacct gaaacaaatt aacctgacta
+     4621 ataccactaa cagcatccac ccttctatcc ataggaggcc tacctcctct aaccggcttt
+     4681 ctacccaaat gaattaccat tcaagaactt acaaaaaata ataacttcat cataccctct
+     4741 attataatcg ttatagcctt aatcaaccta tatttctatc tccgcttaat ttatattatc
+     4801 tccatgacac tactccctac aaccaacaac acaaaaataa aatgacagtt cgaaaataca
+     4861 aaacccacac cctttatccc ctcactcatt attctaacaa cccttctcct accagtatcc
+     4921 ccaacaacct taataacatt ctagaaattt aggttaaacc agaccaaaag ccttcaaagc
+     4981 ttttagtaag ttaaatatac ttaatttctg aaatacacta aggactgcag tactctactc
+     5041 cgcatcaact gaacgcaaat caatcacttt aattaagcta agcccttact agattaatgg
+     5101 gatttaaacc cacaaaaact tagttaacag ctaaacaccc taatcaactg gctttaatct
+     5161 acttctcccg ccgcagggaa aaaaggcggg agaagccccg gcagaaatat aatctgctcc
+     5221 tttgaatttg caattcaaca tgaaaatcac ctcgggactg gtaaaaagag gactaaacct
+     5281 ctgtccttag gtttacagcc taatgcctac tcagccattt tacctctcct acctatgctt
+     5341 attaaccgct ggctattctc cacaaatcat aaagacattg ggactttata tttattattt
+     5401 ggcgcatgag ctggaaccgc aggtatagct ataagcctcc ttatccgagc cgaactaggt
+     5461 caacccggca acctactagg caacgaccac atttacaatg ttatcgttac agcccatgca
+     5521 tttgtcataa ttttctttat ggttatgcct atcatgattg gaggattcgg aaactgacta
+     5581 gtacccttaa taattggcgc tcctgatatg gcattccccc gcctaaataa tataagcttt
+     5641 tgacttcttc caccgtcttt cctgctcctt cttgcatcag ctatagtaga agctggtgca
+     5701 gggacaggct gaacagtata cccgcctcta gcaggaaatt tctcccaccc aggagcttct
+     5761 gtagacctaa ctatcttctc acttcatcta gcaggcattt cttctatctt aggggctatc
+     5821 aattttatca caactatcat taacataaaa ccccccgcta tatcccaata tcaaactcct
+     5881 ttgtttgtct gatctgttct aattacagca gtcctgctac ttctatccct acccgtactg
+     5941 gctgccggca ttacaatgct actaacagac cgcaatctca atactacttt ctttgacccc
+     6001 gccggaggag gggatccaat cctatatcaa catttattct gatttttcgg tcaccctgaa
+     6061 gtctacattc ttatcttgcc tgggtttgga ataatttccc acatcgtaac atattattct
+     6121 ggaaaaaagg aaccattcgg atatataggt atggtctgag ctatagtatc aattggattc
+     6181 ctaggcttta tcgtatgagc tcaccatata tttactgttg gtatagacgt ggatacacga
+     6241 gcctacttta cctctgccac tataattatt gcaattccaa ctggcgttaa agtctttagc
+     6301 tgactcgcta cattacacgg aggaaatatc aagtgatctc ccgcaatact ctgagccctg
+     6361 ggctttatct ttctttttac tgtaggaggt ttaaccggta ttgtactagc aaactcatca
+     6421 ctagatattg tactacacga tacatattat gtcgtagctc atttccacta tgtcttatca
+     6481 ataggagctg tctttgctat tataggaggc tttattcact gatttcccct attctcaggt
+     6541 tacaccctag atcaggtatg cgccaaagcc cactttatta ttatatttgt aggtgtaaac
+     6601 ttaaccttct tcccacaaca ctttcttggc ttatccggaa taccccgacg ctattccgac
+     6661 taccctgatg cctacaccac atgaaatatt gtatcatcca tgggctcctt tatttcccta
+     6721 gtagcaatac tattaataat ctatataatc tgagaagcct ttgcctcaaa acgcaaagta
+     6781 atattaatcg aacaacctac ctctaaccta gagtgactac acggctcccc accaccatat
+     6841 cacacatttg atgaaccagc gttcatcaaa gttaaataaa aaaggaagga atcgaacctc
+     6901 ctgaaactgg tttcaagcca atcctataac ccctataact ttttcaataa gatattagaa
+     6961 aaattatttc atagttttgt caaagctaaa ttataggata tatccctata tatcttatat
+     7021 gcctcaccca gttcaactag gcctacaaga tgccacatcc cctatcatag aagaattaat
+     7081 tgcctttcac gaccatgcct ttataatcgt atccctaatt agctttttag ttttatatgt
+     7141 tttatcatca gtactcacaa caaaattaac taacaccaac atcacagatg ctcaagagat
+     7201 agaaactatc tgaactatct taccagcaat tattctaatc ctaattgcac ttccatccct
+     7261 acgtattctc tacttaacag acgaaatcaa taatccctca tttactatca aatcaattgg
+     7321 acaccaatga tattgaactt atgaatatac ggactacgga ggcttaatct ttaattctta
+     7381 tatacttcca ccactattct taaatccagg agaccttcga cttctagaag ttgacaatcg
+     7441 agtagtactt ccaattgaag cccctgtccg tataataatt acatcccaag acgtcctaca
+     7501 ctcctgaact atccctacac tgggtttaaa aacagatgct atccccggac gcttaaacca
+     7561 aaccactttc actgctatac gaccaggcgt ttactacgga caatgctcag aaatctgcgg
+     7621 cgccaaccac agctttatgc caattgttgc agaactaatc ccgctaaaaa tttttgaaat
+     7681 agggcctgtt ttcactctat aaacacatta aaacacctta cttaataatc tcttaaaatt
+     7741 accaaaaccc actgtatagc tgccacagca ttaacctttt aagttaaaga ttgagaaaac
+     7801 acctttctct gtagtgaaat gcctcaacta aatacatcca cgtggtttat tactattata
+     7861 gccatgctgc ccgcacttta ccttatcata caattaaagc tactaaacac aacctaccat
+     7921 ttctccccgt cacaaaaagt ccttagtata caaacaacta acaattcttg acaactaaaa
+     7981 tgaacgaaaa tttatttacc ccattcacaa ccccaacact cttagaatta cccgttgtag
+     8041 tacctattat tctatttcct acgttattgc tcccaacctc aaaatacctt attaataatc
+     8101 gactaattac tattcaacaa aaactggttc aactaatcct aaaacaaata atagtaatcc
+     8161 ataataccaa aggacaaacc tgatccctaa tattaatatc cttaattatt tttattgcct
+     8221 caaccaattt tctcggactc ttgccctatt catttacagc tactacccag ctgtccataa
+     8281 acctagctat agcgatccct ctatgagcag gtacagtaat tacaggtctt cgcttcaaaa
+     8341 ccaaaagctc attagcccac tttttaccac aaggtacacc cacacccctt attcccgcat
+     8401 tagtaattat tgaaactatc agcttattca tccaaccaat ggccctagcc gtgcgcctaa
+     8461 ccgccaatat tacagcaggc catctactca tacacctaat cggaagtgct actctggcat
+     8521 tattaaccat tagtctcctt gcaacctcac taaccttagt actcctagta atactaacaa
+     8581 ttctagaaat agcagttgct ctaatccagg cttacgtttt tacactccta gtaagccttt
+     8641 acttacatga taatacttaa tgacacacca agcccaccct tatcacatag ttaaacctag
+     8701 cccatgacca ctaacaggag ccttatcagc tctcctaata acatctggcc taatcatatg
+     8761 gttccacttt tactctacaa ccttactaat gctaggatta ttaaccaaca tattaaccat
+     8821 ataccaatgg tgacgcgata ttatccgaga gagtacctat caaggccacc atacaatacc
+     8881 agtccaaaaa ggtcttcgct acggaatagt tttatttatt atttcagaag ttttcttctt
+     8941 tgctggcttc ttctgggcat tctatcactc aagcctcgcc cctactccac atctaggagg
+     9001 acactgacca ccaacaggta tcacccctct aaaccctcta gaagtaccac tcctaaatac
+     9061 ttcagtatta cttgcatcgg gagttacaat cacttgagct catcatagct taatagaaaa
+     9121 taaccggaaa gaaataattc aagccctctt gactacaatt ttattaggca tttattttac
+     9181 tttattacaa gcctcagaat actatgaagc acctttcact atctctgatg gcatttatgg
+     9241 ctcaacattc tttgtcgcta ctggttttca cggacttcac gtcattattg gatctacatt
+     9301 tcttaccgtt tgcctcattc gccaattgtt ctaccacttt acatcaagcc accatttcgg
+     9361 atttgaagcc gccgcttgat attgacattt cgtagacgtc gtctgactct tcctctacat
+     9421 ctctatttat tgatgaggtt cttattcttt tagtataatc agtacagccg acttccaatc
+     9481 agctagtttc gatagtatcg aaaaagaata attaacctag tattagccct aacaatcaat
+     9541 accttcctga ctttattact aataactatt atattttgat taccccaact aaactcctac
+     9601 acagaaaaag ccaaccccta cgaatgcgga tttgacccac taaattctgc acggattcct
+     9661 ttttctataa aattttttct agtcgctatt accttcctat tattcgactt agaaattgcc
+     9721 ctgctactac cactaccatg agctctccaa acaacaaacc tccccataat aattaaatca
+     9781 tcaattatat taattatcat tctaaccctt agcctagcct acgaatgaac tcaaaaagga
+     9841 ttagattgaa ctgaattggt aagtagttta aataaaacga atgatttcgg ctcattagat
+     9901 tatgataatc atactaacca aatgcccatt atttacacaa atatcgtact agcatttata
+     9961 atctcactcc taggcatatt aatttaccgc tcgcacctaa tgtcatccct attatgtcta
+    10021 gaagggataa tactttcact attcataata agtaccctca tggcattaaa tatacacttt
+    10081 cccctagcta atattgtacc tattgctcta ttagtattcg ccgcttgcga ggcggcagta
+    10141 ggccttgccc tactaatttc aatctcaaat acatatggcc tagatcacat ccataaccta
+    10201 aatctactcc aatgctaaaa ataattattc ccacaataat attactacca acaacatgat
+    10261 tctccaaaaa caacttgatc tgaattaatt taaccacaca cagcttaatt attagcctca
+    10321 ttcctcttct attcttcaat caaatcaaca acaatctcac tagccattca acccatctgt
+    10381 cttccgaccc attaacaaca cctcttctaa cattaaccgc ctgactctta cccctcataa
+    10441 ttatagcaag ccaatatcat atgtacaatg aaagtccttt acgaaaaaaa ctttatctct
+    10501 ccataataat tttcttacaa atttctttaa ttataacatt tatagctaca gaattaatct
+    10561 tgttctacat cctcttcgaa actaccctca ttcctaccct aattattatt acccgatgag
+    10621 gtaatcaagc agaacgcctc aacgcaagta catacttctt attttataca ctagccggct
+    10681 cccttcccct actaatcata ctaatattta cgcataataa tttgggctca ctaaacatcc
+    10741 cactattaac acttataacc caaaacatga caaccacctg atcccacaac ttaatttgac
+    10801 tagcatgcat aatagccttt atagtgaaaa tacccctgta tggcctacac ctgtggcctc
+    10861 ccaaagccca cgttgaagcc cctattgccg ggtcaatagt ccttgccgca gtacttttga
+    10921 aactaggtgg ctatggcatg atacgactca cctcaatcct caatcctctg acagagtata
+    10981 tagcctaccc cttccttata ttatccctat gaggcatgat tataacaagc tctacttgcc
+    11041 ttcgacaaac agacctaaaa tcactcatcg catactcctc tgtaagccac atagccctag
+    11101 taatcatagc ctctctaatc caaaccccct gaagctttac tggcgctatt attcttataa
+    11161 tcgcccacgg actcacttca tctatgctat tctgcctagc aaattcaaac tacgaacgaa
+    11221 cccatagtcg tattataata ctctcccgag gactccaaac tctactccca ctaatagcct
+    11281 tctgatgatt cgtagcaaat ctcaccaacc tagcattacc tcccactatt aatcttattg
+    11341 gagaactatt agtagtagta acctcatttt cctgatcaca tattaccatc gcacttacag
+    11401 gactaaacat attaatcacc gccctttatt ctatttatat atttatcaca acacaacgag
+    11461 gagcacttac ctcccacatc atcagtataa aaccctcctt cacacgagaa aatatactaa
+    11521 tatttataca catctcccct attattcttc tatcccttaa ccctagcatt atcataggct
+    11581 ttactccctg taaatatagt ttaaccaaaa cgttagatcg tgaatctaaa catagaaacc
+    11641 caacacttct tatttaccga gaaagcttgc aaggactgct aatccatgcc tccgtactta
+    11701 acaaaacggc tatctcaact tttaaaggat aacagctatc cattggtctt aggaaccaaa
+    11761 aacattggtg caactccaaa taaaagtaat aataatgtac acttccaccg ttatattaac
+    11821 cctgacctct ctaacttttc caatcatcat cgcccttacc aaacctaata aaaatcatct
+    11881 ataccccaac tatgtaaaaa caattataat atttaccttt attattagtc tccttcccac
+    11941 aaccctatat atctttctag accaagacac aatcatctca aactgacatt gaataaccat
+    12001 tcaatcacta gaaattacac taagtttaaa actagactac ttttccataa tattcactcc
+    12061 aattgcacta tttattacct gatgtattat agaattttca ctatgatata taaactcaga
+    12121 cccaaatatc aaccaattct ttaaatatct ccttattttc ctcattacta tactaatttt
+    12181 ggtcaccgct aataacctct tccaactatt cattggttga gaaggcgtag gaattatatc
+    12241 cttcttattg atcggctgat ggcacgcccg aacagacgcc aacacagcag ccctccaggc
+    12301 aattttatac aaccgcattg gtgacatcgg ctttattcta gctatagcat gatttattct
+    12361 ccattacaac tcatgagatt tccaacaaat atttacccta aactctagcc cagatatact
+    12421 accactagta ggcctccttt tagcagcaac aggaaaatca gcccaacttg gccttcaccc
+    12481 ttgactaccc tcagctatag aaggcccaac tcctgtatca gccctactgc actccagcac
+    12541 tatagtcgta gctggagtat tcctacttat tcgctttcac cccttaatag aaaataatat
+    12601 attaattcaa agccttacac tatgtctagg agccatcacc actgtattta tagcaatctg
+    12661 cgctttaaca caaaatgata tcaaaaaaat tgtagccttc tccacctcaa gtcaactagg
+    12721 actaataata gtcaccatcg gcattaacca gccatactta gcatttctac acatctgtac
+    12781 tcacgccttc ttcaaagcta tattattcat ctgctctggg tctattattc acaacctaaa
+    12841 caacgaacaa gatattcgaa aaataggagg actattcaaa ataatacccc ttacctcaac
+    12901 ctccttaacc attggcagcc tagcacttgc aggcatacca ttccttacag gcttttattc
+    12961 taaagatctt attatcgaaa ctgcaagtac atcatatacc aacgcctgag ccctatctat
+    13021 tactctcatt gctacttccc taacaagtgc ctacagcact cgaactatca tcctcacact
+    13081 aacaggacgc ccccgtttct caacttcaac atgcattaat gaaaacaacc tagccctatt
+    13141 aaacccaata aaacgactaa caataggcag tttactcgca ggattcctta ttattaataa
+    13201 catcctccct actacacttc cccagttaac aataccttac tatctaaagc tcctagccct
+    13261 atgcgtgact gccctaggct ttctaatagc cctagactta gcccttataa ccaacaatct
+    13321 caaaacaaaa acttcatccc acatattcaa attctctaat atattaggat attttcctat
+    13381 tacaattcac cgaataatcc cctatcaaaa tctaatcata agccaaaacc tagcctttct
+    13441 tttattagac ttaatctgac tagaaaaatc aatacccaaa acaatttcac acactcacat
+    13501 tattacagcc atcactacaa ccacccaaaa aggtataatc aaactttatt tcctctcctt
+    13561 ccttattccc cttgccctaa tttcactttt aataatataa tctatttcct cgagtgatct
+    13621 caataacaat ataaacacca acaaacaatg tccaaccaac aaccaccacc aaccaacgcc
+    13681 catagtcata taaggcaccc gcaccaatag aatcctcacg aattaatcct ggtccctccc
+    13741 cctcaaaaat tactcaattc cccatattat ttaaattaac taccaccacc gactcattat
+    13801 aatctaaaac ccacaaaacc aaccccacct ccatcgccaa tccaatcaag agactaccca
+    13861 aaacctcaaa gcctgaaacc catgcttcag gatactcctc aatagctatc gcagtagtat
+    13921 aaccaaaaac aaccatcata cctcccaagt aaattaaaaa tatcatcaaa cccatataag
+    13981 cacctccaca attcaaaata ataatacaac caactacacc actaacaacc aatgctaaac
+    14041 ctccataaat aggagaaggt ttagaagaaa aacccacaaa acctataatt aataatacac
+    14101 ttaacaaaaa taaaacatac gacatcgttt ctacatgggc tccaaccatg accaatgata
+    14161 tgaaaaacca tcgttgtatt tcaactataa aaacaccaat gacccccaca cgcaagtcca
+    14221 atttaattat aaaaataatc aatcattccc ttattgattt acccacccca tcaaacattt
+    14281 ccatgtgatg aaacttcggc tctcttctag caacttgctt aattttgcaa atcattaccg
+    14341 gcctattcct agcgatacat tactcaccag acacctcttc cgccttctcc tcaatcgccc
+    14401 atattacccg agatgtaaac tatggttgaa tcattcgcta tctccacgct aatggcgcct
+    14461 ctatgttctt tatctgctta ttcctacacg tgggccgagg actgtattat ggctcattcc
+    14521 tcctccttga aacctgaaat attggcgtca cactcctact cataatcata gcaacagcct
+    14581 tcataggata cgtacttcca tgaggacaaa tatcattttg aggcgctaca gtaatcacaa
+    14641 atttattatc cgcaattcca tatatcggaa ctaatatcgt tcaatgagtt tgaggaggat
+    14701 actctattga tagcccaacc ctcacacgat tctttacctt tcacttcacc cttcccttta
+    14761 ttatcacagc tcttacaacc ctacacctac ttttcctgca tgaaacagga tctaacaatc
+    14821 cctgcggaat tccctccaac cctgacaaaa ttcccttcca cccctactac acaatcaaag
+    14881 atatcctagg cctaattctc cttctcctta tcctaatagt actagtacta tttttacctg
+    14941 accttttagg tgacccagac aactatacac cagccaaccc actaagcacc ccaccacaca
+    15001 ttaaaccaga gtgatatttc ctattcgcat acgcaatcct gcggtccgtt cctaataaat
+    15061 taggaggagt gctagcactt cttatatcca ttctcatcct aataatcatt cctatactcc
+    15121 acaaatccaa acaacaaagc ataatatttc gcccactcag ccaacttgta ctatgattcc
+    15181 taatcacaat tctactaacc ctcacctgaa ttggaagcca accagtaaac caacccttca
+    15241 ttataatcgg acaaacagca tccataatat atttcatcac aatcctaatt ctaataccat
+    15301 tagcatcctt gatcgaaaat aacctcctca aatgaacttg cccttgtagt ataaattaat
+    15361 acaccggtct tgtaaaccag aaacggatat ctttccccag ggcaactcag aaagagagca
+    15421 ctcaactcca ccaccaacac ccaaaattgg cattctattt aaactacttt ctgcattcta
+    15481 gggggtacaa ctcaaaaaat aactcaagta caatctagct ttatatgccc ctatgtaatt
+    15541 cgtgcattac tgctagccag catgaatatt atatagtact ataaatgttt tatcgtccat
+    15601 aagacataaa attacatatt tactggcatt tcatccaaga acatgcttat aagcaggaac
+    15661 ctttatggaa gtatctaact ataacacata ccattcaagc cttcaaatac catggtgtaa
+    15721 cccaccggaa taccaaccga taccatatat tcattaatcg tacatagtac attaagttct
+    15781 ttatcggaca tagcacatta ctattgagca tccctaaaac aattcttaca gcacggatat
+    15841 tcccgtcaat taggtgtccc ttgttcacca tcctccgtga aatcaatatc ccgcacaaga
+    15901 gtgctactct cctcgcaccg ggcccataac tcgtgggggt agctaaacat gatatcaacg
+    15961 gacatctggt tcttacctca cggccatgcc attataaccg ctcacacgtt ccccttaaat
+    16021 aagacatctc gatggatcac gggtctatca ccctattaac cagtcacggg agctctccat
+    16081 gcatttggta tcttttatct ctggtctgca cgcgacccca ttgcagaatg ctggtctcgc
+    16141 cacaatcaat cccgcagcgc ctgtctttga ttcctagtac atgctagtta ttaatcgcac
+    16201 ctacgttcaa tattctagcc ccgcatacga ccatacaagg tgttatttaa ttcatgcttg
+    16261 taggacatac atacaactaa ccacacgtgt cgatcacaca cttaattcaa attacaacta
+    16321 tctctcctca aacccccccc cccccactcg accacccccc ttataatatg cctttgccaa
+    16381 accccaaaaa caaaaacttg caatctggtc gaattttaca tttttttttt tttttttagg
+    16441 tgtgcataac tcaactgtcg tttcctcaac taataaaaat ttatttcact caccaccctt
+    16501 gatgtcacac cccagttttc ttaccgggct cctccaagaa cccccaaaga taccattaca
+    16561 acacccatta tcct
+//
+

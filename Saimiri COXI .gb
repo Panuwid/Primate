@@ -1,0 +1,111 @@
+LOCUS       EF568644                 634 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Saimiri sciureus voucher AG05311 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568644
+VERSION     EF568644.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sciureus (common squirrel monkey)
+  ORGANISM  Saimiri sciureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..634
+                     /organism="Saimiri sciureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG05311"
+                     /db_xref="taxon:9521"
+                     /country="USA"
+     gene            <1..>634
+                     /gene="COXI"
+     CDS             <1..>634
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81553.1"
+                     /translation="WAGAVGTALSLLIRAELGQPGSLMEDDHIFNVIVTAHAFIMIFF
+                     MVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGW
+                     TVYPPLAGNMSHPGPSVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLF
+                     VWSVFITAVLLLLSLPVLAAGITMLLTDRNLNTSFFDPAGGGDPILYQHYS"
+ORIGIN      
+        1 atgagctggg gcagtaggga ctgccttgag cctcctgatt cgtgcagagc tgggtcaacc
+       61 agggagtctc atagaagatg atcacatttt caacgttatt gtcaccgccc atgcattcat
+      121 tataattttc ttcatagtaa tacccatcat aattggaggt tttggaaact gactcatccc
+      181 gctaataatt ggtgcccccg acatagcatt tcctcgaata aataacataa gtttctgact
+      241 cttaccccca tcactccttc tcttacttgc atcctcaact ctagaagctg gcgcagggac
+      301 tgggtgaact gtttatcctc ctctagcagg aaatatatca cacccagggc cctccgtgga
+      361 tctcactatc ttttcactcc acctggccgg tatttcctct attctagggg caattaattt
+      421 tattacaaca attattaata taaaaccacc agcgatgagt caatatcaga cacccctatt
+      481 tgtctgatct gtgttcatta cagcagtcct cctactcctc tcactcccag tcctagctgc
+      541 cggaattaca atactcctaa ctgatcgcaa tcttaacacc tccttcttcg acccagctgg
+      601 gggaggcgac cctattcttt accaacatta ttct
+//
+
+LOCUS       EF658649                 632 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Saimiri sciureus isolate PR00612 cytochrome oxidase subunit I
+            (cox1) gene, partial cds; mitochondrial.
+ACCESSION   EF658649
+VERSION     EF658649.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sciureus (common squirrel monkey)
+  ORGANISM  Saimiri sciureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 632)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Mitochondrial cytochrome oxidase c subunit 1 (coxI) variation among
+            primates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 632)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2007) Molecular Biology Laboratory, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..632
+                     /organism="Saimiri sciureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00612"
+                     /db_xref="taxon:9521"
+                     /sex="female"
+     gene            <1..>632
+                     /gene="cox1"
+     CDS             <1..>632
+                     /gene="cox1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABR68265.1"
+                     /translation="YLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHIFNVIVTAHA
+                     FIMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEA
+                     GAGTGWTVYPPLAGNMSHPGPSVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQ
+                     YQTPLFVWSVFITAVLLLLSLPVLAAGITMLLTDRNLNTSFFDPAGGGDP"
+ORIGIN      
+        1 atatttatta tttggtgcat gagctggagc agtaggaact gccctgagcc tcctaattcg
+       61 tgcagagcta ggtcaaccag ggagtctcat agaagacgat cacattttca acgttattgt
+      121 caccgcccat gcattcatta taattttctt catagtaata cccatcataa ttggaggttt
+      181 tggaaactga ctcatcccgc taataattgg tgcccccgac atagcatttc ctcgaataaa
+      241 taacataagt ttctgactcc tacccccatc actccttctc ttacttgcat cctcaactct
+      301 agaagctggc gcagggactg ggtgaactgt ctatccccct ctagcaggga atatgtcaca
+      361 cccagggccc tccgtggacc tcactatctt ttcactccac ctagccggta tttcctctat
+      421 tctaggggca attaatttta ttacaacaat tattaatata aaaccaccag cgatgagtca
+      481 atatcagaca cccctatttg tctgatctgt gttcattaca gcagtcctcc tactcctctc
+      541 actcccagtc ctagctgccg gaatcacaat actcctaact gatcgcaatc ttaacacctc
+      601 cttcttcgac ccagctgggg gaggcgaccc ta
+//
+

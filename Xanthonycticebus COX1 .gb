@@ -1,0 +1,3452 @@
+LOCUS       OQ518144                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher N24 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518144
+VERSION     OQ518144.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="N24"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Quang Nam, Nam Giang"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97918.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518143                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L42 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518143
+VERSION     OQ518143.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L42"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Thua Thien Hue, Nam Dong"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97917.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518142                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L41 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518142
+VERSION     OQ518142.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L41"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Thua Thien Hue, Nam Dong, Muong Lo"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97916.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQXXTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaatncnng
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atctctccca
+      601 gttctcgcag caggtattac tatactgctt acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acatcctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518141                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L39 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518141
+VERSION     OQ518141.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L39"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Thanh Hoa"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97915.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctgcctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518140                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L35 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518140
+VERSION     OQ518140.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L35"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Thanh Hoa, Xuan Lien"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97914.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518139                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L28 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518139
+VERSION     OQ518139.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L28"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Thanh Hoa, Quan Hoa"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97913.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518138                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L27 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518138
+VERSION     OQ518138.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L27"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Thanh Hoa, Quan Hoa"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97912.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518137                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L24 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518137
+VERSION     OQ518137.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L24"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Sa Pa"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97911.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518136                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L23 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518136
+VERSION     OQ518136.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L23"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Sa Pa"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97910.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518135                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L20 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518135
+VERSION     OQ518135.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L20"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Lao Cai"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97909.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518134                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L19 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518134
+VERSION     OQ518134.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L19"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Lao Cai"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97908.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518133                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L15 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518133
+VERSION     OQ518133.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L15"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Ba Vi"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97907.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518132                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L14 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518132
+VERSION     OQ518132.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L14"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Ba Vi"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97906.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtt ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctacca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggggggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518131                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L13 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518131
+VERSION     OQ518131.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L13"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Hoa Binh"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97905.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggggggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518130                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L12 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518130
+VERSION     OQ518130.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L12"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Hoa Binh"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97904.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtctactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggggggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518129                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L11 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518129
+VERSION     OQ518129.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L11"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Hoa Binh"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97903.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttggcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggggggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518128                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L10 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518128
+VERSION     OQ518128.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L10"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Hoa Binh"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97902.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518127                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L0 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518127
+VERSION     OQ518127.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L0"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Tuyen Quang, Na Hang"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97901.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518126                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus sp. i MB-2023 voucher L9 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518126
+VERSION     OQ518126.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus sp. i MB-2023
+  ORGANISM  Xanthonycticebus sp. i MB-2023
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus sp. i MB-2023"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L9"
+                     /db_xref="taxon:3030689"
+                     /country="Viet Nam: Hoa Binh"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97900.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518125                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L33 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518125
+VERSION     OQ518125.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L33"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Cat Tien, Dao Tien"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97899.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518124                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L32 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518124
+VERSION     OQ518124.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L32"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Cat Tien, Dao Tien"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97898.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattctty
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518123                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L31 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518123
+VERSION     OQ518123.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L31"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Cat Tien, Dao Tien"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97897.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518122                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L30 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518122
+VERSION     OQ518122.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L30"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Cat Tien, Dao Tien"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97896.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518121                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L29 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518121
+VERSION     OQ518121.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L29"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Cat Tien, Dao Tien"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97895.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518120                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L26 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518120
+VERSION     OQ518120.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L26"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Cat Tien, Dao Tien"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97894.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518119                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L25 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518119
+VERSION     OQ518119.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L25"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Cat Tien, Dao Tien"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97893.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518118                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L18 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518118
+VERSION     OQ518118.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L18"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Nha Trang"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97892.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518117                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L17 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518117
+VERSION     OQ518117.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L17"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Nha Trang"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97891.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttataatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518116                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L16 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518116
+VERSION     OQ518116.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L16"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Nha Trang"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97890.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518115                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L8 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518115
+VERSION     OQ518115.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L8"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Lam Dong"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97889.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGXALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga nctgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcgg gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518114                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L7 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518114
+VERSION     OQ518114.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L7"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Lam Dong"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97888.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtatcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518113                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L6 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518113
+VERSION     OQ518113.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L6"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Lam Dong"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97887.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtatcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518112                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L5 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518112
+VERSION     OQ518112.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L5"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Lam Dong"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97886.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518111                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L4 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518111
+VERSION     OQ518111.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L4"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Lam Dong"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97885.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518110                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L3 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518110
+VERSION     OQ518110.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L3"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Lam Dong"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97884.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttataatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518109                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L2 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518109
+VERSION     OQ518109.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L2"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Lam Dong"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97883.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttataatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518108                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher L1 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518108
+VERSION     OQ518108.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="L1"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Lam Dong"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97882.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518107                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher FMNH:MAMM:46825 cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518107
+VERSION     OQ518107.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH:MAMM:46825"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Dak Lak, Buon Ma Thuot"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97881.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttt
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518106                 753 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher FMNH:MAMM:46828 cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518106
+VERSION     OQ518106.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 753)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 753)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..753
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH:MAMM:46828"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Dak Lak, Buon Ma Thuot"
+     gene            1..>753
+                     /gene="COX1"
+     CDS             1..>753
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97880.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGF"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 acaccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttt
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttc
+//
+
+LOCUS       OQ518105                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher USNM:MAMM:357750 cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518105
+VERSION     OQ518105.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="USNM:MAMM:357750"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Binh Dinh"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97879.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttgctaat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct atattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       OQ518104                 805 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher USNM:MAMM:256913 cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518104
+VERSION     OQ518104.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 805)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 805)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..805
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="USNM:MAMM:256913"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Dong Nam, Bien Hoa Trang Bom"
+     gene            1..>805
+                     /gene="COX1"
+     CDS             1..>805
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97878.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPIMYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPF"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccgttgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttt
+      661 gatccggcag gaggagggga cccaattata tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtat acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttg
+//
+
+LOCUS       OQ518103                 848 bp    DNA     linear   PRI 01-MAR-2023
+DEFINITION  Xanthonycticebus pygmaeus voucher USNM:MAMM:258234 cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OQ518103
+VERSION     OQ518103.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Cao,G.T., Lopez-Nandam,E.H., Veronese-Paniagua,D.A.,
+            Birchette,M.G., Kenyon,M., Md-Zain,B.M., Munds,R., Nekaris,K.A.I.,
+            Nijman,V., Roos,C., Thach,H.M., Sterling,E.J. and Le,M.D.
+  TITLE     Molecular Phylogenetic Relationships and Unveiling Novel Genetic
+            Diversity among Slow and Pygmy Lorises, Including Resurrection of
+            Xanthonycticebus intermedius
+  JOURNAL   Genes (Basel) 14 (2023) In press
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Blair,M.E., Le,M.D., Cao,G.T., Lopez-Nandam,E.H.,
+            Veronese-Paniagua,D.A., Kenyon,M. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2023) Center for Biodiversity and Conservation,
+            American Museum of Natural History, 200 Central Park West, AMNH,
+            Biodiversity, New York, NY 10024, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="USNM:MAMM:258234"
+                     /db_xref="taxon:101278"
+                     /country="Viet Nam: Lam Dong, Bao Loc"
+     gene            1..>848
+                     /gene="COX1"
+     CDS             1..>848
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WDS97877.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFL"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc ccggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctttaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaagct
+      361 ggagctggca ctggatgaac tgtgtaccct cctctagcgg gcaatctagc tcatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcctc tattttaggg
+      481 gctattaatt ttattacaac tgccattaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattgt ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgcta acagaccgta atctaaatac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta tatcaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acattctcat cctacctggg ttcggcataa tctcacacat tgtatctttc
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatccatt
+      841 ggtttcct
+//
+
+LOCUS       KX397281               16856 bp    DNA     circular PRI 28-DEC-2016
+DEFINITION  Xanthonycticebus pygmaeus mitochondrion, complete genome.
+ACCESSION   KX397281
+VERSION     KX397281.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 16856)
+  AUTHORS   Ni,Q., He,X., Xie,M., Zhang,M., Xu,H., Yao,Y., Li,Y. and Yang,J.
+  TITLE     Complete mitochondrial genome sequence for the Nycticebus pygmaeus
+            (Primates, Lorisidae)
+  JOURNAL   Conserv Genet Resour 8 (3), 235-237 (2016)
+REFERENCE   2  (bases 1 to 16856)
+  AUTHORS   He,X. and Ni,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JUN-2016) College of Animal Science and Technology,
+            Sichuan Agricultural Uniersity, #211 Huimin Road University,
+            Chengdu, Sichuan 611130, P R China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..16856
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:101278"
+                     /country="China"
+                     /collection_date="2015"
+                     /collected_by="Qingyong Ni"
+     tRNA            1..71
+                     /product="tRNA-Phe"
+     rRNA            72..1041
+                     /product="12S ribosomal RNA"
+     tRNA            1042..1108
+                     /product="tRNA-Val"
+     rRNA            1109..2703
+                     /product="16S ribosomal RNA"
+     tRNA            2704..2778
+                     /product="tRNA-Leu"
+     gene            2780..3736
+                     /gene="ND1"
+     CDS             2780..3736
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="APQ47822.1"
+                     /translation="MFMINLLMLVVPVILAMAFLTLLERKTLGYMQFRKGPNVVGPHG
+                     LLQPFADAMKLFIKEPLQPLMSSTLLYTIAPTLALSIALIMWTPLPIPYPLINMNLGV
+                     LFILATSSLAVYSILWSGWASNSKYALIGALRAVAQTISYEVTLAIILLSILMINGSF
+                     TLSTLIKTQEHSWLLLPSWPLAMMWFISTLAETNRAPFDLTEGESELVSGFNVEYAAG
+                     PFALFFMAEYTNIIMMNALTATIFMSAIHNMNFPETFSVNFTLKTLLLTTIFLWVRAS
+                     YPRFRYDQLMHLLWKNFLPLTLAMCMWHTALPIFLANIPPQM"
+     tRNA            3734..3804
+                     /product="tRNA-Ile"
+     tRNA            complement(3801..3872)
+                     /product="tRNA-Gln"
+     tRNA            3876..3944
+                     /product="tRNA-Met"
+     gene            3945..4986
+                     /gene="ND2"
+     CDS             3945..4986
+                     /gene="ND2"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:4986,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="APQ47823.1"
+                     /translation="MKPPILLLIYFTLFIGTILTMISSHWLLTWVGLEMNMLAIIPIL
+                     TKKTSSRPMEAATKYFLTQATASMILMMAIIINTMNSGQWTMMKTVSPLSSLMMLTAL
+                     AMKLGMTPFHFWVPEVTQGISLTSGLILLTWQKLAPMSILLQMNNSINSNITLLIALL
+                     SIAIGGWGGLNQTQLRKILAFSSISHMGWMLAVITFNPSATVLNLLIYLLLTLSMFIM
+                     MLSISSTSTLTMSHSWNKTPVLTSMLLITLLSLGGLPPLSGFLPKWIIVQELCNSHNI
+                     ITPTLMTIMSLLNLFFYMRLIYSSSLTMFPTTNNMKMKWQLNMPTPPAVMTPLITVSS
+                     MLLPLSPMISTLN"
+     tRNA            4987..5053
+                     /product="tRNA-Trp"
+     tRNA            complement(5063..5132)
+                     /product="tRNA-Ala"
+     tRNA            complement(5133..5205)
+                     /product="tRNA-Asn"
+     tRNA            complement(5239..5305)
+                     /product="tRNA-Cys"
+     tRNA            complement(5306..5373)
+                     /product="tRNA-Tyr"
+     gene            5380..6921
+                     /gene="COX1"
+     CDS             5380..6921
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="APQ47824.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKW
+                     SPAMLWALGFIFLFTVGGLTGIVLSNSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG
+                     FVHWFPLFSGYTLDQTWAKIHFTIMFVGVNLTFFPQHFLGLSGMPRRYSDYPDAYTMW
+                     NSISSIGSFISLTAVVLMIFMVWEAFASKREVMMVELTHTNLEWLHGCPPPYHTFEEP
+                     TYVKA"
+     tRNA            complement(6923..6991)
+                     /product="tRNA-Ser"
+     tRNA            6997..7065
+                     /product="tRNA-Asp"
+     gene            7066..7749
+                     /gene="COX2"
+     CDS             7066..7749
+                     /gene="COX2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit II"
+                     /protein_id="APQ47825.1"
+                     /translation="MAHPVQFGFQDAASPIMEELLYFHDHTLMIVFMISSLVLYIISL
+                     MLSTELTHTSTMDAQEVETVWTILPAVILILIALPSLRILYMMDEINTPSMTLKTMGH
+                     QWYWSYEYTDYDNLCFDSYMVTTPDLEPGDLRLLEVDNRVILPTEMSIRMLISSEDVL
+                     HSWTVPALGIKTDAIPGRLNQATLMTSRPGIYYGQCSEICGSNHSFMPIVLELVPLKY
+                     FEEWLLKSL"
+     tRNA            7751..7821
+                     /product="tRNA-Lys"
+     gene            7821..8024
+                     /gene="ATP8"
+     CDS             7821..8024
+                     /gene="ATP8"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 8"
+                     /protein_id="APQ47826.1"
+                     /translation="MPQLDTSTWTITIMSMILTLFILFQLKLSKFSYPIHPTKKLTKL
+                     HKLDNPWEMKWTKTYSPHSLPLQ"
+     gene            7982..8662
+                     /gene="ATP6"
+     CDS             7982..8662
+                     /gene="ATP6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 6"
+                     /protein_id="APQ47827.1"
+                     /translation="MDQNLFASFTTPTMAGLPVVIFIVMFPYIMILTPTRLINNRMAS
+                     VQQWLIQLILKQLMVTHNTKGRTWSLMLISLITFIGSTNLLGLLPHTFTPTTQLSMNL
+                     AMAIPLWAATVITGFRHKTKASLAHFLPQGTPPLLIPMLILIETISLLIQPMALAVRL
+                     TANITAGHLLMHLIGGATLVISSISPVAASITFIILILLSILEFAVALIQAYVFTLLV
+                     SLYLHDNT"
+     gene            8662..9445
+                     /gene="COX3"
+     CDS             8662..9445
+                     /gene="COX3"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:9445,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit III"
+                     /protein_id="APQ47828.1"
+                     /translation="MTHQTHTYHMVNPSPWPLTGAISALLMTSGLIMWFHFNSMTLLT
+                     LGLLTNTLTMLQWWRDIVREGTFQGHHTPTVQKGLRYGMVLFIISEIFFFAGFFWSFY
+                     HSSLAPTPELGGCWPPTGIYPLNPLDVPLLNTAVLLASGVSITWAHHSLMEGNRKHMM
+                     QALFMTIALGLYFTLLQASEYFETPFTISDGIYGSTFFMATGFHGLHVIIGSSFLTVC
+                     LIRQLNFHFTSNHHFGFEAAAWYWHFVDVVWLFLYVSIYWWGS"
+     tRNA            9445..9515
+                     /product="tRNA-Gly"
+     gene            9515..9861
+                     /gene="ND3"
+     CDS             9515..9861
+                     /gene="ND3"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:9860..9861,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 3"
+                     /protein_id="APQ47829.1"
+                     /translation="MNTLIMLITNTSLASALVLVAFWLPQLNVYTEKYSPYECGFDPT
+                     GSARLPFSMKFFLVAITFLLFDLEIALLLPLPWAIQTHMLNLMLTVTFLLILILALGL
+                     AYEWIQKGLEWQE"
+     tRNA            9862..9930
+                     /product="tRNA-Arg"
+     gene            9932..10228
+                     /gene="ND4L"
+     CDS             9932..10228
+                     /gene="ND4L"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="APQ47830.1"
+                     /translation="MPLISTNILLAFITALLGVLIYRSHLMSSLLCLEGMMLSMFILV
+                     SLTTMNLHFTLANIAPLILLVFAACEAAVGLALLVMVSNTYGMDYVQNLNLLQC"
+     gene            10222..11599
+                     /gene="ND4"
+     CDS             10222..11599
+                     /gene="ND4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:11599,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="APQ47831.1"
+                     /translation="MLKIIIPTIMLFPVTWLSHHRTLWINTTIHSLMISSTSLHLLHQ
+                     PTNNLNFTLMFFSDTLSIPLLVLTTWLLPLMILASQHHLRKEPLARKKLYISMLISLQ
+                     MLLVMTFTASELILFYILFEATLIPTLIIITRWGNQTERLNAGLYFLFYTLLGSLPLL
+                     ITLLYTQDFVGSLNLSILPLYHQNMLTPSWSSNMAWVACMMAFMVKMPLYGTHLWLPK
+                     AHVEAPIAGSMVLAAILLKLGGYGMMRITTILTPLTNAMAYPFIILSLWGMIMTSSIC
+                     LRQTDLKSLIAYSSVSHMALVIVAILIQTPWSYMGATALMIAHGLTSSMMFCLANSNY
+                     ERIHSRTMILARGLQTLLPLMTLWWLMASLTNLALPPSINLVGELLIIITAFAWSKLT
+                     IMLTGLNVLITALYSLYMFTMTQHGKPTFHTHNIKPSFTRENALMSLHVLPLLSLSLN
+                     PKLILGLTL"
+     tRNA            11600..11668
+                     /product="tRNA-His"
+     tRNA            11669..11726
+                     /product="tRNA-Ser"
+     tRNA            11727..11796
+                     /product="tRNA-Leu"
+     gene            11797..13608
+                     /gene="ND5"
+     CDS             11797..13608
+                     /gene="ND5"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="APQ47832.1"
+                     /translation="MNMLLPTLATTSLIILTLPIILSTTKMNNTPFPNLVKLSISCAF
+                     SISLVPALIFVFSDQDSVITNWHWVTIQTLKLSTSLKLDYFSILFMPVALFVTWSIME
+                     FSMWYMHSDPQMNKFFKYLLLFLITMTILVTSNNLFQLFIGWEGVGIMSFLLIGWWYG
+                     RTDANTAALQAILFNRIGDIGFILSMTWFLTYSNSWEIQQMFITYPNTSTLPLVGLLL
+                     AATGKSAQFGLHPWLPSAMEGPTPVSALLHSSTMVVAGVFLLIRFYPLLNNNETMQTM
+                     TLCLGAITTLFTAICALTQNDIKKIVAFSTSSQLGLMMVTIGINQPHLAFLHICTHAF
+                     FKAMLFMCSGSIIHNLNDEQDIRKMGGLFNTLPFTTSSLMIGSLALTGMPFLTGFYSK
+                     DLIIETANTSNTNAWALLITLIATSLTAVYSTRIIFFALLGQPRYPPTINTNENNPLL
+                     INSIKRLAIGSIFAGYLISNNIPPMTTPQMTMPLHLKLTAMLITILGFVLAMEMNLMT
+                     TNLKFKHTHSSYTFSNSLGYFPITVHRLLPNLDLKSSLNMSSTLLDLIWLEKSMPKNL
+                     AQTQLYASKTVSNQKGLIKLYFLSFLISTLLALTLMT"
+     gene            complement(13605..14132)
+                     /gene="ND6"
+     CDS             complement(13605..14132)
+                     /gene="ND6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 6"
+                     /protein_id="APQ47833.1"
+                     /translation="MMYLVSLLSVLFVLGFVGFSSKPSPIYGGFGLIVSGGVGCGIVM
+                     GFGGSFMGLMVFLVYLGGMLVVFGYTTAMATEEYPESWGSSVGVLGALVLGLVVEMVL
+                     VLLAGDYYVEVGGVMNFDGVGDWEVYDVSGIGPFRMQSAGTSALYSCGSWFLVVAGWS
+                     LFVSIFIIIEITRGN"
+     tRNA            complement(14133..14201)
+                     /product="tRNA-Glu"
+     gene            14205..15344
+                     /gene="CYTB"
+     CDS             14205..15344
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="APQ47834.1"
+                     /translation="MTNIRKNHPLMKIINHSFIDLPSPSNISSWWNFGSLLGLCLMIQ
+                     IITGLFLAMHYTSDTTTAFSSVAHICRDVNYGWIIRYLHANGASMFFLCLFIHVGRGL
+                     YYGSFTLLDTWNIGVMLLLAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGMNL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIITALVMIHLIFLHETGSNNPSGISSDSDKI
+                     PFHPYYSFKDLLGAIFLLTTLSVLVLFSPDLLGDPDNYTPANPLITPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVMALAMSILILALIPHLHTAKQRSMMFRPLSQCLFWVLVANLLT
+                     LTWIGGQPVENPFIIIGQTASILYFLTILVLMPLTSLFENKLLKW"
+     tRNA            15349..15417
+                     /product="tRNA-Thr"
+     tRNA            complement(15419..15489)
+                     /product="tRNA-Pro"
+     D-loop          15490..16856
+                     /note="control region"
+ORIGIN      
+        1 gttaatgtag cttagaaatt taaagcgaag cactgaaaat gcttagacgg gcccttaaag
+       61 ccccataaac acacaggttt ggtcccagcc ttcttattag ctgttagcag acctatacat
+      121 gcaagtaacc gcacccccgt gaaaatgccc tccaggccac actgaccaaa aggagcaggt
+      181 atcaagccca ctccccacaa aagtagctca taacaccttg ctaagccaca cccccacggg
+      241 taacagcagt aataaacatt aggcaatgaa cgaaagttcg acctagctat gctaactaac
+      301 taagggttgg taaatttcgt gccagccacc gcggtcatac gattaaccca agttaataat
+      361 aaacggcgta aagagtgttt tagagttaat agaacactaa agttaagtct tagctaagct
+      421 gtaaaaagcc ccagccaaag caaaaataaa taacgaaagt aactttatat atctgaacac
+      481 acgacagtta agacccaaac tgggattaga taccccacta tgcttaaccg taaactcaag
+      541 tagcatctca acaatactac tcgccagagt actacaagca atagctcgaa actcaaagga
+      601 cttggcggtg ctttacaccc ctctagagga gcctgttcta taatcgataa accccgataa
+      661 acctcaccac ctcttgctaa ttcaacctat ataccgccat cctcagcaaa ccctgttaag
+      721 gacccatagt aagcgagaga atcacacatt aaaacgttag gtcaaggtgt agtctatgag
+      781 gtgggaagaa atgggctaca ttttctatat ttacagaaca accaacgcct ccccttatga
+      841 aaaaagtggt taaggcggat ttagaagtaa attgagaata gagagcttga ttgaataggg
+      901 caatgaagca cgcacacacc gcccgtcacc ctcctcaaat taattctaat tactaaagta
+      961 tctataatct atacacacta aattatcaga ggagataagt cgtaacaagg taagcatact
+     1021 ggaaagtgtg cttggaatta ccaaagtgta gcttaaactc aaagcatccg gcttacaccc
+     1081 agaagatttc aactaatgac cactttgaaa ttactagaac tagccctaac accccccccc
+     1141 actaaatcat aaccccttca ctaaatcaaa acatttataa caacttatac aagtataggc
+     1201 gatagaaaat attcttgggc gctatagaaa cagtaccgta agggaaagat gaaagaagta
+     1261 cttaaagtat aacaaagcaa agattaaaac ttctaccttt tgcataatga tttagccaga
+     1321 acaactttac aaagagaact atagctaaca accccgaaac cagacgagct acctacggac
+     1381 agtatatgaa caaactcatc tatgtcgcaa aatagtgaga agatccatag gtagaggtga
+     1441 aaagcctacc gagcctggtg atagctggtt gtccagaaca gaatctaagt tcagcttaaa
+     1501 atctacctaa agaactaata atccaaatgt agattctatt gctagttcaa aggggtacag
+     1561 cccattgaac aaaggataca acctttaata gagagtaacc aaacattata cccatagttg
+     1621 gcccaaaagc agccatcaat taagaaagcg ttaaagctca acattacata ctattcccaa
+     1681 ataccaaaac tcttagacac ctcctattaa attcactgga ctaatctatt catgaataga
+     1741 agagataatg ttaatatgag taacaagaat aatattctcc ccgcacagac ctatatcaga
+     1801 tcggatgccc actgataatt aaccaacaga tatagaaacc actaataaat aattatatca
+     1861 accaaaaatg ttaacccaac acaggtgtgc aattacaaag gaaagattag aataagtaaa
+     1921 aggaactcgg caaaaacaaa ccccgcctgt ttaccaaaaa catcacctct agcatggata
+     1981 gtattagagg caatgcctgc ccagtgacta atgttaaacg gccgcggtat cctgaccgtg
+     2041 caaaggtagc ataatcattt gttccttaat tgaggacttg aatgaacggc cacacgaggg
+     2101 tttaactgtc tcttacttac aatcagtgaa attgacctct tcgtgaagag gcgaagatat
+     2161 ctaaataaga cgagaagacc ctatggagct taaattttat acccaagtct tatatatcac
+     2221 ccaactaagg gccataacac caccgatgcc tgggtagaca attttggttg gggtgacctc
+     2281 ggagtataaa taaacctccg aatatctagt acctagactc aacaagtcaa agtaacctta
+     2341 cacaacctgt atcttataat ttattgaccc aaaaaatttg atcaacggaa caagttaccc
+     2401 tagggataac agcgcaatcc tgttctagag tccctatcga caacagggtt tacgacctcg
+     2461 atgttggatc aggacatccc aatggtgtaa ccgctattaa tggttcgttt gttcaacgat
+     2521 taaagtccta cgtgatctga gttcagaccg gagaaatcca ggtcggtttc tatctattaa
+     2581 aatttctcct agtacgaaag gacaagagaa atggagccca ttactcaata aagctcccag
+     2641 ccaaatagat gatatcatct aaatctaata ttctactcac taccctgccc tagaacaggg
+     2701 tttgttaaga tggcagagcc cggtaattgc ataaaactta aaactttata cccagaggtt
+     2761 caactcctct tcttaacaca tgtttataat taacctgcta atgctcgtag tcccagtaat
+     2821 tctagccata gcattcctaa ccctcttaga acgaaaaacc ctaggctaca tgcaattccg
+     2881 caaaggaccc aatgtagtag gcccacatgg acttctacaa ccattcgctg atgcaataaa
+     2941 actattcatc aaagaacccc tacaacccct tatatcttca accctacttt atactattgc
+     3001 cccaacccta gccttatcca tcgcccttat tatatgaacc ccactaccaa tcccatatcc
+     3061 cctaattaac ataaacctag gcgtattatt cattctagcc acatcaagcc tagccgtata
+     3121 ctccatccta tgatcaggat gagcatccaa ctcaaaatat gcactaattg gagcattacg
+     3181 agcagtagca caaaccattt cgtacgaagt aaccctagca atcatccttc tatccattct
+     3241 aataattaac gggtcattca cactatcaac cttaattaaa actcaagaac actcctgact
+     3301 cctactccca tcgtgacctc tagcaataat atgatttatc tcaacacttg cagaaacaaa
+     3361 tcgagctcct ttcgacctta cagaaggaga atctgaactc gtatctggat ttaatgtcga
+     3421 atacgccgca ggcccattcg cactattttt tatagccgaa tacactaaca tcattataat
+     3481 aaatgcccta acagccacga tcttcataag tgcaattcac aacataaact tcccagaaac
+     3541 cttctctgtc aacttcaccc taaaaactct actattgaca accatctttt tatgagtccg
+     3601 agcatcatac ccccgattcc gctatgacca acttatacac ctactatgaa aaaattttct
+     3661 accactaaca ctagccatat gcatatgaca cactgcacta cccatttttt tagctaacat
+     3721 tcccccacaa atatagaaat atgtctgaca aaagaattac tttgatagag taaaaaatag
+     3781 aggtgagaac cctcttattt ctagaacctt agggctcgaa cctattctta agaattcaaa
+     3841 attcttcgtg ctaccaaata caccaagtcc tataaagtaa ggtcagctaa ataagctatc
+     3901 gggcccatac cccgaaaatg ttggtttata cccttcccgt actaattaaa ccccccatcc
+     3961 tattactaat ctatttcacc ctgtttattg gaacaatcct aacaataatt agctcacact
+     4021 gactcttaac ttgagtaggt ctagaaataa atatattagc catcattcca atccttacta
+     4081 aaaaaacatc atcacgaccc atagaagccg caactaaata cttcctaacc caagccacgg
+     4141 catcaataat cctaatgata gcaattatta ttaatactat aaactcagga caatggacaa
+     4201 taataaaaac tgttagccca ctatcttccc tcataatact aactgcatta gccataaaac
+     4261 taggtataac cccattccac ttttgagtgc cagaagtaac acaaggaatc tcacttacct
+     4321 caggactaat tttactaaca tgacaaaagc tagccccaat atctatccta ctacaaataa
+     4381 ataactcaat caattctaat attaccctgc taatcgccct actatctatt gccattggag
+     4441 ggtgaggagg attaaaccaa acacaactac gaaaaattct agcattctca tcaatctccc
+     4501 acataggctg aatactcgcc gtcatcacat tcaacccttc cgcaactgta cttaacctcc
+     4561 taatctacct gctcctaact ctatctatat tcatcataat actatcaatt tctagcacct
+     4621 ctacactaac tatgtcccac tcatgaaaca aaacaccagt actcacctca atactcctta
+     4681 ttaccctttt atcactagga ggactaccac cattatctgg attcctacca aaatgaatta
+     4741 ttgtccaaga gttatgtaat agccacaaca tcattacacc aacccttata actatcatat
+     4801 ccttactaaa cctctttttt tatatacgtc taatttactc ctcatcccta actatatttc
+     4861 ccacaacaaa caacataaaa ataaaatgac aacttaacat accaacacca cccgccgtga
+     4921 taaccccact aatcacagta tcatccatac tcctcccact atcacccata atctcaactc
+     4981 taaattagag acttaggtta taccagacca agagccttca aagctctaag aaaacactaa
+     5041 tgtttagcct ctgtctaacc tcataaggac tgcaagactc ctcctacatc aactgaacgc
+     5101 aaatcaatta ctttaattaa gctaagtcct tactagactg gtgggctcca accccacgaa
+     5161 gttttagtta acagctaaaa accctattca actggcttca atctacttct cccgccgcca
+     5221 agaaaaaaaa ggcgggagaa gccccggcag aattgaagct gctcctttga atttgcaatt
+     5281 caatatgatt aatcacctcg aggcctggta aaaaggggac ttaacccctg tttttggatt
+     5341 tacagtccaa tacctctact cagccatttt accttactta tgttcattaa ccgctggctc
+     5401 tattctacca atcacaaaga cattggcact ttatacttag tattcggtgc ctgagcagga
+     5461 atagtgggaa ctgccctaag tttactgatc cgagcagagc tgggccagcc aggcactctg
+     5521 ctgggcgatg atcaaattta taacgttatt gtaacggccc atgcattcgt tataatcttt
+     5581 tttatggtca taccaatcat aattgggggt ttcgggaact gattagtgcc tctaataatt
+     5641 ggagcccctg acatggcttt cccgcgaata aacaatataa gcttctggct attgcctcca
+     5701 tctttccttc ttcttctagc ctcatcaata gttgaagctg gagctggcac tggatgaacc
+     5761 gtgtacccac ctctagcggg caatctagcc catgcaggag cctcagttga ccttaccatc
+     5821 ttctcccttc acttagcagg ggtgtcttct attttagggg ctattaattt tattacaact
+     5881 gccgttaaca taaaaccccc cgctatatct caataccaga ccccattatt tgtctgatca
+     5941 gttatgatca ctgctgtttt attactatta tccctcccag ttctcgcagc aggtattact
+     6001 atactgctta cagaccgtaa tctaaacacc acattcttcg atccggcagg aggaggggac
+     6061 ccaattctat accaacactt gttttgattc tttggtcacc ctgaagtcta catcctcatc
+     6121 ctacctgggt tcggcataat ctcacacatt gtatcttttt actcaggaaa aaaagagcca
+     6181 tttgggtaca taggcatagt ttgggctata atatctattg gtttcctggg ctttattgta
+     6241 tgagctcacc atatgtttac agttggcata gatgtagaca cccgagcata ctttacatct
+     6301 gctacaataa tcatcgctat tcccactgga gtaaaagtat ttagctgatt ggctacccta
+     6361 catggtggaa acattaaatg atccccagcc atattatgag ctctaggatt tattttcctg
+     6421 tttacggtag ggggcttaac cggaatcgta ttatctaatt cttctctaga tattgtactt
+     6481 catgacactt actatgtagt agcacatttt cactatgttt tatcaatagg agctgtattt
+     6541 gccattatag gaggattcgt ccactgattc ccgctattct ctggctacac cttagaccaa
+     6601 acctgggcta aaatccactt caccatcata tttgtaggcg taaatctaac tttcttcccc
+     6661 caacattttc tcggtctatc aggaatacca cggcgctact ctgattaccc agacgcatac
+     6721 acaatatgaa actcaatctc atcaatcgga tcatttatct ccctaacagc agtagtacta
+     6781 ataattttta tagtttgaga agcctttgcc tcaaaacgag aagtcataat agtagagctg
+     6841 acacatacta atctagagtg actacacgga tgccctccac cttatcatac attcgaggag
+     6901 cccacatacg taaaagccta aacaagaaag ggaggaatcg aaccccctaa aattggtttc
+     6961 aagccaactc cataacccct atgactctct tcttataaga tattagtaaa aataatacat
+     7021 aactttgtca aagttaaatt ataggttaaa cccctatata tctttatggc tcatccagta
+     7081 caatttggat ttcaagacgc tgcctcccct attatagaag agctcttata cttccacgac
+     7141 cacactctta taatcgtgtt cataattagc tcactggtct tatatattat ttccctcata
+     7201 ctatcaactg aactcacaca tacaagtacc atggacgcac aagaagtaga aacagtatga
+     7261 accatccttc ccgccgtaat tttaatccta atcgccctcc catccctccg aatcctttat
+     7321 ataatagacg aaattaacac tccttctata actctaaaaa ctatgggaca tcaatgatat
+     7381 tgaagctatg agtacacgga ctatgacaac ctgtgctttg attcatacat agttaccacc
+     7441 cccgatttag aacctgggga tctccgccta ctagaagtcg ataaccgagt aattcttccc
+     7501 acagaaatat ctattcgtat gctcatctct tccgaagatg tcctccattc atgaacagtc
+     7561 ccagccctag ggatcaaaac tgacgcaatc cctgggcgcc taaaccaagc cacccttata
+     7621 acttcccgac caggaattta ttacgggcag tgctccgaaa tctgcgggtc caaccacagc
+     7681 tttatgccaa tcgtattaga attagtacca ctaaaatact ttgaagagtg actacttaaa
+     7741 tctctataaa tctctgtgaa gctaataagc gttaaccttt taagttaaag attggtagtt
+     7801 acaagaacta cccacagtga atgccacaac tagacacatc gacatggact atcactatta
+     7861 tatccataat cttaactctt tttattttat ttcaactaaa actgtcaaaa ttttcatacc
+     7921 ccattcaccc caccaaaaaa cttacaaaat tacacaaact agacaaccca tgagagataa
+     7981 aatggaccaa aacttattcg cctcattcac tacccctaca atagctggcc tgcctgttgt
+     8041 aatttttatt gtaatatttc catatattat aatcttaacc cccacacgac taatcaacaa
+     8101 ccgaatagcc tctgtacaac aatgacttat ccaattgatt ctaaaacaat taatagtgac
+     8161 tcacaataca aaaggacgaa cttgatcatt gatactaatc tcacttatca cttttattgg
+     8221 gtctactaac ctactaggtc tactacccca tacttttaca ccaacaaccc agctttcaat
+     8281 aaacctagcc atagctatcc cgctatgagc agctactgta atcacagggt tccgacacaa
+     8341 aactaaagcg tccctagccc acttcttacc ccagggcacc cctcccttac ttatccccat
+     8401 actaatcctt attgaaacca ttagtctatt aattcaacct atggctctag ccgtgcgact
+     8461 aacagccaac attacagcgg gacatctcct tatacacctg atcggaggcg ctacactagt
+     8521 aatctcatca attagcccag ttgcggcctc aatcacattc attattctca tcctactatc
+     8581 aattctagaa tttgcagtag cccttatcca agcatacgta tttacactgc tagttagcct
+     8641 ttacctacat gacaatacat aatgacccac caaacacata cttaccacat agtaaatcct
+     8701 agtccatggc cactgacagg tgccatctca gcactactta taacatctgg ccttatcata
+     8761 tgattccatt ttaactctat aaccctactg accttaggac tgttaaccaa tactttaaca
+     8821 atactacaat gatgacgaga cattgtacga gaaggaacat ttcagggcca ccacactcca
+     8881 acagtacaaa aaggacttcg ctatggaata gtccttttca ttatctcaga gattttcttc
+     8941 ttcgccgggt ttttctgatc attttatcac tcaagcctag ccccaacccc agagctcgga
+     9001 ggatgttggc ccccaacagg aatttacccc ctaaatccct tagatgtacc attattaaat
+     9061 acagcagtcc tactggcttc aggtgtatca atcacctgag cacaccacag cctaatagaa
+     9121 ggtaatcgaa aacatataat acaagcctta ttcataacca ttgccctagg cctgtacttt
+     9181 acactcttac aagcatcaga atacttcgag acccccttca ccatctcaga cggcatttac
+     9241 ggctctacat ttttcatagc aacgggcttc cacggcttac acgttattat cggatccagc
+     9301 ttcctaaccg tatgccttat ccgtcaactt aacttccact tcacgtccaa tcaccatttt
+     9361 gggtttgaag ctgcagcatg atactgacac tttgtagacg tagtctgact attcctctat
+     9421 gtatctatct actgatgagg ttcatgttct tttagtataa caagtacaat tgacttccaa
+     9481 tcaataagat ttggtaaaca tccaaaaaag aacaattaat acactaatta tactgattac
+     9541 taacacatct ttagcctcag cactagtatt agtagcattc tgactccctc aattaaatgt
+     9601 ttacacagag aaatatagcc cctacgagtg tggattcgac ccaacaggct ctgcccgtct
+     9661 acctttctcc ataaaattct ttctagtggc catcactttc ctattatttg acttagaaat
+     9721 cgccctactt cttccactgc catgagctat ccaaacacac atgctaaatc tgatactcac
+     9781 tgtaaccttt cttttaattc taatcctggc cctagggtta gcctacgaat gaattcaaaa
+     9841 aggactagaa tgacaagaat atggtaatta gtttaaataa aataaatgat ttcgaatcat
+     9901 tagattatgt atgtcaacca taattaccaa tatgccacta atctccacaa atatcctcct
+     9961 agctttcatc acggctctgc taggagtact gatctaccga tcacacctta tgtcatccct
+    10021 actatgcctt gaaggaataa tattatcaat gtttatccta gttagcctaa caactataaa
+    10081 tttacatttt acattagcta acattgcccc tctcatcctc ctagtattcg ctgcctgcga
+    10141 agcggccgta ggccttgcac ttctagtaat agtatccaac acctacggca tagactatgt
+    10201 tcagaacctt aacctcttgc aatgctaaaa atcattattc caactattat actattccca
+    10261 gtaacctgac tatctcatca ccgcacacta tgaattaata caacaattca tagccttata
+    10321 atcagttcaa ccagcctcca cttactccac caacctacca acaaccttaa cttcacctta
+    10381 atattcttct ccgacacttt atctatcccc ctccttgttc tcacaacatg gttactccca
+    10441 ctaataattc tagctagcca acatcatctg cgtaaagaac cactggctcg caaaaaactc
+    10501 tatatctcaa tactaatctc tttacaaata ctcctagtaa tgacatttac agcctccgag
+    10561 ttgatcttgt tctatatctt atttgaggct acactaattc caaccctaat tatcatcacc
+    10621 cgatgaggaa accagacaga acgactaaac gccggactat atttcttatt ttatacacta
+    10681 ctaggatcac tccccctatt aatcacccta ctctataccc aagacttcgt aggatcacta
+    10741 aacttgtcta tcctgcccct atatcaccaa aacatattaa ccccctcatg atctagtaat
+    10801 atagcatgag tagcgtgtat gatagcgttc atggtaaaaa tacctctata cggcacacac
+    10861 ttatgactcc ccaaagccca cgtagaagct ccaatcgccg gatccatagt attagcggct
+    10921 attctcctaa agctaggagg atatggcata atgcggatca ctaccattct caccccacta
+    10981 acaaacgcaa tagcctaccc tttcatcatc ctctctctat gaggcataat cataacaagc
+    11041 tccatctgcc tacgacaaac agacttaaaa tcactaattg catactcctc agtaagccac
+    11101 atggccttag taattgtagc aatcctcatc caaaccccat gaagttacat gggggcaaca
+    11161 gcccttataa tcgcccatgg actgacatca tccataatat tctgcctagc caactctaac
+    11221 tatgagcgca tccacagtcg gactataatc ctggcccgag gcttacaaac gctactcccc
+    11281 ctcataacac tatgatgact aatggcaagt cttaccaatc tagccctacc accctcaatc
+    11341 aaccttgttg gggaactatt aattattatc actgcattcg catgatcaaa actaacaatt
+    11401 atactcacag gcctaaatgt actaattaca gccctctact ccctttacat gtttactata
+    11461 acccaacacg gtaaacccac atttcacacc cacaacatca aaccatcctt cacacgagaa
+    11521 aatgctttaa tatcattaca tgttctaccc ctgctatccc tgtccctcaa ccctaaactt
+    11581 attttagggc taacactatg taaatatagt ttaacaaaaa cattagattg tgaatctaac
+    11641 aatagaagac ttaatcctct tatttaccaa gaaagatgca agaactgcta actcatgcac
+    11701 ccatgcataa aaacatggct ttcttaactt ttaaaggatg gaagtcatcc gttggcctta
+    11761 ggagccaaaa aattggtgca actccaaata aaagtaatta acatactact accaacatta
+    11821 gccactacat cattaattat cctcacccta cctattattc tatcaacaac caaaataaac
+    11881 aacacccctt tcccaaacct agttaaacta tcaatttcat gcgccttttc tatcagccta
+    11941 gttccagcac taatctttgt cttctcagac caagactcag tgattacaaa ttgacactga
+    12001 gtaacaattc aaaccctaaa actatccaca agccttaaac tggattactt ctccatccta
+    12061 ttcatgcccg tagcactctt cgtcacatga tccatcatag aattttcaat atggtacata
+    12121 cactctgacc cccaaataaa taaatttttc aaatatcttc tcctatttct aattacaata
+    12181 accatcctag tcacctctaa taacctattc caactgttca ttggatgaga aggagtaggc
+    12241 attatatctt tccttctaat cggatgatga tatggacgca cagacgccaa cacagcagcc
+    12301 ctgcaagcta ttctgtttaa ccgcattgga gatattggtt ttatcctatc gataacctga
+    12361 ttcttaacat actctaactc atgagaaatt caacaaatat ttattacata tcccaacact
+    12421 agcactttac cactcgtagg ccttctacta gcagccacag gcaaatctgc ccaattcggc
+    12481 ctacacccat gactcccatc cgcaatagaa ggtcctaccc ctgtttcagc cctcctacac
+    12541 tctagcacaa tagtagtagc aggagtattc ctccttattc gattttaccc tttactaaac
+    12601 aacaatgaaa caatacagac tataacctta tgtctgggtg ccatcacaac cctgtttaca
+    12661 gctatctgtg ctctaacaca aaacgacatt aaaaagatcg tagcattctc cacttcaagc
+    12721 cagctaggac ttataatagt aactattggt atcaaccaac cacacctagc cttccttcac
+    12781 atctgcacac acgccttctt caaagccata ctatttatat gctctggttc tattattcac
+    12841 aacctaaacg acgaacaaga cattcgaaaa atgggaggcc tatttaacac tctgcctttc
+    12901 accacatcct cactaataat tggcagccta gccttaacag gaataccatt cctaacagga
+    12961 ttttactcca aagacctaat cattgaaaca gcaaatacgt ctaacaccaa cgcctgagcc
+    13021 ctattaatta ctttaattgc cacctccctt acagccgtat acagcacacg aatcatcttt
+    13081 tttgccctac taggacaacc acgctaccct ccaacgatca acaccaatga aaataatccc
+    13141 ttactaatta attcaattaa acgcctagca attggcagca ttttcgcagg ttacctcatc
+    13201 tctaacaata tcccaccaat aacaaccccc caaatgacaa tacccttgca ccttaaactc
+    13261 accgccatac taatcacaat cctaggcttc gtcctggcaa tagaaataaa ccttataact
+    13321 acaaacctaa aatttaaaca cacccattca tcatacactt tctccaattc tttaggctat
+    13381 ttcccaatta cagttcaccg cctgctgccc aacttggacc taaaatcaag cctaaacata
+    13441 tcctccactc tactagattt aatctgacta gaaaaatcca tacccaaaaa cctagcacaa
+    13501 acgcaactat acgcctcaaa aaccgtatcc aatcaaaaag gtctaattaa actctacttc
+    13561 ctttcttttc taatctccac tctactcgct ttaactctaa taacttaatt tccccgagta
+    13621 atctcaataa taataaaaat actaacaaac aaagaccacc cagccaccac taaaaaccaa
+    13681 cttccacaac tatacaaggc actagtaccc gcagactgca tacgaaaagg cccaataccg
+    13741 ctaacatcat aaacctctca atcccctacc ccatcaaaat tcatcacgcc ccctacttca
+    13801 acataataat cccctgctaa taaaaccaaa actatctcca caactagacc caacaccaaa
+    13861 gcccctagaa ccccaacact tgaaccccaa gactcaggat actcctcagt agccatagct
+    13921 gtcgtatagc caaacaccac caacatacca cccaaataaa ccaaaaacac tatcaacccc
+    13981 ataaaagacc ctccaaaacc tataacgatc ccacaaccca ccccaccact aacaattaaa
+    14041 ccaaaccccc cataaatagg agaaggcttt gaagaaaacc ccacaaaccc caggacaaat
+    14101 aatacactta acaaggacac taaatatatc attattccta catggaatta aaccacgacc
+    14161 tatgacatga aaaatcatcg ttgtatttca accataagaa ctcaatgact aacattcgaa
+    14221 aaaatcatcc cttaataaaa atcatcaacc actcatttat tgacctccct tcaccatcta
+    14281 acatctcatc gtgatgaaac ttcggctcac tactaggact atgcctgata atccaaatta
+    14341 tcacaggatt attcctagct atacactaca catcagacac tactacagca ttctcctctg
+    14401 tagctcacat ctgccgggac gttaactacg gttgaattat ccgctaccta catgccaacg
+    14461 gagcatcaat atttttcctc tgcttattca tccacgtcgg acgaggactt tactacggat
+    14521 cttttaccct actagacact tgaaacatcg gggttatatt attacttgca gtaatagcca
+    14581 cagcattcat aggctacgta ctcccatgag gacaaatatc attctgaggt gccaccgtca
+    14641 tcaccaactt actatcagca atcccctata ttggcataaa cctagtcgaa tgaatctgag
+    14701 ggggcttctc agtggataaa gccacactca cacgattctt cgctttccac tttatcctcc
+    14761 ccttcattat cactgcccta gtcatgattc atctcatctt tctgcacgaa acaggctcaa
+    14821 acaatccatc aggaatctca tcagactcag acaaaatccc atttcacccc tactattcat
+    14881 ttaaagacct tttaggagca atcttcctac taacaactct atccgtacta gttttattct
+    14941 cccctgacct cttaggagac cctgataact acacccctgc caacccccta attaccccac
+    15001 cacacatcaa accagaatga tactttctat ttgcctacgc tattctccga tcaattccta
+    15061 acaaactagg aggagttata gcactagcca tatctatcct aatcttagct ctaatccccc
+    15121 acctccacac agccaaacaa cgaagcataa tatttcgtcc actaagccaa tgcctattct
+    15181 gagtactagt agccaattta ttaaccctaa catggatcgg agggcaaccc gtagaaaacc
+    15241 ccttcatcat tattggacaa acagcatcaa tcctctactt cctaactatc cttgttctaa
+    15301 taccactaac aagtttattt gaaaacaaat tactcaaatg aagacacagc cctagtagta
+    15361 taacaccatt acctcggtct tgtaaaccga aaatgaagca ccccgctccc taggacaatt
+    15421 caaggaagaa gaccttatat cctcaccttc aacacccaaa gctgaaattc taattaaact
+    15481 actccttgaa ccctcatgaa gctcaataca cccaacaatc gtacctcacc ccctatgtac
+    15541 atcgtgcata ttatgtatat ccccattaat tatggtacag tattatatat gtttaactat
+    15601 acataaagta catatatgta taatagtgca ttaagatctt gtccccatgc atataagcaa
+    15661 gtacttactt atatatatcg tacatagtac attatactct tgatcggaca tagcacatcc
+    15721 aagtcaaatc atttcttgac agacatgcat atcacctcca acagtccacc cgcttaatca
+    15781 ccaggccgcg tgaaaccacc aacccgctag acaggtatcc ctcttctcgc tccgggccca
+    15841 ttaaacttgg gggtagctag aatgaaactt tatcagacat ctggttctta cctcagggcc
+    15901 ataaattgaa gatcgcccac actttcctct taaataagac atctcgatgg attaattact
+    15961 aatcagccca tgcccaacat aactgtgctg tcatgccctt ggtatctttt aatttacggg
+    16021 tatgcttgga ttcaccatgg cctcccggcc tgcgcgcaga ccacttattg tagacgagcc
+    16081 taacgtgtac ctcctccacc cccataatag atcaataagg tcatattaat ccatgctaga
+    16141 aggacataga tttaagtacg atacattcaa ctaagtctta catacatact aaacaggtgt
+    16201 taatttatta atggtttcag gacatagata cgtatacaca tacgtataca catacgtata
+    16261 cacatacgta tacacatacg tgcacacata cgtatacaca tacgtataca catacgtgca
+    16321 cacatacgta tacacatacg tatacacata cgtatacaca tacgtataca catacgtata
+    16381 cacatacgta tacacatacg tatacacata cgtatacaca tacgtataca catacgtata
+    16441 cacatacgta tacacatacg tatacacata cgtatacaca tacgtgcaca catacgtata
+    16501 cacatacgta tacacatacg tgcacacata cgtatacaca tacgtataca catacgtata
+    16561 cacatacgta tacgattacg caattacatg ttatgattat atgcgcaaac ccccctaccc
+    16621 cccattgcta atccgttaag gctcattttt gccaaacccc aaaaacaaaa actcaacgcc
+    16681 gcagaattag cttcaactcg ggcccatctt gacagcccta gccccactct atttcataac
+    16741 aaattttgtg tattcaatac tagcatgata cttttgactt ctccccccct attgaataaa
+    16801 atttattttt aaatttctca tgatcccata acaaaagcat tccatatcca actaac
+//
+

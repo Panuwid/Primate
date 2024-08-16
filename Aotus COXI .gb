@@ -1,0 +1,447 @@
+LOCUS       EU179517                 649 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Aotus azarai isolate PR01161 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EU179517
+VERSION     EU179517.1
+KEYWORDS    .
+SOURCE      mitochondrion Aotus azarai (Azara's night monkey)
+  ORGANISM  Aotus azarai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Aotidae; Aotus.
+REFERENCE   1  (bases 1 to 649)
+  AUTHORS   Lorenz,J.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-SEP-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..649
+                     /organism="Aotus azarai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01161"
+                     /db_xref="taxon:30591"
+                     /sex="male"
+     gene            <1..>649
+                     /gene="COXI"
+     CDS             <1..>649
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71938.1"
+                     /translation="YLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTAHA
+                     FIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEA
+                     GAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQ
+                     YQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL"
+ORIGIN      
+        1 tatatctact atttggtgct tgagcagggg cagtaggaac agccctgagc cttttaattc
+       61 gagcagaatt aggtcaacct ggaagtctaa tggaagatga tcatgtatac aacgttattg
+      121 ttaccgccca tgcattcatt ataattttct ttatagtaat accaattata attggaggat
+      181 ttggaaactg actagttccc ctaataattg gtgcccctga catagcattt ccccgaataa
+      241 ataatataag cttctgactt ctacccccat ctctactact cttacttgca tcctcaactc
+      301 tagaagccgg cgcaggaacc ggctgaacgg tttacccgcc cttagcagga aatatatcac
+      361 acccaggagc ctctgtagat ctaactattt tctcacttca tttagcaggt atttcttcaa
+      421 ttctaggagc cattaacttt attacaacca ttattaatat aaaaccccca gccatgaccc
+      481 aataccaaac acctcttttt gtctgatccg tccttattac agcagtcctt ttactcctct
+      541 ctcttccagt cctagccgcc ggaattacta tactactcac cgaccgtaac ctcaatacta
+      601 ctttcttcga tcctgccggt ggcggcgatc ctattctata tcaacacct
+//
+
+LOCUS       EU179516                 651 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Aotus azarai isolate PR01159 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EU179516
+VERSION     EU179516.1
+KEYWORDS    .
+SOURCE      mitochondrion Aotus azarai (Azara's night monkey)
+  ORGANISM  Aotus azarai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Aotidae; Aotus.
+REFERENCE   1  (bases 1 to 651)
+  AUTHORS   Lorenz,J.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-SEP-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..651
+                     /organism="Aotus azarai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01159"
+                     /db_xref="taxon:30591"
+                     /sex="male"
+     gene            <1..>651
+                     /gene="COXI"
+     CDS             <1..>651
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71937.1"
+                     /translation="YLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTAHA
+                     FIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEA
+                     GAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQ
+                     YQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL"
+ORIGIN      
+        1 tatatctact atttggtgct tgagcagggg cagtaggaac agccctgagc cttttaattc
+       61 gagcagaatt aggtcaacct ggaagtctaa tggaagatga tcatgtatac aacgttattg
+      121 ttaccgccca tgcattcatt ataattttct ttatagtaat accaattata attggaggat
+      181 ttggaaactg actagttccc ctaataattg gtgcccctga catagcattt ccccgaataa
+      241 ataatataag cttctgactt ctacccccat ctctactact cttacttgca tcctcaactc
+      301 tagaagccgg cgcaggaacc ggctgaacgg tttacccgcc cttagcagga aatatatcac
+      361 acccaggagc ctctgtagat ctaactattt tctcacttca tttagcaggt atttcttcaa
+      421 ttctaggagc cattaacttt attacaacca ttattaatat aaaaccccca gccatgaccc
+      481 aataccaaac acctcttttt gtctgatccg tccttattac agcagtcctt ttactcctct
+      541 ctcttccagt cctagccgcc ggaattacta tactactcac cgaccgtaac ctcaatacta
+      601 ctttcttcga tcctgccggt ggcggcgatc ctattctata tcaacaccta t
+//
+
+LOCUS       AY972694                 614 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Aotus nancymaae isolate PR00628 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972694
+VERSION     AY972694.1
+KEYWORDS    .
+SOURCE      mitochondrion Aotus nancymaae (Ma's night monkey)
+  ORGANISM  Aotus nancymaae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Aotidae; Aotus.
+REFERENCE   1  (bases 1 to 614)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 614)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 614)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..614
+                     /organism="Aotus nancymaae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00628"
+                     /db_xref="taxon:37293"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>614
+                     /gene="COXI"
+     CDS             <1..>614
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22262.1"
+                     /translation="LLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAG
+                     AGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQY
+                     QTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAG"
+ORIGIN      
+        1 ctattatttg gtgcttgagc gggggcagtg ggaacagccc taagcctttt aattcgagca
+       61 gaattaggtc aaccgggaag cctaatggaa gatgatcatg tatacaacgt tattgttact
+      121 gcccacgcat tcattataat tttctttata gtaataccaa ttataattgg gggatttgga
+      181 aactgactaa ttcccctaat aattggtgcc cctgatatag cattcccccg aataaataac
+      241 ataagcttct gacttctacc cccatctcta ctactcttac ttgcatcctc aactctagag
+      301 gctggcgcag gaaccggctg aacagtttat ccacccttag caggaaacat atcgcaccca
+      361 ggagcctctg tagatttaac tattttctca cttcatctgg caggtatttc ttcaattcta
+      421 ggagccatta actttattac aacaattatt aatataaaac ccccagccat aacccaatac
+      481 caaacacccc tttttgtctg atccgtcctt atcacagcag tccttttact cctctccctt
+      541 ccagtcctag ccgccggaat tactatactg cttactgacc gtaaccttaa cactactttc
+      601 tttgatcctg ccgg
+//
+
+LOCUS       EF658656                 629 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Aotus azarai isolate PR01143 cytochrome oxidase subunit I (cox1)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF658656
+VERSION     EF658656.1
+KEYWORDS    .
+SOURCE      mitochondrion Aotus azarai (Azara's night monkey)
+  ORGANISM  Aotus azarai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Aotidae; Aotus.
+REFERENCE   1  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Mitochondrial cytochrome oxidase c subunit 1 (coxI) variation among
+            primates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2007) Molecular Biology Laboratory, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..629
+                     /organism="Aotus azarai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01143"
+                     /db_xref="taxon:30591"
+                     /sex="female"
+     gene            <1..>629
+                     /gene="cox1"
+     CDS             <1..>629
+                     /gene="cox1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABR68272.1"
+                     /translation="LLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAG
+                     AGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQY
+                     QTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN      
+        1 ctactatttg gtgcttgagc aggggcagta ggaacagccc tgagcctttt aattcgagca
+       61 gaattaggtc aacctggaag tctaatggaa gatgatcatg tatacaacgt tattgttacc
+      121 gcccatgcat tcattataat tttctttata gtaataccaa ttataattgg aggatttgga
+      181 aactgactag ttcccctaat aattggtgcc cctgacatag catttccccg aataaataat
+      241 ataagcttct gacttctacc cccatctcta ctactcttac ttgcatcctc aactctagaa
+      301 gccggcgcag gaaccggctg aacggtttac ccgcccttag caggaaatat atcacaccca
+      361 ggagcctctg tagatctaac tattttctca cttcatttag caggtatttc ttcaattcta
+      421 ggagccatta actttattac aaccattatt aatataaaac ccccagccat gacccaatac
+      481 caaacacctc tttttgtctg atccgtcctt attacagcag tccttttact cctctctctt
+      541 ccagtcctag ccgccggaat tactatacta ctcaccgacc gtaacctcaa tactactttc
+      601 ttcgatcctg ccggnggcgg cgatcctat
+//
+
+LOCUS       EF658655                 629 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Aotus azarai isolate PR01149 cytochrome oxidase subunit I (cox1)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF658655
+VERSION     EF658655.1
+KEYWORDS    .
+SOURCE      mitochondrion Aotus azarai (Azara's night monkey)
+  ORGANISM  Aotus azarai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Aotidae; Aotus.
+REFERENCE   1  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Mitochondrial cytochrome oxidase c subunit 1 (coxI) variation among
+            primates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2007) Molecular Biology Laboratory, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..629
+                     /organism="Aotus azarai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01149"
+                     /db_xref="taxon:30591"
+                     /sex="female"
+     gene            <1..>629
+                     /gene="cox1"
+     CDS             <1..>629
+                     /gene="cox1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABR68271.1"
+                     /translation="LLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAG
+                     AGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQY
+                     QTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN      
+        1 ctactatttg gtgcttgagc aggggcagta ggaacagccc tgagcctttt aattcgagca
+       61 gaattaggtc aacctggaag tctaatggaa gatgatcatg tatacaacgt tattgttacc
+      121 gcccatgcat tcattataat tttctttata gtaataccaa ttataattgg aggatttgga
+      181 aactgactag ttcccctaat aattggtgcc cctgacatag catttccccg aataaataat
+      241 ataagcttct gacttctacc cccatctcta ctactcttac ttgcatcctc aactctagaa
+      301 gccggcgcag gaaccggctg aacggtttac ccgcccttag caggaaatat atcacaccca
+      361 ggagcctctg tagatctaac tattttctca cttcatttag caggtatttc ttcaattcta
+      421 ggagccatta actttattac aaccattatt aatataaaac ccccagccat gacccaatac
+      481 caaacacctc tttttgtctg atccgtcctt attacagcag tccttttact cctctctctt
+      541 ccagtcctag ccgccggaat tactatacta ctcaccgacc gtaacctcaa tactactttc
+      601 ttcgatcctg ccggnggcgg cgatcctat
+//
+
+LOCUS       EF658654                 629 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Aotus azarai isolate PR01150 cytochrome oxidase subunit I (cox1)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF658654
+VERSION     EF658654.1
+KEYWORDS    .
+SOURCE      mitochondrion Aotus azarai (Azara's night monkey)
+  ORGANISM  Aotus azarai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Aotidae; Aotus.
+REFERENCE   1  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Mitochondrial cytochrome oxidase c subunit 1 (coxI) variation among
+            primates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2007) Molecular Biology Laboratory, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..629
+                     /organism="Aotus azarai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01150"
+                     /db_xref="taxon:30591"
+                     /sex="male"
+     gene            <1..>629
+                     /gene="cox1"
+     CDS             <1..>629
+                     /gene="cox1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABR68270.1"
+                     /translation="LLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAG
+                     AGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQY
+                     QTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN      
+        1 ctactatttg gtgcttgagc aggggcagta ggaacagccc tgagcctttt aattcgagca
+       61 gaattaggtc aacctggaag tctaatggaa gatgatcatg tatacaacgt tattgttacc
+      121 gcccatgcat tcattataat tttctttata gtaataccaa ttataattgg aggatttgga
+      181 aactgactag ttcccctaat aattggtgcc cctgacatag catttccccg aataaataat
+      241 ataagcttct gacttctacc cccatctcta ctactcttac ttgcatcctc aactctagaa
+      301 gccggcgcag gaaccggctg aacggtttac ccgcccttag caggaaatat atcacaccca
+      361 ggagcctctg tagatctaac tattttctca cttcatttag caggtatttc ttcaattcta
+      421 ggagccatta actttattac aaccattatt aatataaaac ccccagccat gacccaatac
+      481 caaacacctc tttttgtctg atccgtcctt attacagcag tccttttact cctctctctt
+      541 ccagtcctag ccgccggaat tactatacta ctcaccgacc gtaacctcaa tactactttc
+      601 ttcgatcctg ccggnggcgg cgatcctat
+//
+
+LOCUS       EF658653                 629 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Aotus azarai isolate PR01163 cytochrome oxidase subunit I (cox1)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF658653
+VERSION     EF658653.1
+KEYWORDS    .
+SOURCE      mitochondrion Aotus azarai (Azara's night monkey)
+  ORGANISM  Aotus azarai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Aotidae; Aotus.
+REFERENCE   1  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Mitochondrial cytochrome oxidase c subunit 1 (coxI) variation among
+            primates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2007) Molecular Biology Laboratory, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..629
+                     /organism="Aotus azarai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01163"
+                     /db_xref="taxon:30591"
+                     /sex="male"
+     gene            <1..>629
+                     /gene="cox1"
+     CDS             <1..>629
+                     /gene="cox1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABR68269.1"
+                     /translation="LLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAG
+                     AGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQY
+                     QTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN      
+        1 ctactatttg gtgcttgagc aggggcagta ggaacagccc tgagcctttt aattcgagca
+       61 gaattaggtc aacctggaag tctaatggaa gatgatcatg tatacaacgt tattgttacc
+      121 gcccatgcat tcattataat tttctttata gtaataccaa ttataattgg aggatttgga
+      181 aactgactag ttcccctaat aattggtgcc cctgacatag catttccccg aataaataat
+      241 ataagcttct gacttctacc cccatctcta ctactcttac ttgcatcctc aactctagaa
+      301 gccggcgcag gaaccggctg aacggtttac ccgcccttag caggaaatat atcacaccca
+      361 ggagcctctg tagatctaac tattttctca cttcatttag caggtatttc ttcaattcta
+      421 ggagccatta actttattac aaccattatt aatataaaac ccccagccat gacccaatac
+      481 caaacacctc tttttgtctg atccgtcctt attacagcag tccttttact cctctctctt
+      541 ccagtcctag ccgccggaat tactatacta ctcaccgacc gtaacctcaa tactactttc
+      601 ttcgatcctg ccggnggcgg cgatcctat
+//
+
+LOCUS       EF658652                 629 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Aotus azarai isolate PR01182 cytochrome oxidase subunit I (cox1)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF658652
+VERSION     EF658652.1
+KEYWORDS    .
+SOURCE      mitochondrion Aotus azarai (Azara's night monkey)
+  ORGANISM  Aotus azarai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Aotidae; Aotus.
+REFERENCE   1  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Mitochondrial cytochrome oxidase c subunit 1 (coxI) variation among
+            primates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2007) Molecular Biology Laboratory, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..629
+                     /organism="Aotus azarai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01182"
+                     /db_xref="taxon:30591"
+                     /sex="male"
+     gene            <1..>629
+                     /gene="cox1"
+     CDS             <1..>629
+                     /gene="cox1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABR68268.1"
+                     /translation="LLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAG
+                     AGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQY
+                     QTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN      
+        1 ctactatttg gtgcttgagc aggggcagta ggaacagccc tgagcctttt aattcgagca
+       61 gaattaggtc aacctggaag tctaatggaa gatgatcatg tatacaacgt tattgttacc
+      121 gcccatgcat tcattataat tttctttata gtaataccaa ttataattgg aggatttgga
+      181 aactgactag ttcccctaat aattggtgcc cctgacatag catttccccg aataaataat
+      241 ataagcttct gacttctacc cccatctcta ctactcttac ttgcatcctc aactctagaa
+      301 gccggcgcag gaaccggctg aacggtttac ccgcccttag caggaaatat atcacaccca
+      361 ggagcctctg tagatctaac tattttctca cttcatttag caggtatttc ttcaattcta
+      421 ggagccatta actttattac aaccattatt aatataaaac ccccagccat gacccaatac
+      481 caaacacctc tttttgtctg atccgtcctt attacagcag tccttttact cctctctctt
+      541 ccagtcctag ccgccggaat tactatacta ctcaccgacc gtaacctcaa tactactttc
+      601 ttcgatcctg ccggnggcgg cgatcctat
+//
+

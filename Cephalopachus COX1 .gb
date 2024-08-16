@@ -1,0 +1,348 @@
+LOCUS       MT876734                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Cephalopachus bancanus voucher TRS02 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876734
+VERSION     MT876734.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopachus bancanus (Horsfield's tarsier)
+  ORGANISM  Cephalopachus bancanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Cephalopachus.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Cephalopachus bancanus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TRS02"
+                     /db_xref="taxon:9477"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68888.1"
+                     /translation="IGLVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFVHWFPLFSGFILHPTWAKTHFAIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 attgggctag tttgagctat aatgtctatt ggtttcttag gtttcattgt ctgagcccac
+       61 catatattta cagtaggaat agacgtagat acccgagcat actttacatc cgccactata
+      121 attattgcta ttccaactgg cgtaaaagta ttcagctgac tagcaactct acacggaggg
+      181 aacattaaat gatctcctgc tatactatga gccctaggct ttatctttct atttaccgta
+      241 ggaggcctga ccggtattgt ccttgccaat tcatcccttg acattgttct ccatgatacc
+      301 tattatgtag tagcacattt tcactatgtc ctatcaatag gagcagtatt cgcaattata
+      361 ggaggcttcg ttcactgatt ccccctattc tcaggattta tcctccaccc aacctgagcc
+      421 aaaacccact tcgcaattat atttgtagga gttaatttaa catttttccc tcaacatttc
+      481 ctcggattat caggcatgcc ccgacgttac tcgga
+//
+
+LOCUS       MT876733                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Cephalopachus bancanus voucher TSBatangAi cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876733
+VERSION     MT876733.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopachus bancanus (Horsfield's tarsier)
+  ORGANISM  Cephalopachus bancanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Cephalopachus.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Cephalopachus bancanus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TSBatangAi"
+                     /db_xref="taxon:9477"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68887.1"
+                     /translation="IGLVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFVHWFPLFSGFILHPTWAKTHFAIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 attgggctag tttgagctat aatgtctatt ggtttcttag gtttcattgt ctgagcccac
+       61 catatattta cagtaggaat agacgtagat acccgagcat actttacatc cgccactata
+      121 attattgcta ttccaactgg cgtaaaagta ttcagctgac tagcaactct acacggaggg
+      181 aacattaaat gatctcctgc tatactatga gccctaggct ttatctttct atttaccgta
+      241 ggaggcctga ccggtattgt ccttgccaat tcatcccttg acattgttct ccatgatacc
+      301 tattatgtag tagcacattt tcactatgtc ctatcaatag gagcagtatt cgcaattata
+      361 ggaggcttcg ttcactgatt ccccctattc tcaggattta tcctccaccc aacctgagcc
+      421 aaaacccact tcgcaattat atttgtagga gttaatttaa catttttccc tcaacatttc
+      481 ctcggattat caggcatgcc ccgacgttac tcgga
+//
+
+LOCUS       MT876732                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Cephalopachus bancanus voucher KBM5113 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876732
+VERSION     MT876732.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopachus bancanus (Horsfield's tarsier)
+  ORGANISM  Cephalopachus bancanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Cephalopachus.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Cephalopachus bancanus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KBM5113"
+                     /db_xref="taxon:9477"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68886.1"
+                     /translation="IGLVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFVHWFPLFSGFILHPTWAKTHFAIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 attgggctag tttgagctat aatgtctatt ggtttcttag gtttcattgt ctgagcccac
+       61 catatattta cagtaggaat agacgtagat acccgagcat actttacatc cgccactata
+      121 attattgcta ttccaactgg cgtaaaagta ttcagctgac tagcaactct acacggaggg
+      181 aacattaaat gatctcctgc tatactatga gccctaggct ttatctttct atttaccgta
+      241 ggaggcctga ccggtattgt ccttgccaat tcatcccttg acattgttct ccatgatacc
+      301 tattatgtag tagcacattt tcactatgtc ctatcaatag gagcagtatt cgcaattata
+      361 ggaggcttcg ttcactgatt ccccctattc tcaggattta tcctccaccc aacctgagcc
+      421 aaaacccact tcgcaattat atttgtagga gttaatttaa catttttccc tcaacatttc
+      481 ctcggattat caggcatgcc ccgacgttac tcgga
+//
+
+LOCUS       MT876731                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Cephalopachus bancanus voucher MalNP cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876731
+VERSION     MT876731.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopachus bancanus (Horsfield's tarsier)
+  ORGANISM  Cephalopachus bancanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Cephalopachus.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Cephalopachus bancanus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MalNP"
+                     /db_xref="taxon:9477"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68885.1"
+                     /translation="IGLVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFVHWFPLFSGFILHPTWAKTHFAIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 attgggctag tttgagctat aatgtctatt ggtttcttag gtttcattgt ctgagcccac
+       61 catatattta cagtaggaat agacgtagat acccgagcat actttacatc cgccactata
+      121 attattgcta ttccaactgg cgtaaaagta ttcagctgac tagcaactct acacggaggg
+      181 aacattaaat gatctcctgc tatactatga gccctaggct ttatctttct atttaccgta
+      241 ggaggcctga ccggtattgt ccttgccaat tcatcccttg acattgttct ccatgatacc
+      301 tattatgtag tagcacattt tcactatgtc ctatcaatag gagcagtatt cgcaattata
+      361 ggaggcttcg ttcactgatt ccccctattc tcaggattta tcctccaccc aacctgagcc
+      421 aaaacccact tcgcaattat atttgtagga gttaatttaa catttttccc tcaacatttc
+      481 ctcggattat caggcatgcc ccgacgttac tcgga
+//
+
+LOCUS       MT876730                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Cephalopachus bancanus voucher KNP002 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876730
+VERSION     MT876730.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopachus bancanus (Horsfield's tarsier)
+  ORGANISM  Cephalopachus bancanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Cephalopachus.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Cephalopachus bancanus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KNP002"
+                     /db_xref="taxon:9477"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68884.1"
+                     /translation="IGLVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFVHWFPLFSGFILHPTWAKTHFAIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 attgggctag tttgagctat aatgtctatt ggtttcttag gtttcattgt ctgagcccac
+       61 catatattta cagtaggaat agacgtagat acccgagcat actttacatc cgccactata
+      121 attattgcta ttccaactgg cgtaaaagta ttcagctgac tagcaactct acacggaggg
+      181 aacattaaat gatctcctgc tatactatga gccctaggct ttatctttct atttaccgta
+      241 ggaggcctga ccggtattgt ccttgccaat tcatcccttg acattgttct ccatgatacc
+      301 tattatgtag tagcacattt tcactatgtc ctatcaatag gagcagtatt cgcaattata
+      361 ggaggcttcg ttcactgatt ccccctattc tcaggattta tcctccaccc aacctgagcc
+      421 aaaacccact tcgcaattat atttgtagga gttaatttaa catttttccc tcaacatttc
+      481 ctcggattat caggcatgcc ccgacgttac tcgga
+//
+
+LOCUS       MT876729                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Cephalopachus bancanus voucher KNP001 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876729
+VERSION     MT876729.1
+KEYWORDS    .
+SOURCE      mitochondrion Cephalopachus bancanus (Horsfield's tarsier)
+  ORGANISM  Cephalopachus bancanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Cephalopachus.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Cephalopachus bancanus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KNP001"
+                     /db_xref="taxon:9477"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68883.1"
+                     /translation="IGLVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFVHWFPLFSGFILHPTWAKTHFAIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 attgggctag tttgagctat aatgtctatt ggtttcttag gtttcattgt ctgagcccac
+       61 catatattta cagtaggaat agacgtagat acccgagcat actttacatc cgccactata
+      121 attattgcta ttccaactgg cgtaaaagta ttcagctgac tagcaactct acacggaggg
+      181 aacattaaat gatctcctgc tatactatga gccctaggct ttatctttct atttaccgta
+      241 ggaggcctga ccggtattgt ccttgccaat tcatcccttg acattgttct ccatgatacc
+      301 tattatgtag tagcacattt tcactatgtc ctatcaatag gagcagtatt cgcaattata
+      361 ggaggcttcg ttcactgatt ccccctattc tcaggattta tcctccaccc aacctgagcc
+      421 aaaacccact tcgcaattat atttgtagga gttaatttaa catttttccc tcaacatttc
+      481 ctcggattat caggcatgcc ccgacgttac tcgga
+//
+

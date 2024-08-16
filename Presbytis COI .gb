@@ -1,0 +1,522 @@
+LOCUS       MT876705                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Presbytis femoralis voucher PRP0246 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876705
+VERSION     MT876705.1
+KEYWORDS    .
+SOURCE      mitochondrion Presbytis femoralis (banded leaf monkey)
+  ORGANISM  Presbytis femoralis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Presbytis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Presbytis femoralis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PRP0246"
+                     /db_xref="taxon:78453"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68859.1"
+                     /translation="MGMVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQTCAKAHFTTMFVGVNLTFFPQHL
+                     LGLSGKPRRYS"
+ORIGIN      
+        1 ataggtatag tctgagctat aatatcaatt gggtttctag gctttattgt gtgagctcac
+       61 catatattta cagttggcat agacgtagat acacgggcct attttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgat tagccacatt acacggagga
+      181 aatattaaat gatctcccgc aatactctga gctctaggct ttattttcct ttttaccgta
+      241 ggaggtttaa ccggtattgt attagcaaac tcctcactag atatcgtatt acacgataca
+      301 tattatgtcg tagcccattt tcactatgtc ttatcaatag gggcagtctt tgctattata
+      361 gggggtttca ttcactgatt tcccctgttc tcaggctata ctctagacca aacctgcgct
+      421 aaagcccatt ttactactat atttgtaggc gtaaatttaa ccttcttccc acaacatttg
+      481 ctaggtctat ccggaaaacc tcgacgttac tcgga
+//
+
+LOCUS       MT876704                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Presbytis femoralis voucher PRP0242 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876704
+VERSION     MT876704.1
+KEYWORDS    .
+SOURCE      mitochondrion Presbytis femoralis (banded leaf monkey)
+  ORGANISM  Presbytis femoralis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Presbytis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Presbytis femoralis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PRP0242"
+                     /db_xref="taxon:78453"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68858.1"
+                     /translation="MGMVWAMVSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDEVCAKAHFTIMFVGVNLTFFPQHL
+                     LGLSGKPRRYS"
+ORIGIN      
+        1 ataggaatag tctgagctat ggtatcaatt gggtttctag gctttattgt gtgagctcac
+       61 catatattta cagttggcat agacgtagat acacgggcct attttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc ttcagctgat tagctacatt acacggaggc
+      181 aatattaagt gatcccccgc aatactctga gctctaggct ttattttcct ttttaccgta
+      241 ggaggcctaa ccggtattgt actagcaaac tcctcattag atatcgtatt acacgataca
+      301 tattatgtcg tagcccattt tcattacgtc ttgtcaatag gggctgtctt tgctattata
+      361 gggggcttca ttcactgatt tcccttgttc tcaggttata ctctagacga agtctgcgct
+      421 aaagcccatt ttactattat atttgtaggt gtaaatttaa ctttctttcc acaacatttg
+      481 ctaggtctat ccggaaaacc tcgacgttac tcgga
+//
+
+LOCUS       MT876703                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Presbytis rubicunda voucher PR07 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876703
+VERSION     MT876703.1
+KEYWORDS    .
+SOURCE      mitochondrion Presbytis rubicunda (maroon leaf-monkey)
+  ORGANISM  Presbytis rubicunda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Presbytis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Presbytis rubicunda"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR07"
+                     /db_xref="taxon:1046101"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68857.1"
+                     /translation="MGMVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFTIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatag tctgagctat aatatcaatt gggtttctag gctttattgt gtgagctcac
+       61 catatattta cagttggcat agacgtagac acacgggcct attttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tagccacatt acacggaggc
+      181 aatattaagt gatcccccgc aatactctgg gccctaggct ttatttttct ttttaccgta
+      241 gggggtctaa ccggtattgt actagcaaac tcctcactag atatcgtatt acacgacaca
+      301 tattatgtcg tagcccattt tcactacgtc ctgtcaatag gggctgtctt tgctattata
+      361 gggggcttca ttcactggtt tcccctattc tcaggttata ctctagatca agtctgcgct
+      421 aaagcccatt ttactatcat atttgtaggc gtaaatttaa ctttttttcc acaacatttt
+      481 ctaggtctat ccggaatacc tcgacgttac tcgga
+//
+
+LOCUS       MT876702                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Presbytis rubicunda voucher PR06 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876702
+VERSION     MT876702.1
+KEYWORDS    .
+SOURCE      mitochondrion Presbytis rubicunda (maroon leaf-monkey)
+  ORGANISM  Presbytis rubicunda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Presbytis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Presbytis rubicunda"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR06"
+                     /db_xref="taxon:1046101"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68856.1"
+                     /translation="MGMVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFTIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatag tctgagctat aatatcaatt gggtttctag gctttattgt gtgagctcac
+       61 catatattta cagttggcat agacgtagac acacgggcct attttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tagccacatt acacggaggc
+      181 aatattaagt gatcccccgc aatactctgg gccctaggct ttatttttct ttttaccgta
+      241 gggggtctaa ccggtattgt actagcaaac tcctcactag atatcgtatt acacgacaca
+      301 tattatgtcg tagcccattt tcactacgtc ctgtcaatag gggctgtctt tgctattata
+      361 gggggcttca ttcactggtt tcccctattc tcaggttata ctctagatca agtctgcgct
+      421 aaagcccatt ttactatcat atttgtaggc gtaaatttaa ctttttttcc acaacatttt
+      481 ctaggtctat ccggaatacc tcgacgttac tcgga
+//
+
+LOCUS       MT876701                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Presbytis rubicunda voucher PR05 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876701
+VERSION     MT876701.1
+KEYWORDS    .
+SOURCE      mitochondrion Presbytis rubicunda (maroon leaf-monkey)
+  ORGANISM  Presbytis rubicunda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Presbytis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Presbytis rubicunda"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR05"
+                     /db_xref="taxon:1046101"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68855.1"
+                     /translation="MGMVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFTIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatag tctgagctat aatatcaatt gggtttctag gctttattgt gtgagctcac
+       61 catatattta cagttggcat agacgtagac acacgggcct attttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tagccacatt acacggaggc
+      181 aatattaagt gatcccccgc aatactctgg gccctaggct ttatttttct ttttaccgta
+      241 gggggtctaa ccggtattgt actagcaaac tcctcactag atatcgtatt acacgacaca
+      301 tattatgtcg tagcccattt tcactacgtc ctgtcaatag gggctgtctt tgctattata
+      361 gggggcttca ttcactggtt tcccctattc tcaggttata ctctagatca agtctgcgct
+      421 aaagcccatt ttactatcat atttgtaggc gtaaatttaa ctttttttcc acaacatttt
+      481 ctaggtctat ccggaatacc tcgacgttac tcgga
+//
+
+LOCUS       MT876700                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Presbytis rubicunda voucher PR04 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876700
+VERSION     MT876700.1
+KEYWORDS    .
+SOURCE      mitochondrion Presbytis rubicunda (maroon leaf-monkey)
+  ORGANISM  Presbytis rubicunda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Presbytis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Presbytis rubicunda"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR04"
+                     /db_xref="taxon:1046101"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68854.1"
+                     /translation="MGMVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFTIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatag tctgagctat aatatcaatt gggtttctag gctttattgt gtgagctcac
+       61 catatattta cagttggcat agacgtagac acacgggcct attttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tagccacatt acacggaggc
+      181 aatattaagt gatcccccgc aatactctgg gccctaggct ttatttttct ttttaccgta
+      241 gggggtctaa ccggtattgt actagcaaac tcctcactag atatcgtatt acacgacaca
+      301 tattatgtcg tagcccattt tcactacgtc ctgtcaatag gggctgtctt tgctattata
+      361 gggggcttca ttcactggtt tcccctattc tcaggttata ctctagatca agtctgcgct
+      421 aaagcccatt ttactatcat atttgtaggc gtaaatttaa ctttttttcc acaacatttt
+      481 ctaggtctat ccggaatacc tcgacgttac tcgga
+//
+
+LOCUS       MT876699                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Presbytis rubicunda voucher PR03 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876699
+VERSION     MT876699.1
+KEYWORDS    .
+SOURCE      mitochondrion Presbytis rubicunda (maroon leaf-monkey)
+  ORGANISM  Presbytis rubicunda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Presbytis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Presbytis rubicunda"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR03"
+                     /db_xref="taxon:1046101"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68853.1"
+                     /translation="MGMVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFTIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatag tctgagctat aatatcaatt gggtttctag gctttattgt gtgagctcac
+       61 catatattta cagttggcat agacgtagac acacgggcct attttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tagccacatt acacggaggc
+      181 aatattaagt gatcccccgc aatactctgg gccctaggct ttatttttct ttttaccgta
+      241 gggggtctaa ccggtattgt actagcaaac tcctcactag atatcgtatt acacgacaca
+      301 tattatgtcg tagcccattt tcactacgtc ctgtcaatag gggctgtctt tgctattata
+      361 gggggcttca ttcactggtt tcccctattc tcaggttata ctctagatca agtctgcgct
+      421 aaagcccatt ttactatcat atttgtaggc gtaaatttaa ctttttttcc acaacatttt
+      481 ctaggtctat ccggaatacc tcgacgttac tcgga
+//
+
+LOCUS       MT876698                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Presbytis rubicunda voucher PR02 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876698
+VERSION     MT876698.1
+KEYWORDS    .
+SOURCE      mitochondrion Presbytis rubicunda (maroon leaf-monkey)
+  ORGANISM  Presbytis rubicunda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Presbytis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Presbytis rubicunda"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR02"
+                     /db_xref="taxon:1046101"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68852.1"
+                     /translation="MGMVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFTIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatag tctgagctat aatatcaatt gggtttctag gctttattgt gtgagctcac
+       61 catatattta cagttggcat agacgtagac acacgggcct attttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tagccacatt acacggaggc
+      181 aatattaagt gatcccccgc aatactctgg gccctaggct ttatttttct ttttaccgta
+      241 gggggtctaa ccggtattgt actagcaaac tcctcactag atatcgtatt acacgacaca
+      301 tattatgtcg tagcccattt tcactacgtc ctgtcaatag gggctgtctt tgctattata
+      361 gggggcttca ttcactggtt tcccctattc tcaggttata ctctagatca agtctgcgct
+      421 aaagcccatt ttactatcat atttgtaggc gtaaatttaa ctttttttcc acaacatttt
+      481 ctaggtctat ccggaatacc tcgacgttac tcgga
+//
+
+LOCUS       MT876697                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Presbytis rubicunda voucher PR01 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876697
+VERSION     MT876697.1
+KEYWORDS    .
+SOURCE      mitochondrion Presbytis rubicunda (maroon leaf-monkey)
+  ORGANISM  Presbytis rubicunda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Presbytis.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Presbytis rubicunda"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR01"
+                     /db_xref="taxon:1046101"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68851.1"
+                     /translation="MGMVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQVCAKAHFTIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 ataggtatag tctgagctat aatatcaatt gggtttctag gctttattgt gtgagctcac
+       61 catatattta cagttggcat agacgtagac acacgggcct attttacctc tgccactata
+      121 attattgcaa ttccaactgg cgttaaagtc tttagctgac tagccacatt acacggaggc
+      181 aatattaagt gatcccccgc aatactctgg gccctaggct ttatttttct ttttaccgta
+      241 gggggtctaa ccggtattgt actagcaaac tcctcactag atatcgtatt acacgacaca
+      301 tattatgtcg tagcccattt tcactacgtc ctgtcaatag gggctgtctt tgctattata
+      361 gggggcttca ttcactggtt tcccctattc tcaggttata ctctagatca agtctgcgct
+      421 aaagcccatt ttactatcat atttgtaggc gtaaatttaa ctttttttcc acaacatttt
+      481 ctaggtctat ccggaatacc tcgacgttac tcgga
+//
+

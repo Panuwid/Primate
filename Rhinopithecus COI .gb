@@ -1,0 +1,1392 @@
+LOCUS       MZ099216                 654 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey5-B-COI-5.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099216
+VERSION     MZ099216.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 654)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..654
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey5-B-COI-5.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>654
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 gaccttgtat ttactattcg gcgcatgagc tggagttata ggcatagctc taagccttct
+       61 tattcgagcc gaaccaggtc aacccagcaa cctattaggc aacgaccaca tttataacgt
+      121 tattgttaca gcccatgcat ttgttataat tttctttata gttatgccca tcataatcag
+      181 aggcttcgga aactgactag taccccgata attggcgctc ccgatatagc atttccccgc
+      241 ttgaatataa gcttctgact ccttccccca tccttcctac ttctactcgc atccgccata
+      301 gtagaagccg gtgccggaac gggttgaaca gtctatcccc ctttagcagg aaatttctct
+      361 cacccaggag cctctgtaga cctaaccatc ttctcacttc acctggcagg catttcttct
+      421 atcttaggag ctatcaactt catcacaact atcattaata taaaaccccc tgcagtatct
+      481 caatatcaaa ccgccctatt tatttgatca gtcttaatca cagcaatcct actactcctc
+      541 tctctaccag tattagctgc tggcatcaca atgctaccaa cagaccgtaa tcttaacact
+      601 accttctttg atcctgccag aggaggagat cccatattgt accaacactt attt
+//
+
+LOCUS       MZ099215                 658 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey5-B-COI-4.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099215
+VERSION     MZ099215.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey5-B-COI-4.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aaccttatat ttattatttg gcacatgagc tggaaccata ggcacggcta taagccttct
+       61 tattcgagcc gaactaagtc aacctggtaa cctattaggc aatgaccaca tctacaatgt
+      121 tatcgttaca gcccatgcat ttgtgataat tttctttata gttataccca tcataattgg
+      181 aggtttcgga aactgactag tacctctaat aattggcgct cctgacatag catttccccg
+      241 tctaaataat ataagcttct gacttcttcc accatccttc ctacgtcttc tcgcatcagc
+      301 catagtagaa gctggtgccg gaacaggttg aagagtctat ccccctttag caggaaactt
+      361 ctgtcaccca ggagcctctg taaacttaac tatcttctca cttcacctag caggtatctc
+      421 ttctatctta ggggctatta acctcatcac aactattatt aatataaaac ctcctgcaat
+      481 atcccaatac caaacccccc tatttgtttg atcagtccta attacagcag ttctactact
+      541 cctgtcccta cctgtattag ccgccggcat tacaatacta ttaacagata gtaatctcaa
+      601 caccaccttc tttgatcctg ccggaggagg agatcccatt ttatatcagc acttattc
+//
+
+LOCUS       MZ099214                 654 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey5-B-COI-1.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099214
+VERSION     MZ099214.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 654)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..654
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey5-B-COI-1.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>654
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aaccttgtat ttactattcg gcgcatgagc tggagttata ggcatagctc taagccttct
+       61 tattcgagcc gaactaggtc aacccagcaa cctattaggc aacgaccaca tttataacgt
+      121 tattgttaca gcccatgcat ttgttataat tttctttata gttatgccca tcataatcag
+      181 aggcttcgga aactgactag taccccgata attggcgctc ccgatatagc atttccccgc
+      241 ttgaatataa gcttctgact ccttccccca tccttcctac ttctactcgc atccgccata
+      301 gtagaagccg gtgccggaac gggttgaaca gtctatcccc ctttagcagg aaatttctct
+      361 cacccaggag cctctgtaga cctaaccatc ttctcacttc acctggcagg catttcttct
+      421 atcttaggag ctatcaactt catcacaact atcattaata taaaaccccc tgctatatct
+      481 caatatcaaa ccgccctatt tatttgatca gtcttaatca cagcaatcct actactcctc
+      541 tctctaccag tattagctgc tggcatcaca atgctaccaa cagaccgtaa tcttaacact
+      601 accttctttg atcctgccag aggaggagat cccatcttgt accaacactt attt
+//
+
+LOCUS       MZ099213                 663 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey4-B-COI-7.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099213
+VERSION     MZ099213.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 663)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..663
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey4-B-COI-7.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>663
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aaccttgtat tttactattc ggcgcatgag ctcgagttat aggcatagct ctaagccttc
+       61 ttattcgagc cgaactaggt caacccagca acctattagg caacgaccac atttataacg
+      121 ttattgttac agcccatgca tttgttataa ttttctttat agttatgccc atcataatca
+      181 gaagcttcgg aaactgacta gtactccgat aattggcgct cccgatatag catttccccg
+      241 cttgaatata agcttctgac tccttccccc atccttccta cttctactcg catcctcgca
+      301 tccgccatag tagaagctgg tgccggaacg ggttgaacag tctatccccc tttagcagga
+      361 aatttctctc acccaggagc ctctgtagac ctaaccatct tctcacttca cctggcaggc
+      421 atttcttcta tcttaggagc tatcaacttc atcacaacta tcattaatat aaaaccccct
+      481 gcagtatctc aatatcaaac cgccctattt atttgatcag tcttaatcac agcaatccta
+      541 ctactcctct ctctaccagt attagctgct ggcatcacaa tgctaccaac agaccgtaat
+      601 cttaacacta ccttctttga tcctgccaga ggaggagatc ccatcttgta ccaacactta
+      661 ttt
+//
+
+LOCUS       MZ099212                 663 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey4-B-COI-5.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099212
+VERSION     MZ099212.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 663)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..663
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey4-B-COI-5.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>663
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aaccttgtat tttactattc ggcgcatgag ctcgagttat aggcatagct ctaagccttc
+       61 ttattcgagc cgaactaggt caacccagca acctattagg caacgaccac atttataacg
+      121 ttattgttac agcccatgca tttgttataa ttttctttat agttatgccc atcataatca
+      181 gaagcttcgg aaactgacta gtactccgat aattggcgct cccgatatag catttccccg
+      241 cttgaatata agcttctgac tccttccccc atccttccta cttctactcg catcctcgca
+      301 tccgccatag tagaagctgg tgccggaacg ggttgaacag tctatccccc tttagcagga
+      361 aatttctctc acccaggagc ctctgtagac ctaaccatct tctcacttca cctggcaggc
+      421 atttcttcta tcttaggagc tatcaacttc atcacaacta tcattaatat aaaaccccct
+      481 gcagtatctc aatatcaaac cgccctattt atttgatcag tcttaatcac agcaatccta
+      541 ctactcctct ctctaccagt attagctgct ggcatcacaa tgctaccaac agaccgtaat
+      601 cttaacacta ccttctttga tcctgccaga ggaggagatc ccatcttgta ccaacactta
+      661 ttt
+//
+
+LOCUS       MZ099211                 658 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey4-B-COI-3.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099211
+VERSION     MZ099211.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey4-B-COI-3.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aactctatgc ctactattcg gcacatgagc tggaatcata ggcacagctc taagccttct
+       61 tattcgagct gagttaggtc aacctggcaa cctattaggc aacgaccata tttacaatgt
+      121 tattgttata gcccatgcgt tcgttataat tttcttcata attataccca tcataattgg
+      181 aggctttgga aattgattag tacccctaat aatgggcgca cccgatatag catttccctg
+      241 cttaaataat ataagcttct cacttcttcc cccctctttc ctactcctac tcgcatccac
+      301 cataatagaa gctggtgctg gaacaggctg aacagtttat ccccctttag caggaaattt
+      361 ctctcaccca ggggcctctg tggacctaac tatcttctca cttcacctgg caggcatttc
+      421 ttctatctta ggagctatca acttcatcac aactatcatt aatataaaac cccctgcagt
+      481 atctcaatat caaaccgccc tatttatttg atcagtctta atcacagcaa tcctactact
+      541 cctctctcta ccagtattag ctgctggcat cacaatgcta ccaacagacc gtaatcttaa
+      601 cactaccttc tttgatcctg ccagaggagg agatcccatc ttgtaccaac acttattt
+//
+
+LOCUS       MZ099210                 658 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey4-B-COI-1.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099210
+VERSION     MZ099210.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey4-B-COI-1.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aactctatac ctactattcg gcacatgagc tggaatcata ggcatagctc taagccttct
+       61 tattcgagct gaactaggtc aacccagcaa tctattaggc aacgaccaca tttataacgt
+      121 tattgttaca gctcatgcgt ttgttctaat tttctttata gttaaatcca tcataattgg
+      181 aggcttcagg aactgattag tatccctaat aatcggcgct cccgatatag catttccccg
+      241 cttgaataat ataagcttct gacttcttcc tccatccctt ctaattctac tcgcatccgc
+      301 catagtagaa gccggtgctg gaacaggctg aacagtttac cctcctttta caggaaattt
+      361 ctctcactca ggagcctctg ttgacctaac tatcttctca ctccacctag caggcatttc
+      421 ctctattttg ggggccatca atttcatcac gactattatt aatataaacc cccctgcaat
+      481 atctcaatat caaactcccc tatttatttg atcagtcttc atcacagcag tcctactact
+      541 cctttctcta ccaatattag ctgccggcat cacaatacta ctaatagacc gtaatcttaa
+      601 cactactttc tttgatcctg tcggaggagg agatcccatc ttataccaac acttattt
+//
+
+LOCUS       MZ099209                 656 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey3-B-COI-4.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099209
+VERSION     MZ099209.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 656)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..656
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey3-B-COI-4.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>656
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aaccttgtat ttactattcg gcgcatgagc tggagttata ggcatagctc taagccttct
+       61 tattcgagcc gaactaggtc aacccagcaa cctattaggc aacgaccaca tttataatgt
+      121 tattgttaca gcccatgcat ttgttataat tttctttata gttatgccca tcataatcag
+      181 aggcttcgga aactgactag taccccctga taattggcgc tcccgatata gcatttcccc
+      241 gcttgaatat aagcttctga ctccttcccc catccttcct acttctactc gcatctgcca
+      301 tagtagaagc cggtgccgga acgggttgaa cagtctatcc ccctttagca ggaaatttct
+      361 ctcacccagg agcctctgta gacctaacca tcttctcact tcacctggca ggcatttctt
+      421 ctatcttagg agctatcaac ttcatcacaa ctatcattaa tataaaaccc cctgcagtat
+      481 ctcaatatca aaccgcctta tttatttgat cagtcttaat cacagcaatc ctactactcc
+      541 tctctctacc agtattagct gctggcatca caatgctacc aacagaccgt aatcttaaca
+      601 ctaccttctt tgatcctgcc agaggaggag atcccatctt gtaccaacac ttattt
+//
+
+LOCUS       MZ099208                 657 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey3-B-COI-2.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099208
+VERSION     MZ099208.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 657)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..657
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey3-B-COI-2.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>657
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aactctatgc ctactattcg gcacatgagc tggaatcata ggcacagctc taagccttct
+       61 tattcgagct gagttaggtc aacctggcaa cctattaggc aacgaccata tttacaatgt
+      121 tattgttata gcccatgcgt tcgttataat tttcttcata attataccca tcataattgg
+      181 aggctttgga aattgattag tacccctaat aatgggcgca cccgatatag catttccctg
+      241 cttaaataat ataagcttct cacttcttcc cccctctttc ctactcctac tcgcatccac
+      301 cataatagaa gctggtgctg gaacaggctg aacagtttat ccccctttag caggaaattt
+      361 ctctcaccca ggggcctctg tggacctaac tatcttctca cttcacctag caggcatttc
+      421 ctctattttg ggagccatca atttcatcac cactattatt aacataaaac ctcctgtgat
+      481 atctcaatat caaacccccc tatttatttg atcagtctta atcacagcag tcctatactc
+      541 ctctctctac cagtattagc tgccggcatc accatgctac taacagaccg taacctcaac
+      601 accactttcc ttgatcctgc cggaggagga gaccctatct tacaccaaca cttattt
+//
+
+LOCUS       MZ099207                 654 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey1-B-COI-8.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099207
+VERSION     MZ099207.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 654)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..654
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey1-B-COI-8.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>654
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aattctatac ctactattcg gcacatgagc tggaatcata ggcacagctc taagccttct
+       61 tattcgagct gagttaggtc aacctggcaa cctactaggc aacgaccata tttacaatgt
+      121 tattgttaca gctcatgcgt tcgttataat cttcctcata attatatcca tcataattgg
+      181 aggctttgga aattgattag tacccctaat aatcggcgct cccgatatag catttccctg
+      241 cttaaataaa acaagcttct aacttcttcc cccctctttc ctactactac tcgcatccac
+      301 cataatagaa gctggtgctg gaacaggctg aacggtttat ccccctttag caggaaattt
+      361 ctctcaccca ggggcctctg tggacctatc ttctcacttc acctagcagg catttcctct
+      421 attttgggag ccatcaattt catcaccact attgttaaca taaacccccc tgcaatatct
+      481 caatatcaaa cccccctgtt tgtttgatca gttctaatta cagcagtcct attactccta
+      541 tccctacctg tattagctgc tggtattaca atactattaa cagaccgtaa tctcaatact
+      601 actttctttg accctgctgg agggggggat ccgatcttat atcaacacct attc
+//
+
+LOCUS       MZ099206                 657 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey1-B-COI-7.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099206
+VERSION     MZ099206.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 657)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..657
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey1-B-COI-7.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>657
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aactttatac ttattatttg gcgcatgggc cggaaccatg ggtatggcta taagtctcct
+       61 tattcgagct gaactaggtc aacctggcaa cctgttaggc aatgatcaca tttataatgt
+      121 tatcgttaca gcccatgcat ttgtcataat tttctttata gtaataccta ttataattgg
+      181 gggtttcgga aattgactag tacccctaat aattggcgct cctgacatag catttcctcg
+      241 tctaaataat ataagcttct gacttcttcc accatctttc ctacttcttc ttgcatcagc
+      301 catagtagag gctggtgccg ggacaggctg aacagtctat ccgcctctag cgggaaactt
+      361 ctctcaccca ggagcctctg tagatttaac tattttctca ctacacctag caggtatttc
+      421 ttctatctta ggagctatta attttatcac aactattatt aatataaaac cccctgctat
+      481 atctcaatat caaacccccc tgtttgtttg atcagttcta attacagcag tcctattact
+      541 cctatcccta cctgtattag ctgctggtat tacaatacta ttaacagacc gtaatctcaa
+      601 tactactttc tttgaccctg ctggaggggg gatccgatct tatatcaaca cctattc
+//
+
+LOCUS       MZ099205                 656 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey1-B-COI-6.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099205
+VERSION     MZ099205.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 656)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..656
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey1-B-COI-6.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>656
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aaccctgtat ttactattcg gcgcatgagc tggagttata ggcatagctc taagccttct
+       61 tattcgagct gaactaggtc aacccagcaa cctattaggc aacgaccaca tttataacgt
+      121 tattgttaca gcccatgcat ttgttataat tttctttata gttatgccca tcataatcgg
+      181 aggctttgga aactgactag taccccctga taactggtgc tcccgatata gcatttcccc
+      241 gcttgaatat aagtttctga ctccttcccc catccttcct acttctactc gcatccgcca
+      301 tagtagaagc cggtgccgga acgggttgaa cagtctatcc ccctttagca ggaaatttct
+      361 ctcacccagg agcctctgca gacctaacca tcttctcact tcacctggca ggcatttctt
+      421 ctatcttagg agctatcaac ttcatcacaa ctatcattaa tataaaaccc cctgcagtat
+      481 ctcaatatca aaccccccta tttatttgat cagtcttaat cacagcaatc ctactactcc
+      541 tctctctacc agtattagct gctggcatca caatgctacc aacagaccgt aatcttaaca
+      601 ctaccttctt tgatcctgcc agaggaggag atcccatctt gtaccaacac ttattt
+//
+
+LOCUS       MZ099204                 658 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey1-B-COI-4.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099204
+VERSION     MZ099204.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey1-B-COI-4.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aattctatac ctactattcg gcacatgagc tggaatcata ggcacagctc taagccttct
+       61 tattcgagct gagttaggtc agcctggcaa cctactaggc agcgaccata tttacaatgt
+      121 tattgttaca gctcatgcgt tcgttataat cttcctcata attatatcca tcataattgg
+      181 aggctttgga aattgattag tacccctaat aatcggcgct cccgatatag catttccctg
+      241 cttaaataaa acaagcttct aacttcttcc cccctctttc ctactactac tcgcatccac
+      301 cataatagaa gctggtgctg gaacaggctg aacggtttat ccccctttag cgggaaactt
+      361 ctctcaccca ggagcctctg tagatttaac tattttctca ctacacctag caggtatttc
+      421 ttctatctta ggagctatta attttatcac aactattatt aatataaaac cccctgctat
+      481 atctcaatat caaacccccc tgtttgtttg atcagttcta attacagcag tcctattact
+      541 cctatcccta cctgtattag ctgctggtat tacaatacta ttaacagacc gtaatctcaa
+      601 tactactttc tttgaccctg ctggaggggg ggatccgatc ttatatcaac acctattc
+//
+
+LOCUS       MZ099203                 662 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey1-B-COI-3.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099203
+VERSION     MZ099203.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 662)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..662
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey1-B-COI-3.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>662
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aaccttgtat ttactattcg gcgcatgagc tggagttata ggcatagctc taagccttct
+       61 tattcgagcc gaaccaggtc aacccagcaa cctattaggc aacgaccaca tttataacgt
+      121 tattgttaca gcccatgcat ttgttataat tttctttata gttatgccca tcataatcag
+      181 aagcttcgga aactgactag tactccgata attggcgctc ccgatatcgc atttccccgc
+      241 ttgaatataa gcttctgact ccttccccca tccttcctac ttctactcgc atcctcgcat
+      301 ccgccatagt agaagctggt gccggaacgg gttgaacagt ctatccccct ttagcaggaa
+      361 atttctctca cccaggagcc tctgtagacc taaccatctt ctcacttcac ctggcaggca
+      421 tttcttctat cttaggagct atcaacttca tcacaactat cattaatata aaaccccctg
+      481 cagtatctca atatcaaacc cccctattta tttgatcagt cttaatcaca gcaatcctac
+      541 tactcctctc tctaccagta ttagctgctg gcatcacaat gctaccaaca gaccgtaatc
+      601 ttaacactac cttctttgat cctgccagag gaggagatcc catcttgtac caacacttat
+      661 tt
+//
+
+LOCUS       MZ099202                 654 bp    DNA     linear   PRI 20-SEP-2022
+DEFINITION  Rhinopithecus roxellana isolate Golden_monkey1-B-COI-2.seq
+            cytochrome c oxidase subunit I (COI) gene, partial sequence;
+            nuclear copy of mitochondrial gene.
+ACCESSION   MZ099202
+VERSION     MZ099202.1
+KEYWORDS    .
+SOURCE      Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 654)
+  AUTHORS   Zhang,W., Peng,Z. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2021) Nanjing Agricultural University, College of
+            Animal Science and Technology, Xiaolingwei, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..654
+                     /organism="Rhinopithecus roxellana"
+                     /mol_type="genomic DNA"
+                     /isolate="Golden_monkey1-B-COI-2.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_name: coi-c02, fwd_seq:
+                     aytcaacaaatcataaagatattgg, rev_name: coi-c04, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>654
+                     /gene="COI"
+                     /note="cytochrome c oxidase subunit I; numt"
+ORIGIN      
+        1 aaccttgtat ttactattcg gcgcatgagc tggagttata ggcatagctc taagccttct
+       61 tattcgagcc gaaccaggtc aacccagcaa cctattaggc aacgaccaca tttataacgt
+      121 tattgttaca gcccatgcat ttgttataat tttctttata gttatgccca tcataatcag
+      181 aggcttcgga aactgactag taccccgata attggcgctc ccgatatagc atttccccgc
+      241 ttgaatataa gcttctgact ccttccccca tccttcctac ttctactcgc atccgccata
+      301 gtagaagccg gtgccggaac gggttgaaca gtctatcccc ctttagcagg aaatttctct
+      361 cacccaggag cctctgtaga cctaaccatc ttctcacttc acctggcagg catttcttct
+      421 atcttaggag ctatcaactt catcacaact atcattaata taaaaccccc tgcagtatct
+      481 caatatcaaa ccgccctatt tatttgatca gtcttaatca cagcaatcct actactcctc
+      541 tctctaccag tattagctgc tggcatcaca atgctaccaa cagaccgtaa tcttaacact
+      601 accttctttg atcctgccag aggaggagat cccatattgt accaacactt attt
+//
+
+LOCUS       MZ049414                 658 bp    DNA     linear   PRI 05-MAY-2022
+DEFINITION  Rhinopithecus roxellana voucher Golden_monkey5-B-COI-6.seq
+            cytochrome c oxidase subunit I (COX1) gene, partial cds;
+            mitochondrial.
+ACCESSION   MZ049414
+VERSION     MZ049414.1
+KEYWORDS    .
+SOURCE      mitochondrion Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Zhang,W., Zhang,X., Peng,Z., Guo,M. and Yuan,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2021) College of Animal Science and Technology,
+            Nanjing Agricultural University, Xiaolingwei, nanjing, jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rhinopithecus roxellana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Golden_monkey5-B-COI-6.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_seq: aytcaacaaatcataaagatattgg, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUJ34469.1"
+                     /translation="TLYLLFGAWAGTMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAMV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactttatac ttattatttg gcgcatgggc cggaaccatg ggtatggcta taagtctcct
+       61 tattcgagct gaactaggtc aacctggcaa cctgttaggc aatgatcaca tttataatgt
+      121 tatcgttaca gcccacgcat ttgtcataat tttctttata gtaataccta ttataattgg
+      181 gggtttcgga aattgactag tacccctaat aattggcgct cctgacatag catttcctcg
+      241 tctaaataat ataagcttct gacttcttcc accatctttc ctacttcttc ttgcatcagc
+      301 catagtagag gctggtgccg ggacaggctg aacagtctat ccgcctctag cgggaaactt
+      361 ctctcaccca ggagcctctg tagatttaac tattttctca ctacacctag caggtatttc
+      421 ttctatctta ggagctatta attttatcac aactattatt aatataaaac cccctgctat
+      481 atctcaatat caaacccccc tgtttgtttg atcagttcta attacagcag tcctattact
+      541 cctatcccta cctgtattag ctgctggtat tacaatacta ttaacagacc gtaatctcaa
+      601 tactactttc tttgaccctg ctggaggggg ggatccgatc ttatatcaac acctattc
+//
+
+LOCUS       MZ049413                 658 bp    DNA     linear   PRI 05-MAY-2022
+DEFINITION  Rhinopithecus roxellana voucher Golden_monkey5-B-COI-3.seq
+            cytochrome c oxidase subunit I (COX1) gene, partial cds;
+            mitochondrial.
+ACCESSION   MZ049413
+VERSION     MZ049413.1
+KEYWORDS    .
+SOURCE      mitochondrion Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Zhang,W., Zhang,X., Peng,Z., Guo,M. and Yuan,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2021) College of Animal Science and Technology,
+            Nanjing Agricultural University, Xiaolingwei, nanjing, jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rhinopithecus roxellana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Golden_monkey5-B-COI-3.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_seq: aytcaacaaatcataaagatattgg, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUJ34468.1"
+                     /translation="TLYLLFGAWAGTMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAMV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactttatac ttattatttg gcgcatgggc cggaaccatg ggtatggcta taagtctcct
+       61 tattcgagct gaactaggtc aacctggcaa cctgttaggc aatgatcaca tttataatgt
+      121 tatcgttaca gcccacgcat ttgtcataat tttctttata gtaataccta ttataattgg
+      181 gggtttcgga aattgactag tacccctaat aattggcgct cctgacatag catttcctcg
+      241 tctaaataat ataagcttct gacttcttcc accatctttc ctacttcttc ttgcatcagc
+      301 catagtagag gctggtgccg ggacaggctg aacagtctat ccgcctctag cgggaaactt
+      361 ctctcaccca ggagcctctg tagatttaac tattttctca ctacacctag caggtatttc
+      421 ttctatctta ggagctatta attttatcac aactattatt aatataaaac cccctgctat
+      481 atctcaatat caaacccccc tgtttgtttg atcagttcta attacagcag tcctattact
+      541 cctatcccta cctgtattag ctgctggtat tacaatacta ttaacagacc gtaatctcaa
+      601 tactactttc tttgaccctg ctggaggggg ggatccgatc ttatatcaac acctattc
+//
+
+LOCUS       MZ049412                 655 bp    DNA     linear   PRI 05-MAY-2022
+DEFINITION  Rhinopithecus roxellana voucher Golden_monkey5-B-COI-2.seq
+            cytochrome c oxidase subunit I (COX1) gene, partial cds;
+            mitochondrial.
+ACCESSION   MZ049412
+VERSION     MZ049412.1
+KEYWORDS    .
+SOURCE      mitochondrion Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 655)
+  AUTHORS   Zhang,W., Zhang,X., Peng,Z., Guo,M. and Yuan,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2021) College of Animal Science and Technology,
+            Nanjing Agricultural University, Xiaolingwei, nanjing, jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /organism="Rhinopithecus roxellana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Golden_monkey5-B-COI-2.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_seq: aytcaacaaatcataaagatattgg, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>655
+                     /gene="COX1"
+     CDS             <1..>655
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUJ34467.1"
+                     /translation="TLYLLFGTWAGTMGTAMSLLIRAELSQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLTSAMV
+                     EVGAGTGWTVYPSLAGNFSHPGASVDLTIFSLHPAGISSILGAINFITTIINMKLPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGDPILYQHLF
+                     "
+ORIGIN      
+        1 aaccttatat ttattatttg gcacatgagc tggaaccata ggcacggcta taagccttct
+       61 tattcgagcc gaactaagtc aacctggtaa cctattaggc aatgaccaca tctacaatgt
+      121 tatcgttaca gcccatgcat ttgtgataat tttctttata gttataccca tcataattgg
+      181 aggtttcgga aactgactag tacctctaat aattggcgct cctgacatag catttccccg
+      241 tctaaataat ataagcttct gacttcttcc accatccttc ctacttcttc tcacatcagc
+      301 catagtagaa gttggtgccg gaacaggttg aacagtctac ccctctttag caggaaactt
+      361 ctctcaccca ggagcctctg tagacttaac tatcttctca cttcacccag caggcatctc
+      421 ttctatctta ggggctatta acttcatcac aactattatt aatataaaac tccctgcaat
+      481 atctcagtac caaacccccc tatttgtttg atcagtccta attacagcag tcctactact
+      541 cctgtcccta cctgtattag ccgccggcat tacaatacta ttaacagacc gtaatctcaa
+      601 cactaccttc tttgatcctg caggaggaga tcccatctta tatcagcact tattc
+//
+
+LOCUS       MZ049411                 658 bp    DNA     linear   PRI 05-MAY-2022
+DEFINITION  Rhinopithecus roxellana voucher Golden_monkey4-B-COI-6.seq
+            cytochrome c oxidase subunit I (COX1) gene, partial cds;
+            mitochondrial.
+ACCESSION   MZ049411
+VERSION     MZ049411.1
+KEYWORDS    .
+SOURCE      mitochondrion Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Zhang,W., Zhang,X., Peng,Z., Guo,M. and Yuan,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2021) College of Animal Science and Technology,
+            Nanjing Agricultural University, Xiaolingwei, nanjing, jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rhinopithecus roxellana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Golden_monkey4-B-COI-6.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_seq: aytcaacaaatcataaagatattgg, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUJ34466.1"
+                     /translation="TLYLLFGAWAGTMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLTSAMV
+                     EVGAGTGWTVYPSLAGNFSHPGASVDLTIFSLHPAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccttatat ttattatttg gcgcatgagc tggaaccata ggcatggcta taagcctcct
+       61 tattcgagcc gaactaggtc aacccggtaa cctattaggc aatgaccaca tttacaatgt
+      121 tatcgttaca gcccatgcat ttgtcataat tttctttata gttataccca tcataattgg
+      181 aggtttcgga aactgactag tgcccctaat aattggcgct cctgacatag catttccccg
+      241 tctaaataat ataagcttct gacttcttcc accatccttc ctacttcttc tcacatcagc
+      301 catagtagaa gttggtgccg gaacaggttg aacagtctac ccctctttag caggaaactt
+      361 ctctcaccca ggagcctctg tagacttaac tatcttctca cttcacccag caggtatctc
+      421 ttctatctta ggggctatta acttcatcac aactattatt aatataaaac cccctgctat
+      481 gtctcaatat caaacccccc tgtttgtttg atcagttcta attacagcag tcctattact
+      541 cctatcccta cctgtgttag ctgctggtat tacaatacta ttaacagacc gtaacctcaa
+      601 tactactttc tttgaccctg ctggaggggg ggatccgatc ttatatcaac acctattc
+//
+
+LOCUS       MZ049410                 658 bp    DNA     linear   PRI 05-MAY-2022
+DEFINITION  Rhinopithecus roxellana voucher Golden_monkey4-B-COI-4.seq
+            cytochrome c oxidase subunit I (COX1) gene, partial cds;
+            mitochondrial.
+ACCESSION   MZ049410
+VERSION     MZ049410.1
+KEYWORDS    .
+SOURCE      mitochondrion Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Zhang,W., Zhang,X., Peng,Z., Guo,M. and Yuan,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2021) College of Animal Science and Technology,
+            Nanjing Agricultural University, Xiaolingwei, nanjing, jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rhinopithecus roxellana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Golden_monkey4-B-COI-4.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_seq: aytcaacaaatcataaagatattgg, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUJ34465.1"
+                     /translation="TLYLLFGAWAGTMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAMV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactttatac ttattatttg gtgcatgagc cggaaccatg ggtatggcta taagtctcct
+       61 tattcgagct gaactaggtc aacccggcaa cctgttaggc aatgatcaca tttataatgt
+      121 tatcgttaca gcccatgcat ttgtcataat tttctttata gttataccta ttataattgg
+      181 gggtttcgga aattgactag tacccctaat aattggcgct cctgacatag catttcctcg
+      241 tctaaataat ataagcttct gacttcttcc accatctttc ctacttcttc ttgcatcagc
+      301 catagtagag gctggtgccg ggacaggctg aacagtctat ccgcctctag cgggaaactt
+      361 ctctcaccca ggagcctctg tagatttaac tattttctca ctacacctag caggtatttc
+      421 ttctatctta ggagctatta attttatcac aactattatt aatataaaac cccctgctat
+      481 gtctcaatat caaacccccc tgtttgtttg atcagttcta attacagcag tcctattact
+      541 cctatcccta cctgtgttag ctgctggtat tacaatacta ttaacagacc gtaacctcaa
+      601 tactactttc tttgaccctg ctggaggggg ggatccgatc ttatatcaac acctattc
+//
+
+LOCUS       MZ049409                 658 bp    DNA     linear   PRI 05-MAY-2022
+DEFINITION  Rhinopithecus roxellana voucher Golden_monkey4-B-COI-2.seq
+            cytochrome c oxidase subunit I (COX1) gene, partial cds;
+            mitochondrial.
+ACCESSION   MZ049409
+VERSION     MZ049409.1
+KEYWORDS    .
+SOURCE      mitochondrion Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Zhang,W., Zhang,X., Peng,Z., Guo,M. and Yuan,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2021) College of Animal Science and Technology,
+            Nanjing Agricultural University, Xiaolingwei, nanjing, jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rhinopithecus roxellana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Golden_monkey4-B-COI-2.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_seq: aytcaacaaatcataaagatattgg, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUJ34464.1"
+                     /translation="TLYLLFGAWAGTMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIEGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAMV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactttatac ttattatttg gtgcatgagc cggaaccatg ggtatggcta taagtctcct
+       61 tattcgagct gaactaggtc aacccggcaa cctgttaggc aatgatcaca tttataatgt
+      121 tatcgttaca gcccatgcat ttgtcataat tttctttata gttataccta ttataattga
+      181 gggtttcgga aattgactag tacccctaat aattggcgct cctgacatag catttcctcg
+      241 tctaaataat ataagcttct gacttcttcc accatctttc ctacttcttc ttgcatcagc
+      301 catagtagag gctggtgccg ggacaggctg aacagtctat ccgcctctag cgggaaactt
+      361 ctctcaccca ggagcctctg tagatttaac tattttctca ctacacctag caggtatttc
+      421 ttctatctta ggagctatta attttatcac aactattatt aatataaaac cccctgctat
+      481 gtctcaatat caaacccccc tgtttgtttg atcagttcta attacagcag tcctattact
+      541 cctatcccta cctgtgttag ctgctggtat tacaatacta ttaacagacc gtaacctcaa
+      601 tactactttc tttgaccctg ctggaggggg ggatccgatc ttatatcaac acctattc
+//
+
+LOCUS       MZ049408                 658 bp    DNA     linear   PRI 05-MAY-2022
+DEFINITION  Rhinopithecus roxellana voucher Golden_monkey3-B-COI-3.seq
+            cytochrome c oxidase subunit I (COX1) gene, partial cds;
+            mitochondrial.
+ACCESSION   MZ049408
+VERSION     MZ049408.1
+KEYWORDS    .
+SOURCE      mitochondrion Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Zhang,W., Zhang,X., Peng,Z., Guo,M. and Yuan,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2021) College of Animal Science and Technology,
+            Nanjing Agricultural University, Xiaolingwei, nanjing, jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rhinopithecus roxellana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Golden_monkey3-B-COI-3.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_seq: aytcaacaaatcataaagatattgg, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUJ34463.1"
+                     /translation="TLYLLFGAWAGTMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAMV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactttatac ttattatttg gcgcatgggc cggaaccatg ggtatggcta taagtctcct
+       61 tattcgagct gaactaggtc aacctggcaa cctgttaggc aatgatcaca tttataatgt
+      121 tatcgttaca gcccatgcat ttgtcataat tttctttata gtaataccta ttataattgg
+      181 gggtttcgga aattgactag tacccctaat aattggcgct cctgacatag catttcctcg
+      241 tctaaataat ataagcttct gacttcttcc accatctttc ctacttcttc ttgcatcagc
+      301 catagtagag gctggtgccg ggacaggctg aacagtctat ccgcctctag cgggaaactt
+      361 ctctcaccca ggagcctctg tagatttaac tattttctca ctacacctag caggtatttc
+      421 ttctatctta ggagctatta attttatcac aactattatt aatataaaac cccctgctat
+      481 atctcaatat caaacccccc tgtttgtttg atcagttcta attacagcag tcctattact
+      541 cctatcccta cctgtattag ctgctggtat tacaatacta ttaacagacc gtaatctcaa
+      601 tactactttc tttgaccctg ctggaggggg ggatccgatc ttatatcaac acctattc
+//
+
+LOCUS       MZ049407                 658 bp    DNA     linear   PRI 05-MAY-2022
+DEFINITION  Rhinopithecus roxellana voucher Golden_monkey3-B-COI-1.seq
+            cytochrome c oxidase subunit I (COX1) gene, partial cds;
+            mitochondrial.
+ACCESSION   MZ049407
+VERSION     MZ049407.1
+KEYWORDS    .
+SOURCE      mitochondrion Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Zhang,W., Zhang,X., Peng,Z., Guo,M. and Yuan,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2021) College of Animal Science and Technology,
+            Nanjing Agricultural University, Xiaolingwei, nanjing, jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rhinopithecus roxellana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Golden_monkey3-B-COI-1.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_seq: aytcaacaaatcataaagatattgg, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUJ34462.1"
+                     /translation="TLYLLFGAWAGTMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAMV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactttatac ttattatttg gcgcatgggc cggaaccatg ggtatggcta taagtctcct
+       61 tattcgagct gaactaggtc aacctggcaa cctgttaggc aatgatcaca tttataatgt
+      121 tatcgttaca gcccatgcat ttgtcataat tttctttata gtaataccta ttataattgg
+      181 gggtttcgga aattgactag tacccctaat aattggcgct cctgacatag catttcctcg
+      241 tctaaataat ataagcttct gacttcttcc accatctttc ctacttcttc ttgcatcagc
+      301 catagtagag gctggtgccg ggacaggctg aacagtctat ccgcctctag cgggaaactt
+      361 ctctcaccca ggagcctctg tagatttaac tattttctca ctacacctag caggtatttc
+      421 ttctatctta ggagctatta attttatcac aactattatt aatataaaac cccctgctat
+      481 atctcaatat caaacccccc tgtttgtttg atcagttcta attacagcag tcctattact
+      541 cctatcccta cctgtattag ctgctggtat tacaatacta ttaacagacc gtaatctcaa
+      601 tactactttc tttgaccctg ctggaggggg ggatccgatc ttatatcaac acctattc
+//
+
+LOCUS       MZ049406                 658 bp    DNA     linear   PRI 05-MAY-2022
+DEFINITION  Rhinopithecus roxellana voucher Golden_monkey2-B-COI-2.seq
+            cytochrome c oxidase subunit I (COX1) gene, partial cds;
+            mitochondrial.
+ACCESSION   MZ049406
+VERSION     MZ049406.1
+KEYWORDS    .
+SOURCE      mitochondrion Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Zhang,W., Zhang,X., Peng,Z., Guo,M. and Yuan,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2021) College of Animal Science and Technology,
+            Nanjing Agricultural University, Xiaolingwei, nanjing, jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rhinopithecus roxellana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Golden_monkey2-B-COI-2.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_seq: aytcaacaaatcataaagatattgg, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUJ34461.1"
+                     /translation="TLYLLFGAWAGTMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAMV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactttatac ttattatttg gcgcatgggc cggaaccatg ggtatggcta taagtctcct
+       61 tattcgagct gaactaggtc aacctggcaa cctgttaggc aatgatcaca tttataatgt
+      121 tatcgttaca gcccatgcat ttgtcataat tttctttata gtaataccta ttataattgg
+      181 gggtttcgga aattgactag tacccctaat aattggcgct cctgacatag catttcctcg
+      241 tctaaataat ataagcttct gacttcttcc accatctttc ctacttcttc ttgcatcagc
+      301 catagtagag gctggtgccg ggacaggctg aacagtctat ccgcctctag cgggaaactt
+      361 ctctcaccca ggagcctctg tagatttaac tattttctca ctacacctag caggtatttc
+      421 ttctatctta ggagctatta attttatcac aactattatt aatataaaac cccctgctat
+      481 atctcaatat caaacccccc tgtttgtttg atcagttcta attacagcag tcctattact
+      541 cctatcccta cctgtattag ctgctggtat tacaatacta ttaacagacc gtaatctcaa
+      601 tactactttc tttgaccctg ctggaggggg ggatccgatc ttatatcaac acctattc
+//
+
+LOCUS       MZ049405                 658 bp    DNA     linear   PRI 05-MAY-2022
+DEFINITION  Rhinopithecus roxellana voucher Golden_monkey2-B-COI-1.seq
+            cytochrome c oxidase subunit I (COX1) gene, partial cds;
+            mitochondrial.
+ACCESSION   MZ049405
+VERSION     MZ049405.1
+KEYWORDS    .
+SOURCE      mitochondrion Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Zhang,W., Zhang,X., Peng,Z., Guo,M. and Yuan,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2021) College of Animal Science and Technology,
+            Nanjing Agricultural University, Xiaolingwei, nanjing, jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rhinopithecus roxellana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Golden_monkey2-B-COI-1.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_seq: aytcaacaaatcataaagatattgg, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUJ34460.1"
+                     /translation="TLYLLFGAWAGTMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAMV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactttatac ttattatttg gcgcatgggc cggaaccatg ggtatggcta taagtctcct
+       61 tattcgagct gaactaggtc aacctggcaa cctgttaggc aatgatcaca tttataatgt
+      121 tatcgttaca gcccatgcat ttgtcataat tttctttata gtaataccta ttataattgg
+      181 gggtttcgga aattgactag tacccctaat aattggcgct cctgacatag catttcctcg
+      241 tctaaataat ataagcttct gacttcttcc accatctttc ctacttcttc ttgcatcagc
+      301 catagtagag gctggtgccg ggacaggctg aacagtctat ccgcctctag cgggaaactt
+      361 ctctcaccca ggagcctctg tagatttaac tattttctca ctacacctag caggtatttc
+      421 ttctatctta ggagctatta attttatcac aactattatt aatataaaac cccctgctat
+      481 atctcaatat caaacccccc tgtttgtttg atcagttcta attacagcag tcctattact
+      541 cctatcccta cctgtattag ctgctggtat tacaatacta ttaacagacc gtaatctcaa
+      601 tactactttc tttgaccctg ctggaggggg ggatccgatc ttatatcaac acctattc
+//
+
+LOCUS       MZ049404                 655 bp    DNA     linear   PRI 05-MAY-2022
+DEFINITION  Rhinopithecus roxellana voucher Golden_monkey1-B-COI-5.seq
+            cytochrome c oxidase subunit I (COX1) gene, partial cds;
+            mitochondrial.
+ACCESSION   MZ049404
+VERSION     MZ049404.1
+KEYWORDS    .
+SOURCE      mitochondrion Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 655)
+  AUTHORS   Zhang,W., Zhang,X., Peng,Z., Guo,M. and Yuan,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2021) College of Animal Science and Technology,
+            Nanjing Agricultural University, Xiaolingwei, nanjing, jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /organism="Rhinopithecus roxellana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Golden_monkey1-B-COI-5.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_seq: aytcaacaaatcataaagatattgg, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>655
+                     /gene="COX1"
+     CDS             <1..>655
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUJ34459.1"
+                     /translation="TLYLLFGAWAGTMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLTSAMV
+                     EVGAGTGWTVYPSLAGNFSHPGASVDLTIFSLHPAGISSILGAINFITTIINMKLPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGDPILYQHLF
+                     "
+ORIGIN      
+        1 aaccttatat ttattatttg gcgcatgagc tggaaccata ggcatggcta taagcctcct
+       61 tattcgagcc gaactaggtc aacccggtaa cctattaggc aatgaccaca tttacaatgt
+      121 tatcgttaca gcccatgcat ttgtcataat tttctttata gttataccca tcataattgg
+      181 aggtttcgga aactgactag tgcccctaat aattggcgct cctgacatag catttccccg
+      241 tctaaataat ataagcttct gacttcttcc accatccttc ctacttcttc tcacatcagc
+      301 catagtagaa gttggtgccg gaacaggttg aacagtctac ccctctttag caggaaactt
+      361 ctctcaccca ggagcctctg tagacttaac tatcttctca cttcacccag caggtatctc
+      421 ttctatctta ggggctatta acttcatcac aactattatt aatataaaac tccctgcaat
+      481 atctcagtac caaacccccc tatttgtttg atcagtccta attacagcag tcctactact
+      541 cctgtcccta cctgtattag ccgccggcat tacaatacta ttaacagacc gtaatctcaa
+      601 cactaccttc tttgatcctg ccggaggaga tcccatctta tatcagcact tattc
+//
+
+LOCUS       MZ049403                 655 bp    DNA     linear   PRI 05-MAY-2022
+DEFINITION  Rhinopithecus roxellana voucher Golden_monkey1-B-COI-1.seq
+            cytochrome c oxidase subunit I (COX1) gene, partial cds;
+            mitochondrial.
+ACCESSION   MZ049403
+VERSION     MZ049403.1
+KEYWORDS    .
+SOURCE      mitochondrion Rhinopithecus roxellana (golden snub-nosed monkey)
+  ORGANISM  Rhinopithecus roxellana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Rhinopithecus.
+REFERENCE   1  (bases 1 to 655)
+  AUTHORS   Zhang,W., Zhang,X., Peng,Z., Guo,M. and Yuan,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2021) College of Animal Science and Technology,
+            Nanjing Agricultural University, Xiaolingwei, nanjing, jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /organism="Rhinopithecus roxellana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Golden_monkey1-B-COI-1.seq"
+                     /db_xref="taxon:61622"
+                     /PCR_primers="fwd_seq: aytcaacaaatcataaagatattgg, rev_seq:
+                     acytcrggrtgaccaaaaaatca"
+     gene            <1..>655
+                     /gene="COX1"
+     CDS             <1..>655
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUJ34458.1"
+                     /translation="TLYLLFGAWAGTMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLTSAMV
+                     EVGTGTGWTVYPSLAGNFSHPGASVDLTIFSLHPAGISSILGAINFITTIINMKLPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGDPILYQHLF
+                     "
+ORIGIN      
+        1 aaccttatat ttattatttg gcgcatgagc tggaaccata ggcatggcta taagcctcct
+       61 tattcgagcc gaactaggtc aacccggtaa cctattaggc aatgaccaca tttacaatgt
+      121 tatcgttaca gcccatgcat ttgtcataat tttctttata gttataccca tcataattgg
+      181 aggtttcgga aactgactag tgcccctaat aattggcgct cctgacatag catttccccg
+      241 tctaaataat ataagcttct gacttcttcc accatccttc ctacttcttc tcacatcagc
+      301 catagtagaa gttggtaccg gaacaggttg aacagtctac ccctctttag caggaaactt
+      361 ctctcaccca ggagcctctg tagacttaac tatcttctca cttcacccag caggtatctc
+      421 ttctatctta ggggctatta acttcatcac aactattatt aatataaaac tccctgcaat
+      481 atctcagtac caaacccccc tatttgtttg atcagtccta attacagcag tcctactact
+      541 cctgtcccta cctgtattag ccgccggcat tacaatacta ttaacagacc gtaatctcaa
+      601 cactaccttc tttgatcctg caggaggaga tcccatctta tatcagcact tattc
+//
+

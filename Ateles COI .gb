@@ -1,0 +1,73 @@
+LOCUS       JF459104                 643 bp    DNA     linear   PRI 30-JAN-2012
+DEFINITION  Ateles paniscus voucher ROM:106636 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   JF459104
+VERSION     JF459104.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Ateles paniscus (red-faced black spider monkey)
+  ORGANISM  Ateles paniscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Atelidae; Atelinae; Ateles.
+REFERENCE   1  (bases 1 to 643)
+  AUTHORS   Lim,B.K., Engstrom,M.D., Eger,J.L. and Borisenko,A.V.
+  TITLE     ROM Mammals - Guyana
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 643)
+  AUTHORS   Lim,B.K., Engstrom,M.D., Eger,J.L. and Borisenko,A.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAR-2011) Biodiversity Institute of Ontario,
+            University of Guelph, 50 Stone Road East, Guelph, Ontario N1G2W1,
+            Canada
+FEATURES             Location/Qualifiers
+     source          1..643
+                     /organism="Ateles paniscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ROM:106636"
+                     /db_xref="BOLD:ABGYC124-06.COI-5P"
+                     /db_xref="taxon:9510"
+                     /country="Guyana: Upper Takutu-Upper Essequibo, Chodikar
+                     River, 55 Km SW Of Gunn'S Strip"
+                     /lat_lon="1.367 N 58.767 W"
+                     /collection_date="05-Nov-1996"
+                     /collected_by="Lim, BK, O'Toole, E, Robertson, CJ"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaaagacattgg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccaaagaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaargayatygg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccraaraayca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagtattcaaccaatcataaagatattgg, rev_seq:
+                     caggaaacagctatgactaaacttctggatgtccaaaaaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>643
+                     /gene="COI"
+     CDS             <1..>643
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AEA91582.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPIL"
+ORIGIN      
+        1 acactatatc tactatttgg cgcatgagca ggggcagtag gaacagccct aagcctccta
+       61 attcgagcag aactcggtca accagggagt ctaatagaag atgatcatgt ttataatgtg
+      121 atcgttacct ctcatgcatt tatcataatt ttctttatag tcatgccaat tataattgga
+      181 ggctttggaa actgacttgt tcccttgata attggtgccc ccgacatagc atttccccga
+      241 ataaataata taagcttctg acttctaccc ccatccctcc tacttctact tgcatcatca
+      301 accttagaag ccggtgccgg tactggctga acagtttacc cacccttagc aggaaatata
+      361 tcacacccag gagcctctgt agatctgact atcttttcac tccacctagc aggtgtttct
+      421 tccattttag gggccattaa ctttattaca acaatcatta atataaaacc cccagccata
+      481 acccaatatc aaacacctct ctttgtctga tcagtcctta ttacagcagt tctcctactt
+      541 ctatcccttc cagtcctagc tgctggaatt acaatattat taactgaccg taatcttaat
+      601 actacctttt ttgaccccgc tggtggagga gatccaatct tat
+//
+

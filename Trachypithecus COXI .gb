@@ -1,0 +1,121 @@
+LOCUS       AY972807                 601 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Trachypithecus francoisi isolate PR01099 cytochrome c oxidase
+            subunit I (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972807
+VERSION     AY972807.1
+KEYWORDS    .
+SOURCE      mitochondrion Trachypithecus francoisi (Francois's langur)
+  ORGANISM  Trachypithecus francoisi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Trachypithecus.
+REFERENCE   1  (bases 1 to 601)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 601)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 601)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..601
+                     /organism="Trachypithecus francoisi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01099"
+                     /db_xref="taxon:54180"
+                     /sex="male"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>601
+                     /gene="COXI"
+     CDS             <1..>601
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22373.1"
+                     /translation="VGMAMSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFMVMP
+                     IMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAMVEAGAGTGWTVYP
+                     PLAGNLSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFVWSV
+                     LITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN      
+        1 ccgtaggtat agctataagc cttcttatcc gagccgaact cggtcaaccc ggcaacctat
+       61 taggtaatga ccacatctat aatgttatcg ttacggctca tgcatttgtc ataatcttct
+      121 ttatagtcat acccattata attggaggct ttggaaactg actagtaccc ctaataattg
+      181 gtgctcctga catagcattc ccccgcctaa ataatataag cttctgactt cttccaccat
+      241 ccttcctact tcttctcgca tcagccatag tagaagctgg tgcaggaaca ggttgaacag
+      301 tatatccacc cttagcagga aacctctctc atccaggagc ctccgtagac ctgactattt
+      361 tctcgcttca cctagcaggt atttcttcta ttctaggggc tattaatttt attacaacta
+      421 ttattaacat aaaaccccct gcaatatctc aataccaaac tcctctattt gtttgatcag
+      481 tcctaattac agcagtactg ctcctcctat ccttgcccgt actagccgct ggtattacaa
+      541 tattattaac agaccgcaac cttaacacca ccttctttga ccctgcagga gggggagatc
+      601 c
+//
+
+LOCUS       JN560176                 394 bp    DNA     linear   PRI 25-JUL-2016
+DEFINITION  Trachypithecus geei isolate SGJM-GL1 cytochrome c oxidase subunit I
+            (coxI) gene, partial cds; mitochondrial.
+ACCESSION   JN560176
+VERSION     JN560176.1
+KEYWORDS    .
+SOURCE      mitochondrion Trachypithecus geei (golden langur)
+  ORGANISM  Trachypithecus geei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Trachypithecus.
+REFERENCE   1  (bases 1 to 394)
+  AUTHORS   Mochahary,J., Bhattacharjee,M.J., Mahadani,P., Miranda,K. and
+            Ghosh,S.K.
+  TITLE     DNA Barcoding of Golden Langur of Northeast India
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 394)
+  AUTHORS   Mochahary,J., Bhattacharjee,M.J., Mahadani,P., Miranda,K. and
+            Ghosh,S.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-AUG-2011) Biotechnology, Assam University (Central
+            University), Durgakona, Silchar, Assam 788011, India
+FEATURES             Location/Qualifiers
+     source          1..394
+                     /organism="Trachypithecus geei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SGJM-GL1"
+                     /db_xref="taxon:164650"
+                     /country="India"
+                     /lat_lon="26.28 N 90.34 E"
+                     /collection_date="28-Feb-2011"
+                     /collected_by="J. Mochahary"
+                     /identified_by="S. K. Ghosh"
+                     /note="common: golden langur"
+     gene            <1..>394
+                     /gene="coxI"
+     CDS             <1..>394
+                     /gene="coxI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AEM98132.1"
+                     /translation="LYLLFGAWAGTVGMAMSLLIRAELGQPGNLLGNDHIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLTSAMVE
+                     AGAGTGWTLSPPLAGNLSHPGASVDLTI"
+ORIGIN      
+        1 ccttatactt attatttggt gcatgagctg gaaccgtagg tatggctata agccttctta
+       61 ttcgagctga attgggtcaa cccggtaacc tattaggcaa tgaccacatt tacaatgtta
+      121 tcgttacagc ccatgcgttt gttataattt tctttatagt tatacccatc ataattggag
+      181 gcttcggaaa ttgactagta cccctaataa ttggcgctcc ggatatagca tttccccgct
+      241 taaataatat aagcttctga cttcttcccc catccttcct acttctactc acatcagcta
+      301 tagtagaagc tggtgccgga acaggttgaa cattatcccc acctttagca ggaaaccttt
+      361 ctcacccagg agcctctgtg gatctaacta tcta
+//
+

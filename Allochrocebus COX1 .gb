@@ -1,0 +1,1420 @@
+LOCUS       OK184330                 632 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T1752 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184330
+VERSION     OK184330.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 632)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 632)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..632
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T1752"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>632
+                     /gene="COX1"
+     CDS             <1..>632
+                     /gene="COX1"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93811.1"
+                     /translation="AGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFIMIFFM
+                     VMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGTGWT
+                     VYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQTPLFV
+                     WSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHLF"
+ORIGIN      
+        1 gggctggaat cataggtact gctctaagtc ttcttattcg agctgaatta ggccaacccg
+       61 gtagtctatt gggcagcgac catatctaca atgttatcgt aacagcccat gcatttatta
+      121 taatcttctt catagttata cccattataa ttggggggtt tgggaactga ttggtcccct
+      181 taataattgg tgcccccgac atagcattcc ctcgcctcaa taatataagc ttctggcttc
+      241 ttccaccctc tttcctacta ttaatagcat cagccgtagt agaggctggc gctggaacag
+      301 gttgaacagt gtaccctcct ttggcaggaa atttctccca cccaggagcc tccgtggact
+      361 tagttatttt ctccctccat ttagcaggag tctcctctat cttaggggcc atcaacttta
+      421 ttactaccat tattaacatg aagccccctg ctatatccca gtatcaaaca cccttatttg
+      481 tctgatctat cctaatcaca gcaatcctac tacttctctc tttaccagtc ttggctgccg
+      541 gcattactat gctattaaca gaccgaaacc tcaacaccac cttctttgac cctactggag
+      601 gaggagatcc catcctatat caacacctat tc
+//
+
+LOCUS       OK184329                 632 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T1753 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184329
+VERSION     OK184329.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 632)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 632)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..632
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T1753"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>632
+                     /gene="COX1"
+     CDS             <1..>632
+                     /gene="COX1"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93810.1"
+                     /translation="AGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFIMIFFM
+                     VMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGTGWT
+                     VYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQTPLFV
+                     WSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHLF"
+ORIGIN      
+        1 gggctggaat cataggtact gctctaagtc ttcttattcg agctgaatta ggccaacccg
+       61 gtagtctatt gggcagcgac catatctaca atgttatcgt aacagcccat gcatttatta
+      121 taatcttctt catagttata cccattataa ttggggggtt tgggaactga ttggtcccct
+      181 taataattgg tgcccccgac atagcattcc ctcgcctcaa taatataagc ttctggcttc
+      241 ttccgccctc tttcctacta ttaatagcat cagccgtagt agaggctggc gctggaacag
+      301 gttgaacagt gtaccctcct ttggcaggaa atttctccca cccaggagcc tccgtggact
+      361 tagttatttt ctccctccat ttagcaggag tctcctctat cttaggggcc atcaacttta
+      421 ttactaccat tattaacatg aagccccctg ctatatccca gtatcaaaca cccttatttg
+      481 tctgatctat cctaatcaca gcaatcctac tacttctctc tttaccagtc ttggctgccg
+      541 gcattactat gctattaaca gaccgaaacc tcaacaccac cttctttgac cctactggag
+      601 gaggagatcc catcctatat caacacctat tc
+//
+
+LOCUS       OK184328                 631 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T1750 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184328
+VERSION     OK184328.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 631)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 631)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..631
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T1750"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>631
+                     /gene="COX1"
+     CDS             <1..>631
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93809.1"
+                     /translation="AGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFIMIFFM
+                     VMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGTGWT
+                     VYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQTPLFV
+                     WSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHLF"
+ORIGIN      
+        1 ggctggaatc ataggtactg ctctaagtct tcttattcga gctgaattag gccaacccgg
+       61 tagtctattg ggcagcgacc atatctacaa tgttatcgta acagcccatg catttattat
+      121 aatcttcttc atagttatac ccattataat tggggggttt gggaactgat tggtcccctt
+      181 aataattggt gcccccgaca tagcattccc tcgcctcaat aatataagct tctggcttct
+      241 tccaccctct ttcctactac taatagcatc agccgtagta gaggctggcg ctggaacagg
+      301 ttgaacagtg taccctcctt tggcaggaaa tttctcccac ccaggagcct ccgtggactt
+      361 agttattttc tccctccatt tagcaggagt ctcctctatc ttaggggcca tcaactttat
+      421 tactaccatt attaacatga agccccctgc tatatcccag tatcaaacac ccttatttgt
+      481 ctgatctatc ctaatcacag caatcctact acttctctct ttaccagtct tggctgccgg
+      541 cattactatg ctattaacag accgaaacct caacaccacc ttctttgacc ctactggagg
+      601 aggagatccc atcctatatc aacacctatt c
+//
+
+LOCUS       OK184327                 632 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T1751 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184327
+VERSION     OK184327.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 632)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 632)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..632
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T1751"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>632
+                     /gene="COX1"
+     CDS             <1..>632
+                     /gene="COX1"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93808.1"
+                     /translation="AGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFIMIFFM
+                     VMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGTGWT
+                     VYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMNPPAMSQYQTPLFV
+                     WSILITAILLFLSLPVLAAGITMLLTNRNLNTTFFDPTEGGDPILYQHLF"
+ORIGIN      
+        1 gggctggaat cataggtact gctctaagtc ttcttattcg agctgaatta ggccaacccg
+       61 gtagtctatt gggcagcgac catatctaca atgttatcgt aacagcccat gcattcatta
+      121 taatcttctt catagttata cccattataa ttggggggtt tgggaactga ttggtcccct
+      181 taataattgg tgcccccgac atagcattcc ctcgcctaaa taatataagc ttctggcttc
+      241 ttccaccctc tttcctacta ttaatagcat cagccgtagt agaggctggc gctggaacag
+      301 gttgaacagt gtaccctcct ttggcaggaa atttctccca cccaggagcc tccgtggact
+      361 tagttatttt ctccctccat ttagcaggag tctcctctat cttaggggcc atcaacttta
+      421 ttactaccat tattaacatg aacccccctg ctatatccca gtatcaaaca cccttatttg
+      481 tctgatctat cctaatcaca gcaatcctac tatttctctc tttaccagtc ttggctgccg
+      541 gcattactat gctattaaca aaccgaaacc tcaacaccac cttctttgac cctactgaag
+      601 gaggagatcc catcctatat caacacctat tc
+//
+
+LOCUS       OK184326                 642 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T1728 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184326
+VERSION     OK184326.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T1728"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>642
+                     /gene="COX1"
+     CDS             <1..>642
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93807.1"
+                     /translation="FGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFIM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAG
+                     TGWTVYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHLF"
+ORIGIN      
+        1 ttcggcgcat gggctggaat cataggtact gctctaagtc ttcttattcg agctgaatta
+       61 ggccaacccg gtagtctatt gggcagcgac catatctaca atgttatcgt aacagcccat
+      121 gcatttatta taatcttctt catagttata cccattataa ttggggggtt tgggaactga
+      181 ttggtcccct taataattgg tgcccccgac atagcattcc ctcgcctcaa taatataagc
+      241 ttctggcttc ttccgccctc tttcctacta ttaatagcat cagccgtagt agaggctggc
+      301 gctggaacag gttgaacagt gtaccctcct ttggcaggaa atttctccca cccaggagcc
+      361 tccgtggact tagttatttt ctccctccat ttagcaggag tctcctctat cttaggggcc
+      421 atcaacttta ttactaccat tattaacatg aagccccctg ctatgtccca gtatcaaaca
+      481 cccttatttg tctgatctat cctaatcaca gcaatcctac tacttctctc tttaccagtc
+      541 ttggctgccg gcattactat gctattaaca gaccgaaacc tcaacaccac cttctttgac
+      601 cctactggag gaggagatcc catcctatat caacacctat tc
+//
+
+LOCUS       OK184325                 639 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T1690 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184325
+VERSION     OK184325.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T1690"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>639
+                     /gene="COX1"
+     CDS             <1..>639
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93806.1"
+                     /translation="GAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFIMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVVEAGAGT
+                     GWTVYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTEGGDPILYQHLF"
+ORIGIN      
+        1 ggcgcatggg ctggaatcat aggtactgct ctaagtcttc ttattcgagc tgaattaggc
+       61 caacccggta gtctattggg cagcgaccat atctacaatg ttatcgtaac agcccatgca
+      121 tttattataa tcttcttcat agttataccc attataattg gggggtttgg gaactgattg
+      181 gtccccttaa taattggtgc ccccgacata gcattccctc gcctcaataa tataagcttc
+      241 tggcttcttc cgccctcttt cctactatta atagcatcag ccgtagtaga ggctggcgct
+      301 ggaacaggtt gaacagtgta ccctcctttg gcaggaaatt tctcccaccc aggagcctcc
+      361 gtggacttag ttattttctc cctccattta gcaggagtct cctctatctt aggggccatc
+      421 aactttatta ctaccattat taacatgaag ccccctgcta tatcccagta tcaaacaccc
+      481 ttatttgtct gatctatcct aatcacagca atcctactac ttctctcttt accagtcttg
+      541 gctgccggca ttactatgct attaacagac cgaaacctca acaccacctt ctttgaccct
+      601 actgaaggag gagatcccat cctatatcaa cacctattc
+//
+
+LOCUS       OK184324                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2677 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184324
+VERSION     OK184324.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2677"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93805.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttcttcc gccctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gctggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttagt tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aacatgaagc cccctgctat
+      481 atcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa tcctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184323                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2642 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184323
+VERSION     OK184323.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2642"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93804.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttcttcc gccctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gctggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttagt tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aacatgaagc cccctgctat
+      481 atcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa tcctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184322                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2605 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184322
+VERSION     OK184322.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2605"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93803.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttcttcc gccctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gctggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttagt tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aacatgaagc cccctgctat
+      481 atcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa tcctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184321                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2643 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184321
+VERSION     OK184321.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2643"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93802.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttcttcc gccctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gctggcgctg gaacaggttg aacagtgtac ccccctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttagt tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aacatgaagc cccctgctat
+      481 atcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa tcctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184320                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2669 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184320
+VERSION     OK184320.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2669"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93801.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttcttcc gccctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gctggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttagt tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aacatgaagc cccctgctat
+      481 gtcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa tcctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184319                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2654 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184319
+VERSION     OK184319.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2654"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93800.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttcttcc gccctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gctggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttagt tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aacatgaagc cccctgctat
+      481 gtcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa tcctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184318                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2652 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184318
+VERSION     OK184318.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2652"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93799.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttcttcc gccctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gctggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttagt tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aacatgaagc cccctgctat
+      481 gtcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa tcctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184317                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2693 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184317
+VERSION     OK184317.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2693"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93798.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITATLLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttcttcc gccctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gctggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttagt tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aatataaagc cccctgctat
+      481 atcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa ccctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184316                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2692 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184316
+VERSION     OK184316.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2692"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93797.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITATLLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttcttcc gccctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gctggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttagt tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aatataaagc cccctgctat
+      481 atcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa ccctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184315                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2629 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184315
+VERSION     OK184315.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2629"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93796.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITATLLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttcttcc gccctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gctggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttagt tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aatataaagc cccctgctat
+      481 atcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa ccctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184314                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2617 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184314
+VERSION     OK184314.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2617"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93795.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITATLLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttcttcc gccctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gctggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttagt tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aatataaagc cccctgctat
+      481 atcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa ccctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccaccttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184313                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2653 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184313
+VERSION     OK184313.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2653"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93794.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttctccc accctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gccggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttaat tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aacatgaagc cccctgctat
+      481 atcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa tcctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccactttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184312                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2651 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184312
+VERSION     OK184312.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2651"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93793.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttctccc accctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gccggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttaat tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aacatgaagc cccctgctat
+      481 atcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa tcctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccactttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184311                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2644 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184311
+VERSION     OK184311.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2644"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93792.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttctccc accctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gccggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttaat tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aacatgaagc cccctgctat
+      481 atcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa tcctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccactttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184310                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2646 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184310
+VERSION     OK184310.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2646"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93791.1"
+                     /translation="TLYMLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASAVV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLIIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactctgtat atactattcg gcgcatgggc tggaatcata ggtactgctc taagtcttct
+       61 tattcgagct gaattaggcc aacccggtag tctattgggc agcgaccata tctacaatgt
+      121 tatcgtaaca gcccatgcat ttattataat cttcttcata gttataccca ttataattgg
+      181 ggggtttggg aactgattgg tccccttaat aattggtgcc cccgacatag cattccctcg
+      241 cctcaataat ataagcttct ggcttctccc accctctttc ctactattaa tagcatcagc
+      301 cgtagtagag gccggcgctg gaacaggttg aacagtgtac cctcctttgg caggaaattt
+      361 ctcccaccca ggagcctccg tggacttaat tattttctcc ctccatttag caggagtctc
+      421 ctctatctta ggggccatca actttattac taccattatt aacatgaagc cccctgctat
+      481 atcccagtat caaacaccct tatttgtctg atctatccta atcacagcaa tcctactact
+      541 tctctcttta ccagtcttgg ctgccggcat tactatgcta ttaacagacc gaaacctcaa
+      601 caccactttc tttgacccta ctggaggagg agatcccatc ctatatcaac acctattc
+//
+
+LOCUS       OK184303                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2640 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184303
+VERSION     OK184303.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2640"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93784.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 gactctgtac ctactgttcg gtgcatgagc tggggtcata ggcactgctc taagtcttct
+       61 tattcgagct gagctgggcc aacccggtag tttattgggc agtgatcata tttacaatgt
+      121 tatcgtgaca gcccatgcat ttattataat tttcttcata gttatgccta ttataattgg
+      181 agggttcggg aactgactag tgcccttaat aattggtgct cctgacatag catttccccg
+      241 tataaataat ataagcttct ggcttctccc cccctctttt ctgctactaa tagcatcaac
+      301 cgtagtagaa gctggtgctg gtacaggttg aacagtatac ccccctttag caggaaacct
+      361 atcccaccca ggagcctccg tagacttagt aattttctcc ctccatttag caggaatttc
+      421 ctctatccta ggagccatca acttcattac cactattatc aatatgaaac cccccgctat
+      481 atcccaatat cagacccctt tattcgtttg atctgtctta atcacagcga ttctactact
+      541 tctctcccta ccagtcttgg ctgccggtat caccatacta ttaacagacc gcaacctcaa
+      601 cactactttc tttgacccta ccggaggagg agaccctatc ctatatcaac atctattc
+//
+
+LOCUS       OK184299                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Allochrocebus preussi voucher T2602 cytochrome oxidase subunit 1
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OK184299
+VERSION     OK184299.1
+KEYWORDS    .
+SOURCE      mitochondrion Allochrocebus preussi (Preuss' monkey)
+  ORGANISM  Allochrocebus preussi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Allochrocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Allochrocebus preussi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="T2602"
+                     /db_xref="taxon:147649"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93780.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGSDHIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLMASTVV
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 gactctgtac ctactgttcg gtgcatgagc tggggtcata ggcactgctc taagtcttct
+       61 tattcgagct gagctgggcc aacccggtag tttattgggc agtgatcata tttacaatgt
+      121 tatcgtgaca gcccatgcat ttattataat tttcttcata gttatgccta ttataattgg
+      181 agggttcggg aactgactag tgcccttaat aattggtgct cctgacatag catttccccg
+      241 tataaataat ataagcttct ggcttctccc cccctctttt ctgctactaa tagcatcaac
+      301 cgtagtagaa gctggtgctg gtacaggttg aacagtatac ccccctttag caggaaacct
+      361 atcccaccca ggagcctccg tagacttagt aattttctcc ctccatttag caggaatttc
+      421 ctctatccta ggagccatca acttcattac cactattatc aatatgaaac cccccgctat
+      481 atcccaatat cagacccctt tattcgtttg atctgtctta atcacagcga ttctactact
+      541 tctctcccta ccagtcttgg ctgccggtat caccatacta ttaacagacc gcaacctcaa
+      601 cactactttc tttgacccta ccggaggagg agaccctatc ctatatcaac atctattc
+//
+

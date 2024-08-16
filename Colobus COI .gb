@@ -1,0 +1,126 @@
+LOCUS       KJ192796                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Colobus satanas isolate CsatT1182 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192796
+VERSION     KJ192796.1
+KEYWORDS    .
+SOURCE      mitochondrion Colobus satanas (Black Colobus)
+  ORGANISM  Colobus satanas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Colobus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Colobus satanas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CsatT1182"
+                     /db_xref="taxon:517012"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15228.1"
+                     /translation="TLYLLFGAWAGMMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAAV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAI
+                     SQYQTPLFVWSVMITAVLLLLSIPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactttatac ttattattcg gagcatgggc tggaatgatg ggtatggcta taagtcttct
+       61 aatccgagct gaactgggcc aacccggcaa cctgctaggt aatgaccaca tctacaatgt
+      121 tattgttacg gcccacgcat tcgtcataat tttctttata gttataccta tcataatcgg
+      181 aggcttcgga aactgattag tacctctgat aattggtgcc cctgacatag catttccccg
+      241 cttaaacaat ataagctttt gacttctccc accatccttc ctacttcttc tcgcatcagc
+      301 tgcagtagaa gccggtgccg gaactggctg aaccgtttac ccgcctctgg caggaaactt
+      361 ctcccatcca ggggcctctg tagacttaac catcttctca ctccatctag cgggtatctc
+      421 ctctattcta ggagctatta attttatcac cactattatt aacataaaac cccccgcaat
+      481 ttcccaatat caaacccccc tattcgtctg atcagtcata attacagcag tcctgctact
+      541 cctatctatc cccgtactag cggccggcat cacgatacta ttaacggatc gtaatctcaa
+      601 caccaccttc ttcgaccccg ctggtggagg agaccctatc ttataccaac atttattc
+//
+
+LOCUS       KJ192795                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Colobus satanas isolate CsatT1162 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192795
+VERSION     KJ192795.1
+KEYWORDS    .
+SOURCE      mitochondrion Colobus satanas (Black Colobus)
+  ORGANISM  Colobus satanas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Colobus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Colobus satanas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CsatT1162"
+                     /db_xref="taxon:517012"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15227.1"
+                     /translation="TLYLLFGAWAGMMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAAV
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAI
+                     SQYQTPLFVWSVMITAVLLLLSIPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aactttatac ttattattcg gagcatgggc tggaatgatg ggtatggcta taagtcttct
+       61 aatccgagct gaactgggcc aacccggcaa cctgctaggt aatgaccaca tctacaatgt
+      121 tattgttacg gcccacgcat tcgtcataat tttctttata gttataccta tcataatcgg
+      181 aggcttcgga aactgattag tacctctgat aattggtgcc cctgacatag catttccccg
+      241 cttaaacaat ataagctttt gacttctccc accatccttc ctacttcttc tcgcatcagc
+      301 tgcagtagaa gccggtgccg gaactggctg aaccgtttac ccgcctctgg caggaaactt
+      361 ctcccatcca ggggcctctg tagacttaac catcttctca ctccatctag cgggtatctc
+      421 ctctattcta ggagctatta attttatcac cactattatt aacataaaac cccccgcaat
+      481 ttcccaatat caaacccccc tattcgtctg atcagtcata attacagcag tcctgctact
+      541 cctatctatc cccgtactag cggccggcat cacgatacta ttaacggatc gtaatctcaa
+      601 caccaccttc ttcgaccccg ctggtggagg agaccctatc ttataccaac atttattc
+//
+

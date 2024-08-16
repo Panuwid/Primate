@@ -1,0 +1,298 @@
+LOCUS       FJ750678                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercocebus agilis cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ750678
+VERSION     FJ750678.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercocebus agilis (agile mangabey)
+  ORGANISM  Cercocebus agilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercocebus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Cercocebus agilis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:255237"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67458.1"
+                     /translation="GAWAGVMGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMLEAGAGT
+                     GWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag caggagttat gggcacagcc ctaagccttc tcattcgagc tgaactaggc
+       61 caacccggta atctactggg caatgatcac atttacaacg ttatcgtaac agcccatgca
+      121 ttcgtcataa tcttcttcat agtcataccc attataatcg gaggctttgg aaactggcta
+      181 gtacccctaa taattggcgc tcctgacata gcattccctc gcttaaataa cataagcttc
+      241 tgactccttc ccccctcctt cctactacta atagcatcaa ctatactaga agccggtgct
+      301 gggacgggtt gaacagtata ccccccttta gcaggaaact tctcccaccc aggagcctcc
+      361 gtagacctag ttattttttc ccttcaccta gcaggcattt cttctattct aggggctatc
+      421 aacttcatta ctactattat caacataaaa cctcccgcaa tatctcaata tcaaactccc
+      481 ctgttcgtct gatcaatctt aatcacagca atccttctac tcctctcact accagtcctg
+      541 gccgccggca tcaccatgct actaacagat cgtaacctta acactacttt cttcgatcca
+//
+
+LOCUS       FJ713435                 658 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Cercocebus torquatus isolate OR538 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   FJ713435
+VERSION     FJ713435.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercocebus torquatus (collared mangabey)
+  ORGANISM  Cercocebus torquatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Mitochondrial evidence for the hybrid origin of the kipunji,
+            Rungwecebus kipunji (Primates: Papionini)
+  JOURNAL   Mol. Phylogenet. Evol. 51 (2), 340-348 (2009)
+   PUBMED   19236932
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2009) Anthropology Department, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercocebus torquatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="OR538"
+                     /db_xref="taxon:9530"
+                     /tissue_type="blood"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACP43681.1"
+                     /translation="IGTLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     MLEAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIMNMKPP
+                     AMSQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attggaaccc tatacctact atttggtgca tgagccggag ttataggcac agccctaagc
+       61 ctccttattc gagctgaact aggccaaccc ggtagtctac tgggcaatga tcatatttat
+      121 aacgttatcg taacggccca tgcatttgtc ataattttct tcatagttat acccatcatg
+      181 atcggaggtt ttggaaactg actagtgccc cttataattg gcgcccccga tatagcattc
+      241 ccccgtttga ataatataag cttctgactc cttccccctt cctttctact actaatggca
+      301 tcaactatac tagaagccgg cgctgggaca ggctgaacag tataccctcc tttagcagga
+      361 aacttctctc acccaggagc ctccgtagac ctagtcattt tttctcttca cctggcaggc
+      421 atttcttcta tcttaggggc cattaacttc attaccacta ttataaacat aaaacccccc
+      481 gcaatatctc agtatcaaac tcccctattc gtctgatcaa tcctaatcac agcaatcctc
+      541 ctacttctct cactaccagt tctggccgcc ggcatcacca tgctactaac agatcgtaac
+      601 ctcaatacta ctttcttcga tccagttgga ggaggagatc ctattctata tcagcact
+//
+
+LOCUS       KJ192973                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercocebus atys isolate UnknownT755 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192973
+VERSION     KJ192973.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercocebus atys (sooty mangabey)
+  ORGANISM  Cercocebus atys
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercocebus atys"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT755"
+                     /db_xref="taxon:9531"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15405.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVVVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTML
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatat ctactatttg gtgcatgagc cggagttata ggcacagccc taagccttct
+       61 tattcgagct gaactgggcc aacccggtag tctactgggc aatgatcata tttacaacgt
+      121 tgtcgtaacg gctcatgcat ttgtaataat cttcttcata gttataccca ttatgattgg
+      181 tggcttcgga aactgactag tacccctaat aattggcgct cccgacatag cattccctcg
+      241 tttaaataac ataagcttct gactccttcc cccttccttc ctactactaa tggcatcaac
+      301 tatactagaa gccggtgccg gaacgggctg aacagtatac ccccctttag caggaaactt
+      361 ctcccaccca ggagcctccg tagacctagt tattttttcc ctccacctag caggcatttc
+      421 ttccatctta ggggccatta acttcattac tactattatc aacataaaac ctcccgcaat
+      481 atctcagtat caaactcccc tattcgtttg atcaatctta attacagcaa tccttctact
+      541 cctctcacta ccagtcctag ccgccggcat caccatgcta ctaacagatc gcaacctcaa
+      601 cactaccttc tttgatccag ttggaggagg agatcctatt ctataccaac acctattt
+//
+
+LOCUS       KJ192971                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercocebus atys isolate UnknownT752 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192971
+VERSION     KJ192971.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercocebus atys (sooty mangabey)
+  ORGANISM  Cercocebus atys
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercocebus atys"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT752"
+                     /db_xref="taxon:9531"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15403.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVVVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTML
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatat ctactatttg gtgcatgagc cggagttata ggcacagccc taagccttct
+       61 tattcgagct gaactgggcc aacccggtag tctactgggc aatgatcata tttacaacgt
+      121 tgtcgtaacg gctcatgcat ttgtaataat cttcttcata gttataccca ttatgattgg
+      181 tggcttcgga aactgactag tacccctaat aattggcgct cccgacatag cattccctcg
+      241 tttaaataac ataagcttct gactccttcc cccttccttc ctactactaa tggcatcaac
+      301 tatactagaa gccggtgccg gaacgggctg aacagtatac ccccctttag caggaaactt
+      361 ctcccaccca ggagcctccg tagacctagt tattttttcc ctccacctag caggcatttc
+      421 ttccatctta ggggccatta acttcattac tactattatc aacataaaac ctcccgcaat
+      481 atctcagtat caaactcccc tattcgtttg atcaatctta attacagcaa tccttctact
+      541 cctctcacta ccagtcctag ccgccggcat caccatgcta ctaacagatc gcaacctcaa
+      601 cactaccttc tttgatccag ttggaggagg agatcctatt ctataccaac acctattt
+//
+
+LOCUS       KJ192963                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Cercocebus atys isolate UnknownT744 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192963
+VERSION     KJ192963.1
+KEYWORDS    .
+SOURCE      mitochondrion Cercocebus atys (sooty mangabey)
+  ORGANISM  Cercocebus atys
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Cercocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Cercocebus atys"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UnknownT744"
+                     /db_xref="taxon:9531"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15395.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVVVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTML
+                     EAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatat ctactatttg gtgcatgagc cggagttata ggcacagccc taagccttct
+       61 tattcgagct gaactgggcc aacccggtag tctactgggc aatgatcata tttacaacgt
+      121 tgtcgtaacg gctcatgcat ttgtaataat cttcttcata gttataccca ttatgattgg
+      181 tggcttcgga aactgactag tacccctaat aattggcgct cccgacatag cattccctcg
+      241 tttaaataac ataagcttct gactcctccc cccttccttc ctactactaa tggcatcaac
+      301 tatactagaa gccggtgccg gaacgggctg aacagtatac ccccctttag caggaaactt
+      361 ctcccaccca ggagcctccg tagacctagt tattttttcc ctccacctag caggcatttc
+      421 ttccatctta ggggccatta acttcattac tactattatc aacataaaac ctcccgcaat
+      481 atctcagtat caaactcccc tattcgtttg atcaatctta attacagcaa tccttctact
+      541 cctctcacta ccagtcctag ccgccggcat caccatgcta ctaacagatc gcaacctcaa
+      601 cactaccttc tttgatccag ttggaggagg agatcctatt ctataccaac acctattt
+//
+

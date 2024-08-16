@@ -1,0 +1,48 @@
+LOCUS       KJ543738                 218 bp    DNA     linear   PRI 25-MAY-2014
+DEFINITION  Cheirogaleus medius cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   KJ543738
+VERSION     KJ543738.1
+KEYWORDS    .
+SOURCE      mitochondrion Cheirogaleus medius (Lesser dwarf lemur)
+  ORGANISM  Cheirogaleus medius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lemuriformes; Cheirogaleidae; Cheirogaleus.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     An endogenous lentivirus in the genome of the bushbaby Galago
+            moholi
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 218)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAR-2014) School of Veterinary Medicine and Science,
+            University of Nottingham, Sutton Bonington Campus, College Road,
+            Sutton Bonington, Loughborough, Leicestershire LE12 5RD, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /organism="Cheirogaleus medius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9460"
+     gene            <1..>218
+                     /gene="COI"
+     CDS             <1..>218
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHZ96705.1"
+                     /translation="MKPPAMSQYQTPLFVWSVVITAVLLLLSLPVLAAGITMLLTDRN
+                     LNTTFFDPAGGGDPILYQHLFWFFGHPEV"
+ORIGIN      
+        1 ataaaacccc cagccatatc acaatatcaa actcctctgt tcgtatgatc agttgtaatt
+       61 actgctgtac tcttactact atccttacca gtattagcag caggaatcac tatactccta
+      121 actgatcgta acctcaacac aacctttttt gaccctgcag gaggaggtga tcctatttta
+      181 tatcaacatc tattctgatt ctttggccac ccagaagt
+//
+

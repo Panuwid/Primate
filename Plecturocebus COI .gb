@@ -1,0 +1,3373 @@
+LOCUS       MK091810                 600 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus grovesi voucher RCA58 cytochrome c oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091810
+VERSION     MK091810.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus grovesi (Alta Floresta titi monkey)
+  ORGANISM  Plecturocebus grovesi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Plecturocebus grovesi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RCA58"
+                     /db_xref="taxon:2488670"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01298.1"
+                     /translation="IRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPIMIGGFGN
+                     WLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNMSH
+                     PGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+       61 attgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      121 ggctttggaa actgacttgt gccccttata attggtgcgc cggatatagc attcccccga
+      181 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact tgcgtcttca
+      241 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      301 tctcatccag gagcctcagt agacttaact attttctcgc tacacctggc aggtgtatcc
+      361 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      421 acccagtacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      481 ctatctctcc ctgtcctagc tgctggaatt actatactat taacagaccg taatcttaac
+      541 accactttct ttgacccagc cggtgggggt gacccaatcc tatatcaaca cctattctga
+//
+
+LOCUS       MK091809                 600 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus grovesi voucher RCA57 cytochrome c oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091809
+VERSION     MK091809.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus grovesi (Alta Floresta titi monkey)
+  ORGANISM  Plecturocebus grovesi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Plecturocebus grovesi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RCA57"
+                     /db_xref="taxon:2488670"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01297.1"
+                     /translation="IRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPIMIGGFGN
+                     WLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNMSH
+                     PGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+       61 attgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      121 ggctttggaa actgacttgt gccccttata attggtgcgc cggatatagc attcccccga
+      181 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact tgcgtcttca
+      241 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      301 tctcatccag gagcctcagt agacttaact attttctcgc tacacctggc aggtgtatcc
+      361 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      421 acccagtacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      481 ctatctctcc ctgtcctagc tgctggaatt actatactat taacagaccg taatcttaac
+      541 accactttct ttgacccagc cggtgggggt gacccaatcc tatatcaaca cctattctga
+//
+
+LOCUS       MK091808                 600 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus vieirai voucher RCA71 cytochrome c oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091808
+VERSION     MK091808.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus vieirai
+  ORGANISM  Plecturocebus vieirai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Plecturocebus vieirai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RCA71"
+                     /db_xref="taxon:2487713"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01296.1"
+                     /translation="IRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPIMIGGFGN
+                     WLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNMSH
+                     PGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+       61 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      121 ggctttggaa actgacttgt accccttata attggtgcgc cggatatagc atttccccga
+      181 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact tgcgtcttca
+      241 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      301 tcccatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      361 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      421 acccagtacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      481 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg taatcttaac
+      541 accactttct tcgacccagc cggtgggggt gacccaatcc tataccaaca cctattctga
+//
+
+LOCUS       MK091807                 600 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus vieirai voucher RCA48 cytochrome c oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091807
+VERSION     MK091807.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus vieirai
+  ORGANISM  Plecturocebus vieirai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Plecturocebus vieirai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RCA48"
+                     /db_xref="taxon:2487713"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01295.1"
+                     /translation="IRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPIMIGGFGN
+                     WLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNMSH
+                     PGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+       61 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      121 ggctttggaa actgacttgt accccttata attggtgcgc cggatatagc atttccccga
+      181 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact tgcgtcttca
+      241 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      301 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      361 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      421 acccagtacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      481 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg taatcttaat
+      541 accactttct tcgacccagc cggtgggggt gacccaatcc tatatcaaca cctattctga
+//
+
+LOCUS       MK091806                 660 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus vieirai voucher 2465 cytochrome c oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091806
+VERSION     MK091806.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus vieirai
+  ORGANISM  Plecturocebus vieirai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus vieirai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2465"
+                     /db_xref="taxon:2487713"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01294.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg ggcctgagca ggagcagtcg gaactgccct aagcctttta
+       61 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt accccttata attggtgcgc cggatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      421 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg taatcttaat
+      601 accactttct tcgacccagc cggtgggggt gacccaatcc tatatcaaca cctattttga
+//
+
+LOCUS       MK091805                 600 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus moloch voucher RCA73 cytochrome c oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091805
+VERSION     MK091805.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RCA73"
+                     /db_xref="taxon:9523"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01293.1"
+                     /translation="IRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPIMIGGFGN
+                     WLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNMSH
+                     PGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+       61 atcgttacct ctcacgcatt tattataatc ttttttatag tcataccaat tataattggg
+      121 ggctttggaa actgacttgt gccccttata attggtgcgc cagatatagc atttccccga
+      181 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact cgcgtcttca
+      241 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      301 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      361 tccattctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      421 acccaatacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      481 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg aaatcttaac
+      541 accactttct tcgacccagc cggtgggggt gacccaatcc tatatcaaca cctattctga
+//
+
+LOCUS       MK091804                 600 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus moloch voucher RCA56 cytochrome c oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091804
+VERSION     MK091804.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RCA56"
+                     /db_xref="taxon:9523"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01292.1"
+                     /translation="IRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPIMIGGFGN
+                     WLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNMSH
+                     PGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+       61 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      121 ggctttggaa actgacttgt gccccttata attggtgcgc cggatatagc atttccccga
+      181 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact cgcgtcttca
+      241 actctagagg ccggcgcagg gaccggctga acagtatatc cacccctagc cggaaatatg
+      301 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      361 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      421 acccaatacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      481 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg aaatcttaac
+      541 accactttct tcgacccagc cggtgggggt gacccaatcc tataccaaca cctattctga
+//
+
+LOCUS       MK091803                 600 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus moloch voucher RCA42 cytochrome c oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091803
+VERSION     MK091803.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RCA42"
+                     /db_xref="taxon:9523"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01291.1"
+                     /translation="IRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPIMIGGFGN
+                     WLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNMSH
+                     PGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+       61 atcgttacct ctcacgcatt tattataatc ttttttatag tcataccaat tataattggg
+      121 ggctttggaa actgacttgt gccccttata attggtgcgc cagatatagc atttccccga
+      181 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact cgcgtcttca
+      241 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatata
+      301 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      361 tccattctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      421 acccaatacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      481 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg aaatcttaac
+      541 accactttct tcgacccagc cggtgggggt gacccaatcc tatatcaaca cctattctga
+//
+
+LOCUS       MK091802                 600 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus moloch voucher RCA39 cytochrome c oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091802
+VERSION     MK091802.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RCA39"
+                     /db_xref="taxon:9523"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01290.1"
+                     /translation="IRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPIMIGGFGN
+                     WLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNMSH
+                     PGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 attcgagccg agttaggaca acctggaagt ctaatagaag atgatcacgt ctacaacgtt
+       61 atcgttacct ctcacgcatt tattataatc ttttttatag tcataccaat tataattggg
+      121 ggctttggaa actgacttgt gccccttata attggtgcgc cagatatagc atttccccga
+      181 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact cgcgtcttca
+      241 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      301 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      361 tccattctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      421 acccaatacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      481 ctatctctcc ctgtcctagc tgctggaatt actatactat taacagaccg aaatcttaac
+      541 accactttct tcgacccagc cggtggaggt gacccaatcc tatatcaaca cctattctga
+//
+
+LOCUS       MK091801                 600 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus moloch voucher RCA27 cytochrome c oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091801
+VERSION     MK091801.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RCA27"
+                     /db_xref="taxon:9523"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01289.1"
+                     /translation="IRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPIMIGGFGN
+                     WLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNMSH
+                     PGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 attcgagccg agttagggca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+       61 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      121 ggctttggaa actgacttgt accccttata attggtgcgc cggatatagc atttccccga
+      181 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact tgcgtcttca
+      241 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      301 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      361 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      421 acccagtacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      481 ctgtctctcc ctgtcctagc tgctggaatt accatactat taacagaccg taatcttaac
+      541 accactttct tcgacccagc cggtgggggt gacccaatcc tatatcaaca cctattctga
+//
+
+LOCUS       MK091800                 600 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus moloch voucher FM375 cytochrome c oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091800
+VERSION     MK091800.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FM375"
+                     /db_xref="taxon:9523"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01288.1"
+                     /translation="IRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPIMIGGFGN
+                     WLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNMSH
+                     PGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+       61 atcgttacct ctcacgcatt tattataatc ttttttatag tcataccaat tataattggg
+      121 ggctttggaa actgacttgt gccccttata attggtgcgc cggatatagc atttccccga
+      181 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact cgcgtcttca
+      241 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      301 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      361 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      421 acccaatacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      481 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg aaatcttaac
+      541 accactttct tcgacccagc cggtgggggt gacccaatcc tataccaaca cctattctga
+//
+
+LOCUS       MK091799                 660 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus moloch voucher CTGAM433 cytochrome c oxidase subunit
+            1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091799
+VERSION     MK091799.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CTGAM433"
+                     /db_xref="taxon:9523"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01287.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg ggcctgagca ggagcagtcg gaactgccct aagcctttta
+       61 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcac cggatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact cgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      421 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccaatacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg aaatcttaac
+      601 accactttct tcgacccagc cggtgggggt gacccaatcc tataccaaca cctattttga
+//
+
+LOCUS       MK091798                 660 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus moloch voucher 1690 cytochrome c oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091798
+VERSION     MK091798.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="1690"
+                     /db_xref="taxon:9523"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01286.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg ggcctgagca ggagcagtcg gaactgccct aagcctttta
+       61 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag tcataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cagatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact cgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      421 tccattctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccaatacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg aaatcttaac
+      601 accactttct tcgacccagc cggtgggggt gacccaatcc tatatcaaca cctattttga
+//
+
+LOCUS       MK091797                 660 bp    DNA     linear   PRI 07-DEC-2018
+DEFINITION  Plecturocebus moloch voucher 308 cytochrome c oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MK091797
+VERSION     MK091797.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Boubli,J.P., Byrne,H., da Silva,M.N., Silva-Junior,J., Costa
+            Araujo,R., Bertuol,F., Goncalves,J., Melo,F., Rylands,A.B.,
+            Mittermeier,R.A., Silva,F.E., Nash,S.D., Canale,G., Alencar,R.M.,
+            Rossi,R., Carneiro,J., Sampaio,I., Farias,I.P., Schneider,H. and
+            Hrbek,T.
+  TITLE     On a new species of titi monkey (Primates: Plecturocebus Byrne et
+            al., 2016), from Alta Floresta, southern Amazon, Brazil
+  JOURNAL   Mol. Phylogenet. Evol. (2018) In press
+   PUBMED   30496844
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.M., Hrbek,T., Boubli,J., Bertuol,F. and Araujo,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="308"
+                     /db_xref="taxon:9523"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AYW01285.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg ggcctgagca ggagcagtcg gaactgccct aagcctttta
+       61 attcgagccg aattaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cagatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact cgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatata
+      361 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      421 tccattctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccaatacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg aaatcttaac
+      601 accactttct tcgacccagc cggtggaggt gacccaatcc tataccaaca cctattttga
+//
+
+LOCUS       MH101709                 660 bp    DNA     linear   PRI 21-NOV-2018
+DEFINITION  Plecturocebus vieirai voucher 2594 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MH101709
+VERSION     MH101709.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus vieirai
+  ORGANISM  Plecturocebus vieirai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Lynch Alfaro,J.W., Sampaio,I., Farias,I., Schneider,H.,
+            Hrbek,T. and Boubli,J.P.
+  TITLE     Titi monkey biogeography: Parallel Pleistocene spread by
+            Plecturocebus and Cheracebus into a post-Pebas Western Amazon
+  JOURNAL   Zool. Scr. 47 (5), 499-517 (2018)
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-MAR-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus vieirai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2594"
+                     /db_xref="taxon:2487713"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AYV99851.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg ggcctgagca ggagcagtcg gaactgccct aagcctttta
+       61 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt accccttata attggtgcgc cggatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      421 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg taatcttaat
+      601 accactttct tcgacccagc cggtgggggt gacccaatcc tatatcaaca cctattttga
+//
+
+LOCUS       KU694247                 621 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus moloch voucher MCB79 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694247
+VERSION     KU694247.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 621)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MCB79"
+                     /db_xref="taxon:9523"
+     gene            <1..>621
+                     /gene="COI"
+     CDS             <1..>621
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45754.1"
+                     /translation="GTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPI
+                     MIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPP
+                     LAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVL
+                     ITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 ggaactgccc taagcctttt aattcgagcc gaattaggac aacctggaag tttaatagaa
+       61 gatgatcacg tctacaacgt tatcgttacc tctcacgcat ttattataat cttttttata
+      121 gttataccaa ttataattgg gggctttgga aactgacttg tgccccttat aattggtgcg
+      181 ccagatatag catttccccg aataaataat ataagcttct gactcctccc tccgtcactc
+      241 ctcctattac tcgcgtcttc aactctagag gccggcgcag ggactggctg aacagtatat
+      301 ccacccctag ccggaaatat atctcatcca ggagcctcag tagacttaac tattttctcg
+      361 ctacacctag caggtgtatc ctccattctg ggagctatta attttattac tacaattatt
+      421 aatataaaac ccccagccat aacccaatac caaacccctc tttttgtatg atcagttctt
+      481 attacagcag ttcttctcct cctgtctctc cctgtcctag ctgctggaat tactatacta
+      541 ttaacagacc gaaatcttaa caccactttc ttcgacccag ccggtggagg tgacccaatc
+      601 ctataccaac acctattttg a
+//
+
+LOCUS       KU694246                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus moloch voucher MCB64 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694246
+VERSION     KU694246.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MCB64"
+                     /db_xref="taxon:9523"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45753.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg ggcctgagca ggagcagtcg gaactgccct aagcctttta
+       61 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag tcataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cagatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact cgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      421 tccattctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccaatacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg aaatcttaac
+      601 accactttct tcgacccagc cggtgggggt gacccaatcc tatatcaaca cctattttga
+//
+
+LOCUS       KU694245                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus moloch voucher MCB63 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694245
+VERSION     KU694245.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MCB63"
+                     /db_xref="taxon:9523"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45752.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg ggcctgagca ggagcagtcg gaactgccct aagcctttta
+       61 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag tcataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cagatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact cgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      421 tccattctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccaatacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg aaatcttaac
+      601 accactttct tcgacccagc cggtgggggt gacccaatcc tatatcaaca cctattttga
+//
+
+LOCUS       KU694244                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus moloch voucher CTGAM421 cytochrome c oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694244
+VERSION     KU694244.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CTGAM421"
+                     /db_xref="taxon:9523"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45751.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg ggcctgagca ggagcagtcg gaactgccct aagcctttta
+       61 attcgagccg agttagggca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct cccacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cagatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact cgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      421 tccattctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccaatacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatc actatactat taacagaccg aaatcttaac
+      601 accactttct tcgacccagc cggtggaggt gacccaatcc tataccaaca cctattttga
+//
+
+LOCUS       KU694243                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus moloch voucher CTGAM420 cytochrome c oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694243
+VERSION     KU694243.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CTGAM420"
+                     /db_xref="taxon:9523"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45750.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg ggcctgagca ggagcagtcg gaactgccct aagcctttta
+       61 attcgagccg agttagggca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct cccacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cagatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact cgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      421 tccattctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccaatacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatc actatactat taacagaccg aaatcttaac
+      601 accactttct tcgacccagc cggtggaggt gacccaatcc tataccaaca cctattttga
+//
+
+LOCUS       KU694242                 636 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus moloch voucher 1516 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694242
+VERSION     KU694242.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="1516"
+                     /db_xref="taxon:9523"
+     gene            <1..>636
+                     /gene="COI"
+     CDS             <1..>636
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45749.1"
+                     /translation="WAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIMIFF
+                     MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGW
+                     TVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLF
+                     VWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 tgagcaggag cagtcggaac tgccctaagc cttttaattc gagccgagtt aggacaacct
+       61 ggaagtttaa tagaagatga tcacgtctac aacgttatcg ttacctctca cgcatttatt
+      121 ataatctttt ttatagtcat accaattata attgggggct ttggaaactg acttgtgccc
+      181 cttataattg gtgcgccaga tatagcattt ccccgaataa ataatataag cttctgactc
+      241 ctccctccgt cactcctcct attactcgcg tcttcaactc tagaggccgg cgcagggact
+      301 ggctgaacag tatatccacc cctagccgga aatatgtctc atccaggagc ctcagtagac
+      361 ttaactattt tctcgctaca cctagcaggt gtatcctcca ttctgggagc tattaatttt
+      421 attactacaa ttattaatat aaaaccccca gccataaccc aataccaaac ccctcttttt
+      481 gtatgatcag ttcttattac agcagttctt ctcctcctgt ctctccctgt cctagctgct
+      541 ggaattacta tactattaac agaccgaaat cttaacacca ctttcttcga cccagccggt
+      601 gggggtgacc caatcctata tcaacaccta ttttga
+//
+
+LOCUS       KU694241                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus moloch voucher 857 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694241
+VERSION     KU694241.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="857"
+                     /db_xref="taxon:9523"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45748.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg ggcctgagca ggagcagtcg gaactgccct aagcctttta
+       61 attcgagccg aattaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cagatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact cgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatata
+      361 tctcatccag gagcctcagt agacttaact attttctcgc tacacctagc aggtgtatcc
+      421 tccattctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccaatacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg aaatcttaac
+      601 accactttct tcgacccagc cggtggaggt gacccaatcc tataccaaca cctattttga
+//
+
+LOCUS       KU694240                 536 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus miltoni voucher 42993 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694240
+VERSION     KU694240.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus miltoni (Milton's titi)
+  ORGANISM  Plecturocebus miltoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 536)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 536)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..536
+                     /organism="Plecturocebus miltoni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="42993"
+                     /db_xref="taxon:1812038"
+     gene            <1..>536
+                     /gene="COI"
+     CDS             <1..>536
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45747.1"
+                     /translation="MEDDHVYNVIVTSHAFIMIFFMVMPIMIGGFGNWLVPLMIGAPD
+                     MAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNMSHPGASVDLTIFS
+                     LHLAGVSSILGAINFITTIINMKPPAMTQYQTPLLVWSVLITAVLLLLSLPVLAAGIT
+                     MLLTDRNLNTTFFDPAGGG"
+ORIGIN      
+        1 atagaagatg atcacgtcta caacgttatc gttacctctc atgcatttat tataatcttt
+       61 tttatagtta taccaattat aatcgggggc tttggaaact gacttgtgcc ccttataatt
+      121 ggtgcgccgg atatagcatt tccccgaata aataatataa gcttctgact cctccctccg
+      181 tcacttctcc tattacttgc gtcttcaact ctagaggccg gcgcagggac tggctgaaca
+      241 gtatatccac ccctagccgg aaatatgtcc catccaggag cctcagtaga cttaactatc
+      301 ttctcgctgc acctggcagg tgtatcctcc atcctgggag ctattaattt cattactaca
+      361 attattaata taaaaccccc agccataacc cagtaccaaa cccctctttt agtatgatca
+      421 gttcttatca cagcagtcct tctcctcctg tctctccctg tcctagctgc tggaatcact
+      481 atactactaa cagaccgcaa tcttaacacc accttcttcg acccggccgg tggggg
+//
+
+LOCUS       KU694239                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus miltoni voucher 42992 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694239
+VERSION     KU694239.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus miltoni (Milton's titi)
+  ORGANISM  Plecturocebus miltoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus miltoni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="42992"
+                     /db_xref="taxon:1812038"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45746.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg agcctgagca ggggcagtcg gaactgccct aagcctccta
+       61 attcgagccg agttaggcca gcctgggagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcatgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcac cggatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccatcactcc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tcccatccag gagcctcagt agacttaact atcttctcgc tgcacctggc aggtgtatcc
+      421 tctatcctgg gggctattaa tttcattact acaattatta atataaaacc cccagccata
+      481 acccagtacc aaacccctct ttttgtatga tcagttctta tcacagcagt ccttctcctc
+      541 ctatctctcc ctgtcctagc tgctggaatc actatactac taacagaccg caatcttaac
+      601 accaccttct tcgacccggc cggtgggggc gacccaatct tatatcaaca cctgttttga
+//
+
+LOCUS       KU694237                 606 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus hoffmannsi voucher CTGAM290 cytochrome c oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694237
+VERSION     KU694237.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus hoffmannsi (Hoffmanns's titi)
+  ORGANISM  Plecturocebus hoffmannsi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 606)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 606)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..606
+                     /organism="Plecturocebus hoffmannsi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CTGAM290"
+                     /db_xref="taxon:78255"
+     gene            <1..>606
+                     /gene="COI"
+     CDS             <1..>606
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45744.1"
+                     /translation="LLIRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPIMIGGF
+                     GNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNM
+                     SHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVL
+                     LLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 cttttaattc gagccgaatt aggacaacct gggagtttaa tagaagatga tcacgtctac
+       61 aacgttatcg ttacctctca cgcatttatt ataatctttt ttatagttat accaattata
+      121 attgggggct ttggaaactg acttgtgccc cttataattg gtgcgccgga tatagcattc
+      181 ccccgaataa ataatataag cttctgacta ctccctccat cactcctcct attacttgcg
+      241 tcttcgactc tggaggccgg cgcagggact ggttgaacag tatatccacc cctagctgga
+      301 aatatatctc atccaggagc ctcagtagac ttaactatct tctcgctaca cctggcaggt
+      361 gtatcctcca tcctgggagc tattaacttt attactacaa ttattaatat aaaaccccca
+      421 gccataaccc aataccagac tcctcttttt gtatgatcag ttcttattac agcagtcctt
+      481 ctcctcctgt ctctccccgt cctagctgct ggaattacta tactattaac agaccgcaat
+      541 cttaacacca ctttctttga cccagctggt gggggtgacc caatcctgta ccaacaccta
+      601 ttttga
+//
+
+LOCUS       KU694238                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus miltoni voucher 42991 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694238
+VERSION     KU694238.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus miltoni (Milton's titi)
+  ORGANISM  Plecturocebus miltoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus miltoni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="42991"
+                     /db_xref="taxon:1812038"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45745.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg agcctgagca ggggcagtcg gaactgccct aagcctccta
+       61 attcgagccg agttaggcca gcctgggagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcatgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcac cggatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccatcactcc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tcccatccag gagcctcagt agacttaact atcttctcgc tgcacctggc aggtgtatcc
+      421 tctatcctgg gggctattaa tttcattact acaattatta atataaaacc cccagccata
+      481 acccagtacc aaacccctct ttttgtatga tcagttctta tcacagcagt ccttctcctc
+      541 ctatctctcc ctgtcctagc tgctggaatc actatactac taacagaccg caatcttaac
+      601 accaccttct tcgacccggc cggtgggggc gacccaatct tatatcaaca cctgttttga
+//
+
+LOCUS       KU694236                 606 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus hoffmannsi voucher CTGAM248 cytochrome c oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694236
+VERSION     KU694236.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus hoffmannsi (Hoffmanns's titi)
+  ORGANISM  Plecturocebus hoffmannsi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 606)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 606)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..606
+                     /organism="Plecturocebus hoffmannsi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CTGAM248"
+                     /db_xref="taxon:78255"
+     gene            <1..>606
+                     /gene="COI"
+     CDS             <1..>606
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45743.1"
+                     /translation="LLIRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPIMIGGF
+                     GNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNM
+                     SHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVL
+                     LLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 cttttaattc gagccgaatt aggacaacct gggagtttaa tagaagatga tcacgtctac
+       61 aacgttatcg ttacctctca cgcatttatt ataatctttt ttatagttat accaattata
+      121 attgggggct ttggaaactg acttgtgccc cttataattg gtgcgccgga tatagcattc
+      181 ccccgaataa ataatataag cttctgacta ctccctccat cactcctcct attacttgcg
+      241 tcttcgactc tggaggccgg cgcagggact ggttgaacag tatatccacc cctagctgga
+      301 aatatatctc atccaggagc ctcagtagac ttaactatct tctcgctaca cctggcaggt
+      361 gtatcctcca tcctgggagc tattaacttt attactacaa ttattaatat aaaaccccca
+      421 gccataaccc aataccagac tcctcttttt gtatgatcag ttcttattac agcagtcctt
+      481 ctcctcctgt ctctccccgt cctagctgct ggaattacta tactattaac agaccgcaat
+      541 cttaacacca ctttctttga cccagctggt gggggtgacc caatcctgta ccaacaccta
+      601 ttttga
+//
+
+LOCUS       KU694235                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus hoffmannsi voucher 01CNP cytochrome c oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694235
+VERSION     KU694235.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus hoffmannsi (Hoffmanns's titi)
+  ORGANISM  Plecturocebus hoffmannsi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus hoffmannsi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="01CNP"
+                     /db_xref="taxon:78255"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45742.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctacc ttctatttgg agcctgagca ggggcagtcg gaaccgccct aagcctctta
+       61 attcgagccg aattaggaca acctgggagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cggatatagc attcccccga
+      241 ataaataata taagcttctg actactccct ccatcactcc tcctattact tgcgtcttcg
+      301 actctggagg ccggcgcagg gactggttga acagtatatc cacccctagc tggaaatata
+      361 tctcatccag gagcctcagt agatttaact atcttctcgc tacacctggc aggtgtatcc
+      421 tccatcctgg gagctattaa ctttattact acaattatta atataaaacc cccagccata
+      481 acccaatacc agactcctct ttttgtatga tcagttctta ttacagcagt ccttctcctc
+      541 ctgtctctcc ccgtcctagc tgctggaatt actatactat taacagaccg caatcttaac
+      601 accactttct ttgacccagc tggtgggggt gacccaatcc tgtaccaaca cctattttga
+//
+
+LOCUS       KU694234                 621 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus cupreus voucher JLP15920 cytochrome c oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694234
+VERSION     KU694234.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus cupreus (coppery titi)
+  ORGANISM  Plecturocebus cupreus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 621)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Plecturocebus cupreus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="JLP15920"
+                     /db_xref="taxon:202457"
+     gene            <1..>621
+                     /gene="COI"
+     CDS             <1..>621
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45741.1"
+                     /translation="GTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPI
+                     MIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPP
+                     LAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVL
+                     ITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 ggaaccgccc taagcctctt aattcgagcc gagttaggac aacctgggag tttaatagaa
+       61 gatgatcacg tctacaacgt tatcgttacc tctcacgcat ttattataat cttttttata
+      121 gttataccaa ttataattgg gggctttgga aactgacttg tgccccttat aattggtgca
+      181 ccggatatag catttccccg aataaataat ataagcttct gactcctccc tccatccctc
+      241 ctcctattac ttgcgtcttc aactctagag gccggtgcag ggactggctg aacagtatat
+      301 ccacccctag ctggaaatat atctcatcca ggagcctcag tagacctaac tatcttctcg
+      361 cttcacctag caggtgtatc ctctatccta ggagccatta attttattac tacaattatt
+      421 aatataaaac ccccagccat aacccagtac caaacccctc tttttgtatg atcagtcctt
+      481 attacagcag ttcttctcct cctgtccctc cccgttctag ctgctggaat taccatacta
+      541 ttaacagacc gcaatcttaa caccactttc ttcgacccag ccggtggggg tgacccaatc
+      601 ttatatcaac acttattttg a
+//
+
+LOCUS       KU694233                 645 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus cupreus voucher CTGAM210 cytochrome c oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694233
+VERSION     KU694233.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus cupreus (coppery titi)
+  ORGANISM  Plecturocebus cupreus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Plecturocebus cupreus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CTGAM210"
+                     /db_xref="taxon:202457"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45740.1"
+                     /translation="FGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAG
+                     TGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQT
+                     PLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 tttggagcct gagcaggggc agtcggaacc gccctaagcc tcttaattcg agccgaatta
+       61 ggacaacctg ggagtttaat agaagatgat cacgtctaca acgttatcgt tacctctcac
+      121 gcatttatta taatcttttt tatagttata ccaattataa ttgggggctt tggaaactga
+      181 cttgtgcccc ttataattgg tgcaccggat atagcatttc cccgaataaa taatataagc
+      241 ttctgacttc tccctccatc cctcctccta ttacttgcgt cttcaactct agaggccggt
+      301 gcagggactg gctgaacagt atatccaccc ctagctggaa atatatctca tccaggagcc
+      361 tcagtagacc taactatctt ctcgcttcac ctagcaggtg tatcctctat cctaggagcc
+      421 attaatttta ttactacaat tattaatata aaacccccag ccataaccca gtaccaaacc
+      481 cctctttttg tatgatcagt ccttattaca gcagttcttc tcctcctgtc cctccccgtt
+      541 ctagctgctg gaattaccat actattaaca gaccgcaatc ttaacaccac tttcttcgac
+      601 ccagccggtg ggggtgaccc aatcttatat caacacttat tttga
+//
+
+LOCUS       KU694232                 642 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus cupreus voucher AAM15 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694232
+VERSION     KU694232.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus cupreus (coppery titi)
+  ORGANISM  Plecturocebus cupreus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Plecturocebus cupreus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AAM15"
+                     /db_xref="taxon:202457"
+     gene            <1..>642
+                     /gene="COI"
+     CDS             <1..>642
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45739.1"
+                     /translation="GAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGT
+                     GWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTP
+                     LFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 ggagcctgag caggggcagt cggaaccgcc ctaagcctct taattcgagc cgagttagga
+       61 caacctggga gtttaataga agatgatcac gtctacaacg ttatcgttac ctctcacgca
+      121 tttattataa tcttttttat agttatacca attataattg ggggctttgg aaactgactt
+      181 gtgcccctta taattggtgc accggatata gcatttcccc gaataaataa tataagcttc
+      241 tgactcctcc ctccatccct cctcctatta cttgcgtctt caactctaga ggccggtgca
+      301 gggactggct gaacagtata tccaccccta gctggaaata tatctcatcc aggagcctca
+      361 gtagacctaa ctatcttctc gcttcaccta gcaggtgtat cctctatcct aggagccatt
+      421 aattttatta ctacaattat taatataaaa cccccagcca taacccagta ccaaacccct
+      481 ctttttgtat gatcagtcct tattacagca gttcttctcc tcctgtccct tcccgttcta
+      541 gctgctggaa ttaccatact attaacagac cgcaatctta acaccacttt cttcgaccca
+      601 gccggtgggg gtgacccaat cttatatcaa cacttatttt ga
+//
+
+LOCUS       KU694231                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus cupreus voucher 4993 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694231
+VERSION     KU694231.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus cupreus (coppery titi)
+  ORGANISM  Plecturocebus cupreus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus cupreus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="4993"
+                     /db_xref="taxon:202457"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45738.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctacc ttctatttgg agcctgagca ggggcagtcg gaaccgccct aagcctctta
+       61 attcgagccg agttaggaca acctgggagt ttaatagaag atgatcacgt ctacaatgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt accccttata attggtgcac cggatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccatccctcc tcctattact tgcgtcttca
+      301 actctagagg ccggtgcagg gactggctga acagtatatc cacccctagc tggaaatata
+      361 tctcatccag gagcctcagt agacctaact atcttctcgc ttcacctggc aggtgtatcc
+      421 tccatcctag gagccattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtatc aaacccctct ttttgtatga tcagtcctta ttacagcagt tcttctcctc
+      541 ctatctctcc ccgttctagc tgctggaatt accatactat taacagaccg caatcttaac
+      601 accactttct tcgacccagc cggtgggggt gacccaatct tatatcaaca cctattttga
+//
+
+LOCUS       KU694230                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus cupreus voucher 4990 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694230
+VERSION     KU694230.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus cupreus (coppery titi)
+  ORGANISM  Plecturocebus cupreus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus cupreus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="4990"
+                     /db_xref="taxon:202457"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45737.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctacc ttctatttgg agcctgagca ggggcagtcg gaaccgccct aagcctctta
+       61 attcgagccg agttaggaca acctgggagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt accccttata attggtgcac cggatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccatccctcc tcctattact tgcgtcttca
+      301 actctagagg ccggtgcagg gactggctga acagtatatc cacccctagc tggaaatata
+      361 tctcatccag gagcctcagt agacctaact atcttctcgc ttcacctggc aggtgtatcc
+      421 tccatcctag gagccattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtatc aaacccctct ttttgtatga tcagtcctta ttacagcagt tcttctcctc
+      541 ctatctctcc ccgttctagc tgctggaatt actatactat taacagaccg caatcttaac
+      601 accactttct tcgacccagc cggtgggggt gacccaatct tatatcaaca cctattttga
+//
+
+LOCUS       KU694229                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus cupreus voucher 4988 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694229
+VERSION     KU694229.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus cupreus (coppery titi)
+  ORGANISM  Plecturocebus cupreus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus cupreus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="4988"
+                     /db_xref="taxon:202457"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45736.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctacc ttctatttgg agcctgagca ggggcagtcg gaaccgccct aagcctctta
+       61 attcgagctg agttaggaca acctgggagt ttaatagaag atgatcacgt ctacaatgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt accccttata attggtgcac cggatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccatccctcc tcctattact tgcgtcttca
+      301 actctagagg ccggtgcagg gactggctga acagtatatc cacccctagc tggaaatata
+      361 tctcatccag gagcctcagt agacctaact atcttctcgc ttcacctggc aggtgtatcc
+      421 tccatcctag gagccattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtatc aaacccctct ttttgtatga tcagtcctta ttacagcagt tcttctcctc
+      541 ctatctctcc ccgttctagc tgctggaatt accatactat taacagaccg caatcttaac
+      601 accactttct tcgacccagc cggtgggggt gacccaatct tatatcaaca cctattttga
+//
+
+LOCUS       KU694228                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus cupreus voucher 4984 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694228
+VERSION     KU694228.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus cupreus (coppery titi)
+  ORGANISM  Plecturocebus cupreus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus cupreus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="4984"
+                     /db_xref="taxon:202457"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45735.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctacc ttctatttgg agcctgagca ggggcagtcg gaaccgccct aagcctctta
+       61 attcgagccg agttaggaca acctgggagt ttaatagaag atgatcacgt ctacaatgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt accccttata attggtgcac cggatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccatccctcc tcctattact tgcgtcttca
+      301 actctagagg ccggtgcagg gactggctga acagtatatc cacccctagc tggaaatata
+      361 tctcatccag gagcctcagt agacctaact atcttctcgc ttcacctggc aggtgtatcc
+      421 tccatcctag gagccattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtatc aaacccctct ttttgtatga tcagtcctta ttacagcagt tcttctcctc
+      541 ctatctctcc ccgttctagc tgctggaatt accatactat taacagaccg caatcttaac
+      601 accactttct tcgacccagc cggtgggggt gacccaatct tatatcaaca cctattttga
+//
+
+LOCUS       KU694227                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus cinerascens voucher UFRO499 cytochrome c oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694227
+VERSION     KU694227.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus cinerascens (ashy titi)
+  ORGANISM  Plecturocebus cinerascens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus cinerascens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UFRO499"
+                     /db_xref="taxon:1812037"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45734.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg agcctgagca ggggcagtcg gaactgccct aagcctccta
+       61 attcgagccg agttaggcca gcctgggagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcatgcatt tattataatc ttttttatag tcataccaat tataattggg
+      181 ggctttggaa actgactcgt gccccttata attggtgcgc cggatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg gaccggttga acagtatatc cacccctagc cggaaatatg
+      361 tcccatccag gagcctcagt agacttaact atcttctcgc tgcacctggc aggtgtatcc
+      421 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtacc aaacccctct ttttgtatga tcagttctta ttacagcagt ccttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatc actatattac taacagaccg caatcttaac
+      601 accaccttct tcgacccagc cggtgggggt gacccaatct tatatcaaca cctattttga
+//
+
+LOCUS       KU694226                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus cinerascens voucher UFRO355 cytochrome c oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694226
+VERSION     KU694226.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus cinerascens (ashy titi)
+  ORGANISM  Plecturocebus cinerascens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus cinerascens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UFRO355"
+                     /db_xref="taxon:1812037"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45733.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg agcctgagca ggggcagtcg gaactgccct aagcctcctg
+       61 attcgagccg agttaggcca gcctgggagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcatgcatt tattataatc ttttttatag tcataccaat tataattggg
+      181 ggctttggaa actgactcgt gccccttata attggtgcgc cggatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg gaccggctga acagtatatc cacccctagc cggaaatatg
+      361 tcccatccag gagcctcagt agacttaact atcttctcac tgcacctggc aggtgtatcc
+      421 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtacc aaacccctct ttttgtatga tcagttctta ttacagcagt ccttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatc actatactac taacagaccg caatcttaac
+      601 accaccttct tcgacccagc cggtgggggt gacccaatct tatatcaaca cctattttga
+//
+
+LOCUS       KU694225                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus cinerascens voucher UFRO352 cytochrome c oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694225
+VERSION     KU694225.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus cinerascens (ashy titi)
+  ORGANISM  Plecturocebus cinerascens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus cinerascens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UFRO352"
+                     /db_xref="taxon:1812037"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45732.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg agcctgagca ggggcagtcg gaactgccct aagcctcctg
+       61 attcgagccg agttaggcca gcctgggagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcatgcatt tattataatc ttttttatag tcataccaat tataattggg
+      181 ggctttggaa actgactcgt gccccttata attggtgcgc cggatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg gaccggctga acagtatatc cacccctagc cggaaatatg
+      361 tcccatccag gagcctcagt agacttaact atcttctcac tgcacctggc aggtgtatcc
+      421 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtacc aaacccctct ttttgtatga tcagttctta ttacagcagt ccttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatc actatactac taacagaccg caatcttaac
+      601 accaccttct tcgacccagc cggtgggggt gacccaatct tatatcaaca cctattttga
+//
+
+LOCUS       KU694224                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus moloch voucher RVR73 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694224
+VERSION     KU694224.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RVR73"
+                     /db_xref="taxon:9523"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45731.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactttatc ttctatttgg ggcctgagca ggagcagtcg gaactgccct aagcctttta
+       61 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 attgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cggatatagc attcccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tctcatccag gagcctcagt agacttaact attttctcgc tacacctggc aggtgtatcc
+      421 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctatctctcc ctgtcctagc tgctggaatt actatactat taacagaccg taatcttaac
+      601 accactttct ttgacccagc cggtgggggt gacccaatcc tatatcaaca cctattttga
+//
+
+LOCUS       KU694223                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus moloch voucher RVR68 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694223
+VERSION     KU694223.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RVR68"
+                     /db_xref="taxon:9523"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45730.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactttatc ttctatttgg ggcctgagca ggagcagtcg gaactgccct aagcctttta
+       61 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 attgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cggatatagc attcccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tctcatccag gagcctcagt agacttaact attttctcgc tacacctggc aggtgtatcc
+      421 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctatctctcc ctgtcctagc tgctggaatt actatactat taacagaccg taatcttaac
+      601 accactttct ttgacccagc cggtgggggt gacccaatcc tatatcaaca cctattttga
+//
+
+LOCUS       KU694222                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus moloch voucher RVR22 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694222
+VERSION     KU694222.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus moloch (red-bellied titi)
+  ORGANISM  Plecturocebus moloch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus moloch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RVR22"
+                     /db_xref="taxon:9523"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45729.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactttatc ttctatttgg ggcctgagca ggagcagtcg gaactgccct aagcctttta
+       61 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 attgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cggatatagc attcccccga
+      241 ataaataata taagcttctg actcctccct ccgtcactcc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tctcatccag gagcctcagt agacttaact attttctcgc tacacctggc aggtgtatcc
+      421 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtacc aaacccctct ttttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctatctctcc ctgtcctagc tgctggaatt actatactat taacagaccg taatcttaac
+      601 accactttct ttgacccagc cggtgggggt gacccaatcc tatatcaaca cctattttga
+//
+
+LOCUS       KU694221                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus caligatus voucher MVR58 cytochrome c oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694221
+VERSION     KU694221.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus caligatus (chestnut-bellied titi)
+  ORGANISM  Plecturocebus caligatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus caligatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVR58"
+                     /db_xref="taxon:867332"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45728.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctacc ttctatttgg agcctgagca ggggcagtcg gaaccgccct aagcctccta
+       61 attcgagccg agttaggaca acctgggagt ttaatagaag atgatcatgt ctacaacgtt
+      121 atcgttactt ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt accccttata attggtgcgc cagatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccatcactcc tcctattact tgcatcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tctcatccag gagcctcagt agacttaact atcttctcgc tacacctggc aggtgtatcc
+      421 tccatcctgg gagccattaa ttttattact acaattatta atataaaacc cccagccatg
+      481 acccaatacc aaacccctct ttttgtatga tcagtcctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ccgtcctagc tgctggaatt accatattat taactgaccg caatcttaat
+      601 accaccttct tcgacccagc tggtggaggt gacccaatct tatatcagca cctattttga
+//
+
+LOCUS       KU694220                 645 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus caligatus voucher CTGAM182 cytochrome c oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694220
+VERSION     KU694220.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus caligatus (chestnut-bellied titi)
+  ORGANISM  Plecturocebus caligatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Plecturocebus caligatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CTGAM182"
+                     /db_xref="taxon:867332"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45727.1"
+                     /translation="FGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAG
+                     TGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQT
+                     PLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 tttggagcct gagcaggggc agtcggaacc gccctaagcc tcctaattcg agccgagtta
+       61 ggacaacctg ggagtttaat agaagatgat catgtctaca acgttatcgt tacctctcac
+      121 gcatttatta taatcttttt tatagttata ccaattataa ttgggggctt tggaaactga
+      181 cttgtacccc ttataattgg tgcgccggat atagcatttc cccgaataaa taatataagc
+      241 ttctgactcc tccctccatc actcctccta ttacttgcat cttcaactct agaggccggc
+      301 gcagggactg gctgaacagt atatccaccc ctagccggaa atatgtctca tccaggagcc
+      361 tcagtagact taactatctt ctcgctacac ctggcaggtg tatcctccat cctgggagcc
+      421 attaatttta ttactacaat tattaatata aaacccccag ccatgaccca ataccaaacc
+      481 cctctttttg tatgatcagt ccttattaca gcagttcttc tcctcctgtc tctccccgtc
+      541 ctagctgctg gaattaccat attattaact gaccgcaatc ttaataccac cttcttcgac
+      601 ccagctggtg gaggtgaccc aatcttatat cagcacctat tttga
+//
+
+LOCUS       KU694219                 645 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus caligatus voucher CTGAM181 cytochrome c oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694219
+VERSION     KU694219.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus caligatus (chestnut-bellied titi)
+  ORGANISM  Plecturocebus caligatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Plecturocebus caligatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CTGAM181"
+                     /db_xref="taxon:867332"
+     gene            <1..>645
+                     /gene="COI"
+     CDS             <1..>645
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45726.1"
+                     /translation="FGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAG
+                     TGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQT
+                     PLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 tttggagcct gagcaggggc agtcggaacc gccctaagcc tcctaattcg agccgagtta
+       61 ggacaacctg ggagtttaat agaagatgat catgtctaca acgttatcgt tacctctcac
+      121 gcatttatta taatcttttt tatagttata ccaattataa ttgggggctt tggaaactga
+      181 cttgtacccc ttataattgg tgcgccggat atagcatttc cccgaataaa taatataagc
+      241 ttctgactcc tccctccatc actcctccta ttacttgcat cttcaactct agaggccggc
+      301 gcagggactg gctgaacagt atatccaccc ctagccggaa atatgtctca tccaggagcc
+      361 tcagtagact taactatctt ctcgctacac ctggcaggtg tatcctccat cctgggagcc
+      421 attaatttta ttactacaat tattaatata aaacccccag ccatgaccca ataccaaacc
+      481 cctctttttg tatgatcagt ccttattaca gcagttcttc tcctcctgtc tctccccgtc
+      541 ctagctgctg gaattaccat attattaact gaccgcaatc ttaataccac cttcttcgac
+      601 ccagctggtg gaggtgaccc aatcttatat cagcacctat tttga
+//
+
+LOCUS       KU694218                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus caligatus voucher UFRO403 cytochrome c oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694218
+VERSION     KU694218.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus caligatus (chestnut-bellied titi)
+  ORGANISM  Plecturocebus caligatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus caligatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UFRO403"
+                     /db_xref="taxon:867332"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45725.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctacc ttctatttgg agcctgagca ggggcagtag gaaccgccct aagcctccta
+       61 attcgagccg agttagggca acctgggagt ttaatagaag atgatcatgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggttttggaa actgacttgt accccttata attggtgcgc cggatatagc atttccccga
+      241 ataaataata taagcttctg actcctccct ccatcactcc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtatatc cacccctagc cggaaatatg
+      361 tctcatccag gagcctcagt agacttaact atcttctcgc tacacctggc aggtgtatcc
+      421 tccatcctgg gagccattaa ttttattact acaattatta atataaaacc cccagccatg
+      481 acccaatacc aaacccctct ttttgtatga tcagtcctta ttacagcagt tcttctcctc
+      541 ctatctctcc ccgtcctagc tgctggaatt accatattat taactgaccg caatcttaat
+      601 accaccttct tcgacccagc tggtgggggt gacccaatct tatatcaaca cttattttga
+//
+
+LOCUS       KU694217                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus brunneus voucher UFRO541 cytochrome c oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694217
+VERSION     KU694217.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus brunneus (brown titi)
+  ORGANISM  Plecturocebus brunneus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus brunneus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UFRO541"
+                     /db_xref="taxon:1812042"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45724.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acgctctacc ttctatttgg agcctgagca ggggcagtcg gaaccgccct aagccttcta
+       61 attcgagctg agttaggaca acctgggagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc tttttcatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cggatatagc attcccccga
+      241 ataaataata taagcttctg gctcctccct ccgtcactcc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtgtatc cacccctagc cggaaatata
+      361 tctcatccag gagcctcagt agacttaact atcttctcgc tacacctggc aggtgtatcc
+      421 tccatcctgg gagccattaa tttcattact acaatcatta atataaaacc cccagccata
+      481 acccaatacc aaacccctct ttttgtatga tcagtcctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ccgtcctagc tgctggaatt accatactat taacagaccg caatcttaac
+      601 accaccttct tcgacccagc tggtgggggt gacccaatct tatatcagca cctattttga
+//
+
+LOCUS       KU694216                 639 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus brunneus voucher 4505 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694216
+VERSION     KU694216.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus brunneus (brown titi)
+  ORGANISM  Plecturocebus brunneus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Plecturocebus brunneus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="4505"
+                     /db_xref="taxon:1812042"
+     gene            <1..>639
+                     /gene="COI"
+     CDS             <1..>639
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45723.1"
+                     /translation="AWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIMIF
+                     FMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTG
+                     WTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPL
+                     FVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 gcctgagcag gggcagtcgg aaccgcccta agcctcctaa ttcgagctga gttaggacaa
+       61 cctgggagtt taatagaaga tgatcacgtc tacaacgtta tcgttacctc tcacgcattt
+      121 attataatct ttttcatagt tataccaatt ataattgggg gctttggaaa ctgacttgtg
+      181 ccccttataa ttggtgcgcc ggatatagca ttcccccgaa taaataatat aagcttctgg
+      241 ctcctccctc cgtcactcct cctattactt gcgtcttcaa ctctagaggc cggcgcaggg
+      301 actggctgaa cagtgtatcc acccctagcc ggaaatatat ctcatccagg agcctcagta
+      361 gacttaacta tcttctcgct acacctggca ggtgtatcct ccatcctggg agccattaat
+      421 ttcattacta caatcattaa tataaaaccc ccagccataa cccaatacca aacccctctt
+      481 tttgtatgat cagtccttat tacagcagtt cttctcctcc tgtctctccc cgtcctagct
+      541 gctggaatta ccatactatt aacagaccgc aatcttaaca ccaccttctt cgacccagct
+      601 ggtgggggcg acccaatctt atatcagcac ctattttga
+//
+
+LOCUS       KU694215                 636 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus brunneus voucher 4346 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694215
+VERSION     KU694215.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus brunneus (brown titi)
+  ORGANISM  Plecturocebus brunneus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /organism="Plecturocebus brunneus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="4346"
+                     /db_xref="taxon:1812042"
+     gene            <1..>636
+                     /gene="COI"
+     CDS             <1..>636
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45722.1"
+                     /translation="WAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIMIFF
+                     MVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGW
+                     TVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLF
+                     VWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 tgagcagggg cagtcggaac cgccctaagc cttctaattc gagctgagtt aggacaacct
+       61 gggagtttaa tagaagatga tcacgtctac aacgttatcg ttacctctca cgcatttatt
+      121 ataatctttt tcatagttat accaattata attgggggct ttggaaactg acttgtgccc
+      181 cttataattg gtgcgccgga tatagcattc ccccgaataa ataatataag cttctggctc
+      241 ctccctccgt cactcctcct attacttgcg tcttcaactc tagaggccgg cgcagggact
+      301 ggctgaacag tgtatccacc cctagccgga aatatatctc atccaggagc ctcagtagac
+      361 ttaactatct tctcgctaca cctggcaggt gtatcctcca tcctgggagc cattaatttc
+      421 attactacaa tcattaatat aaaaccccca gccataaccc aataccaaac ccctcttttt
+      481 gtatgatcag tccttattac agcagttctt ctcctactgt ctctccccgt cctagctgct
+      541 ggaattacca tactattaac agaccgcaat cttaacacca ccttcttcga cccagctggt
+      601 gggggtgacc caatcttata tcagcaccta ttttga
+//
+
+LOCUS       KU694214                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus brunneus voucher 4019 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694214
+VERSION     KU694214.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus brunneus (brown titi)
+  ORGANISM  Plecturocebus brunneus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus brunneus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="4019"
+                     /db_xref="taxon:1812042"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45721.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acgctctacc ttctatttgg agcctgagca ggggcagtcg gaaccgccct aagcctccta
+       61 attcgagctg agttaggaca acctgggagt ctgatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc tttttcatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cggatatagc attcccccga
+      241 ataaataata taagcttctg gctcctccct ccgtcactcc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtgtatc cacccctagc cggaaatata
+      361 tctcatccag gagcctcagt agacttaact atcttctcgc tacacttggc aggtgtatcc
+      421 tccatcctgg gagccattaa tttcattact acaatcatta atataaaacc cccagccata
+      481 acccaatacc aaacccctct ttttgtatga tcagtcctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ccgtcctagc tgctggaatt accatactat taacagaccg caatcttaac
+      601 accaccttct tcgacccagc tggtgggggt gacccaatct tatatcagca cctattttga
+//
+
+LOCUS       KU694213                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus brunneus voucher 4009 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694213
+VERSION     KU694213.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus brunneus (brown titi)
+  ORGANISM  Plecturocebus brunneus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus brunneus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="4009"
+                     /db_xref="taxon:1812042"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45720.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acgctctacc ttctatttgg agcctgagca ggggcagtcg gaaccgccct aagccttcta
+       61 attcgagctg agttaggaca acctgggagt ttaatagaag atgatcacgt ctacaacgtt
+      121 atcgttacct ctcacgcatt tattataatc tttttcatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cggatatagc attcccccga
+      241 ataaataata taagcttctg gctcctccct ccgtcactcc tcctactact tgcgtcttca
+      301 actctagagg ccggcgcagg gactggctga acagtgtatc cacccctagc cggaaatata
+      361 tctcatccag gagcctcagt agacttaact atcttctcgc tacacctggc aggtgtatcc
+      421 tccatcctgg gagctattaa tttcattact acaatcatta atataaaacc cccagccata
+      481 acccaatacc aaacccctct ttttgtatga tcagtcctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ccgtcctagc tgctggaatt accatactat taacagaccg caatcttaac
+      601 accaccttct tcgacccagc tggtgggggt gacccaatct tatatcagca cctattttga
+//
+
+LOCUS       KU694212                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus bernhardi voucher UFRO413 cytochrome c oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694212
+VERSION     KU694212.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus bernhardi (Prince Bernhard's titi)
+  ORGANISM  Plecturocebus bernhardi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus bernhardi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UFRO413"
+                     /db_xref="taxon:1812036"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45719.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg agcctgagca ggggcagtag gaactgccct aagcctttta
+       61 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 attgttacct ctcacgcatt tatcataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cagatatagc atttccccga
+      241 ataaataata taagcttctg acttcttcct ccgtctcttc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg aactggctga acagtatatc cacccctagc cggaaatata
+      361 tctcatccag gagcctcagt agacttaact atcttctcgt tacacctagc aggtgtatcc
+      421 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtatc aaacccctct ctttgtatga tcagttctta ttacagcagt ccttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg taatcttaac
+      601 accactttct tcgacccagc cggtggaggt gacccaatct tatatcaaca cctattttga
+//
+
+LOCUS       KU694211                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus bernhardi voucher 42964 cytochrome c oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694211
+VERSION     KU694211.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus bernhardi (Prince Bernhard's titi)
+  ORGANISM  Plecturocebus bernhardi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus bernhardi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="42964"
+                     /db_xref="taxon:1812036"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45718.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg agcctgagca ggggcagtag gaactgccct aagcctttta
+       61 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 attgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cagatatagc attcccccga
+      241 ataaataata taagcttctg acttcttcct ccgtcacttc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg aactggctga acagtctatc cacccctagc cggaaatata
+      361 tctcatccag gagcctcagt agacttaact atcttctcgc tacacctggc aggtgtatcc
+      421 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtacc aaacccctct ctttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg caatcttaac
+      601 accactttct tcgacccagc cggtggaggt gacccaatct tatatcaaca cctattttga
+//
+
+LOCUS       KU694210                 660 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Plecturocebus bernhardi voucher 42960 cytochrome c oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694210
+VERSION     KU694210.1
+KEYWORDS    .
+SOURCE      mitochondrion Plecturocebus bernhardi (Prince Bernhard's titi)
+  ORGANISM  Plecturocebus bernhardi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Plecturocebus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Plecturocebus bernhardi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="42960"
+                     /db_xref="taxon:1812036"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45717.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     FW"
+ORIGIN      
+        1 acactctatc ttctatttgg agcctgagca ggggcagtag gaactgccct aagcctttta
+       61 attcgagccg agttaggaca acctggaagt ttaatagaag atgatcacgt ctacaacgtt
+      121 attgttacct ctcacgcatt tattataatc ttttttatag ttataccaat tataattggg
+      181 ggctttggaa actgacttgt gccccttata attggtgcgc cagatatagc attcccccga
+      241 ataaataata taagcttctg acttcttcct ccgtcacttc tcctattact tgcgtcttca
+      301 actctagagg ccggcgcagg aactggctga acagtctatc cacccctagc cggaaatata
+      361 tctcatccag gagcctcagt agacttaact atcttctcgc tacacctggc aggtgtatcc
+      421 tccatcctgg gagctattaa ttttattact acaattatta atataaaacc cccagccata
+      481 acccagtacc aaacccctct ctttgtatga tcagttctta ttacagcagt tcttctcctc
+      541 ctgtctctcc ctgtcctagc tgctggaatt actatactat taacagaccg caatcttaac
+      601 accactttct tcgacccagc cggtggaggt gacccaatct tatatcaaca cctattttga
+//
+
+LOCUS       MH101708                 642 bp    DNA     linear   PRI 21-NOV-2018
+DEFINITION  Cheracebus lucifer voucher CTGAM703 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MH101708
+VERSION     MH101708.1
+KEYWORDS    .
+SOURCE      mitochondrion Cheracebus lucifer
+  ORGANISM  Cheracebus lucifer
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Cheracebus.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Byrne,H., Lynch Alfaro,J.W., Sampaio,I., Farias,I., Schneider,H.,
+            Hrbek,T. and Boubli,J.P.
+  TITLE     Titi monkey biogeography: Parallel Pleistocene spread by
+            Plecturocebus and Cheracebus into a post-Pebas Western Amazon
+  JOURNAL   Zool. Scr. 47 (5), 499-517 (2018)
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-MAR-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Cheracebus lucifer"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CTGAM703"
+                     /db_xref="taxon:2487712"
+     gene            <1..>642
+                     /gene="COI"
+     CDS             <1..>642
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AYV99850.1"
+                     /translation="GAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFIMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGT
+                     GWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTP
+                     LFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 ggagcatggg cgggagcagt tggaactgcc ctaagccttt taattcgagc agaactagga
+       61 caacctggaa gtctaataga agatgaccat gtttataacg ttattgttac ctcccacgca
+      121 tttattataa tcttcttcat agtaatgcca attataattg ggggcttcgg aaactgactt
+      181 gtccccctta taattggtgc acctgatata gcatttcctc gaataaacaa tataagcttc
+      241 tgactcctcc ccccatcact tctattacta cttgcatctt caaccctaga ggccggcgca
+      301 ggaactggtt gaacagtata tccaccccta gctggaaaca tatcccaccc aggagcctca
+      361 gttgacctaa ctattttctc attacaccta gcaggcgtct cctctatcct aggcgctatc
+      421 aattttatta ctacaattat caatataaaa cctccagcta taacccaata tcaaacccct
+      481 ctctttgtct gatccgttct aatcacagca gtacttcttc ttctatcact cccagttcta
+      541 gctgctggaa ttactatact actaacagac cgtaacctta acactacttt ttttgatcct
+      601 gctggcgggg gtgacccaat tctataccag catttatttt ga
+//
+

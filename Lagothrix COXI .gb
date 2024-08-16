@@ -1,0 +1,58 @@
+LOCUS       EF568626                 633 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Lagothrix lagotricha voucher AG05356 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568626
+VERSION     EF568626.1
+KEYWORDS    .
+SOURCE      mitochondrion Lagothrix lagotricha (brown woolly monkey)
+  ORGANISM  Lagothrix lagotricha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Atelidae; Atelinae; Lagothrix.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Lagothrix lagotricha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG05356"
+                     /db_xref="taxon:9519"
+                     /country="USA"
+                     /PCR_primers="fwd_name: VERTCOIf1, fwd_seq:
+                     ttctcaaccaaccaacaaagacattgg, rev_name: VERTCOIr1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>633
+                     /gene="COXI"
+     CDS             <1..>633
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81535.1"
+                     /translation="LFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAFI
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGA
+                     GTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQYQ
+                     TPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVL"
+ORIGIN      
+        1 tactattcgg cgcatgagca ggggccgtag gaacagccct aagtctctta attcgagcgg
+       61 aactaggtca acccggaagt ttaatagaag acgaccatgt ttataatgtt atcgttacct
+      121 cccacgcatt tattataatc ttcttcatag ttataccaat tataattgga ggctttggaa
+      181 actgacttgt ccccctaata attggtgccc ccgacatagc attcccccga ataaataata
+      241 taagcttctg actcctacct ccatccctac tacttctact agcatcctca accttagaag
+      301 ccggtgctgg aactggctga acagtttacc cacccctagc aggaaatata tcacacccag
+      361 gggcctctgt agatctaact atcttttcac tacacctggc aggtatttct tccattctag
+      421 gggccattaa tttcatcaca acaattatta atataaaacc cccagctata acccaatatc
+      481 aaacacccct gtttgtctga tccgtcctta tcacagcagt tctgctactt ctatcccttc
+      541 cagtcttagc cgccggaatt accatactac tgaccgatcg taacctcaac actacctttt
+      601 tcgaccccgc cggtggtgga gacccagtct tat
+//
+

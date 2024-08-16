@@ -1,0 +1,120 @@
+LOCUS       KU694202                 639 bp    DNA     linear   PRI 16-MAR-2016
+DEFINITION  Callicebus nigrifrons voucher CPE04 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU694202
+VERSION     KU694202.1
+KEYWORDS    .
+SOURCE      mitochondrion Callicebus nigrifrons (black-fronted titi)
+  ORGANISM  Callicebus nigrifrons
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Callicebus.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Byrne,H., Rylands,A.B., Carneiro,J.C., Alfaro,J.W., Bertuol,F., da
+            Silva,M.N., Messias,M., Groves,C.P., Mittermeier,R.A., Farias,I.,
+            Hrbek,T., Schneider,H., Sampaio,I. and Boubli,J.P.
+  TITLE     Phylogenetic relationships of the New World titi monkeys
+            (Callicebus): first appraisal of taxonomy based on molecular
+            evidence
+  JOURNAL   Front. Zool. 13, 10 (2016)
+   PUBMED   26937245
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) School of Environment and Life Sciences,
+            University of Salford, The Crescent, Salford, Lancashire M5 4WT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Callicebus nigrifrons"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CPE04"
+                     /db_xref="taxon:867334"
+     gene            <1..>639
+                     /gene="COI"
+     CDS             <1..>639
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AMP45709.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPI"
+ORIGIN      
+        1 acactgtact tactatttgg agcatgagca ggagctgtag gaaccgccct aagcctatta
+       61 attcgggcag aactaggaca acctggaagc ctaatagaag atgatcacgt ttacaacgtt
+      121 atcgttacct cccacgcatt tattataatt tttttcatag taataccaat tataattggt
+      181 ggctttggaa actgactcgt acctcttatg attggagcac ccgacatagc atttccccga
+      241 ataaataata taagcttctg actccttccc ccatctcttc ttctactact tgcgtcttca
+      301 actctagagg ccggtgcagg gactggctga acagtatatc cacccctagc cggaaacata
+      361 tctcacccag gagcctcagt agacctaact atcttttcac ttcacctggc aggtatctcc
+      421 tccatcctag gagctattaa ctttattact acaattatta acataaaacc cccagctata
+      481 acccaatatc aaactcccct ttttgtctga tcagttctca tcacagcagt acttcttctt
+      541 ctatctctcc ctgttctagc tgctggaatt accatattat taacagaccg taacctaaat
+      601 accactttct ttgaccctgc tggaggaggc gacccaatt
+//
+
+LOCUS       MH101707                 621 bp    DNA     linear   PRI 21-NOV-2018
+DEFINITION  Callicebus personatus voucher 2466 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MH101707
+VERSION     MH101707.1
+KEYWORDS    .
+SOURCE      mitochondrion Callicebus personatus (masked titi)
+  ORGANISM  Callicebus personatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Callicebinae; Callicebus.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Byrne,H., Lynch Alfaro,J.W., Sampaio,I., Farias,I., Schneider,H.,
+            Hrbek,T. and Boubli,J.P.
+  TITLE     Titi monkey biogeography: Parallel Pleistocene spread by
+            Plecturocebus and Cheracebus into a post-Pebas Western Amazon
+  JOURNAL   Zool. Scr. 47 (5), 499-517 (2018)
+REFERENCE   2  (bases 1 to 621)
+  AUTHORS   Byrne,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-MAR-2018) Institute for Society and Genetics, UCLA,
+            3323A Life Sciences Building, Los Angeles, CA 90034, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Callicebus personatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="2466"
+                     /db_xref="taxon:70814"
+     gene            <1..>621
+                     /gene="COI"
+     CDS             <1..>621
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AYV99849.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPA"
+ORIGIN      
+        1 acactgtatt tactatttgg agcatgagca ggagctgtag gaaccgccct aagcctatta
+       61 attcgggcag aactaggaca gcctggaagc ctaatagaag atgatcacgt ttacaacgtt
+      121 atcgttacct cccacgcatt tattataatt tttttcatag taatgccaat tataattggt
+      181 ggctttggaa actgacttgt acctctcatg atcggagcac ccgatatagc atttccccga
+      241 ataaacaata taagcttctg acttcttcct ccatcccttc ttctactact tgcgtcctca
+      301 actctagaag ccggtgcagg aactggctga acagtatatc cacccctagc tggaaatata
+      361 tctcatccag gagcctcagt agacctaact atcttctcac ttcacctggc aggtatctcc
+      421 tccatcctag gagccattaa ttttatcact acaattatta atataaaacc tccagctata
+      481 acacaatatc agactcctct ttttgtctga tcagttctta ttacagcagt gcttcttctt
+      541 ctgtctctcc cagttctagc tgctggaatt accatattac taacagaccg taacctaaat
+      601 accaccttct ttgatcctgc t
+//
+

@@ -1,0 +1,774 @@
+LOCUS       AY972808                 652 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Gorilla gorilla isolate PR01103 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972808
+VERSION     AY972808.1
+KEYWORDS    .
+SOURCE      mitochondrion Gorilla gorilla (western gorilla)
+  ORGANISM  Gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+REFERENCE   1  (bases 1 to 652)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 652)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 652)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..652
+                     /organism="Gorilla gorilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01103"
+                     /db_xref="taxon:9593"
+                     /sex="male"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>652
+                     /gene="COXI"
+     CDS             <1..>652
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22374.1"
+                     /translation="LLFGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAG
+                     AGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQY
+                     QTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 ctactattcg gcgcatgagc tggagtccta ggcacagccc taagcctcct tattcgagca
+       61 gaacttggtc aaccaggcaa ccttctaggt aacgatcaca tctataatgt tatcgtaaca
+      121 gcccatgcgt tcgtaataat tttcttcata gtaatgccta tcataatcgg aggctttggc
+      181 aactggctag tacccttaat aattggtgcc cccgacatgg cattcccccg cataaacaac
+      241 ataagcttct gactccttcc cccttctttc ctacttctgc tcgcatccgc tatagtagaa
+      301 gccggcgcag gaactggttg gacagtctac cctcccttag caggaaatta ttcccacccc
+      361 ggggcttctg tagacctaac cattttttcc ctacacctag caggcatctc ctctattcta
+      421 ggagccatca acttcattac aacaatcatc aatataaaac cccccgccat aacccaatac
+      481 caaacacccc ttttcgtctg atccgtccta atcacagcag tcttacttct tctatctctc
+      541 ccagtactag ctgctggaat taccatatta ttaacagacc gtaacctcaa caccaccttt
+      601 ttcgacccgg ccggaggagg agatcctatc ctataccaac acttattctg at
+//
+
+LOCUS       AY972795                 426 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Gorilla gorilla isolate PR01054 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972795
+VERSION     AY972795.1
+KEYWORDS    .
+SOURCE      mitochondrion Gorilla gorilla (western gorilla)
+  ORGANISM  Gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+REFERENCE   1  (bases 1 to 426)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 426)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 426)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..426
+                     /organism="Gorilla gorilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01054"
+                     /db_xref="taxon:9593"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>426
+                     /gene="COXI"
+     CDS             <1..>426
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22361.1"
+                     /translation="GFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEA
+                     GAGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQ
+                     YQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTT"
+ORIGIN      
+        1 ggctttggca actggctagt acccttaata attggtgccc ccgacatggc attcccccgc
+       61 ataaacaaca taagcttctg actccttccc ccttctttcc tacttctgct cgcatccgct
+      121 atagtagaag ccggcgcagg gactggttgg acagtctacc ctcccttagc aggaaattat
+      181 tcccaccccg gagcttctgt agacctaacc attttttccc tacacctagc aggcatctcc
+      241 tctattctag gggccatcaa cttcattaca acaatcatca atataaaacc ccccgccata
+      301 acccaatacc aaacacccct tttcgtctga tccgtcctaa tcacagcagt cttacttctt
+      361 ctatctctcc cagtactagc tgctggaatt accatattat taacagaccg taacctcaac
+      421 accacc
+//
+
+LOCUS       AY972792                 639 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Gorilla gorilla isolate PR01016 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972792
+VERSION     AY972792.1
+KEYWORDS    .
+SOURCE      mitochondrion Gorilla gorilla (western gorilla)
+  ORGANISM  Gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 639)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Gorilla gorilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01016"
+                     /db_xref="taxon:9593"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>639
+                     /gene="COXI"
+     CDS             <1..>639
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22358.1"
+                     /translation="LFGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFV
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAGA
+                     GTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQYQ
+                     TPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQ"
+ORIGIN      
+        1 actattcggc gcatgagctg gagtcttagg cacagcccta agcctcctta ttcgagcaga
+       61 acttggtcaa ccaggcaacc ttctaggtaa cgatcacatc tataatgtta tcgtcacagc
+      121 ccatgcgttc gtaataattt tcttcatagt aatgcctatc ataatcggag gctttggcaa
+      181 ctggctagta cccttaataa ttggtgcccc cgacatggca ttcccccgca taaacaacat
+      241 aagcttctga ctccttcccc cttctttcct acttctgctc gcatccgcta tagtagaagc
+      301 cggcgcagga actggttgga ctgtctaccc tcccttagca ggaaattatt cccaccccgg
+      361 ggcttctgta gacctaacca ttttttccct acacctagca ggcatctcct ctattctagg
+      421 agccatcaac ttcattacaa caatcatcaa tataaaaccc cccgccataa cccaatacca
+      481 aacacccctt ttcgtctgat ccgtcctaat cacagcagtc ttacttcttc tatctctccc
+      541 agtactagct gctggaatta ccatattatt aacagaccgt aacctcaaca ccaccttttt
+      601 cgacccagcc ggaggaggag atcctatcct ataccaaca
+//
+
+LOCUS       AY972775                 591 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Gorilla gorilla isolate PR00945 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972775
+VERSION     AY972775.1
+KEYWORDS    .
+SOURCE      mitochondrion Gorilla gorilla (western gorilla)
+  ORGANISM  Gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+REFERENCE   1  (bases 1 to 591)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 591)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 591)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..591
+                     /organism="Gorilla gorilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00945"
+                     /db_xref="taxon:9593"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>591
+                     /gene="COXI"
+     CDS             <1..>591
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22341.1"
+                     /translation="FGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAGAG
+                     TGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQYQT
+                     PLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTT"
+ORIGIN      
+        1 ttcggcgcat gagctggagt cctaggcaca gccctaagcc tccttattcg agcagaactt
+       61 ggtcaaccag gcaaccttct aggtaacgat cacatctata atgttatcgt cacagcccat
+      121 gcgttcgtaa taattttctt catagtaatg cctatcataa tcggaggctt tggcaactgg
+      181 ctagtaccct taataattgg tgcccccgac atggcattcc cccgcataaa caacataagc
+      241 ttctgactcc ttcccccttc tttcctactt ctgctcgcat ccgctatagt agaagccggc
+      301 gcagggactg gttggacagt ctaccctccc ttagcaggaa attattccca ccccggggct
+      361 tctgtagacc taaccatttt ttccctacac ctagcaggca tctcctctat tctaggagcc
+      421 atcaacttca ttacaacaat catcaatata aaaccccccg ccataaccca ataccaaaca
+      481 ccccttttcg tctgatctgt cctaatcaca gcagtcttac ttcttctatc tctcccagta
+      541 ctagctgctg gaattaccat attattaaca gaccgtaacc tcaacaccac c
+//
+
+LOCUS       AY972700                 628 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Gorilla gorilla isolate PR00670 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972700
+VERSION     AY972700.1
+KEYWORDS    .
+SOURCE      mitochondrion Gorilla gorilla (western gorilla)
+  ORGANISM  Gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+REFERENCE   1  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..628
+                     /organism="Gorilla gorilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00670"
+                     /db_xref="taxon:9593"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>628
+                     /gene="COXI"
+     CDS             <1..>628
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22268.1"
+                     /translation="FGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAGAG
+                     TGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQYQT
+                     PLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPIL"
+ORIGIN      
+        1 ttcggcgcat gagctggagt cctaggcaca gccctaagcc tccttattcg agcagaactt
+       61 ggtcaaccag gcaaccttct aggtaacgat cacatctata atgttatcgt cacagcccat
+      121 gcgttcgtaa taattttctt catagtaatg cctatcataa tcggaggctt tggcaactgg
+      181 ctagtaccct taataattgg tgcccccgac atggcattcc cccgcataaa caacataagc
+      241 ttctgactcc ttcccccttc tttcctactt ctgctcgcat ccgctatagt agaagccggc
+      301 gcaggaactg gttggactgt ctaccctccc ttagcaggaa attattccca ccccggggct
+      361 tctgtagacc taaccatttt ttccctacac ctagcaggca tctcctctat tctaggagcc
+      421 atcaacttca ttacaacaat catcaatata aaaccccccg ccataaccca ataccaaaca
+      481 ccccttttcg tctgatccgt cctaatcaca gcagtcttac ttcttctatc tctcccagta
+      541 ctagctgctg gaattaccat attattaaca gaccgtaacc tcaacaccac ctttttcgac
+      601 ccagccggag gaggagatcc tatcctat
+//
+
+LOCUS       AY972699                 591 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Gorilla gorilla isolate PR00668 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972699
+VERSION     AY972699.1
+KEYWORDS    .
+SOURCE      mitochondrion Gorilla gorilla (western gorilla)
+  ORGANISM  Gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+REFERENCE   1  (bases 1 to 591)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 591)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 591)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..591
+                     /organism="Gorilla gorilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00668"
+                     /db_xref="taxon:9593"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>591
+                     /gene="COXI"
+     CDS             <1..>591
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22267.1"
+                     /translation="SLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFMVMPIMIGG
+                     FGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAGAGTGWTVYPPLAGN
+                     YSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAV
+                     LLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPI"
+ORIGIN      
+        1 taagcctcct tattcgagca gaactnggtc aaccaggcaa ccttctaggt aacgatcaca
+       61 tctataatgt tatcgtcaca gcccatgcgt tcgtaataat tttcttcata gtaatgccta
+      121 tcataatcgg aggctttggc aactggctag tacccttaat aattggtgcc cccgacatgg
+      181 cattcccccg cataaacaac ataagcttct gactccttcc cccttctttc ctacttctgc
+      241 tcgcatccgc tatagtagaa gccggcgcag gaactggttg gactgtctac cctcccttag
+      301 caggaaatta ttcccacccc ggggcttctg tagacctaac cattttttcc ctacacctag
+      361 caggcatctc ctctattcta ggagccatca acttcattac aacaatcatc aatataaaac
+      421 cccccgccat aacccaatac caaacacccc ttttcgtctg atccgtccta atcacagcag
+      481 tcttacttct tctatctctc ccagtactag ctgctggaat taccatatta ttaacagacc
+      541 gtaacctcaa caccaccttt ttcgacccag ccggaggagg agatcctatc c
+//
+
+LOCUS       AY972677                 581 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Gorilla gorilla isolate PR00438 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972677
+VERSION     AY972677.1
+KEYWORDS    .
+SOURCE      mitochondrion Gorilla gorilla (western gorilla)
+  ORGANISM  Gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+REFERENCE   1  (bases 1 to 581)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 581)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 581)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..581
+                     /organism="Gorilla gorilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00438"
+                     /db_xref="taxon:9593"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>581
+                     /gene="COXI"
+     CDS             <1..>581
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22247.1"
+                     /translation="AGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFM
+                     VMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAGAGTGWT
+                     VYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQYQTPLFV
+                     WSVLITAVLLLLSLPVLAAGITMLLTDRNLNTT"
+ORIGIN      
+        1 gagctggagt cctaggcaca gccctaagcc tccttattcg agcagaactt ggtcaaccag
+       61 gcaaccttct aggtaacgat cacatctata atgttatcgt cacagcccat gcgttcgtaa
+      121 taattttctt catagtaatg cctatcataa tcggaggctt tggcaactgg ctagtaccct
+      181 taataattgg tgcccccgac atggcattcc cccgcataaa caacataagc ttctgactcc
+      241 ttcccccttc tttcctactt ctgctcgcat ccgctatagt agaagccggc gcaggaactg
+      301 gttggacagt ctaccctccc ttagcaggaa attattccca ccccggggct tctgtagacc
+      361 taaccatttt ttccctacac ctagcaggca tctcctctat tctaggagcc atcaacttca
+      421 ttacaacaat catcaatata aaaccccccg ccataaccca ataccaaaca ccccttttcg
+      481 tctgatccgt cctaatcaca gcagtcttac ttcttctatc tctcccagta ctagctgctg
+      541 gaattaccat attattaaca gaccgtaacc tcaacaccac c
+//
+
+LOCUS       AY972664                 638 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Gorilla gorilla isolate PR00265 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972664
+VERSION     AY972664.1
+KEYWORDS    .
+SOURCE      mitochondrion Gorilla gorilla (western gorilla)
+  ORGANISM  Gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+REFERENCE   1  (bases 1 to 638)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 638)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 638)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..638
+                     /organism="Gorilla gorilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00265"
+                     /db_xref="taxon:9593"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>638
+                     /gene="COXI"
+     CDS             <1..>638
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22237.1"
+                     /translation="LFGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFV
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAGA
+                     GTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQYQ
+                     TPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQ"
+ORIGIN      
+        1 actattcggc gcatgagctg gagtcctagg cacagcccta agtctcctta ttcgagcaga
+       61 acttggtcaa ccaggcaacc ttctaggtaa cgatcacatc tataatgtta tcgtcacagc
+      121 ccatgcgttc gtaataattt tcttcatagt aatgcctatc ataatcggag gctttggcaa
+      181 ctggctagta cccttaataa ttggtgcccc cgacatggca ttcccccgca taaacaacat
+      241 aagcttctga ctccttcccc cttctttcct acttctgctc gcatccgcta tagtagaagc
+      301 cggcgcaggg actggttgga cagtctaccc tcccttagca ggaaattatt cccaccccgg
+      361 agcttctgta gacctaacca ttttttccct acacctagca ggcatctcct ctattctagg
+      421 ggccatcaac ttcattacaa caatcatcaa tataaaaccc cccgccataa cccaatacca
+      481 aacacccctt ttcgtctgat ccgtcctaat cacagcagtc ttacttcttc tatctctccc
+      541 agtactagct gctggaatta ccatattatt aacagaccgt aacctcaaca ccaccttttt
+      601 cgacccagcc ggaggaggag atcctatcct ataccaac
+//
+
+LOCUS       AY972663                 644 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Gorilla gorilla isolate PR00263 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972663
+VERSION     AY972663.1
+KEYWORDS    .
+SOURCE      mitochondrion Gorilla gorilla (western gorilla)
+  ORGANISM  Gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+REFERENCE   1  (bases 1 to 644)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 644)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 644)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..644
+                     /organism="Gorilla gorilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00263"
+                     /db_xref="taxon:9593"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>644
+                     /gene="COXI"
+     CDS             <1..>644
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22236.1"
+                     /translation="GAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAGAGT
+                     GWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQYQTP
+                     LFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 tcggcgcatg agctggagtc ctaggcacag ccctaagcct ccttattcga gcagaacttg
+       61 gtcaaccagg caaccttcta ggtaacgatc acatctataa tgttatcgtc acagcccatg
+      121 cgttcgtaat aattttcttc atagtaatgc ctatcataat cggaggcttt ggcaactggc
+      181 tagtaccctt aataattggt gcccccgaca tggcattccc ccgcataaac aacataagct
+      241 tctgactcct tcccccttct ttcctacttc tgctcgcatc cgctatagta gaagccggcg
+      301 caggaactgg ttggacagtc taccctccct tagcaggaaa ttattcccac cccggggctt
+      361 ctgtagacct aaccattttt tccctacacc tagcaggcat ctcctctatt ctaggagcca
+      421 tcaacttcat tacaacaatc atcaatataa aaccccccgc cataacccaa taccaaacac
+      481 cccttttcgt ctgatccgtc ctaatcacag cagtcttact tcttctatct ctcccagtac
+      541 tagctgctgg aattaccata ttattaacag accgtaacct caacaccacc tttttcgacc
+      601 cagccggagg aggagatcct atcctatacc aacacttatt ctga
+//
+
+LOCUS       AY972655                 642 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Gorilla gorilla isolate PR00106 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972655
+VERSION     AY972655.1
+KEYWORDS    .
+SOURCE      mitochondrion Gorilla gorilla (western gorilla)
+  ORGANISM  Gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Gorilla gorilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00106"
+                     /db_xref="taxon:9593"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>642
+                     /gene="COXI"
+     CDS             <1..>642
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22231.1"
+                     /translation="GAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAGAGT
+                     GWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQYQTP
+                     LFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 ggcgcatgag ctggagtcct aggcacagcc ctaagcctcc ttattcgagc agaacttggt
+       61 caaccaggca accttctagg taacgatcac atctataatg ttatcgtaac agcccatgcg
+      121 ttcgtaataa ttttcttcat agtaatgcct atcataatcg gaggctttgg caactggcta
+      181 gtacccttaa taattggtgc ccccgacatg gcattccccc gcataaacaa cataagcttc
+      241 tgactccttc ccccttcttt cctacttctg ctcgcatccg ctatagtaga agccggcgca
+      301 ggaactggtt ggacagtcta ccctccctta gcaggaaatt attcccaccc cggggcttct
+      361 gtagacctaa ccattttttc cctacaccta gcaggcatct cctctattct aggagccatc
+      421 aacttcatta caacaatcat caatataaaa ccccccgcca taacccaata ccaaacaccc
+      481 cttttcgtct gatccgtcct aatcacagca gtcttacttc ttctatctct cccagtacta
+      541 gctgctggaa ttaccatatt attaacagac cgtaacctca acaccacctt tttcgacccg
+      601 gccggaggag gagatcctat cctataccaa cacttattct ga
+//
+
+LOCUS       AY972654                 615 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Gorilla gorilla isolate PR00101 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972654
+VERSION     AY972654.1
+KEYWORDS    .
+SOURCE      mitochondrion Gorilla gorilla (western gorilla)
+  ORGANISM  Gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+REFERENCE   1  (bases 1 to 615)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 615)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 615)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="Gorilla gorilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00101"
+                     /db_xref="taxon:9593"
+                     /sex="female"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>615
+                     /gene="COXI"
+     CDS             <1..>615
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22230.1"
+                     /translation="AWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIF
+                     FMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAGAGTG
+                     WTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMTQYQTPL
+                     FVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN      
+        1 gcatgagctg gagtcctagg cacagcccta agcctcctta ttcgagcaga acttggtcaa
+       61 ccaggcaacc ttctaggtaa cgatcacatc tataatgtta tcgtaacagc ccatgcgttc
+      121 gtaataattt tcttcatagt aatgcctatc ataatcggag gctttggcaa ctggctagta
+      181 cccttaataa ttggtgcccc cgacatggca ttcccccgca taaacaacat aagcttctga
+      241 ctccttcccc cttctttcct acttctgctc gcatccgcta tagtagaagc cggcgcagga
+      301 actggttgga cagtctaccc tcccttagca ggaaattatt cccaccccgg ggcttctgta
+      361 gacctaacca ttttttccct acacctagca ggcatctcct ctattctagg agccatcaac
+      421 ttcattacaa caatcatcaa tataaaaccc cccgccataa cccaatacca aacacccctt
+      481 ttcgtctgat ccgtcctaat cacagcagtc ttacttcttc tatctctccc agtactagct
+      541 gctggaatta ccatattatt aacagaccgt aacctcaaca ccaccttttt cgacccggcc
+      601 ggaggaggag atcct
+//
+
+LOCUS       AY972649                 657 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Gorilla gorilla isolate PR00053 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972649
+VERSION     AY972649.1
+KEYWORDS    .
+SOURCE      mitochondrion Gorilla gorilla (western gorilla)
+  ORGANISM  Gorilla gorilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Gorilla.
+REFERENCE   1  (bases 1 to 657)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 657)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 657)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..657
+                     /organism="Gorilla gorilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00053"
+                     /db_xref="taxon:9593"
+                     /sex="male"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>657
+                     /gene="COXI"
+     CDS             <1..>657
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22225.1"
+                     /translation="IGTLYLLFGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASA
+                     MVEAGAGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPP
+                     AMTQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attggaacac tatatctact attcggcgca tgagctggag tcctaggcac agccctaagc
+       61 ctccttattc gagcagaact tggtcaacca ggcaaccttc taggtaacga tcacatctat
+      121 aatgttatcg taacagccca tgcgttcgta ataattttct tcatagtaat gcctatcata
+      181 atcggaggct ttggcaactg gctagtaccc ttaataattg gtgcccccga catggcattc
+      241 ccccgcataa acaacataag cttctgactc cttccccctt ctttcctact tctgctcgca
+      301 tccgctatag tagaagccgg cgcaggaact ggttggacag tctaccctcc cttagcagga
+      361 aattattccc accccggggc ttctgtagac ctaaccattt tttccctaca cctagcaggc
+      421 atctcctcta ttctaggagc catcaacttc attacaacaa tcatcaatat aaaacccccc
+      481 gccataaccc aataccaaac accccttttc gtctgatccg tcctaatcac agcagtctta
+      541 cttcttctat ctctcccagt actagctgct ggaattacca tattattaac agaccgtaac
+      601 ctcaacacca cctttttcga cccggccgga ggaggagatc ctatcctata ccaacac
+//
+

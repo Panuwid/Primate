@@ -1,0 +1,56 @@
+LOCUS       EU185729                 606 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Miopithecus talapoin voucher PR00716 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU185729
+VERSION     EU185729.1
+KEYWORDS    .
+SOURCE      mitochondrion Miopithecus talapoin (talapoin)
+  ORGANISM  Miopithecus talapoin
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Miopithecus.
+REFERENCE   1  (bases 1 to 606)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 606)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave., Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..606
+                     /organism="Miopithecus talapoin"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR00716"
+                     /db_xref="taxon:36231"
+                     /sex="male"
+     gene            <1..>606
+                     /gene="COXI"
+     CDS             <1..>606
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71163.1"
+                     /translation="AGVMGTALSLLIRAELGQPGSLLGNDHIYNVIVTAHAFVMIFFM
+                     VMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLMASAMVEAGAGTGWT
+                     VYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFV
+                     WSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGG"
+ORIGIN      
+        1 gggctggagt tataggaaca gctctaagcc tcctcatccg agctgaacta ggccaacccg
+       61 gtagtttgtt aggtaatgat catatttata atgttattgt aacagcccac gcatttgtca
+      121 taattttctt tatagttata cccattataa tcggggggtt cggaaactga ctagttcctt
+      181 taataattgg tgctcctgac atagcattcc cccgtataaa caacataagc ttctgactgc
+      241 ttcctccctc cttcctacta ctaatagcat cagccatagt agaagctggt gctggaacag
+      301 gttgaacggt atacccccct ctagcgggaa atctctctca cccgggagcc tctgtagatt
+      361 tagttatctt ctctctccac ctagcaggaa tctcctctat cctaggagct attaatttca
+      421 tcaccaccat tattaatata aaaccccccg caatatctca atatcaaacc cctttatttg
+      481 tctgatcagt cctaattaca gccattctcc tacttctttc tttaccagtc ctagctgccg
+      541 gcattactat actactaaca gatcgcaacc ttaacaccac tttctttgat ccaactggag
+      601 ggggag
+//
+

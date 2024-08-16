@@ -1,0 +1,61 @@
+LOCUS       DQ381473                 658 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Rungwecebus kipunji cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   DQ381473
+VERSION     DQ381473.1
+KEYWORDS    .
+SOURCE      mitochondrion Rungwecebus kipunji (Highland mangabey)
+  ORGANISM  Rungwecebus kipunji
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Rungwecebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Davenport,T.R., Stanley,W.T., Sargis,E.J., De Luca,D.W.,
+            Mpunga,N.E., Machaga,S.J. and Olson,L.E.
+  TITLE     A new genus of African monkey, Rungwecebus: morphology, ecology,
+            and molecular phylogenetics
+  JOURNAL   Science 312 (5778), 1378-1381 (2006)
+   PUBMED   16690815
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Davenport,T.R.B., Sargis,E.J., Stanley,W.T., De Luca,D.W.,
+            Mpunga,N.E., Machaga,S.J. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-2006) University of Alaska Museum, 907 Yukon
+            Drive, Fairbanks, AK 99775, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Rungwecebus kipunji"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH 187122"
+                     /db_xref="taxon:371039"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /country="Tanzania"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ABD37703.1"
+                     /translation="IGTLYLLFGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     AVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attggaactt tatatctatt atttggtgca tgagccggag tcacaggcat ggccctaagt
+       61 cttctcattc gagccgaact gggtcaaccc ggtaacctac taggcaatga tcatatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatggttat acctattata
+      181 attgggggct tcgggaattg gttggtgcct ctaataattg gcgctcctga tatagcattc
+      241 ccccgtttaa acaacataag cttctgactc cttccccctt ctttcctact actaatagca
+      301 tcaactgcag tagaggccgg tgctgggaca ggctgaacag tatatccccc tttgtcagga
+      361 aacttttccc acccaggggc ctccgtagac ctagtcatct tctcccttca cctagcgggt
+      421 atttcttcca tcctaggagc catcaacttc attaccacta ttatcaacat aaaaccccct
+      481 gcaatatccc aatatcaaac ccctttattt gtctgatcga tcttaattac agcagtcctc
+      541 ctacttctct ccctaccagt cctagccgcc ggcatcacta tactattaac agatcgcaac
+      601 ctcaacacta ctttcttcga ccctgtcgga gggggagacc ctattctata ccaacacc
+//
+

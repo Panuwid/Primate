@@ -1,0 +1,357 @@
+LOCUS       FJ392290                 705 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Lemur catta voucher PL-IGAB-ZI68 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ392290
+VERSION     FJ392290.1
+KEYWORDS    .
+SOURCE      mitochondrion Lemur catta (Ring-tailed lemur)
+  ORGANISM  Lemur catta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lemuriformes; Lemuridae; Lemur.
+REFERENCE   1  (bases 1 to 705)
+  AUTHORS   Prusak,B. and Grzybowski,G.
+  TITLE     National Plant, Fungi and Animal DNA Bank in Poland
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 705)
+  AUTHORS   Prusak,B. and Grzybowski,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-OCT-2008) Department of Animal Immunogenetics,
+            Institute of Genetics and Animal Breeding, Polish Academy of
+            Science, Postepu 1, Jastrzebiec, Wolka Kosowska 05-552, Poland
+FEATURES             Location/Qualifiers
+     source          1..705
+                     /organism="Lemur catta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PL-IGAB-ZI68"
+                     /db_xref="taxon:9447"
+                     /sex="male"
+                     /country="Poland"
+                     /lat_lon="52.15 N 21.01 E"
+                     /collection_date="23-Jul-2007"
+                     /PCR_primers="fwd_seq: agcttgagcaggcatggtag, rev_seq:
+                     cccatgtaaccgaatggttc"
+     gene            <1..>705
+                     /gene="COI"
+     CDS             <1..>705
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACJ36452.1"
+                     /translation="TALSLLIRAELGQPGSLLGDDQIYNVVVTAHAFVMIFFMVMPIM
+                     IGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEAGAGTGWTVYPPL
+                     AGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTVINMKPPAMSQYQTPLFVWSVMI
+                     TAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFWFFGHPEVYILIL
+                     PGFGMISHIVTYYSGKK"
+ORIGIN      
+        1 acagctctca gccttttaat tcgagcagaa ctaggtcaac ctgggtctct gttaggagac
+       61 gaccagatct acaacgttgt tgtaacagct catgctttcg tcataatctt tttcatagtt
+      121 atacctatta taattggagg cttcggaaac tgattagttc cattaataat tggagctcct
+      181 gatatagcat tcccccgaat aaacaatata agcttctgac ttctaccacc ttcctttcta
+      241 ttactcctag catcatcaat agtagaagct ggggcaggaa caggatgaac cgtataccct
+      301 cctttagcag gaaacttggc tcacgcagga gcctccgtag acctaacaat tttttcctta
+      361 catctagcag gggtatcctc tattttaggc gccatcaact tcattacaac agtaattaat
+      421 ataaaacctc cagccatatc acaataccaa acacctttat tcgtgtgatc tgtaataatt
+      481 actgctgttc ttctacttct atctttacca gttttagcag caggtattac aatacttcta
+      541 actgaccgta atcttaacac aacctttttt gaccctgcag gcggcggtga tcctattcta
+      601 tatcaacact tattctgatt ttttggacac cctgaagtct acatcttaat tctcccaggc
+      661 tttggcataa tttcccatat cgtcacatat tattcaggta aaaaa
+//
+
+LOCUS       FJ402884                 705 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Lemur catta voucher PL-IGAB-ZI69 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ402884
+VERSION     FJ402884.1
+KEYWORDS    .
+SOURCE      mitochondrion Lemur catta (Ring-tailed lemur)
+  ORGANISM  Lemur catta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lemuriformes; Lemuridae; Lemur.
+REFERENCE   1  (bases 1 to 705)
+  AUTHORS   Prusak,B. and Grzybowski,G.
+  TITLE     National Network of DNA Bank of Plants, Fungi and Animals
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 705)
+  AUTHORS   Prusak,B. and Grzybowski,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-OCT-2008) Department of Animal Immunogenetics,
+            Institute of Genetics and Animal Breeding, Polish Academy of
+            Science, Postepu 1, Jastrzebiec, Wolka Kosowska 05-552, Poland
+FEATURES             Location/Qualifiers
+     source          1..705
+                     /organism="Lemur catta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PL-IGAB-ZI69"
+                     /db_xref="taxon:9447"
+                     /sex="female"
+                     /country="Poland"
+                     /lat_lon="52.15 N 21.01 E"
+                     /collection_date="23-Jul-2007"
+                     /PCR_primers="fwd_seq: agcttgagcaggcatggtag, rev_seq:
+                     cccatgtaaccgaatggttc"
+     gene            <1..>705
+                     /gene="COI"
+     CDS             <1..>705
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACJ38113.1"
+                     /translation="TALSLLIRAELGQPGSLLGDDQIYNVVVTAHAFVMIFFMVMPIM
+                     IGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEAGAGTGWTVYPPL
+                     AGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTVINMKPPAMSQYQTPLFVWSVMI
+                     TAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFWFFGHPEVYILIL
+                     PGFGMISHIVTYYSGKK"
+ORIGIN      
+        1 acagctctca gccttttaat tcgagcagaa ctaggtcaac ctgggtctct gttaggagac
+       61 gaccagatct acaacgttgt tgtaacagct catgctttcg tcataatctt tttcatagtt
+      121 atacctatta taattggagg cttcggaaac tgattagttc cattaataat tggagctcct
+      181 gatatagcat tcccccgaat aaacaatata agcttctgac ttctaccacc ttcctttcta
+      241 ttactcctag catcatcaat agtagaagct ggggcaggaa caggatgaac cgtataccct
+      301 cctttagcag gaaacttggc tcacgcagga gcctccgtag acctaacaat tttttcctta
+      361 catctagcag gggtatcctc tattttaggc gccatcaact tcattacaac agtaattaat
+      421 ataaaacctc cagccatatc acaataccaa acacctttat tcgtgtgatc tgtaataatt
+      481 actgctgttc ttctacttct atctttacca gttttagcag caggtattac aatacttcta
+      541 actgaccgta atcttaacac aacctttttt gaccctgcag gcggcggtga tcctattcta
+      601 tatcaacact tattctgatt ttttggacac cctgaagtct acatcttaat tctcccaggc
+      661 tttggcataa tttcccatat cgtcacatat tattcaggta aaaaa
+//
+
+LOCUS       FJ402878                 705 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Lemur catta voucher PL-IGAB-ZI70 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ402878
+VERSION     FJ402878.1
+KEYWORDS    .
+SOURCE      mitochondrion Lemur catta (Ring-tailed lemur)
+  ORGANISM  Lemur catta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lemuriformes; Lemuridae; Lemur.
+REFERENCE   1  (bases 1 to 705)
+  AUTHORS   Prusak,B. and Grzybowski,G.
+  TITLE     National Network of DNA Bank of Plants, Fungi and Animals
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 705)
+  AUTHORS   Prusak,B. and Grzybowski,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-OCT-2008) Department of Animal Immunogenetics,
+            Institute of Genetics and Animal Breeding, Polish Academy of
+            Science, Postepu 1, Jastrzebiec, Wolka Kosowska 05-552, Poland
+FEATURES             Location/Qualifiers
+     source          1..705
+                     /organism="Lemur catta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PL-IGAB-ZI70"
+                     /db_xref="taxon:9447"
+                     /sex="female"
+                     /country="Poland"
+                     /lat_lon="52.15 N 21.01 E"
+                     /collection_date="23-Jul-2007"
+                     /PCR_primers="fwd_seq: agcttgagcaggcatggtag, rev_seq:
+                     cccatgtaaccgaatggttc"
+     gene            <1..>705
+                     /gene="COI"
+     CDS             <1..>705
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACJ38107.1"
+                     /translation="TALSLLIRAELGQPGSLLGDDQIYNVVVTAHAFVMIFFMVMPIM
+                     IGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEAGAGTGWTVYPPL
+                     AGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTVINMKPPAMSQYQTPLFVWSVMI
+                     TAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFWFFGHPEVYILIL
+                     PGFGMISHIVTYYSGKK"
+ORIGIN      
+        1 acagctctca gccttttaat tcgagcagaa ctaggtcaac ctgggtctct gttaggagac
+       61 gaccagatct acaacgttgt tgtaacagct catgctttcg tcataatctt tttcatagtt
+      121 atacctatta taattggagg cttcggaaac tgattagttc cattaataat tggagctcct
+      181 gatatagcat tcccccgaat aaacaatata agcttctgac ttctaccacc ttcctttcta
+      241 ttactcctag catcatcaat agtagaagct ggggcaggaa caggatgaac cgtataccct
+      301 cctttagcag gaaacttggc tcacgcagga gcctccgtag acctaacaat tttttcctta
+      361 catctagcag gggtatcctc tattttaggc gccatcaact tcattacaac agtaattaat
+      421 ataaaacctc cagccatatc acaataccaa acacctttat tcgtgtgatc tgtaataatt
+      481 actgctgttc ttctacttct atctttacca gttttagcag caggtattac aatacttcta
+      541 actgaccgta atcttaacac aacctttttt gaccctgcag gcggcggtga tcctattcta
+      601 tatcaacact tattctgatt ttttggacac cctgaagtct acatcttaat tctcccaggc
+      661 tttggcataa tttcccatat cgtcacatat tattcaggta aaaaa
+//
+
+LOCUS       KJ543739                 555 bp    DNA     linear   PRI 25-MAY-2014
+DEFINITION  Lemur catta cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KJ543739
+VERSION     KJ543739.1
+KEYWORDS    .
+SOURCE      mitochondrion Lemur catta (Ring-tailed lemur)
+  ORGANISM  Lemur catta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lemuriformes; Lemuridae; Lemur.
+REFERENCE   1  (bases 1 to 555)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     An endogenous lentivirus in the genome of the bushbaby Galago
+            moholi
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 555)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAR-2014) School of Veterinary Medicine and Science,
+            University of Nottingham, Sutton Bonington Campus, College Road,
+            Sutton Bonington, Loughborough, Leicestershire LE12 5RD, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..555
+                     /organism="Lemur catta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9447"
+     gene            <1..>555
+                     /gene="COI"
+     CDS             <1..>555
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHZ96706.1"
+                     /translation="IYNVVVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPR
+                     MNNMSFWLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAG
+                     VSSILGAINFITTVINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTD
+                     RNLNTTFFDPAGGGDPILYQHLFWF"
+ORIGIN      
+        1 atctacaacg ttgttgtaac agctcatgct ttcgtcataa tctttttcat agttatacct
+       61 attataattg gaggcttcgg aaactgatta gttccattaa taattggagc tcctgatata
+      121 gcattccccc gaataaacaa tataagcttc tgacttctac caccttcctt tctattactc
+      181 ctagcatcat caatagtaga agctggggca ggaacaggat gaaccgtata ccctccttta
+      241 gcaggaaact tggctcacgc aggagcctcc gtagacctaa caattttttc cttacatcta
+      301 gcaggggtat cctctatttt aggcgccatc aacttcatta caacagtaat taatataaaa
+      361 cctccagcca tatcacaata ccaaacacct ttattcgtgt gatctgtaat aattactgct
+      421 gttcttctac ttctatcttt accagtttta gcagcaggta ttacaatact tctaactgac
+      481 cgtaatctta acacaacctt ttttgaccct gcaggcggcg gtgatcctat tctatatcaa
+      541 cacttattct gattc
+//
+
+LOCUS       KJ862187                 648 bp    DNA     linear   PRI 22-SEP-2015
+DEFINITION  Lemur catta voucher S26 cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   KJ862187
+VERSION     KJ862187.1
+KEYWORDS    .
+SOURCE      mitochondrion Lemur catta (Ring-tailed lemur)
+  ORGANISM  Lemur catta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lemuriformes; Lemuridae; Lemur.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Using DNA Barcoding to Identify the Endangered Birds and Big
+            Mammals in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2014) College of Life Sciences, Sichuan
+            University, South section I, Yihuan Road, Chengdu, Sichuan Province
+            610064, China
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Lemur catta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="S26"
+                     /db_xref="taxon:9447"
+                     /country="China"
+                     /collection_date="24-Jan-1995"
+                     /PCR_primers="fwd_name: VF1, fwd_seq:
+                     ttctcaaccaaccacaaagacattgg, rev_name: VR1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIM44742.1"
+                     /translation="LLFGAWAGMVGTALSLLIRAELGQPGSLLGDDQIYNVVVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEAG
+                     AGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTVINMKPPAMSQY
+                     QTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 ctattattcg gagcttgagc aggcatggta ggaacagctc tcagcctttt aattcgagca
+       61 gaactaggtc aacctgggtc tctgttagga gacgaccaga tctacaacgt tgttgtaaca
+      121 gctcatgctt tcgtcataat ctttttcata gttataccta ttataattgg aggcttcgga
+      181 aactgattag ttccattaat aattggagct cctgatatag cattcccccg aataaacaat
+      241 ataagcttct gacttctacc accttccttt ctattactcc tagcatcatc aatagtagaa
+      301 gctggggcag gaacaggatg aaccgtatac cctcctttag caggaaactt ggctcacgca
+      361 ggagcctccg tagacctaac aattttttcc ttacatctag caggggtatc ctctatttta
+      421 ggcgccatca acttcattac aacagtaatt aatataaaac ctccagccat atcacaatac
+      481 caaacacctt tattcgtgtg atctgtaata attactgctg ttcttctact tctatcttta
+      541 ccagttttag cagcaggtat tacaatactt ctaactgacc gtaatcttaa cacaaccttt
+      601 tttgaccctg caggcggcgg tgatcctatt ctatatcaac acttattc
+//
+
+LOCUS       AY633976                 642 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Lemur catta PR00126 cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   AY633976
+VERSION     AY633976.1
+KEYWORDS    .
+SOURCE      mitochondrion Lemur catta (Ring-tailed lemur)
+  ORGANISM  Lemur catta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lemuriformes; Lemuridae; Lemur.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Hanner,R. and Beck,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAY-2004) Molecular Biology, Coriell Institute for
+            Medical Research, 403 Haddon Avenue, Camden, New Jersey 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Lemur catta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Integrated Primate Biomaterials and
+                     Information Resource"
+                     /db_xref="taxon:9447"
+                     /sex="male"
+                     /cell_line="PR00126"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin biopsy"
+                     /note="colony-born"
+     gene            <1..>642
+                     /gene="COI"
+     CDS             <1..>642
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAT47711.1"
+                     /translation="LLFGAWAGMVGTALSLLIRAELGQPGSLLGDDQIYNVVVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEAG
+                     AGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTVINMKPPAMSQY
+                     QTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQH"
+ORIGIN      
+        1 ctattattcg gagcttgagc aggcatggta ggaacagctc tcagcctttt aattcgagca
+       61 gaactaggtc aacctgggtc tctgttagga gacgaccaga tctacaacgt tgttgtaaca
+      121 gctcatgctt tcgtcataat ctttttcata gttataccta ttataattgg aggcttcgga
+      181 aactgattag ttccattaat aattggagct cctgatatag cattcccccg aataaacaat
+      241 ataagcttct gacttctacc accttccttt ctattactcc tagcatcatc aatagtagaa
+      301 gctggggcag gaacaggatg aaccgtatac cctcctttag caggaaactt ggctcacgca
+      361 ggagcctccg tagacctaac aattttttcc ttacatctag caggggtatc ctctatttta
+      421 ggcgccatca acttcattac aacagtaatt aatataaaac ctccagccat atcacaatac
+      481 caaacacctt tattcgtgtg atctgtaata attactgctg ttcttctact tctatcttta
+      541 ccagttttag cagcaggtat tacaatactt ctaactgacc gtaatcttaa cacaaccttt
+      601 tttgaccctg caggcggcgg tgatcctatt ctatatcaac ac
+//
+

@@ -1,0 +1,413 @@
+LOCUS       EU179515                 593 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Nycticebus coucang isolate PR00631 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU179515
+VERSION     EU179515.1
+KEYWORDS    .
+SOURCE      mitochondrion Nycticebus coucang (slow loris)
+  ORGANISM  Nycticebus coucang
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Nycticebus.
+REFERENCE   1  (bases 1 to 593)
+  AUTHORS   Lorenz,J.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-SEP-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..593
+                     /organism="Nycticebus coucang"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00631"
+                     /db_xref="taxon:9470"
+                     /sex="male"
+     gene            <1..>593
+                     /gene="COXI"
+     CDS             <1..>593
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71936.1"
+                     /translation="ALSLLIRAELGQPGTLLGDDQIYNVIVTAHAFVMIFFMVMPIMI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTAINMKPPAMSQYQTPLFVWSVMIT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN      
+        1 cgccctaagt ttgctaatcc gagcagagct aggtcagcca ggtactctgc tgggcgatga
+       61 tcaaatttat aacgttattg taacagccca tgcattcgtt ataatctttt ttatagttat
+      121 accaatcata atcgggggct tcggaaactg attagtaccc ctaataattg gagcccccga
+      181 catagctttc ccacgaataa ataatataag tttctgactt ttaccaccgt ctttccttct
+      241 tctcctagcc tcatctatag ttgaggccgg agccggcact ggatgaactg tgtacccacc
+      301 tctagcaggt aatctggccc atgcaggagc ctcagttgat cttaccatct tctcccttca
+      361 cttagcaggg gtatcctcta ttttaggggc tattaatttc attactaccg ccattaacat
+      421 aaaaccccct gctatgtctc aataccaaac cccactgttt gtctgatcag tcatgatcac
+      481 cgctgtatta ctactactat ctcttccagt tctcgcagca ggtatcacta tgctgctaac
+      541 agaccgtaac ctaaacacca cattctttga tccggcagga ggaggagacc caa
+//
+
+LOCUS       GQ259903                1482 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Nycticebus javanicus cytochrome oxidase subunit I (COXI) gene,
+            complete cds; mitochondrial.
+ACCESSION   GQ259903
+VERSION     GQ259903.1
+KEYWORDS    .
+SOURCE      mitochondrion Nycticebus javanicus (Javan slow loris)
+  ORGANISM  Nycticebus javanicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Nycticebus.
+REFERENCE   1  (bases 1 to 1482)
+  AUTHORS   Somura,H., Hori,H., Watanabe,M. and Manome,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUN-2009) Asian Wildlife Research Center Foundation
+            and Jikei University School of Medicine, 1-3-728, Akebono-cho,
+            Naka-ku, Yokohama, Kanagawa 231-0057, Japan
+FEATURES             Location/Qualifiers
+     source          1..1482
+                     /organism="Nycticebus javanicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="036"
+                     /db_xref="taxon:310934"
+                     /sex="female"
+                     /country="Japan: Ueno Zoological Garden"
+     gene            <1..1482
+                     /gene="COXI"
+     CDS             <1..1482
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACT64831.1"
+                     /translation="MFGAWAGMVGTALSLLIRAELGQPGTLLGDDQIYNVIVTAHAFV
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEAGA
+                     GTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTAINMKPPAMSQYQ
+                     TPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFWFF
+                     GHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWAMMSIGFLGFIVWAHHMFTVG
+                     MDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKWSPAMLWALGFIFLFTVGGLT
+                     GIVLSNSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGGFVHWFPLFSGYTLDQTWAKI
+                     HFTIMFVGVNLTFFPQHFLGLSGMPRRYSDYPDAYTMWNSISSIGSFISLTAVVLMIF
+                     MVWEAFASKREVMMVELTHTNLEWLHGCPPPYHTFEEPTYVKA"
+ORIGIN      
+        1 atgttcggtg cctgagcggg gatagtggga accgccctaa gtttgctaat ccgagcagag
+       61 ctaggtcagc caggtactct gctgggcgat gatcaaattt ataacgttat tgtaacagcc
+      121 catgcattcg ttataatctt ttttatagtc ataccaatca taatcggggg cttcgggaac
+      181 tgattagtac ctctaataat tggagccccc gacatagctt tcccacgaat aaataatata
+      241 agtttctgac ttttaccacc gtctttcctt cttctcctag cctcatctat agttgaggcc
+      301 ggagccggca ctggatgaac tgtgtaccca cctctagcag gtaatctggc ccatgcagga
+      361 gcctcagttg atcttaccat cttctccctt cacttagcag gggtatcctc tattttagga
+      421 gctattaatt tcattactac cgccattaac ataaaacccc ctgctatgtc tcaataccaa
+      481 accccactgt ttgtctgatc agtcatgatc accgctgtat tactactgct atctcttcca
+      541 gttctcgcag caggtatcac tatgctgcta acagaccgta acctaaacac cacattcttt
+      601 gatccggcag gaggaggaga cccaatttta tatcaacact tattttgatt tttcggccat
+      661 cctgaagtct acattctaat cctacctgga ttcggcataa tctcacatat cgtatccttt
+      721 tactcaggaa aaaaagaacc attcgggtat ataggcatgg tttgggctat aatgtccatt
+      781 ggtttcctgg gcttcattgt gtgggcccac catatattca cagttggcat ggatgtagat
+      841 acccgagcat actttacgtc cgctacaata attatcgcta tccccactgg agtgaaagta
+      901 ttcagctgat tggctaccct acatggtgga aatattaaat gatccccagc catattatga
+      961 gctctaggat ttatcttctt gtttacggta ggaggtctaa ccggaatcgt attatcaaac
+     1021 tcctcattgg atattgtcct tcatgacacg tattacgtgg tggcacactt tcactatgtt
+     1081 ttatctatag gagctgtatt tgctatcata ggaggatttg ttcattgatt cccgctattc
+     1141 tctggttata ccttagatca aacttgagct aaaattcact ttaccattat atttgtaggc
+     1201 gtaaatttaa ccttctttcc ccaacacttc ctcggtttat cagggatacc acgacgctac
+     1261 tctgattacc cagacgcata cacaatgtga aactctatct cgtcaatcgg atcctttatc
+     1321 tcccttacag ctgtagttct aataattttc atggtttgag aagcctttgc ctcaaaacga
+     1381 gaagttataa tagtagagct aactcacaca aatctagaat gattacatgg ctgcccccca
+     1441 ccataccaca cattcgagga acccacgtac gtgaaagcct ag
+//
+
+LOCUS       GQ259901                1542 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Nycticebus menagensis cytochrome oxidase subunit I (COXI) gene,
+            complete cds; mitochondrial.
+ACCESSION   GQ259901
+VERSION     GQ259901.1
+KEYWORDS    .
+SOURCE      mitochondrion Nycticebus menagensis (Philippine slow loris)
+  ORGANISM  Nycticebus menagensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Nycticebus.
+REFERENCE   1  (bases 1 to 1542)
+  AUTHORS   Somura,H., Hori,H., Watanabe,M. and Manome,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2009) Asian Wildlife Research Center Foundation
+            and Jikei University School of Medicine, 1-3-728, Akebono-cho,
+            Naka-ku, Yokohama, Kanagawa 231-0057, Japan
+FEATURES             Location/Qualifiers
+     source          1..1542
+                     /organism="Nycticebus menagensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="014"
+                     /db_xref="taxon:310932"
+                     /sex="female"
+                     /country="Japan: Ueno Zoological Garden"
+     gene            1..1542
+                     /gene="COXI"
+     CDS             1..1542
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACT64829.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVVVTAHAFVMIFFMVMPILIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTFFSFHLAGVSSILR
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKW
+                     SPAMLWALGFIFLFTVGGLTGIVLSNSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG
+                     FVHWFPLFSGYTLDQTWAKIHFTIMFVGVNLTFFPQHFLGLSGMPRRYSEYPDAYTMW
+                     NSISSIGSFISLTAVVLMIFMVWEAFASKREVMMVELTHTNLEWLHGCPPPYHTFEEP
+                     TYVKA"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaagg acattggcac tttatactta
+       61 gtattcggtg cctgagcagg gatggtggga accgccctaa gtttgctaat ccgagcagag
+      121 ctaggccagc caggtactct gctgggtgat gatcaaattt ataacgttgt tgtaacagcc
+      181 catgcattcg ttataatctt ttttatggtt ataccaatct taatcggggg cttcgggaac
+      241 tgattagtgc ccctaataat tggagccccc gacatggcct tcccacgaat aaataatata
+      301 agcttctgac ttttaccacc gtctttcctt cttcttctag cctcatctat agttgaagcc
+      361 ggagccggaa ccggatgaac tgtgtaccca cctctagcag gtaatctagc ccatgcaggg
+      421 gcctcagttg atcttacctt cttctccttc cacttagcag gggtatcctc tattttacga
+      481 gctattaatt tcattacaac tgccattaat ataaaacctc ctgctatgtc ccaataccag
+      541 actccactgt ttgtctgatc agtcatgatc accgccgtat tactactact gtcccttcca
+      601 gttctcgcag caggtatcac tatgctgcta acagaccgta acctaaacac cacattcttt
+      661 gatccggcag gaggaggaga tccaatttta tatcagcact tattttgatt tttcggccat
+      721 cctgaagtct atattctaat cctacctgga tttggcataa tctcacatat cgtatccttt
+      781 tactcaggaa aaaaagaacc attcggatat atgggcatgg tttgggctat aatgtctatt
+      841 ggtttcctgg gcttcattgt gtgggcccac catatattca cagttggcat agatgtagat
+      901 acccgagcat actttacgtc cgctacaata attatcgcta tccccactgg agtgaaagta
+      961 ttcagctggt tggctaccct acatggcgga aatattaaat gatccccagc catactatga
+     1021 gctctagggt ttatcttcct cttcacggta ggaggtctaa ccggaattgt actatctaac
+     1081 tcctcattgg atattgtcct tcatgacacg tattatgtgg tggcacactt tcactatgta
+     1141 ttatctatag gagctgtatt tgccatcata ggaggatttg ttcattgatt cccgctattc
+     1201 tctggttata ccttagatca aacttgagct aaaattcact ttaccattat gtttgtaggc
+     1261 gtaaatttaa ctttctttcc ccaacacttc cttggtctat cagggatacc acgacgctac
+     1321 tccgaatacc cagacgcata cacaatatga aactcaatct catcaatcgg atcctttatc
+     1381 tcccttacag cagtagtact aataattttt atagtttgag aagcctttgc ctcaaaacga
+     1441 gaagttataa tagtagagct aactcacaca aatctagagt gactacatgg ctgcccccca
+     1501 ccttaccaca cattcgagga acccacgtac gtgaaagctt ag
+//
+
+LOCUS       GQ259900                1542 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Nycticebus coucang cytochrome oxidase subunit I (COXI) gene,
+            complete cds; mitochondrial.
+ACCESSION   GQ259900
+VERSION     GQ259900.1
+KEYWORDS    .
+SOURCE      mitochondrion Nycticebus coucang (slow loris)
+  ORGANISM  Nycticebus coucang
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Nycticebus.
+REFERENCE   1  (bases 1 to 1542)
+  AUTHORS   Somura,H., Hori,H., Watanabe,M. and Manome,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2009) Asian Wildlife Research Center Foundation
+            and Jikei University School of Medicine, 1-3-728, Akebono-cho,
+            Naka-ku, Yokohama, Kanagawa 231-0057, Japan
+FEATURES             Location/Qualifiers
+     source          1..1542
+                     /organism="Nycticebus coucang"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="035"
+                     /db_xref="taxon:9470"
+                     /sex="male"
+                     /country="Japan: Ueno Zoological Garden"
+     gene            1..1542
+                     /gene="COXI"
+     CDS             1..1542
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACT64828.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKW
+                     SPAMLWALGFIFLFTVGGLTGIVLSNSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG
+                     FVHWFPLFSGYTLDQTWAKIHFTIMFVGVNLTFFPQHFLGLSGMPRRYSDYPDAYTMW
+                     NSISSIGSFISLTAVVLMIFMVWEAFASKREVMMVELTHTNLEWLHGCPPPYHTFEEP
+                     TYVKA"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaagg acattggcac tttatactta
+       61 gtgttcggtg cctgagcggg gatagtggga accgccctaa gtttgctaat ccgagcagag
+      121 ctaggtcagc caggtactct gctgggcgat gatcaaattt ataacgttat tgtaacagcc
+      181 catgcattcg ttataatctt ttttatagtc ataccaatca taatcggggg cttcgggaac
+      241 tgattagtac ctctaataat tggagccccc gacatagctt tcccacgaat aaataatata
+      301 agtttctgac ttttaccacc gtctttcctt cttctcctag cctcatctat agttgaggcc
+      361 ggagccggca ctggatgaac tgtgtaccca cctctagcag gtaatctggc ccatgcagga
+      421 gcctcagttg atcttaccat cttctccctt cacttagcag gggtatcctc tattttagga
+      481 gctattaatt tcattactac cgccattaac ataaaacccc ctgctatgtc tcaataccaa
+      541 accccactgt ttgtctgatc agtcatgatc accgctgtat tactactgct atctcttcca
+      601 gttctcgcag caggtatcac tatgctgcta acagaccgta acctaaacac cacattcttt
+      661 gatccggcag gaggaggaga cccaatttta tatcaacact tattttgatt tttcggccat
+      721 cctgaagtct acattctaat cctacctgga ttcggcataa tctcacatat cgtatccttt
+      781 tactcaggaa aaaaagaacc attcgggtat ataggcatgg tttgggctat aatgtccatt
+      841 ggtttcctgg gcttcattgt gtgggcccac catatattca cagttggcat ggatgtagat
+      901 acccgagcat actttacgtc cgctacaata attatcgcta tccccactgg agtgaaagta
+      961 ttcagctgat tggctaccct acatggtgga aatattaaat gatccccagc catattatga
+     1021 gctctaggat ttatcttctt gtttacggta ggaggtctaa ccggaatcgt attatcaaac
+     1081 tcctcattgg atattgtcct tcatgacacg tattacgtgg tggcacactt tcactatgtt
+     1141 ttatctatag gagctgtatt tgctatcata ggaggatttg ttcattgatt cccgctattc
+     1201 tctggttata ccttagatca aacttgagct aaaattcact ttaccattat atttgtaggc
+     1261 gtaaatttaa ccttctttcc ccaacacttc ctcggtttat cagggatacc acgacgctac
+     1321 tctgattacc cagacgcata cacaatgtga aactctatct cgtcaatcgg atcctttatc
+     1381 tcccttacag ctgtagttct aataattttc atggtttgag aagcctttgc ctcaaaacga
+     1441 gaagttataa tagtagagct aactcacaca aatctagaat gattacatgg ctgcccccca
+     1501 ccataccaca cattcgagga acccacgtac gtgaaagcct ag
+//
+
+LOCUS       GQ259899                1542 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Nycticebus bengalensis cytochrome oxidase subunit I (COXI) gene,
+            complete cds; mitochondrial.
+ACCESSION   GQ259899
+VERSION     GQ259899.1
+KEYWORDS    .
+SOURCE      mitochondrion Nycticebus bengalensis (Bengal slow loris)
+  ORGANISM  Nycticebus bengalensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Nycticebus.
+REFERENCE   1  (bases 1 to 1542)
+  AUTHORS   Somura,H., Hori,H., Watanabe,M. and Manome,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2009) Asian Wildlife Research Center Foundation
+            and Jikei University School of Medicine, 1-3-728, Akebono-cho,
+            Naka-ku, Yokohama, Kanagawa 231-0057, Japan
+FEATURES             Location/Qualifiers
+     source          1..1542
+                     /organism="Nycticebus bengalensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BS-02"
+                     /db_xref="taxon:261741"
+                     /sex="male"
+                     /country="Japan: Nasu World Monkey Park"
+     gene            1..1542
+                     /gene="COXI"
+     CDS             1..1542
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACT64827.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKW
+                     SPAMLWALGFIFLFTVGGLTGIVLSNSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG
+                     FVHWFPLFSGYTLDQTWAKIHFTIMFVGVNLTFFPQHFLGLSGMPRRYSDYPDAYTMW
+                     NSISSIGSFISLTAVVLMIFMVWEAFASKREVMMVELTHTNLEWLHGCPPPYHTFEEP
+                     TYVKA"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaagg acattggcac tttatactta
+       61 gtgttcggtg cctgagcggg gatagtggga accgccctaa gtttgctaat ccgagcagag
+      121 ctaggtcagc caggtactct gctgggcgat gatcaaattt ataacgttat tgtaacagcc
+      181 catgcattcg ttataatctt ttttatagtt ataccaatca taatcggggg cttcgggaac
+      241 tgattagtac ccctaataat tggagccccc gacatagctt tcccacgaat aaataatata
+      301 agtttctgac ttttaccacc gtctttcctt cttctcctag cctcatctat agttgaggcc
+      361 ggagccggca ctggatgaac tgtgtaccca cctctagcag gtaatctggc ccatgcagga
+      421 gcctcagttg atcttaccat cttctccctt cacttagcag gggtatcctc tattttaggg
+      481 gctattaatt tcattactac cgccattaac ataaaacccc ctgctatgtc tcaataccaa
+      541 accccactgt ttgtctgatc agtcatgatc accgctgtat tactactact atctcttcca
+      601 gttctcgcag caggtatcac tatgctgcta acagaccgta acctaaacac cacattcttt
+      661 gatccggcag gaggaggaga cccaatttta tatcaacact tattttgatt tttcggccat
+      721 cctgaagtct acattctaat cctacctgga ttcggcataa tctcacatat cgtatccttt
+      781 tactcaggaa aaaaagaacc attcgggtat atgggcatgg tttgggctat aatgtccatt
+      841 ggtttcctgg gcttcattgt gtgggcccac catatattca cagttggcat agatgtagat
+      901 acccgagcat actttacgtc cgctacaata attatcgcta tccccactgg agtgaaagta
+      961 ttcagctgat tggctactct acatggtgga aatattaaat gatccccagc catattatga
+     1021 gctctagggt ttatcttcct gtttacggta ggaggtctaa ccggaatcgt attatctaac
+     1081 tcctcattgg atattgtcct tcatgacacg tattacgtgg tggcacactt tcactatgtt
+     1141 ttatctatag gagctgtatt tgccatcata ggaggatttg ttcattgatt cccgctattc
+     1201 tctggctaca ccttagatca aacttgagct aaaattcact ttaccattat atttgtaggt
+     1261 gtaaatttaa ccttcttccc ccaacacttc cttggtttat cagggatacc acgacgctac
+     1321 tctgattacc cagacgcata cacaatgtga aactctatct cgtcaatcgg atcctttatc
+     1381 tcccttacag cagtagtact aataattttt atggtttgag aagcctttgc ctcaaaacga
+     1441 gaagttataa tagtagagct aactcacaca aatctagaat gattacatgg ctgcccccca
+     1501 ccttaccaca cattcgagga acccacgtac gtgaaagcct ag
+//
+
+LOCUS       GQ259902                1542 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Nycticebus pygmaeus cytochrome oxidase subunit I (COXI) gene,
+            complete cds; mitochondrial.
+ACCESSION   GQ259902
+VERSION     GQ259902.1
+KEYWORDS    .
+SOURCE      mitochondrion Xanthonycticebus pygmaeus (pygmy slow loris)
+  ORGANISM  Xanthonycticebus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Xanthonycticebus.
+REFERENCE   1  (bases 1 to 1542)
+  AUTHORS   Somura,H., Hori,H., Watanabe,M. and Manome,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2009) Asian Wildlife Research Center Foundation
+            and Jikei University School of Medicine, 1-3-728, Akebono-cho,
+            Naka-ku, Yokohama, Kanagawa 231-0057, Japan
+FEATURES             Location/Qualifiers
+     source          1..1542
+                     /organism="Xanthonycticebus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PS-02"
+                     /db_xref="taxon:101278"
+                     /sex="female"
+                     /country="Japan: Nasu World Monkey Park"
+     gene            1..1542
+                     /gene="COXI"
+     CDS             1..1542
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACT64830.1"
+                     /translation="MFINRWLYSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELGQP
+                     GTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTAVNMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVSFYSGKKEPFGYMGMVWA
+                     MMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKW
+                     SPAMLWALGFIFLFTVGGLTGIVLSNSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG
+                     FVHWFPLFSGYTLDQTWAKIHFTIMFVGVNLTFFPQHFLGLSGMPRRYSDYPDAYTMW
+                     NSISSIGSFISLTAVVLMIFMVWEAFASKREVMMVELTHTNLEWLHGCPPPYHTFEEP
+                     TYVKA"
+ORIGIN      
+        1 atgttcatta accgctggct ctattctacc aatcacaaag acattggcac tttatactta
+       61 gtattcggtg cctgagcagg aatagtggga actgccctaa gtttactgat ccgagcagag
+      121 ctgggccagc caggcactct gctgggcgat gatcaaattt ataacgttat tgtaacggcc
+      181 catgcattcg ttataatctt ttttatggtc ataccaatca taattggggg tttcgggaac
+      241 tgattagtgc ctctaataat tggagcccct gacatggctt tcccgcgaat aaacaatata
+      301 agcttctggc tattgcctcc atctttcctt cttcttctag cctcatcaat agttgaatct
+      361 ggagctggca ctggatgaac cgtgtaccca cctctagcgg gcaatctagc ccatgcagga
+      421 gcctcagttg accttaccat cttctccctt cacttagcag gggtgtcttc tattttaggg
+      481 gctattaatt ttattacaac tgccgttaac ataaaacccc ccgctatatc tcaataccag
+      541 accccattat ttgtctgatc agttatgatc actgctgttt tattactatt atccctccca
+      601 gttctcgcag caggtattac tatactgctt acagaccgta atctaaacac cacattcttc
+      661 gatccggcag gaggagggga cccaattcta taccaacact tgttttgatt ctttggtcac
+      721 cctgaagtct acatcctcat cctacctggg ttcggcataa tctcacacat tgtatctttt
+      781 tactcaggaa aaaaagagcc atttgggtac ataggcatag tttgggctat aatatctatt
+      841 ggtttcctgg gctttattgt atgagctcac catatgttta cagttggcat agatgtagac
+      901 acccgagcat actttacatc tgctacaata atcatcgcta ttcccactgg agtaaaagta
+      961 tttagctgat tggctaccct acatggtgga aacattaaat gatccccagc catattatga
+     1021 gctctaggat ttattttcct gtttacggta gggggcttaa ccggaatcgt attatctaat
+     1081 tcttctctag atattgtact tcatgacact tactatgtag tagcacattt tcactatgtt
+     1141 ttatcaatag gagctgtatt tgccattata ggaggattcg tccactgatt cccgctattc
+     1201 tctggctaca ccttagacca aacctgggct aaaattcact tcaccatcat atttgtaggc
+     1261 gtaaatctaa ctttcttccc ccaacatttt ctcggtctat caggaatacc acggcgctac
+     1321 tctgattacc cagacgcata cacaatatga aactcaatct catcaatcgg atcatttatc
+     1381 tccctaacag cagtagtact aataattttt atagtttgag aagcctttgc ctcaaaacga
+     1441 gaagtcataa tagtagagct gacacatact aatctagagt gactacacgg atgccctcca
+     1501 ccttatcata cattcgagga gcccacatac gtaaaagcct aa
+//
+

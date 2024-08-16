@@ -1,0 +1,119 @@
+LOCUS       AY972682                 596 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Galago moholi isolate PR00519 cytochrome c oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   AY972682
+VERSION     AY972682.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago moholi (Moholi bushbaby)
+  ORGANISM  Galago moholi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 596)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 596)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 596)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..596
+                     /organism="Galago moholi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00519"
+                     /db_xref="taxon:30609"
+                     /sex="female"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>596
+                     /gene="COXI"
+     CDS             <1..>596
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22251.1"
+                     /translation="AELGQPGTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWL
+                     VPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEAGAGTGWTVYPPLAGNLAHAG
+                     ASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQTPLFVWSVIITAVLLLLS
+                     LPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFW"
+ORIGIN      
+        1 agcagaacta ggtcaacctg gcactctact aggagatgat caaatttata atgtcatcgt
+       61 cacggcccac gcattcgtca taattttttt tatagttata cctattataa ttggaggctt
+      121 cggaaactga ctagtaccat taatgattgg cgccccagac atggcatttc cccggataaa
+      181 caacatgagt ttctgactac tcccgccatc attcctcctt cttctagcct cttcaatagt
+      241 agaagctggc gctgggaccg gatgaaccgt gtaccctcct ctagcaggta acttagccca
+      301 cgcaggagcc tcagtagatc ttacaatctt ctctcttcac ctagcaggag tatcctcaat
+      361 cctaggagct atcaacttta ttacaactat cattaacata aaaccccctg ctatatccca
+      421 ataccaaact cctttgtttg tttgatccgt aattattaca gcggtcttgc tattactatc
+      481 cctacccgtt ctagcagcag gaattactat actcctcaca gaccgcaact taaatacaac
+      541 tttctttgac cctgccggag gaggagaccc aatcctctac caacatctat tctgat
+//
+
+LOCUS       EF658651                 595 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Galago senegalensis isolate PR01034 cytochrome oxidase subunit I
+            (cox1) gene, partial cds; mitochondrial.
+ACCESSION   EF658651
+VERSION     EF658651.1
+KEYWORDS    .
+SOURCE      mitochondrion Galago senegalensis (Senegal galago)
+  ORGANISM  Galago senegalensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galago.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Mitochondrial cytochrome oxidase c subunit 1 (coxI) variation among
+            primates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 595)
+  AUTHORS   Lorenz,J.G. and Korostowski,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2007) Molecular Biology Laboratory, Coriell
+            Institute for Medical Research, 403 Haddon Ave, Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Galago senegalensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01034"
+                     /db_xref="taxon:9465"
+                     /sex="female"
+     gene            <1..>595
+                     /gene="cox1"
+     CDS             <1..>595
+                     /gene="cox1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABR68267.1"
+                     /translation="FGAWAGMVGTALSLLIRAELGQPGTLLGDDQIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEAGAG
+                     TGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSVIITAVLLLLSLPVLAAGITMLLTDRNLNTTF"
+ORIGIN      
+        1 ttttggtgct tgagcaggaa tggtaggaac agcccttagc ctattaattc gagcagaact
+       61 aggtcaacct ggcactctac taggagatga tcaaatttat aatgtcattg tcacagccca
+      121 cgcattcgtc ataatttttt ttatagtaat acctattata attggaggct tcggaaactg
+      181 actagtacca ttaatgattg gcgccccaga catggcattt ccccggataa acaacatgag
+      241 tttctgacta ctcccgccat cattcctcct tcttctagcc tcttcaatag tagaagctgg
+      301 cgctgggacc ggatgaaccg tgtaccctcc tctagcaggt aacttagccc acgcaggagc
+      361 ctcagtagat cttacaatct tctctcttca cctagcagga gtatcctcaa tcctaggagc
+      421 tatcaacttt attacaacta tcattaacat aaaaccccct gctatatccc aataccaaac
+      481 tcctttgttt gtttgatccg taattatcac agcggtcttg ctattactat ccctacccgt
+      541 tctagcagca ggaattacta tactcctcac agaccgcaac ttaaatacaa ctttc
+//
+

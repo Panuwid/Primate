@@ -1,0 +1,1721 @@
+LOCUS       AY972804                 628 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR01071 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972804
+VERSION     AY972804.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..628
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01071"
+                     /db_xref="taxon:9534"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>628
+                     /gene="COXI"
+     CDS             <1..>628
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22370.1"
+                     /translation="LFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFV
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGA
+                     GTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQ
+                     TPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDP"
+ORIGIN      
+        1 tgctattcgg tgcatgagct ggaatcatgg gcacagctct aagtcttctt attcgagctg
+       61 aactaggcca acccggtagt ttactaggta gtgaccatat ctataatgtc attgtaacag
+      121 cccatgcatt tgtcataatt ttcttcatag ttatacccat cataattgga ggattcggga
+      181 attgactagt acccttgata attggtgctc ctgacatagc attcccccgt ctaaataata
+      241 taagcttctg actcctccct ccctctttcc tactgctaat ggcatcaacc ataatcgagg
+      301 ctggcgccgg aacaggttga acagtatatc cccctttagc aggaaacttc tcccatccag
+      361 gagcctccgt agacttagtt attttctccc tccacctagc agggatttcc tctatcttag
+      421 gggctatcaa cttcatcact actattatca acatgaagcc ccccgccata tcccagtatc
+      481 aaaccccact gtttgtctga tctgtcctaa tcactgcaat cctactactc ctctccctac
+      541 cagtcttagc tgccggcatt actatactat taacagaccg caacctcaac actaccttct
+      601 ttgatcctac tggaggagga gaccctat
+//
+
+LOCUS       AY972803                 626 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR01070 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972803
+VERSION     AY972803.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 626)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 626)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 626)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..626
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01070"
+                     /db_xref="taxon:9534"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>626
+                     /gene="COXI"
+     CDS             <1..>626
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22369.1"
+                     /translation="YSCMSWIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGAG
+                     TGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 tattcgtgca tgagctggat catgggcaca gctctaagtc ttcttattcg agctgaacta
+       61 ggccaacccg gtagtttact aggtagtgac catatctata atgtcattgt aacagcccat
+      121 gcatttgtca taattttctt catagttata cccatcataa ttggaggatt cgggaattga
+      181 ctagtaccct tgataattgg tgctcctgac atagcattcc cccgtctaaa taatataagc
+      241 ttctgactcc tccctccctc tttcctactg ctaatggcat caaccataat cgaggctggc
+      301 gccggaacag gttgaacagt atatccccct ttagcaggaa acttctccca tccaggagcc
+      361 tccgtagact tagttatttt ctccctccac ctagcaggga tttcctctat cttaggggct
+      421 atcaacttca tcactactat tatcaacatg aagccccccg ccatatccca gtatcaaacc
+      481 ccactgtttg tctgatctgt cctaatcact gcaatcctac tactcctctc cctaccagtc
+      541 ttagctgccg gcattactat actattaaca gaccgcaacc tcaacactac cttctttgat
+      601 cctactggag gaggagaccc tatcct
+//
+
+LOCUS       AY972802                 608 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR01069 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972802
+VERSION     AY972802.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 608)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 608)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 608)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..608
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01069"
+                     /db_xref="taxon:9534"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>608
+                     /gene="COXI"
+     CDS             <1..>608
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22368.1"
+                     /translation="FGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGAG
+                     TGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPT"
+ORIGIN      
+        1 tattcggtgc atgagctgga atcatgggca cagctctaag tcttcttatt cgagctgaac
+       61 taggccaacc cggtagttta ctaggtagtg accatatcta taatgtcatt gtaacagccc
+      121 atgcatttgt cataattttc ttcatagtta tacccatcat aattggagga ttcgggaatt
+      181 gactagtacc cttgataatt ggtgctcctg acatagcatt cccccgtcta aataatataa
+      241 gcttctgact cctccctccc tctttcctac tgctaatggc atcaaccata atcgaggctg
+      301 gcgccggaac aggttgaaca gtatatcccc ctttagcagg aaacttctcc catccaggag
+      361 cctccgtaga cttagttatt ttctccctcc acctagcagg gatttcctct atcttagggg
+      421 ctatcaactt catcactact attatcaaca tgaagccccc cgccatatcc cagtatcaaa
+      481 ccccactgtt tgtctgatct gtcctaatca ctgcaatcct actactcctc tccctaccag
+      541 tcttagctgc cggcattact atactattaa cagaccgcaa cctcaacact accttctttg
+      601 atcctact
+//
+
+LOCUS       AY972801                 612 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR01068 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972801
+VERSION     AY972801.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 612)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01068"
+                     /db_xref="taxon:9534"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>612
+                     /gene="COXI"
+     CDS             <1..>612
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22367.1"
+                     /translation="LFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFV
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGA
+                     GTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQ
+                     TPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPT"
+ORIGIN      
+        1 tgctattcgg tgcatgagct ggaatcatgg gcacagctct aagtcttctt attcgagctg
+       61 aactaggcca acccggtagt ttactaggta gtgaccatat ctataatgtc attgtaacag
+      121 cccatgcatt tgtcataatt ttcttcatag ttatacccat cataattgga ggattcggga
+      181 attgactagt acccttgata attggtgctc ctgacatagc attcccccgt ctaaataata
+      241 taagcttctg actcctccct ccctctttcc tactgctaat ggcatcaacc ataatcgagg
+      301 ctggcgccgg aacaggttga acagtatatc cccctttagc aggaaacttc tcccatccag
+      361 gagcctccgt agacttagtt attttctccc tccacctagc agggatttcc tctatcttag
+      421 gggctatcaa cttcatcact actattatca acatgaagcc ccccgccata tcccagtatc
+      481 aaaccccact gtttgtctga tctgtcctaa tcactgcaat cctactactc ctctccctac
+      541 cagtcttagc tgccggcatt actatactat taacagaccg caacctcaac actaccttct
+      601 ttgatcctac tg
+//
+
+LOCUS       AY972800                 601 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR01066 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972800
+VERSION     AY972800.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 601)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 601)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 601)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..601
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01066"
+                     /db_xref="taxon:9534"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>601
+                     /gene="COXI"
+     CDS             <1..>601
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22366.1"
+                     /translation="AWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFVMIF
+                     FMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGAGTG
+                     WTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPL
+                     FVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPT"
+ORIGIN      
+        1 tgcatgagct ggaatcatgg gcacagctct aagtcttctt attcgagctg aactaggcca
+       61 acccggtagt ttactaggta gtgaccatat ctataatgtc attgtaacag cccatgcatt
+      121 tgtcataatt ttcttcatag ttatacccat cataattgga ggattcggga attgactagt
+      181 acccttgata attggtgctc ctgacatagc attcccccgt ctaaataata taagcttctg
+      241 actcctccct ccctctttcc tactgctaat ggcatcaacc ataatcgagg ctggcgccgg
+      301 aacaggttga acagtatatc cccctttagc aggaaacttc tcccatccag gagcctccgt
+      361 agacttagtt attttctccc tccacctagc agggatttcc tctatcttag gggctatcaa
+      421 cttcatcact actattatca acatgaagcc ccccgccata tcccagtatc aaaccccact
+      481 gtttgtctga tctgtcctaa tcactgcaat cctactactc ctctccctac cagtcttagc
+      541 tgccggcatt actatactat taacagaccg caacctcaac actaccttct ttgatcctac
+      601 t
+//
+
+LOCUS       AY972798                 636 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR01060 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972798
+VERSION     AY972798.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 636)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01060"
+                     /db_xref="taxon:9534"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>636
+                     /gene="COXI"
+     CDS             <1..>636
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22364.1"
+                     /translation="LLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAG
+                     AGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILY"
+ORIGIN      
+        1 ctactattcg gtgcatgagc tggaatcatg ggcacagctc taagtcttct tattcgagct
+       61 gaactaggcc aacccggtag tttactaggt agtgaccata tctataatgt cattgtaaca
+      121 gcccatgcat ttgtcataat tttcttcata gttataccca tcataattgg aggattcggg
+      181 aattgactag tacccttgat aattggtgct cctgacatag cattcccccg tctaaataat
+      241 ataagcttct gactcctccc tccctctttc ctactgctaa tggcatcaac cataatcgag
+      301 gctggcgccg gaacaggttg aacagtatat ccccctttag caggaaactt ctcccatcca
+      361 ggagcctccg tagacttagt tattttctcc ctccacctag cagggatttc ctctatctta
+      421 ggggctatca acttcatcac tactattatc aacatgaagc cccccgccat atcccagtat
+      481 caaaccccac tgtttgtctg atctgtccta atcactgcaa tcctactact cctctcccta
+      541 ccagtcttag ctgccggcat tactatacta ttaacagacc gcaacctcaa cactaccttc
+      601 tttgatccta ctggaggagg agaccctatc ctatac
+//
+
+LOCUS       AY972797                 612 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR01058 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972797
+VERSION     AY972797.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 612)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR01058"
+                     /db_xref="taxon:9534"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>612
+                     /gene="COXI"
+     CDS             <1..>612
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22363.1"
+                     /translation="LLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAG
+                     AGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPT"
+ORIGIN      
+        1 ctactattcg gtgcatgagc tggaatcatg ggcacagctc taagtcttct tattcgagct
+       61 gaactaggcc aacccggtag tttactaggt agtgaccata tctataatgt cattgtaaca
+      121 gcccatgcat ttgtcataat tttcttcata gttataccca tcataattgg aggattcggg
+      181 aattgactag tacccttgat aattggtgct cctgacatag cattcccccg tctaaataat
+      241 ataagcttct gactcctccc tccctctttc ctactgctaa tggcatcaac cataatcgag
+      301 gctggcgccg gaacaggttg aacagtatat ccccctttag caggaaactt ctcccatcca
+      361 ggagcctccg tagacttagt tattttctcc ctccacctag cagggatttc ctctatctta
+      421 ggggctatca acttcatcac tactattatc aacatgaagc cccccgccat atcccagtat
+      481 caaaccccac tgtttgtctg atctgtccta atcactgcaa tcctactact cctctcccta
+      541 ccagtcttag ctgccggcat tactatacta ttaacagacc gcaacctcaa cactaccttc
+      601 tttgatccta ct
+//
+
+LOCUS       AY972787                 634 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR00989 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972787
+VERSION     AY972787.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..634
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00989"
+                     /db_xref="taxon:9534"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>634
+                     /gene="COXI"
+     CDS             <1..>634
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22353.1"
+                     /translation="FGAWAGITGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGAG
+                     TGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILY"
+ORIGIN      
+        1 tattcggtgc atgagctgga atcacaggca cagctctaag tcttctcatt cgagctgaac
+       61 taggccaacc cggtagttta ctaggtagtg accatatcta taatgtcatt gtaacagccc
+      121 atgcatttgt tataattttc ttcatagtta tgcccattat aattggaggg ttcgggaact
+      181 gactagtacc cctgataatt ggtgctcctg acatagcatt cccccgtcta aataatataa
+      241 gcttctgact tcttcccccc tctttcctgc tgctaatggc atcaactata atcgaggctg
+      301 gcgccggaac aggttgaacg gtatatcccc ccttagcagg aaacctctct cacccagggg
+      361 cctccgtaga cttagttatt ttctccctcc acctagcagg gatttcctct atcctaggag
+      421 ctatcaactt catcaccacc atcatcaaca tgaagccccc cgccatatcc cagtatcaaa
+      481 ccccattgtt cgtctgatct gtcctaatca cagcaatcct actactcctc tccctaccag
+      541 tcttagctgc cggcattact atactattaa cagaccgcaa cctcaacact accttctttg
+      601 atcctactgg agggggagac cctatcctat acca
+//
+
+LOCUS       AY972721                 616 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR00850 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972721
+VERSION     AY972721.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 616)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00850"
+                     /db_xref="taxon:9534"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>616
+                     /gene="COXI"
+     CDS             <1..>616
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22287.1"
+                     /translation="DIGTLYLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVI
+                     VTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAS
+                     TMIEAGAGTGWTVYPPLAGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKP
+                     PAMSQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTT"
+ORIGIN      
+        1 aagacattgg aactctatac ctactattcg gtgcatgagc tggaatcatg ggcacagctc
+       61 taagtcttct tattcgagct gaactaggcc aacccggtag cttactaggt agcgaccata
+      121 tctataatgt cattgtaaca gcccatgcat ttgtcataat tttcttcata gttataccca
+      181 tcataattgg aggattcggg aattgactag tacccttgat aattggtgct cctgacatag
+      241 cattcccccg tctaaataat ataagcttct gactcctccc cccctctttc ctactgctaa
+      301 tggcatcaac cataatcgag gctggcgccg gaacaggttg aacagtatat ccccctttag
+      361 caggaaactt ctcccatcca ggagcctccg tagacttagt tattttctcc ctccacctag
+      421 cagggatttc ctctatctta ggggctatca acttcatcac tactattatc aacatgaagc
+      481 cccccgccat atcccagtat caaaccccac tgtttgtctg atctgtccta atcacagcaa
+      541 tcctactact cctctcccta ccagtcttag ctgccggcat tactatacta ttaacagacc
+      601 gcaacctcaa cactac
+//
+
+LOCUS       AY972691                 630 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR00585 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972691
+VERSION     AY972691.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 630)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00585"
+                     /db_xref="taxon:9534"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>630
+                     /gene="COXI"
+     CDS             <1..>630
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22259.1"
+                     /translation="LLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPI"
+ORIGIN      
+        1 ctactattcg gtgcatgagc tggaatcata ggtacagctc taagccttct cattcgagct
+       61 gaattaggcc aacccggtag tttactaggc agtgaccata tctataatgt cattgtaaca
+      121 gcccatgcat ttattataat tttcttcata gttataccca ttataatcgg ggggttcggg
+      181 aactgactag tacccttgat aattggtgct cctgacatag catttccccg tctaaataat
+      241 atgagcttct gacttcttcc cccctccttc ctgctgctaa tggcatcaac cataatcgag
+      301 gctggcgctg gaacaggttg aacagtatac ccccccttag caggaaacct ctctcaccca
+      361 ggggcctccg tagacttagt tattttctcc ctccacctag caggagtttc ctctatcctg
+      421 ggggctatca acttcattac caccattatc aacatgaagc cccccgccat atcccagtat
+      481 caaaccccgt tatttgtctg atctgtccta atcacagcaa tcctactact cctctccctg
+      541 ccagtcttag ctgccggcat tactatacta ttaacagacc gcaacctcaa cactaccttc
+      601 tttgatccta ctggaggggg agaccctatc
+//
+
+LOCUS       AY972690                 635 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR00583 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972690
+VERSION     AY972690.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 635)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 635)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 635)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..635
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00583"
+                     /db_xref="taxon:9534"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>635
+                     /gene="COXI"
+     CDS             <1..>635
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22258.1"
+                     /translation="LLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 ctactattcg gtgcatgagc tggaatcata ggtacagctc taagccttct cattcgagct
+       61 gaattaggcc aacccggtag tttactaggc agtgaccata tctataatgt cattgtaaca
+      121 gcccatgcat ttattataat tttcttcata gttataccca ttataatcgg ggggttcggg
+      181 aactgactag tacccttgat aattggtgct cctgacatag catttccccg tctaaataat
+      241 atgagcttct gacttcttcc cccctccttc ctgctgctaa tggcatcaac cataatcgag
+      301 gctggcgctg gaacaggttg aacagtatac ccccccttag caggaaacct ctctcaccca
+      361 ggggcctccg tagacttagt tattttctcc ctccacctag caggagtttc ctctatcctg
+      421 ggggctatca acttcattac caccattatc aacatgaagc cccccgccat atcccagtat
+      481 caaaccccgt tatttgtctg atctgtccta atcacagcaa tcctactact cctctccctg
+      541 ccagtcttag ctgccggcat tactatacta ttaacagacc gcaacctcaa cactaccttc
+      601 tttgatccta ctggaggggg agaccctatc ctata
+//
+
+LOCUS       AY972689                 634 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR00581 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972689
+VERSION     AY972689.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..634
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00581"
+                     /db_xref="taxon:9534"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>634
+                     /gene="COXI"
+     CDS             <1..>634
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22257.1"
+                     /translation="LFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFI
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGA
+                     GTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQ
+                     TPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 tactattcgg tgcatgagct ggaatcatag gtacagctct aagccttctc attcgagctg
+       61 aattaggcca acccggtagt ttactaggca gtgaccatat ctataatgtc attgtaacag
+      121 cccatgcatt tattataatt ttcttcatag ttatacccat tataatcggg gggttcggga
+      181 actgactagt acccttgata attggtgctc ctgacatagc atttccccgt ctaaataata
+      241 tgagcttctg acttcttccc ccctccttcc tgctgctaat ggcatcaacc ataatcgagg
+      301 ctggcgctgg aacaggttga acagtatacc cccccttagc aggaaacctc tctcacccag
+      361 gggcctccgt agacttagtt attttctccc tccacctagc aggagtttcc tctatcctgg
+      421 gggctatcaa cttcattacc accattatca acatgaagcc ccccgccata tcccagtatc
+      481 aaaccccgtt atttgtctga tctgtcctaa tcacagcaat cctactactc ctctccctgc
+      541 cagtcttagc tgccggcatt actatactat taacagaccg caacctcaac actaccttct
+      601 ttgatcctac tggaggggga gaccctatcc tata
+//
+
+LOCUS       AY972688                 638 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR00579 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972688
+VERSION     AY972688.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 638)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 638)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 638)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..638
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00579"
+                     /db_xref="taxon:9534"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>638
+                     /gene="COXI"
+     CDS             <1..>638
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22256.1"
+                     /translation="LFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFI
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGA
+                     GTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQ
+                     TPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQ"
+ORIGIN      
+        1 tactattcgg tgcatgagct ggaatcatag gtacagctct aagccttctc attcgagctg
+       61 aattaggcca acccggtagt ttactaggca gtgaccatat ctataatgtc attgtaacag
+      121 cccatgcatt tattataatt ttcttcatag ttatacccat tataatcggg gggttcggga
+      181 actgactagt acccttgata attggtgctc ctgacatagc atttccccgt ctaaataata
+      241 tgagcttctg acttcttccc ccctccttcc tgctgctaat ggcatcaacc ataatcgagg
+      301 ctggcgctgg aacaggttga acagtatacc cccccttagc aggaaacctc tctcacccag
+      361 gggcctccgt agacttagtt attttctccc tccacctagc aggagtttcc tctatcctgg
+      421 gggctatcaa cttcattacc accattatca acatgaagcc ccccgccata tcccagtatc
+      481 aaaccccgtt atttgtctga tctgtcctaa tcacagcaat cctactactc ctctccctgc
+      541 cagtcttagc tgccggcatt actatactat taacagaccg caacctcaac actaccttct
+      601 ttgatcctac tggaggggga gaccctatcc tataccaa
+//
+
+LOCUS       AY972687                 642 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR00577 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972687
+VERSION     AY972687.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00577"
+                     /db_xref="taxon:9534"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>642
+                     /gene="COXI"
+     CDS             <1..>642
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22255.1"
+                     /translation="LLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQ"
+ORIGIN      
+        1 cctactattc ggtgcatgag ctggaatcat aggtacagct ctaagccttc tcattcgagc
+       61 tgaattaggc caacccggta gtttactagg cagtgaccat atctataatg tcattgtaac
+      121 agcccatgca tttattataa ttttcttcat agttataccc attataatcg gggggttcgg
+      181 gaactgacta gtacccttga taattggtgc tcctgacata gcatttcccc gtctaaataa
+      241 tatgagcttc tgacttcttc ccccctcctt cctgctgcta atggcatcaa ccataatcga
+      301 ggctggcgct ggaacaggtt gaacagtata ccccccctta gcaggaaacc tctctcaccc
+      361 aggggcctcc gtagacttag ttattttctc cctccaccta gcaggagttt cctctatcct
+      421 gggggctatc aacttcatta ccaccattat caacatgaag ccccccgcca tatcccagta
+      481 tcaaaccccg ttatttgtct gatctgtcct aatcacagca atcctactac tcctctccct
+      541 gccagtctta gctgccggca ttactatact attaacagac cgcaacctca acactacctt
+      601 ctttgatcct actggagggg gagaccctat cctataccaa ca
+//
+
+LOCUS       AY972652                 642 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR00080 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972652
+VERSION     AY972652.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00080"
+                     /db_xref="taxon:9534"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>642
+                     /gene="COXI"
+     CDS             <1..>642
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22228.1"
+                     /translation="LLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQ"
+ORIGIN      
+        1 cctactattc ggtgcatgag ctggaatcat aggtacagct ctaagccttc tcattcgagc
+       61 tgaattaggc caacccggta gtttactagg cagtgaccat atctataatg tcattgtaac
+      121 agcccatgca tttattataa ttttcttcat agttataccc attataatcg gggggttcgg
+      181 gaactgacta gtacccttga taattggtgc tcctgacata gcatttcccc gtctaaataa
+      241 tatgagcttc tgacttcttc ccccctcctt cctgctgcta atggcatcaa ccataatcga
+      301 ggctggcgct ggaacaggtt gaacagtata ccccccctta gcaggaaacc tctctcaccc
+      361 aggggcctcc gtagacttag ttattttctc cctccaccta gcaggagttt cctctatcct
+      421 gggggctatc aacttcatta ccaccattat caacatgaag ccccccgcca tatcccagta
+      481 tcaaaccccg ttatttgtct gatctgtcct aatcacagca atcctactac tcctctccct
+      541 gccagtctta gctgccggca ttactatact attaacagac cgcaacctca acactacctt
+      601 ctttgatcct actggagggg gagaccctat cctataccaa ca
+//
+
+LOCUS       AY972651                 645 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate PR00061 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972651
+VERSION     AY972651.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 645)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00061"
+                     /db_xref="taxon:9534"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>645
+                     /gene="COXI"
+     CDS             <1..>645
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22227.1"
+                     /translation="YLLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHA
+                     FIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEA
+                     GAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAMSQ
+                     YQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPILYQ"
+ORIGIN      
+        1 tatacctact attcggtgca tgagctggaa tcataggtac agctctaagc cttctcattc
+       61 gagctgaatt aggccaaccc ggtagtttac taggcagtga ccatatctat aatgtcattg
+      121 taacagccca tgcatttatt ataattttct tcatagttat acccattata atcggggggt
+      181 tcgggaactg actagtaccc ttgataattg gtgctcctga catagcattt ccccgtctaa
+      241 ataatatgag cttctgactt cttcccccct ccttcctgct gctaatggca tcaaccataa
+      301 tcgaggctgg cgctggaaca ggttgaacag tatacccccc cttagcagga aacctctctc
+      361 acccaggggc ctccgtagac ttagttattt tctccctcca cctagcagga gtttcctcta
+      421 tcctgggggc tatcaacttc attaccacca ttatcaacat gaagcccccc gccatatccc
+      481 agtatcaaac cccgttattt gtctgatctg tcctaatcac agcaatccta ctactcctct
+      541 ccctgccagt cttagctgcc ggcattacta tactattaac agaccgcaac ctcaacacta
+      601 ccttctttga tcctactgga gggggagacc ctatcctata ccaac
+//
+
+LOCUS       AY972640                 602 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate BP00221 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972640
+VERSION     AY972640.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 602)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 602)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 602)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..602
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BP00221"
+                     /db_xref="taxon:9534"
+     gene            <1..>602
+                     /gene="COXI"
+     CDS             <1..>602
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22217.1"
+                     /translation="WAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFVMIFF
+                     MVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGAGTGW
+                     TVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLF
+                     VWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTG"
+ORIGIN      
+        1 catgagctgg aatcataggc acagctctaa gtcttctcat tcgagctgaa ctaggccaac
+       61 ccggtagttt actaggtagt gaccatatct ataatgtcat tgtgacagcc catgcatttg
+      121 ttataatttt cttcatagtt atacccatta taattggagg gttcgggaac tgactagtac
+      181 ccttgataat tggtgctcct gacatagcat tcccccgtct aaataatata agcttctgac
+      241 ttcttccccc ctctttcctg ctgctaatgg catcaaccat aatcgaggct ggcgccggaa
+      301 caggttgaac agtatatccc cccttagcag gaaacctctc tcatccaggg gcctccgtag
+      361 acttagttat tttctccctc cacctagcag ggatttcctc tatcctagga gctatcaact
+      421 tcatcactac cattatcaac atgaagcccc ccgccatatc ccagtatcaa accccattgt
+      481 ttgtctgatc tgtcctaatc acagcaatcc tactactcct ctccctacca gtcttagctg
+      541 ccggcattac tatactatta acagaccgca accttaacac taccttcttt gatcctactg
+      601 ga
+//
+
+LOCUS       AY972639                 634 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate BP00220 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972639
+VERSION     AY972639.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..634
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BP00220"
+                     /db_xref="taxon:9534"
+     gene            <1..>634
+                     /gene="COXI"
+     CDS             <1..>634
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22216.1"
+                     /translation="LLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 cctactattc ggcgcatgag ctggaatcat aggcacagct ctaagtcttc tcattcgagc
+       61 tgaactaggc caacccggta gtttactagg tagtgaccat atctataatg tcattgtgac
+      121 agcccatgca tttgttataa ttttcttcat agttataccc attataattg gagggttcgg
+      181 gaactgacta gtacccttga taattggtgc tcctgacata gcattccccc gtctaaataa
+      241 tataagcttc tgacttcttc ccccctcttt cctgctgcta atggcatcaa ccataatcga
+      301 ggctggcgcc ggaacaggtt gaacagtata tcccccctta gcaggaaacc tctctcatcc
+      361 aggggcctcc gtagacttag ttattttctc cctccaccta gcagggattt cctctatcct
+      421 aggagctatc aacttcatca ctaccattat caacatgaag ccccccgcca tatcccagta
+      481 tcaaacccca ttgtttgtct gatctgtcct aatcacagca atcctactac tcctctccct
+      541 accagtctta gctgccggca ttactatact attaacagac cgcaacctta acactacctt
+      601 ctttgatcct actggagggg gagaccctat ccta
+//
+
+LOCUS       AY972638                 634 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate BP00219 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972638
+VERSION     AY972638.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..634
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BP00219"
+                     /db_xref="taxon:9534"
+     gene            <1..>634
+                     /gene="COXI"
+     CDS             <1..>634
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22215.1"
+                     /translation="LLFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 cctactattc ggcgcatgag ctggaatcat aggcacagct ctaagtcttc tcattcgagc
+       61 tgaactaggc caacccggta gtttactagg tagtgaccat atctataatg tcattgtgac
+      121 agcccatgca tttgttataa ttttcttcat agttataccc attataattg gagggttcgg
+      181 gaactgacta gtacccttga taattggtgc tcctgacata gcattccccc gtctaaataa
+      241 tataagcttc tgacttcttc ccccctcttt cctgctgcta atggcatcaa ccataatcga
+      301 ggctggcgcc ggaacaggtt gaacagtata tcccccctta gcaggaaacc tctctcatcc
+      361 aggggcctcc gtagacttag ttattttctc cctccaccta gcagggattt cctctatcct
+      421 aggagctatc aacttcatca ctaccattat caacatgaag ccccccgcca tatcccagta
+      481 tcaaacccca ttgtttgtct gatctgtcct aatcacagca atcctactac tcctctccct
+      541 accagtctta gctgccggca ttactatact attaacagac cgcaacctta acactacctt
+      601 ctttgatcct actggagggg gagaccctat ccta
+//
+
+LOCUS       AY972637                 632 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate BP00217 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972637
+VERSION     AY972637.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 632)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 632)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 632)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..632
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BP00217"
+                     /db_xref="taxon:9534"
+     gene            <1..>632
+                     /gene="COXI"
+     CDS             <1..>632
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22214.1"
+                     /translation="LFGAWAGITGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFV
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGA
+                     GTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQ
+                     TPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 tattattcgg tgcatgagct ggaatcacag gcacagctct aagtcttctc attcgagctg
+       61 aactaggcca acccggtagt ttactaggta gtgaccatat ctataatgtc attgtaacag
+      121 cccatgcatt tgttataatt ttcttcatag ttatgcccat tataattgga gggttcggga
+      181 actgactagt acccctgata attggtgctc ctgacatagc attcccccgt ctaaataata
+      241 taagcttctg acttcttccc ccctctttcc tgctgctaat ggcatcaacc ataatcgagg
+      301 ctggcgccgg aacaggttga acggtgtatc cccccttagc aggaaacctc tctcacccag
+      361 gggcctccgt agacttagtt attttctccc tccacctagc agggatttcc tctatcctag
+      421 gagctatcaa cttcatcact accattatca acatgaagcc ccccgccata tcccagtatc
+      481 aaaccccatt gttcgtctga tctgtcctaa tcacagcaat cctactactc ctctccctac
+      541 cagtcttagc tgctggcatt actatattat taacagaccg caacctcaac actaccttct
+      601 ttgatcctac tggaggggga gatcctatcc ta
+//
+
+LOCUS       AY972636                 634 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate BP00216 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972636
+VERSION     AY972636.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 634)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..634
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BP00216"
+                     /db_xref="taxon:9534"
+     gene            <1..>634
+                     /gene="COXI"
+     CDS             <1..>634
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22213.1"
+                     /translation="LLFGAWAGITGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 cctattattc ggtgcatgag ctggaatcac aggcacagct ctaagtcttc tcattcgagc
+       61 tgaactaggc caacccggta gtttactagg tagtgaccat atctataatg tcattgtaac
+      121 agcccatgca tttgttataa ttttcttcat agttatgccc attataattg gagggttcgg
+      181 gaactgacta gtacccctga taattggtgc tcctgacata gcattccccc gtctaaataa
+      241 tataagcttc tgacttcttc ccccctcttt cctgctgcta atggcatcaa ccataatcga
+      301 ggctggcgcc ggaacaggtt gaacggtgta tcccccctta gcaggaaacc tctctcaccc
+      361 aggggcctcc gtagacttag ttattttctc cctccaccta gcagggattt cctctatcct
+      421 aggagctatc aacttcatca ctaccattat caacatgaag ccccccgcca tatcccagta
+      481 tcaaacccca ttgttcgtct gatctgtcct aatcacagca atcctactac tcctctccct
+      541 accagtctta gctgctggca ttactatatt attaacagac cgcaacctca acactacctt
+      601 ctttgatcct actggagggg gagatcctat ccta
+//
+
+LOCUS       AY972635                 629 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate BP00215 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972635
+VERSION     AY972635.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 629)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..629
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BP00215"
+                     /db_xref="taxon:9534"
+     gene            <1..>629
+                     /gene="COXI"
+     CDS             <1..>629
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22212.1"
+                     /translation="FGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGAG
+                     TGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 tattcggcgc atgagctgga atcataggca cagctctaag tcttctcatt cgagctgaac
+       61 taggccaacc cggtagttta ctaggtagtg accatatcta taatgtcatt gtgacagccc
+      121 atgcatttgt tataattttc ttcatagtta tacccattat aattggaggg ttcgggaact
+      181 gactagtacc cttgataatt ggtgctcctg acatagcatt cccccgtcta aataatataa
+      241 gcttctgact tcttcccccc tctttcctgc tgctaatggc atcaaccata atcgaggctg
+      301 gcgccggaac aggttgaaca gtatatcccc ccttagcagg aaacctctct catccagggg
+      361 cctccgtaga cttagttatt ttctccctcc acctagcagg gatttcctct atcctaggag
+      421 ctatcaactt catcactacc attatcaaca tgaagccccc cgccatatcc cagtatcaaa
+      481 ccccattgtt tgtctgatct gtcctaatca cagcaatcct actactcctc tccctaccag
+      541 tcttagctgc cggcattact atactattaa cagaccgcaa ccttaacact accttctttg
+      601 atcctactgg agggggagac cctatccta
+//
+
+LOCUS       AY972634                 631 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate BP00214 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972634
+VERSION     AY972634.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 631)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 631)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 631)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..631
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BP00214"
+                     /db_xref="taxon:9534"
+     gene            <1..>631
+                     /gene="COXI"
+     CDS             <1..>631
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22211.1"
+                     /translation="LFGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFV
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGA
+                     GTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQ
+                     TPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 tactattcgg cgcatgagct ggaatcatag gcacagctct aagtcttctc attcgagctg
+       61 aactaggcca acccggtagt ttactaggta gtgaccatat ctataatgtc attgtgacag
+      121 cccatgcatt tgttataatt ttcttcatag ttatacccat tataattgga gggttcggga
+      181 actgactagt acccttgata attggtgctc ctgacatagc attcccccgt ctaaataata
+      241 taagcttctg acttcttccc ccctctttcc tgctgctaat ggcatcaacc ataatcgagg
+      301 ctggcgccgg aacaggttga acagtatatc cccccttagc aggaaacctc tctcatccag
+      361 gggcctccgt agacttagtt attttctccc tccacctagc agggatttcc tctatcctag
+      421 gagctatcaa cttcatcact accattatca acatgaagcc ccccgccata tcccagtatc
+      481 aaaccccatt gtttgtctga tctgtcctaa tcacagcaat cctactactc ctctccctac
+      541 cagtcttagc tgccggcatt actatactat taacagaccg caaccttaac actaccttct
+      601 ttgatcctac tggaggggga gaccctatcc t
+//
+
+LOCUS       AY972633                 628 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate BP00213 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972633
+VERSION     AY972633.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..628
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BP00213"
+                     /db_xref="taxon:9534"
+     gene            <1..>628
+                     /gene="COXI"
+     CDS             <1..>628
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22210.1"
+                     /translation="FGAWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGAG
+                     TGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 tattcggcgc atgagctgga atcataggca cagctctaag tcttctcatt cgagctgaac
+       61 taggccaacc cggtagttta ctaggtagtg accatatcta taatgtcatt gtgacagccc
+      121 atgcatttgt tataattttc ttcatagtta tacccattat aattggaggg ttcgggaact
+      181 gactagtacc cttgataatt ggtgctcctg acatagcatt cccccgtcta aataatataa
+      241 gcttctgact tcttcccccc tctttcctgc tgctaatggc atcaaccata atcgaggctg
+      301 gcgccggaac aggttgaaca gtatatcccc ccttagcagg aaacctctct catccagggg
+      361 cctccgtaga cttagttatt ttctccctcc acctagcagg gatttcctct atcctaggag
+      421 ctatcaactt catcactacc attatcaaca tgaagccccc cgccatatcc cagtatcaaa
+      481 ccccattgtt tgtctgatct gtcctaatca cagcaatcct actactcctc tccctaccag
+      541 tcttagctgc cggcattact atactattaa cagaccgcaa ccttaacact accttctttg
+      601 atcctactgg agggggagac cctatcct
+//
+
+LOCUS       AY972632                 623 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate BP00212 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972632
+VERSION     AY972632.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 623)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 623)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 623)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..623
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BP00212"
+                     /db_xref="taxon:9534"
+     gene            <1..>623
+                     /gene="COXI"
+     CDS             <1..>623
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22209.1"
+                     /translation="AWAGITGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFVMIF
+                     FMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGAGTG
+                     WTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPL
+                     FVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPIL"
+ORIGIN      
+        1 gtgcatgagc tggaatcaca ggcacagctc taagtcttct cattcgagct gaactaggcc
+       61 aacccggtag tttactaggt agtgaccata tctataatgt cattgtaaca gcccatgcat
+      121 ttgttataat tttcttcata gttatgccca ttataattgg agggttcggg aactgactag
+      181 tacccctgat aattggtgct cctgacatag cattcccccg tctaaataat ataagcttct
+      241 gacttcttcc cccctctttc ctgctgctaa tggcatcaac cataatcgag gctggcgccg
+      301 gaacaggttg aacggtgtat ccccccttag caggaaacct ctctcaccca ggggcctccg
+      361 tagacttagt tattttctcc ctccacctag cagggatttc ctctatccta ggagctatca
+      421 acttcatcac taccattatc aacatgaagc cccccgccat atcccagtat caaaccccat
+      481 tgttcgtctg atctgtccta atcacagcaa tcctactact cctctcccta ccagtcttag
+      541 ctgctggcat tactatatta ttaacagacc gcaacctcaa cactaccttc tttgatccta
+      601 ctggaggggg agatcctatc cta
+//
+
+LOCUS       AY972631                 620 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate BP00211 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972631
+VERSION     AY972631.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 620)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 620)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 620)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..620
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BP00211"
+                     /db_xref="taxon:9534"
+     gene            <1..>620
+                     /gene="COXI"
+     CDS             <1..>620
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22208.1"
+                     /translation="AWAGIMGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAFVMIF
+                     FMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAGAGTG
+                     WTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPL
+                     FVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPI"
+ORIGIN      
+        1 gcgcatgagc tggaatcata ggcacagctc taagtcttct cattcgagct gaactaggcc
+       61 aacccggtag tttactaggt agtgaccata tctataatgt cattgtgaca gcccatgcat
+      121 ttgttataat tttcttcata gttataccca ttataattgg agggttcggg aactgactag
+      181 tacccttgat aattggtgct cctgacatag cattcccccg tctaaataat ataagcttct
+      241 gacttcttcc cccctctttc ctgctgctaa tggcatcaac cataatcgag gctggcgccg
+      301 gaacaggttg aacagtatat ccccccttag caggaaacct ctctcatcca ggggcctccg
+      361 tagacttagt tattttctcc ctccacctag cagggatttc ctctatccta ggagctatca
+      421 acttcatcac taccattatc aacatgaagc cccccgccat atcccagtat caaaccccat
+      481 tgtttgtctg atctgtccta atcacagcaa tcctactact cctctcccta ccagtcttag
+      541 ctgccggcat tactatacta ttaacagacc gcaaccttaa cactaccttc tttgatccta
+      601 ctggaggggg agaccctatc
+//
+
+LOCUS       AY972630                 632 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Chlorocebus aethiops isolate BP00210 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972630
+VERSION     AY972630.1
+KEYWORDS    .
+SOURCE      mitochondrion Chlorocebus aethiops (Ceropithecus aethiops)
+  ORGANISM  Chlorocebus aethiops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 632)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 632)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 632)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..632
+                     /organism="Chlorocebus aethiops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BP00210"
+                     /db_xref="taxon:9534"
+     gene            <1..>632
+                     /gene="COXI"
+     CDS             <1..>632
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22207.1"
+                     /translation="LLFGAWAGITGTALSLLIRAELGQPGSLLGSDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMIEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPTGGGDPI"
+ORIGIN      
+        1 cctattattc ggtgcatgag ctggaatcac aggcacagct ctaagtcttc tcattcgagc
+       61 tgaactaggc caacccggta gtttactagg tagtgaccat atctataatg tcattgtaac
+      121 agcccatgca tttgttataa ttttcttcat agttatgccc attataatcg gagggttcgg
+      181 gaactgacta gtacccctga taattggtgc tcctgacata gcattccccc gtctaaataa
+      241 tataagcttc tgacttcttc ccccctcttt cctgctgcta atggcatcaa ccataatcga
+      301 ggctggcgcc ggaacaggtt gaacggtgta tcccccctta gcaggaaacc tctctcaccc
+      361 aggggcctcc gtagacttag ttattttctc cctccaccta gcagggattt cctctatcct
+      421 aggagctatc aacttcatca ctaccatcat caacatgaag ccccccgcca tatcccagta
+      481 tcaaacccca ttgttcgtct gatctgtcct aatcacagca atcctactac tcctctccct
+      541 accagtctta gctgctggca ttactatact attaacagac cgcaacctca acactacctt
+      601 ctttgatcct actggagggg gagaccctat cc
+//
+

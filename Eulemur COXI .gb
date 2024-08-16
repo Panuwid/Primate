@@ -1,0 +1,130 @@
+LOCUS       AY972672                 610 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Eulemur mongoz isolate PR00370 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972672
+VERSION     AY972672.1
+KEYWORDS    .
+SOURCE      mitochondrion Eulemur mongoz (mongoose lemur)
+  ORGANISM  Eulemur mongoz
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lemuriformes; Lemuridae; Eulemur.
+REFERENCE   1  (bases 1 to 610)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 610)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 610)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..610
+                     /organism="Eulemur mongoz"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00370"
+                     /db_xref="taxon:34828"
+                     /sex="female"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>610
+                     /gene="COXI"
+     CDS             <1..>610
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22242.1"
+                     /translation="YLLFGAWAGMVGTALSLLIRAELGQPGALLGDDQIYNVIVTAHA
+                     FVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEA
+                     GAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTVINMKPPAMSQ
+                     YQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTTFF"
+ORIGIN      
+        1 tttacctctt atttggggct tgagcaggaa tggtaggaac agcccttagc cttttaattc
+       61 gagcagaact tggtcaaccc ggggctttat tgggagatga tcaaatctac aatgtgatcg
+      121 taacagctca tgctttcgtc ataatttttt tcatagttat acctatcata attgggggct
+      181 ttgggaactg actagttccc ttaataattg gagctcctga tatagcattc cctcgaataa
+      241 ataatataag cttttggctt ctaccaccat ccttcttgct acttctagcg tcttcaatag
+      301 tagaagcagg cgctggaact gggtggaccg tatacccccc tctagctggg aatttggccc
+      361 atgcaggagc ctccgtagac ctaacaattt tttcattaca cctagcaggg gtatcctcaa
+      421 ttctaggggc catcaacttt atcaccacag taattaacat aaaaccccca gccatatcac
+      481 aatatcaaac acctctgttt gtatgatccg tgataattac cgctgtcctt ttacttctat
+      541 ccctaccggt tctagcagca ggaatcacta tactcttgac tgaccgtaac ctcaacacaa
+      601 cattttttga
+//
+
+LOCUS       AY972667                 627 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Eulemur mongoz isolate PR00288 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972667
+VERSION     AY972667.1
+KEYWORDS    .
+SOURCE      mitochondrion Eulemur mongoz (mongoose lemur)
+  ORGANISM  Eulemur mongoz
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lemuriformes; Lemuridae; Eulemur.
+REFERENCE   1  (bases 1 to 627)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 627)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 627)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..627
+                     /organism="Eulemur mongoz"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00288"
+                     /db_xref="taxon:34828"
+                     /sex="female"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>627
+                     /gene="COXI"
+     CDS             <1..>627
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22240.1"
+                     /translation="AGMVGTALSLLIRAELGQPGALLGDDQIYNVIVTAHAFVMIFFM
+                     VMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEAGAGTGWT
+                     VYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTVINMKPPAMSQYQTPLFV
+                     WSVMITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQH"
+ORIGIN      
+        1 gagcaggaat ggtaggaaca gcccttagcc ttttaattcg agcagaactt ggtcaacccg
+       61 gggctttatt gggagatgat caaatctaca atgtgatcgt aacagctcat gctttcgtca
+      121 taattttttt catagttata cctatcataa ttgggggctt tgggaactga ctagttccct
+      181 taataattgg agctcctgat atagcattcc ctcgaataaa taatataagc ttttggcttc
+      241 taccaccatc cttcttgcta cttctagcgt cttcaatagt agaagcaggc gctggaactg
+      301 ggtggaccgt atacccccct ctagctggga atttggccca tgcaggagcc tccgtagacc
+      361 taacaatttt ttcattacac ctagcagggg tatcctcaat tctaggggcc atcaacttta
+      421 tcaccacagt aattaacata aaacccccag ccatatcaca atatcaaaca cctctgtttg
+      481 tatgatccgt gataattacc gctgtccttt tacttctatc cctaccggtt ctagcagcag
+      541 gaatcactat actcttgact gaccgtaacc tcaacacaac attttttgac cctgcgggag
+      601 gaggtgatcc aattctatat caacatt
+//
+

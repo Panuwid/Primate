@@ -1,0 +1,56 @@
+LOCUS       EU185728                 628 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Nasalis larvatus voucher PR00679 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU185728
+VERSION     EU185728.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasalis larvatus (proboscis monkey)
+  ORGANISM  Nasalis larvatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Nasalis.
+REFERENCE   1  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 628)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave., Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..628
+                     /organism="Nasalis larvatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR00679"
+                     /db_xref="taxon:43780"
+                     /sex="female"
+     gene            <1..>628
+                     /gene="COXI"
+     CDS             <1..>628
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71162.1"
+                     /translation="WRMSWTAGMAMSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAMVEAGAGT
+                     GWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPIL"
+ORIGIN      
+        1 tttggcgcat gagctggacc gcaggtatag ctataagcct ccttatccga gccgaactag
+       61 gtcaacccgg caacctacta ggcaacgacc acatttacaa tgttatcgtt acagcccatg
+      121 catttgtcat aattttcttt atggttatgc ctatcatgat tggaggattc ggaaactgac
+      181 tagtaccctt aataattggc gctcctgata tggcattccc ccgcctaaat aatataagct
+      241 tttgacttct tccaccgtct ttcctgctcc ttcttgcatc agctatagta gaagctggtg
+      301 cagggacagg ctgaacagta tacccgcctc tagcaggaaa tttctcccac ccaggagctt
+      361 ctgtagacct aactatcttc tcacttcatc tagcaggcat ttcttctatc ttaggagcta
+      421 tcaattttat cacaactatc attaacataa aaccccccgc tatatcccaa tatcaaactc
+      481 ctttgtttgt ctgatctgtt ctaattacag cagtcctgct acttctatcc ctacccgtac
+      541 tggctgccgg cattacaatg ctactaacag accgcaatct caatactact ttctttgacc
+      601 ccgccggagg aggggatcca atcctata
+//
+

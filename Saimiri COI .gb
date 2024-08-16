@@ -1,0 +1,556 @@
+LOCUS       HM102313                 616 bp    DNA     linear   PRI 25-JUL-2016
+DEFINITION  Saimiri boliviensis strain ATCC CCL-194 cytochrome oxidase subunit
+            1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   HM102313
+VERSION     HM102313.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Saimiri boliviensis (Bolivian squirrel monkey)
+  ORGANISM  Saimiri boliviensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Cooper,J.K., Sykes,G., King,S., Cottrill,K., Ivanova,N.V.,
+            Hanner,R. and Ikonomi,P.
+  TITLE     Species identification in cell culture: a two-pronged molecular
+            approach
+  JOURNAL   In Vitro Cell. Dev. Biol. Anim. 43 (10), 344-351 (2007)
+   PUBMED   17934781
+REFERENCE   2  (bases 1 to 616)
+  AUTHORS   Cooper,J.K., Sykes,G., King,S., Cottrill,K., Ivanova,N.V.,
+            Hanner,R. and Ikonomi,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-APR-2010) BioProduction, ATCC, 10801 University Blvd,
+            Manassas, VA 20110, USA
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Saimiri boliviensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="ATCC CCL-194"
+                     /culture_collection="ATCC:CCL-194"
+                     /db_xref="BOLD:ACLB046-06.COI-5P"
+                     /db_xref="taxon:27679"
+                     /country="USA"
+                     /PCR_primers="fwd_seq: ttctctacaaatcataaagatattgg,
+                     rev_seq: taaacttcagggtgtccgaagaatca"
+                     /PCR_primers="fwd_seq: ttctccactaatcataaagacatcgg,
+                     rev_seq: tatacctcaggatgcccaaaaaatca"
+     gene            <1..>616
+                     /gene="COI"
+     CDS             <1..>616
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ADG46986.1"
+                     /translation="TALSLLIRAELGQPGSLMEDDHIFNVIVTAHAFIMIFFMVMPIM
+                     IGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPL
+                     AGNMSHPGPSVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFVWSVFI
+                     TAVLLLLSLPVLAAGITMLLTDRNLNTSFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 aactgccctg agcctcctaa ttcgtgcaga gctaggtcaa ccagggagtc tcatagaaga
+       61 cgatcacatt ttcaacgtta ttgtcaccgc ccatgcattc attataattt tcttcatagt
+      121 aatacccatc ataattggag gttttggaaa ctgactcatc ccgctaataa ttggtgcccc
+      181 cgacatagca tttcctcgaa taaataacat aagtttctga ctcctacccc catcactcct
+      241 tctcttactt gcatcctcaa ctctagaagc tggcgcaggg actgggtgaa ctgtctatcc
+      301 ccctctagca gggaatatgt cacacccagg gccctccgtg gacctcacta tcttttcact
+      361 ccacctagcc ggtatttcct ctattctagg ggcaattaat tttattacaa caattattaa
+      421 tataaaacca ccagcgatga gtcaatatca gacaccccta tttgtctgat ctgtgttcat
+      481 tacagcagtc ctcctactcc tctcactccc agtcctagct gccggaatca caatactcct
+      541 aactgatcgc aatcttaaca cctccttctt cgacccagct gggggaggcg accctattct
+      601 ttaccaacat ttattc
+//
+
+LOCUS       JF459275                 657 bp    DNA     linear   PRI 30-JAN-2012
+DEFINITION  Saimiri sciureus voucher ROM:106611 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   JF459275
+VERSION     JF459275.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Saimiri sciureus (common squirrel monkey)
+  ORGANISM  Saimiri sciureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 657)
+  AUTHORS   Lim,B.K., Engstrom,M.D., Eger,J.L. and Borisenko,A.V.
+  TITLE     ROM Mammals - Guyana
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 657)
+  AUTHORS   Lim,B.K., Engstrom,M.D., Eger,J.L. and Borisenko,A.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAR-2011) Biodiversity Institute of Ontario,
+            University of Guelph, 50 Stone Road East, Guelph, Ontario N1G2W1,
+            Canada
+FEATURES             Location/Qualifiers
+     source          1..657
+                     /organism="Saimiri sciureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ROM:106611"
+                     /db_xref="BOLD:ABGYC103-06.COI-5P"
+                     /db_xref="taxon:9521"
+                     /country="Guyana: Upper Takutu-Upper Essequibo, Chodikar
+                     River, 55 Km SW Of Gunn'S Strip"
+                     /lat_lon="1.367 N 58.767 W"
+                     /collection_date="03-Nov-1996"
+                     /collected_by="Lim, BK, O'Toole, E, Robertson, CJ"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaaagacattgg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccaaagaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaargayatygg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccraaraayca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagtattcaaccaatcataaagatattgg, rev_seq:
+                     caggaaacagctatgactaaacttctggatgtccaaaaaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>657
+                     /gene="COI"
+     CDS             <1..>657
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AEA91753.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHIFNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGPSVDLTIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVFITAVLLLLSLPVLAAGITMLLTDRNLNTSFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 acgttatatt tattatttgg tgcatgagct ggggcagtag ggactgcctt gagcctcctg
+       61 attcgtgcag agctgggtca accagggagt ctcatagaag atgatcacat tttcaacgtt
+      121 attgtcaccg cccatgcatt cattataatt ttcttcatag taatacccat cataattgga
+      181 ggttttggaa actgactcat cccgctaata attggtgccc ccgacatagc atttcctcga
+      241 ataaataaca taagtttctg actcttaccc ccatcactcc ttctcttact tgcatcctca
+      301 actctagaag ctggcgcagg gactgggtga actgtttatc ctcctctagc aggaaatata
+      361 tcacacccag ggccctccgt ggatctcact atcttttcac tccacctggc cggtatttcc
+      421 tctattctag gggcaattaa ttttattaca acaattatta atataaaacc accagcgatg
+      481 agtcaatatc agacacccct atttgtctga tctgtgttca ttacagcagt cctcctactc
+      541 ctctcactcc cagtcctagc tgccggaatt acaatactcc taactgatcg caatcttaac
+      601 acctccttct tcgacccagc tgggggaggc gaccctattc tttaccaaca tttattc
+//
+
+LOCUS       FJ392288                 712 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Saimiri sciureus voucher PL-IGAB-ZI73 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   FJ392288
+VERSION     FJ392288.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sciureus (squirrel monkey)
+  ORGANISM  Saimiri sciureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 712)
+  AUTHORS   Prusak,B. and Grzybowski,G.
+  TITLE     National Plant, Fungi and Animal DNA Bank in Poland
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 712)
+  AUTHORS   Prusak,B. and Grzybowski,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-OCT-2008) Department of Animal Immunogenetics,
+            Institute of Genetics and Animal Breeding, Polish Academy of
+            Science, Postepu 1, Jastrzebiec, Wolka Kosowska 05-552, Poland
+FEATURES             Location/Qualifiers
+     source          1..712
+                     /organism="Saimiri sciureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PL-IGAB-ZI73"
+                     /db_xref="taxon:9521"
+                     /country="Poland"
+                     /lat_lon="52.15 N 21.01 E"
+                     /collection_date="23-Jul-2007"
+                     /PCR_primers="fwd_seq: tttahtatttggygcatgagc, rev_seq:
+                     cccraatggytctttttttgt"
+                     /note="common: squirrel monkey"
+     gene            <1..>712
+                     /gene="COI"
+     CDS             <1..>712
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACJ36450.1"
+                     /translation="AGAVGTALSLLIRAELGQPGSLMEDDHIFNVIVTAHAFIMIFFM
+                     VMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWT
+                     VYPPLAGNMSHPGPSVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFV
+                     WSVFITAVLLLLSLPVLAAGITMLLTDRNLNTSFFDPAGGGDPILYQHLFWFFGHPEV
+                     YILILPGFGMISHIVTYYS"
+ORIGIN      
+        1 gctggggcag tagggactgc cttgagcctc ctgattcgtg cagagctggg tcaaccaggg
+       61 agtctcatag aagatgatca cattttcaac gttattgtca ccgcccatgc attcattata
+      121 attttcttca tagtaatacc catcataatt ggaggttttg gaaactgact catcccgcta
+      181 ataattggtg cccccgacat agcatttcct cgaataaata acataagttt ctgactctta
+      241 cccccatcac tccttctctt acttgcatcc tcaactctag aagctggcgc agggactggg
+      301 tgaactgttt atcctcctct agcaggaaat atatcacacc cagggccctc cgtggatctc
+      361 actatctttt cactccacct ggccggtatt tcctctattc taggggcaat taattttatt
+      421 acaacaatta ttaatataaa accaccagcg atgagtcaat atcagacacc cctatttgtc
+      481 tgatctgtgt tcattacagc agtcctccta ctcctctcac tcccagtcct agctgccgga
+      541 attacaatac tcctaactga tcgcaatctt aacacctcct tcttcgaccc agctggggga
+      601 ggcgacccta ttctttacca acatttattc tgattttttg gacaccctga agtatacatc
+      661 ctcatccttc ctggctttgg catgatctcc cacattgtta catactactc ca
+//
+
+LOCUS       FJ402876                 712 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Saimiri sciureus voucher PL-IGAB-ZI74 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   FJ402876
+VERSION     FJ402876.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sciureus (squirrel monkey)
+  ORGANISM  Saimiri sciureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 712)
+  AUTHORS   Prusak,B. and Grzybowski,G.
+  TITLE     National Network of DNA Bank of Plants, Fungi and Animals
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 712)
+  AUTHORS   Prusak,B. and Grzybowski,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-OCT-2008) Department of Animal Immunogenetics,
+            Institute of Genetics and Animal Breeding, Polish Academy of
+            Science, Postepu 1, Jastrzebiec, Wolka Kosowska 05-552, Poland
+FEATURES             Location/Qualifiers
+     source          1..712
+                     /organism="Saimiri sciureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PL-IGAB-ZI74"
+                     /db_xref="taxon:9521"
+                     /country="Poland"
+                     /lat_lon="52.15 N 21.01 E"
+                     /collection_date="23-Jul-2007"
+                     /PCR_primers="fwd_seq: tttahtatttggygcatgagc, rev_seq:
+                     cccraatggytctttttttgt"
+                     /note="common: squirrel monkey"
+     gene            <1..>712
+                     /gene="COI"
+     CDS             <1..>712
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACJ38105.1"
+                     /translation="AGAVGTALSLLIRAELGQPGSLMEDDHIFNVIVTAHAFIMIFFM
+                     VMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWT
+                     VYPPLAGNMSHPGPSVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFV
+                     WSVFITAVLLLLSLPVLAAGITMLLTDRNLNTSFFDPAGGGDPILYQHLFWFFGHPEV
+                     YILILPGFGMISHIVTYYS"
+ORIGIN      
+        1 gctggggcag tagggactgc cttgagcctc ctgattcgtg cagagctggg tcaaccaggg
+       61 agtctcatag aagatgatca cattttcaac gttattgtca ccgcccatgc attcattata
+      121 attttcttca tagtaatacc catcataatt ggaggttttg gaaactgact catcccgcta
+      181 ataattggtg cccccgacat agcatttcct cgaataaata acataagttt ctgactctta
+      241 cccccatcac tccttctctt acttgcatcc tcaactctag aagctggcgc agggactggg
+      301 tgaactgttt atcctcctct agcaggaaat atatcacacc cagggccctc cgtggatctc
+      361 actatctttt cactccacct ggccggtatt tcctctattc taggggcaat taattttatt
+      421 acaacaatta ttaatataaa accaccagcg atgagtcaat atcagacacc cctatttgtc
+      481 tgatctgtgt tcattacagc agtcctccta ctcctctcac tcccagtcct agctgccgga
+      541 attacaatac tcctaactga tcgcaatctt aacacctcct tcttcgaccc agctggggga
+      601 ggcgacccta ttctttacca acatttattc tgattttttg gacaccctga agtatacatc
+      661 ctcatccttc ctggctttgg catgatctcc cacattgtta catactactc ca
+//
+
+LOCUS       FJ402871                 712 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Saimiri sciureus voucher PL-IGAB-ZI75 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   FJ402871
+VERSION     FJ402871.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sciureus (squirrel monkey)
+  ORGANISM  Saimiri sciureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 712)
+  AUTHORS   Prusak,B. and Grzybowski,G.
+  TITLE     National Network of DNA Bank of Plants, Fungi and Animals
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 712)
+  AUTHORS   Prusak,B. and Grzybowski,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-OCT-2008) Department of Animal Immunogenetics,
+            Institute of Genetics and Animal Breeding, Polish Academy of
+            Science, Postepu 1, Jastrzebiec, Wolka Kosowska 05-552, Poland
+FEATURES             Location/Qualifiers
+     source          1..712
+                     /organism="Saimiri sciureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PL-IGAB-ZI75"
+                     /db_xref="taxon:9521"
+                     /country="Poland"
+                     /lat_lon="52.15 N 21.01 E"
+                     /collection_date="23-Jul-2007"
+                     /PCR_primers="fwd_seq: tttahtatttggygcatgagc, rev_seq:
+                     cccraatggytctttttttgt"
+                     /note="common: squirrel monkey"
+     gene            <1..>712
+                     /gene="COI"
+     CDS             <1..>712
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACJ38100.1"
+                     /translation="AGAVGTALSLLIRAELGQPGSLMEDDHIFNVIVTAHAFIMIFFM
+                     VMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWT
+                     VYPPLAGNMSHPGPSVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFV
+                     WSVFITAVLLLLSLPVLAAGITMLLTDRNLNTSFFDPAGGGDPILYQHLFWFFGHPEV
+                     YILILPGFGMISHIVTYYS"
+ORIGIN      
+        1 gctggggcag tagggactgc cttgagcctc ctgattcgtg cagagctggg tcaaccaggg
+       61 agtctcatag aagatgatca cattttcaac gttattgtca ccgcccatgc attcattata
+      121 attttcttca tagtaatacc catcataatt ggaggttttg gaaactgact catcccgcta
+      181 ataattggtg cccccgacat agcatttcct cgaataaata acataagttt ctgactctta
+      241 cccccatcac tccttctctt acttgcatcc tcaactctag aagctggcgc agggactggg
+      301 tgaactgttt atcctcctct agcaggaaat atatcacacc cagggccctc cgtggatctc
+      361 actatctttt cactccacct ggccggtatt tcctctattc taggggcaat taattttatt
+      421 acaacaatta ttaatataaa accaccagcg atgagtcaat atcagacacc cctatttgtc
+      481 tgatctgtgt tcattacagc agtcctccta ctcctctcac tcccagtcct agctgccgga
+      541 attacaatac tcctaactga tcgcaatctt aacacctcct tcttcgaccc agctggggga
+      601 ggcgacccta ttctttacca acatttattc tgattttttg gacaccctga agtatacatc
+      661 ctcatccttc ctggctttgg catgatctcc cacattgtta catactactc ca
+//
+
+LOCUS       AY549423                 603 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Saimiri boliviensis PR00474 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   AY549423
+VERSION     AY549423.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri boliviensis (Bolivian squirrel monkey)
+  ORGANISM  Saimiri boliviensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 603)
+  AUTHORS   Lorenz,J.G., Vosbikian,A.D., Jackson,W.E., Hanner,R. and Beck,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2004) Molecular Biology, Coriell Institute for
+            Medical Research, 403 Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /organism="Saimiri boliviensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="skin biopsy from male Bolivian squirrel
+                     monkey"
+                     /db_xref="taxon:27679"
+                     /cell_line="PR00474"
+                     /cell_type="fibroblast"
+     gene            <1..>603
+                     /gene="COI"
+     CDS             <1..>603
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAS55879.1"
+                     /translation="AVGTALSLMIRAELGQPGSLMEDDHIFNVIVTAHAFIMIFFMVM
+                     PIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVY
+                     PPLAGNMSHPGPSVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFVWS
+                     VFITAVLLLLSLPVLAAGITMLLTDRNLNTSFFDPAGGGD"
+ORIGIN      
+        1 gagcagtagg aactgccctg agcctcataa ttcgtgcaga gctaggtcaa ccagggagtc
+       61 tcatagaaga cgatcacatt ttcaacgtta ttgtcaccgc ccatgcattc attataattt
+      121 tctttatagt aatacccatc ataattggag gttttggaaa ctgactcatc ccgctaataa
+      181 ttggtgctcc cgacatagca tttcctcgaa taaataacat aagtttctga ctcctacccc
+      241 catcactcct tctcttactc gcatcctcaa ctctagaagc tggcgcaggg actgggtgaa
+      301 ctgtctatcc ccctctagca gggaatatat cacacccagg gccctccgtg gacctcacta
+      361 tcttttcact ccacctagcc ggtatttcct ctattctagg ggcaattaat tttattacaa
+      421 caattattaa tataaaacca ccagcgatga gtcaatatca gacaccccta tttgtctgat
+      481 ctgtattcat tacagcagtc ctcctactcc tctcactccc agtcctagct gccggaatca
+      541 caatactcct aactgatcgc aatcttaaca cctccttctt cgacccagct gggggaggcg
+      601 acc
+//
+
+LOCUS       KJ862198                 648 bp    DNA     linear   PRI 22-SEP-2015
+DEFINITION  Saimiri sciureus voucher S51 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   KJ862198
+VERSION     KJ862198.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sciureus (common squirrel monkey)
+  ORGANISM  Saimiri sciureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Using DNA Barcoding to Identify the Endangered Birds and Big
+            Mammals in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2014) College of Life Sciences, Sichuan
+            University, South section I, Yihuan Road, Chengdu, Sichuan Province
+            610064, China
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Saimiri sciureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="S51"
+                     /db_xref="taxon:9521"
+                     /country="China"
+                     /collection_date="01-Dec-2008"
+                     /PCR_primers="fwd_name: VF1, fwd_seq:
+                     ttctcaaccaaccacaaagacattgg, rev_name: VR1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIM44753.1"
+                     /translation="LLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHIFNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAG
+                     AGTGWTVYPPLAGNMSHPGPSVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVFITAVLLLLSLPVLAAGITMLLTDRNLNTSFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 ttattatttg gtgcatgagc tggggcagta gggactgcct tgagcctcct gattcgtgca
+       61 gagctgggtc aaccagggag tctcatagaa gatgatcaca ttttcaacgt tattgtcacc
+      121 gcccatgcat tcattataat tttcttcata gtaataccca tcataattgg aggttttgga
+      181 aactgactca tcccgctaat aattggtgcc cccgacatag catttcctcg aataaataac
+      241 ataagtttct gactcttacc cccatcactc cttctcttac ttgcatcctc aactctagaa
+      301 gctggcgcag ggactgggtg aactgtttat cctcctctag caggaaatat atcacaccca
+      361 gggccctccg tggatctcac tatcttttca ctccacctgg ccggtatttc ctctattcta
+      421 ggggcaatta attttattac aacaattatt aatataaaac caccagcgat gagtcaatat
+      481 cagacacccc tatttgtctg atctgtgttc attacagcag tcctcctact cctctcactc
+      541 ccagtcctag ctgccggaat tacaatactc ctaactgatc gcaatcttaa cacctccttc
+      601 ttcgacccag ctgggggagg cgaccctatt ctttaccaac atttattc
+//
+
+LOCUS       KJ862197                 648 bp    DNA     linear   PRI 22-SEP-2015
+DEFINITION  Saimiri sciureus voucher S50 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   KJ862197
+VERSION     KJ862197.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sciureus (common squirrel monkey)
+  ORGANISM  Saimiri sciureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Using DNA Barcoding to Identify the Endangered Birds and Big
+            Mammals in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2014) College of Life Sciences, Sichuan
+            University, South section I, Yihuan Road, Chengdu, Sichuan Province
+            610064, China
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Saimiri sciureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="S50"
+                     /db_xref="taxon:9521"
+                     /country="China"
+                     /collection_date="01-Dec-2008"
+                     /PCR_primers="fwd_name: VF1, fwd_seq:
+                     ttctcaaccaaccacaaagacattgg, rev_name: VR1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIM44752.1"
+                     /translation="LLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHIFNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAG
+                     AGTGWTVYPPLAGNMSHPGPSVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVFITAVLLLLSLPVLAAGITMLLTDRNLNTSFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 ttattatttg gtgcatgagc tggggcagta gggactgcct tgagcctcct gattcgtgca
+       61 gagctgggtc aaccagggag tctcatagaa gatgatcaca ttttcaacgt tattgtcacc
+      121 gcccatgcat tcattataat tttcttcata gtaataccca tcataattgg aggttttgga
+      181 aactgactca tcccgctaat aattggtgcc cccgacatag catttcctcg aataaataac
+      241 ataagtttct gactcttacc cccatcactc cttctcttac ttgcatcctc aactctagaa
+      301 gctggcgcag ggactgggtg aactgtttat cctcctctag caggaaatat atcacaccca
+      361 gggccctccg tggatctcac tatcttttca ctccacctgg ccggtatttc ctctattcta
+      421 ggggcaatta attttattac aacaattatt aatataaaac caccagcgat gagtcaatat
+      481 cagacacccc tatttgtctg atctgtgttc attacagcag tcctcctact cctctcactc
+      541 ccagtcctag ctgccggaat tacaatactc ctaactgatc gcaatcttaa cacctccttc
+      601 ttcgacccag ctgggggagg cgaccctatt ctttaccaac atttattc
+//
+
+LOCUS       KJ862194                 648 bp    DNA     linear   PRI 22-SEP-2015
+DEFINITION  Saimiri sciureus voucher S45 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   KJ862194
+VERSION     KJ862194.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sciureus (common squirrel monkey)
+  ORGANISM  Saimiri sciureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Using DNA Barcoding to Identify the Endangered Birds and Big
+            Mammals in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2014) College of Life Sciences, Sichuan
+            University, South section I, Yihuan Road, Chengdu, Sichuan Province
+            610064, China
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Saimiri sciureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="S45"
+                     /db_xref="taxon:9521"
+                     /country="China"
+                     /collection_date="01-Dec-2008"
+                     /PCR_primers="fwd_name: VF1, fwd_seq:
+                     ttctcaaccaaccacaaagacattgg, rev_name: VR1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIM44749.1"
+                     /translation="LLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHIFNVIVTAHAF
+                     IMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAG
+                     AGTGWTVYPPLAGNMSHPGPSVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVFITAVLLLLSLPVLAAGITMLLTDRNLNTSFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 ttattatttg gtgcatgagc tggggcagta gggactgcct tgagcctcct gattcgtgca
+       61 gagctgggtc aaccagggag tctcatagaa gatgatcaca ttttcaacgt tattgtcacc
+      121 gcccatgcat tcattataat tttcttcata gtaataccca tcataattgg aggttttgga
+      181 aactgactca tcccgctaat aattggtgcc cccgacatag catttcctcg aataaataac
+      241 ataagtttct gactcttacc cccatcactc cttctcttac ttgcatcctc aactctagaa
+      301 gctggcgcag ggactgggtg aactgtttat cctcctctag caggaaatat atcacaccca
+      361 gggccctccg tggatctcac tatcttttca ctccacctgg ccggtatttc ctctattcta
+      421 ggggcaatta attttattac aacaattatt aatataaaac caccagcgat gagtcaatat
+      481 cagacacccc tatttgtctg atctgtgttc attacagcag tcctcctact cctctcactc
+      541 ccagtcctag ctgccggaat tacaatactc ctaactgatc gcaatcttaa cacctccttc
+      601 ttcgacccag ctgggggagg cgaccctatt ctttaccaac atttattc
+//
+

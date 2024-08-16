@@ -1,0 +1,296 @@
+LOCUS       EU185724                 547 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Colobus angolensis voucher PR00296 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU185724
+VERSION     EU185724.1
+KEYWORDS    .
+SOURCE      mitochondrion Colobus angolensis (Angolan colobus)
+  ORGANISM  Colobus angolensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Colobus.
+REFERENCE   1  (bases 1 to 547)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 547)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave., Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..547
+                     /organism="Colobus angolensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR00296"
+                     /db_xref="taxon:54131"
+                     /sex="male"
+     gene            <1..>547
+                     /gene="COXI"
+     CDS             <1..>547
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71158.1"
+                     /translation="PGNLLGNDHIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMI
+                     GAPDMAFPRLNNMSFWLLPPSFLLLLASAMVEAGAGTGWTVYPPLAGNFSHPGASVDL
+                     TIFSLHLAGISSILGAINFITTIINMKPPAISQYQTPLFVWSVMITAVLLLLSLPVLA
+                     AGITMLLTDRNLNTTFFDPAGG"
+ORIGIN      
+        1 acccggtaac ctgctaggta atgaccacat ttacaatgtt attgttacag cccatgcatt
+       61 cgtcataatt ttctttatag ttatacccat tataattgga ggtttcggaa actgattagt
+      121 acctctaata attggcgctc ctgacatagc atttccccgc ttaaataaya taagcttctg
+      181 acttctycca ccatcttttc tacttcttct cgcatcagcc atagtagaag ccggtgccgg
+      241 aactggttga accgtctacc cacctttagc aggaaacttc tcccacccgg gggcctctgt
+      301 agacctaacc atcttctcgc tccatctagc aggtatctcc tctattctag grgctattaa
+      361 tttcattacc actatcatta acataaaacc ccccgcaatt tcccaatatc aaaccccttt
+      421 attcgtttga tcagttataa ttacrgcagt cctattactc ctatctcttc ccgtactagc
+      481 tgccggcatc acaatrctat taacggatcg caacctcaac accaccttct tcgaccctgc
+      541 cggtggc
+//
+
+LOCUS       AY972692                 641 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Colobus polykomos isolate PR00597 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972692
+VERSION     AY972692.1
+KEYWORDS    .
+SOURCE      mitochondrion Colobus polykomos (king colobus)
+  ORGANISM  Colobus polykomos
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Colobus.
+REFERENCE   1  (bases 1 to 641)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 641)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 641)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..641
+                     /organism="Colobus polykomos"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00597"
+                     /db_xref="taxon:9572"
+                     /sex="male"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>641
+                     /gene="COXI"
+     CDS             <1..>641
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22260.1"
+                     /translation="YLLFGAWAGMMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTAHA
+                     FVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAAVEA
+                     GAGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAISQ
+                     YQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILY"
+ORIGIN      
+        1 atacttacta ttcggagcat gggccggaat aatgggtatg gctataagtc ttctaatccg
+       61 agctgaacta ggccaacccg gcaacctgct aggtaatgac cacatctaca atgttattgt
+      121 tacggcccac gcattcgtca taattttctt tatagttata cctatcataa tcggaggttt
+      181 cggaaactgg ttagtacctc tgataattgg tgcccctgac atagcatttc cccgcctaaa
+      241 caatataagc ttttgacttc tcccaccatc ttttctactt cttctcgcat cagctgcagt
+      301 agaagccggt gccggaactg gctgaaccgt ctacccgcct ctggcaggaa acttctccca
+      361 cccaggagcc tctgtagact taaccatctt ctcactccat ctagcaggta tctcctctat
+      421 tctaggagct attaatttta ttactaccat tattaacata aagccccccg caatttctca
+      481 atatcagacc cccttattcg tctgatcagt aataattaca gcagtcctat tactactatc
+      541 tctccccgta ctagcggccg gcatcacaat actattaaca gatcgcaacc tcaacactac
+      601 cttcttcgac cccgctggtg gaggagaccc catcttatat c
+//
+
+LOCUS       EU185734                 561 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Colobus guereza voucher PR00980 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EU185734
+VERSION     EU185734.1
+KEYWORDS    .
+SOURCE      mitochondrion Colobus guereza (mantled guereza)
+  ORGANISM  Colobus guereza
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Colobus.
+REFERENCE   1  (bases 1 to 561)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 561)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave., Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..561
+                     /organism="Colobus guereza"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR00980"
+                     /db_xref="taxon:33548"
+                     /sex="male"
+     gene            <1..>561
+                     /gene="COXI"
+     CDS             <1..>561
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71168.1"
+                     /translation="MSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFMVMPIMIG
+                     GFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAAVEAGAGTGWTVYPPLAG
+                     NFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAISQYQTPLFVWSVMITA
+                     VLLLLSLPVLAAGITMLLTDRNLNTT"
+ORIGIN      
+        1 tataagtctt ctaatccgag ctgaactagg ccaacccggc aacctgctag gtaatgacca
+       61 catctacaat gttattgtta cggcccacgc attcgtcata attttcttta tagttatacc
+      121 tatcataatc ggaggtttcg gaaactggtt agtacctctg ataattggtg cccctgacat
+      181 agcatttccc cgcctaaaca atataagctt ttgacttctc ccaccatctt ttctacttct
+      241 tctcgcatca gctgcagtag aagccggtgc cggaactggc tgaaccgtct acccgcctct
+      301 ggcaggaaac ttctcccacc caggagcctc tgtagactta accatcttct cactccatct
+      361 agcaggtatc tcctctattc taggagctat taattttatt actaccatta ttaacataaa
+      421 gccccccgca atttctcaat atcagacccc cttattcgtc tgatcagtaa taattacagc
+      481 agtcctatta ctactatctc tccccgtact agcggccggc atcacaatac tattaacaga
+      541 tcgcaacctc aacactacct t
+//
+
+LOCUS       EU185723                 631 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Colobus guereza voucher PR00260 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EU185723
+VERSION     EU185723.1
+KEYWORDS    .
+SOURCE      mitochondrion Colobus guereza (mantled guereza)
+  ORGANISM  Colobus guereza
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Colobus.
+REFERENCE   1  (bases 1 to 631)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 631)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave., Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..631
+                     /organism="Colobus guereza"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR00260"
+                     /db_xref="taxon:33548"
+                     /sex="male"
+     gene            <1..>631
+                     /gene="COXI"
+     CDS             <1..>631
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71157.1"
+                     /translation="FGAWAGMMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAAVEAGAG
+                     TGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAISQYQT
+                     PLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILY"
+ORIGIN      
+        1 attcggagca tgggccggaa taatgggtat agctataagt cttctaatcc gagctgaact
+       61 aggccaaccc ggcaacctgc taggtaatga ccacatttac aatgttattg ttacggccca
+      121 cgcattcgtc ataattttct ttatagttat acctatcata atcggaggat tcggaaactg
+      181 attagtgcct ctgataattg gtgcccctga catagcattt ccccgcttaa acaatataag
+      241 cttttgactt ctcccaccat cttttctact tcttctcgca tcagctgcag tagaagccgg
+      301 tgccggaact ggctgaaccg tttacccgcc tctggcagga aacttctccc atccgggagc
+      361 ctctgtagac ttaaccatct tctcactcca tctagcaggt atctcctcta ttctaggagc
+      421 tattaatttt attactacca ttattaacat aaaacccccc gcaatttccc aatatcagac
+      481 ccccttattc gtctggtcag taataattac agcagtccta ttactactat ctctccccgt
+      541 actagcggcc ggcatcacaa tactattaac agatcgcaac ctcaacacta ccttcttcga
+      601 ccccgccggt ggaggagacc ccatcttata t
+//
+
+LOCUS       AY972697                 626 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Colobus guereza isolate PR00655 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972697
+VERSION     AY972697.1
+KEYWORDS    .
+SOURCE      mitochondrion Colobus guereza (mantled guereza)
+  ORGANISM  Colobus guereza
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Colobus.
+REFERENCE   1  (bases 1 to 626)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 626)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 626)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..626
+                     /organism="Colobus guereza"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00655"
+                     /db_xref="taxon:33548"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>626
+                     /gene="COXI"
+     CDS             <1..>626
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22265.1"
+                     /translation="LLFGAWAGMMGMAMSLLIRAELGQPGNLLGNDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAAVEAG
+                     AGTGWTVYPPLAGNFSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAISQY
+                     QTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGEETP"
+ORIGIN      
+        1 ttactattcg gagcatgggc cggaataatg ggtatagcta taagtcttct aatccgagct
+       61 gaactaggcc aacccggcaa cctgctaggt aatgaccaca tttacaatgt tattgttacg
+      121 gcccacgcat tcgtcataat tttctttata gttataccta tcataatcgg aggattcgga
+      181 aactgattag tgcctctgat aattggtgcc cctgacatag catttccccg cttaaacaat
+      241 ataagctttt gacttctccc accatctttt ctacttcttc tcgcatcagc tgcagtagaa
+      301 gccggtgccg gaactggctg aaccgtttac ccgcctctgg caggaaactt ctcccatccg
+      361 ggagcctctg tagacttaac catcttctca ctccatctag caggtatctc ctctattcta
+      421 ggagctatta attttattac taccattatt aacataaaac cccccgcaat ttcccaatat
+      481 cagaccccct tattcgtctg gtcagtaata attacagcag tcctattact actatctctc
+      541 cccgtactag cggccggcat cacaatacta ttaacagatc gcaacctcaa cactaccttc
+      601 ttcgaccccg ccggggagga gacccc
+//
+

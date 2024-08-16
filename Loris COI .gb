@@ -1,0 +1,1309 @@
+LOCUS       KX761827                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris lydekkerianus isolate SLCP 2015.01 cytochrome oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761827
+VERSION     KX761827.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris lydekkerianus (gray slender loris)
+  ORGANISM  Loris lydekkerianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris lydekkerianus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCP 2015.01"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:300163"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="30-Oct-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37692.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFSL"
+ORIGIN      
+        1 agcgagaaaa tagtgaggtc gactgaggct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggatgaggc taagagtagg
+      121 agaaaagatg ggggcagaag tcagaagctt atgttattta ttcggggaaa ggctatatca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761826                 231 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris tardigradus isolate SLCP 2015.14 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761826
+VERSION     KX761826.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 231)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 231)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..231
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCP 2015.14"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:9468"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="21-Jul-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>231)
+                     /gene="COI"
+     CDS             complement(<1..>231)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37691.1"
+                     /translation="LGQPGTLLGDDLISNVIVTAHAFVMIFFMVMPIMIGGFGNWLVP
+                     LMIGAPDMAFPRMNNMSFWLLPPSFLLLLASS"
+ORIGIN      
+        1 atggacgagg ctaagagtag aagaaacgat gggggtagaa gtcagaagct tatgttattt
+       61 attcggggaa aggctatgtc aggagcacca attataagag ggactaatca gttaccaaac
+      121 cctccgatta tgatgggtat aactataaag aagattatga caaaagcatg ggctgtgaca
+      181 atgacattgg agattagatc atctcccaga agagtccctg gctggcctaa t
+//
+
+LOCUS       KX761825                 231 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris tardigradus isolate SLCPL11 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761825
+VERSION     KX761825.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 231)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 231)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..231
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCPL11"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:9468"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="15-Feb-2013"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>231)
+                     /gene="COI"
+     CDS             complement(<1..>231)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37690.1"
+                     /translation="LGQPGTLLGDDLISNVIVTAHAFVMIFFMVMPIMIGGFGNWLVP
+                     LMIGAPDMAFPRMNNMSFWLLPPSFLLLLASS"
+ORIGIN      
+        1 atggacgagg ctaagagtag aagaaacgat gggggtagaa gtcagaagct tatgttattt
+       61 attcggggaa aggctatgtc aggagcacca attataagag ggactaatca gttaccaaac
+      121 cctccgatta tgatgggtat aactataaag aagattatga caaaagcatg ggctgtgaca
+      181 atgacattgg agattagatc atctcccaga agagtccctg gctggcctaa t
+//
+
+LOCUS       KX761824                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris lydekkerianus isolate SLCPL10 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761824
+VERSION     KX761824.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris lydekkerianus (gray slender loris)
+  ORGANISM  Loris lydekkerianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris lydekkerianus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCPL10"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:300163"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="25-Aug-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37689.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtgaggtc gactgaggct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggatgaggc taagagtagg
+      121 agaaaagatg ggggcagaag tcagaagctt atgttattta ttcggggaaa ggctatatca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761823                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris lydekkerianus isolate SLCP 2015.12 cytochrome oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761823
+VERSION     KX761823.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris lydekkerianus (gray slender loris)
+  ORGANISM  Loris lydekkerianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris lydekkerianus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCP 2015.12"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:300163"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="11-Aug-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37688.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtgaggtc gactgaggct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggatgaggc taagagtagg
+      121 agaaaagatg ggggcagaag tcagaagctt atgttattta ttcggggaaa ggctatatca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761822                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris lydekkerianus isolate SLCPL09 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761822
+VERSION     KX761822.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris lydekkerianus (gray slender loris)
+  ORGANISM  Loris lydekkerianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris lydekkerianus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCPL09"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:300163"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="21-Sep-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37687.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtgaggtc gactgaggct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggatgaggc taagagtagg
+      121 agaaaagatg ggggcagaag tcagaagctt atgttattta ttcggggaaa ggctatatca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761821                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris lydekkerianus isolate SLCP 2015.16 cytochrome oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761821
+VERSION     KX761821.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris lydekkerianus (gray slender loris)
+  ORGANISM  Loris lydekkerianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris lydekkerianus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCP 2015.16"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:300163"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="17-Oct-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37686.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtgaggtc gactgaggct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggatgaggc taagagtagg
+      121 agaaaagatg ggggcagaag tcagaagctt atgttattta ttcggggaaa ggctatatca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761820                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris lydekkerianus isolate SLCPL08 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761820
+VERSION     KX761820.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris lydekkerianus (gray slender loris)
+  ORGANISM  Loris lydekkerianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris lydekkerianus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCPL08"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:300163"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="23-Aug-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37685.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtgaggtc gactgaggct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggatgaggc taagagtagg
+      121 agaaaagatg ggggcagaag tcagaagctt atgttattta ttcggggaaa ggctatatca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761819                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris lydekkerianus isolate SLCP 2015.08 cytochrome oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761819
+VERSION     KX761819.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris lydekkerianus (gray slender loris)
+  ORGANISM  Loris lydekkerianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris lydekkerianus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCP 2015.08"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:300163"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="09-Dec-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37684.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtgaggtc gactgaggct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggatgaggc taagagtagg
+      121 agaaaagatg ggggcagaag tcagaagctt atgttattta ttcggggaaa ggctatatca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761818                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris lydekkerianus isolate SLCPL07 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761818
+VERSION     KX761818.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris lydekkerianus (gray slender loris)
+  ORGANISM  Loris lydekkerianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris lydekkerianus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCPL07"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:300163"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="15-Sep-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37683.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtgaggtc gactgaggct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggatgaggc taagagtagg
+      121 agaaaagatg ggggcagaag tcagaagctt atgttattta ttcggggaaa ggctatatca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761817                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris tardigradus isolate SLCPL06 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761817
+VERSION     KX761817.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCPL06"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:9468"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="11-Oct-2013"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37682.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtaaggtc gactgaagct ccagcgtggg ctaggtttcc tgccagaggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggacgaggc taagagtaga
+      121 agaaacgatg ggggtagaag tcagaagctt atgttattta ttcggggaaa ggctatgtca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761816                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris tardigradus isolate SLCP 2015.18 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761816
+VERSION     KX761816.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCP 2015.18"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:9468"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="12-Feb-2013"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37681.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtaaggtc gactgaagct ccagcgtggg ctaggtttcc tgccagaggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggacgaggc taagagtaga
+      121 agaaacgatg ggggtagaag tcagaagctt atgttattta ttcggggaaa ggctatgtca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761815                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris tardigradus isolate SLCPL05 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761815
+VERSION     KX761815.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCPL05"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:9468"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="03-Jun-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37680.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtaaggtc gactgaagct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggacgaggc taagagtaga
+      121 agaaacgatg ggggtagaag tcagaagctt atgttattta ttcggggaaa ggctatgtca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761814                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris tardigradus isolate SLCP 2012.02 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761814
+VERSION     KX761814.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCP 2012.02"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:9468"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="22-Dec-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37679.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtaaggtc gactgaagct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggacgaggc taagagtaga
+      121 agaaacgatg ggggtagaag tcagaagctt atgttattta ttcggggaaa ggctatgtca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761813                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris tardigradus isolate SLCPL04 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761813
+VERSION     KX761813.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCPL04"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:9468"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="04-Apr-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37678.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtaaggtc gactgaagct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggacgaggc taagagtaga
+      121 agaaacgatg ggggtagaag tcagaagctt atgttattta ttcggggaaa ggctatatca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761812                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris tardigradus isolate SLCPL03 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761812
+VERSION     KX761812.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCPL03"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:9468"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="04-Oct-2013"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37677.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtaaggtc gactgaagct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggacgaggc taagagtaga
+      121 agaaacgatg ggggtagaag tcagaagctt atgttattta ttcggggaaa ggctatatca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761811                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris tardigradus isolate SLCPL02 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761811
+VERSION     KX761811.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCPL02"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:9468"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="11-Feb-2013"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37676.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtaaggtc gactgaagct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggacgaggc taagagtaga
+      121 agaaacgatg ggggtagaag tcagaagctt atgttattta ttcggggaaa ggctatgtca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761810                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris tardigradus isolate SLCP 2015.09 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761810
+VERSION     KX761810.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCP 2015.09"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:9468"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="15-Sep-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37675.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtaaggtc gactgaagct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggacgaggc taagagtaga
+      121 agaaacgatg ggggtagaag tcagaagctt atgttattta ttcggggaaa ggctatgtca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761809                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris tardigradus isolate SLCP 2015.17 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761809
+VERSION     KX761809.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCP 2015.17"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:9468"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="03-Feb-2013"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37674.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtaaggtc gactgaagct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggacgaggc taagagtaga
+      121 agaaacgatg ggggtagaag tcagaagctt atgttattta ttcggggaaa ggctatgtca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761808                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris tardigradus isolate SLCP 2015.06 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761808
+VERSION     KX761808.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            Loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCP 2015.06"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:9468"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="15-Sep-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37673.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtaaggtc gactgaagct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggacgaggc taagagtaga
+      121 agaaacgatg ggggtagaag tcagaagctt atgttattta ttcggggaaa ggctatgtca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KX761807                 291 bp    DNA     linear   PRI 05-SEP-2017
+DEFINITION  Loris tardigradus isolate SLCPL01 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KX761807
+VERSION     KX761807.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     The taxonomy, distribution, and conservation status of the slender
+            loris (Primates, Lorisidae: Loris) in Sri Lanka
+  JOURNAL   Zootaxa (2016) In press
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Gamage,S.N., Groves,C.P., Marikar,F.M.M.T., Turner,C.S.,
+            Padmalal,K.U.K.G. and Kotagama,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2016) Department of Zoology, University of
+            Colombo, Kumarathunga Munidasa Mawatha, Colombo, Western 210093,
+            Sri Lanka
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SLCPL01"
+                     /isolation_source="Physical"
+                     /db_xref="taxon:9468"
+                     /country="Sri Lanka"
+                     /lat_lon="7.8731 N 80.7718 E"
+                     /collection_date="11-Nov-2012"
+                     /collected_by="Saman Gamage,Faiz Marikar"
+     gene            complement(<1..>291)
+                     /gene="COI"
+     CDS             complement(<1..>291)
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AOF37672.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAHAGASVDLTIFS"
+ORIGIN      
+        1 atggagaaaa tagtaaggtc gactgaagct ccagcgtggg ctaggtttcc tgccagtggg
+       61 ggatatacgg ttcatcctgt tccagctcct gattcaacta tggacgaggc taagagtaga
+      121 agaaacgatg ggggtagaag tcagaagctt atgttattta ttcggggaaa ggctatgtca
+      181 ggagcaccaa ttataagagg gactaatcag ttaccaaacc ctccgattat gatgggtata
+      241 actataaaga agattatgac aaaagcatgg gctgtgacaa tgacattgta g
+//
+
+LOCUS       KJ543733                 606 bp    DNA     linear   PRI 25-MAY-2014
+DEFINITION  Loris tardigradus cytochrome oxidase subunit I (COI) gene, partial
+            cds; mitochondrial.
+ACCESSION   KJ543733
+VERSION     KJ543733.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris tardigradus (slender loris)
+  ORGANISM  Loris tardigradus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 606)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     An endogenous lentivirus in the genome of the bushbaby Galago
+            moholi
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 606)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAR-2014) School of Veterinary Medicine and Science,
+            University of Nottingham, Sutton Bonington Campus, College Road,
+            Sutton Bonington, Loughborough, Leicestershire LE12 5RD, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..606
+                     /organism="Loris tardigradus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9468"
+     gene            <1..>606
+                     /gene="COI"
+     CDS             <1..>606
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHZ96700.1"
+                     /translation="IRAELGQPGTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGN
+                     WLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAH
+                     AGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQTPLFVWSVMITAVLLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFWFF"
+ORIGIN      
+        1 atccgagcag aattaggcca gccagggact cttctaggag atgatcaaat ctacaatgtc
+       61 attgtcacag cccatgcttt tgtcataatc ttctttatag ttatacccat cataatcgga
+      121 gggtttggta actgattaat ccctcttata attggtgctc ctgatatagc ctttccccga
+      181 ataaataaca taagcttctg acttctgccc ccatcttttc tcctactctt agcctcatcc
+      241 atagttgaat caggagctgg aacaggatga accgtatatc ccccactggc aggaaaccta
+      301 gcccacgctg gagcctcagt cgacctcact attttctcgc ttcaccttgc aggagtatca
+      361 tcaatcctag gcgctattaa cttcattaca actattatta acataaaacc accagccatg
+      421 tcccaatatc aaactccact gtttgtatga tcagtaataa tcacagcagt cctactatta
+      481 ctatctctac ctgtcttagc agctggtatt actatgctat taactgaccg caacctaaac
+      541 actacattct ttgaccctgc gggaggagga gacccaatcc tctatcaaca tctattctga
+      601 ttcttt
+//
+
+LOCUS       KJ543732                 603 bp    DNA     linear   PRI 25-MAY-2014
+DEFINITION  Loris lydekkerianus cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   KJ543732
+VERSION     KJ543732.1
+KEYWORDS    .
+SOURCE      mitochondrion Loris lydekkerianus (gray slender loris)
+  ORGANISM  Loris lydekkerianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Loris.
+REFERENCE   1  (bases 1 to 603)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     An endogenous lentivirus in the genome of the bushbaby Galago
+            moholi
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 603)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAR-2014) School of Veterinary Medicine and Science,
+            University of Nottingham, Sutton Bonington Campus, College Road,
+            Sutton Bonington, Loughborough, Leicestershire LE12 5RD, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /organism="Loris lydekkerianus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:300163"
+     gene            <1..>603
+                     /gene="COI"
+     CDS             <1..>603
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHZ96699.1"
+                     /translation="IRAELGQPGTLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGN
+                     WLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVESGAGTGWTVYPPLAGNLAH
+                     AGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQTPLFVWSVMITAVLLL
+                     LSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFWF"
+ORIGIN      
+        1 atccgagcag aattaggcca gccagggact cttctaggag atgatcaaat ctacaatgtc
+       61 attgtcacag cccatgcttt tgtcataatc ttctttatag ttatacccat cataatcgga
+      121 gggtttggta actgattaat ccctcttata attggtgctc ctgatatagc ctttccccga
+      181 ataaataaca taagcttctg acttctgccc ccatcttttc tcctactctt agcctcatcc
+      241 atagttgaat caggagctgg aacaggatga accgtatatc ccccactggc aggaaaccta
+      301 gcccacgctg gagcctcagt cgacctcact attttctcgc ttcaccttgc aggagtatca
+      361 tcaatcctag gcgctattaa cttcattaca actattatta acataaaacc accagccatg
+      421 tcccaatatc aaactccact gtttgtatga tcagtaataa tcacagcagt cctactatta
+      481 ctatctctac ctgtcttagc agctggtatt actatgctat taactgaccg caacctaaac
+      541 actacattct ttgaccctgc gggaggagga gacccaatcc tctatcaaca tctattctga
+      601 ttc
+//
+

@@ -1,0 +1,62 @@
+LOCUS       OK184259                 658 bp    DNA     linear   PRI 03-JUL-2022
+DEFINITION  Arctocebus aureus voucher Y381 cytochrome oxidase subunit 1 (COX1)
+            gene, partial cds; mitochondrial.
+ACCESSION   OK184259
+VERSION     OK184259.1
+KEYWORDS    .
+SOURCE      mitochondrion Arctocebus aureus (golden angwantibo)
+  ORGANISM  Arctocebus aureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Lorisidae; Arctocebus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Din Dipita,A., Missoup,A.D., Tindo,M. and Gaubert,P.
+  TITLE     DNA-typing improves illegal wildlife trade surveys: Tracing the
+            Cameroonian bushmeat trade
+  JOURNAL   Biol Conserv 269, 109552 (2022)
+  REMARK    DOI: 10.1016/j.biocon.2022.109552
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Din Dipita,A. and Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2021) Zoology Unit, Laboratory of Biology and
+            Physiology of Animal Organisms, University of Douala, Ndogbong,
+            Douala 24157, Cameroon
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Arctocebus aureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Y381"
+                     /db_xref="taxon:300161"
+                     /country="Cameroon"
+                     /note="bushmeat DNA"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="USR93740.1"
+                     /translation="TLYLVFGAWAGMVGTALSLLIRAELGQPGTLLGDDQIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLMASSLV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVMITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 cacactatac ttagtatttg gcgcatgagc aggaatagta ggaactgcct taagcctcct
+       61 catccgagca gaactaggcc aaccaggcac cctcttagga gatgaccaaa tctacaatgt
+      121 catcgttaca gcccatgcat ttgtcataat tttttttatg gttatgccaa ttataattgg
+      181 aggctttggg aactgactag taccactaat gattggagcc cctgacatgg cattcccccg
+      241 aataaacaat ataagtttct gattactacc gccctctttc cttctcctca tagcctcatc
+      301 attagtagaa gcaggtgcag gaacaggatg aactgtgtac cccccattag caggcaactt
+      361 agcccacgca ggagcttcag tagatcttac tatcttctca ctccacctag caggtgtttc
+      421 atccatccta ggcgctatta actttattac aactatcatt aacatgaaac caccagccat
+      481 gtctcaatac caaacccccc tctttgtatg atccgttata attacagcag tcctacttct
+      541 cctgtctctt cccgtacttg cagcaggaat caccatgctc ctaacagacc ggaacctcaa
+      601 tactaccttt ttcgaccctg ctggaggagg agaccctatc ctgtaccaac acctattc
+//
+

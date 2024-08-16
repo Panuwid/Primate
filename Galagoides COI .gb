@@ -1,0 +1,63 @@
+LOCUS       KJ192819                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Galagoides demidoff isolate GdemT1279 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192819
+VERSION     KJ192819.1
+KEYWORDS    .
+SOURCE      mitochondrion Galagoides demidoff (Demidoff's galago)
+  ORGANISM  Galagoides demidoff
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lorisiformes; Galagidae; Galagoides.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Galagoides demidoff"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="GdemT1279"
+                     /db_xref="taxon:89672"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15251.1"
+                     /translation="TLYLVFGAWAGMVGTALSLLIRAELGQPGTLLGDDQIYNVIVTA
+                     HAFVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVIITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 cactctgtat ctagttttcg gtgcttgagc gggaatagta ggaaccgccc taagcctcct
+       61 aattcgagca gaactgggcc agcccggaac tctactaggg gacgaccaga tttacaatgt
+      121 tatcgtcaca gcccacgcat tcgttataat ctttttcata gtaataccta tcataatcgg
+      181 gggctttgga aactgactaa tcccattaat aattggagcc ccagatatgg cattcccacg
+      241 aataaacaac atgagctttt gactactccc accgtcgttc ctccttctct tggcatcttc
+      301 tatagtagag gccggagcag ggactggatg aacagtctat ccccctctag ctggaaatct
+      361 agcccacgca ggagcctcag tagatcttac aatcttctca ttacatctag ccggagtatc
+      421 ctcaatttta ggggctatca acttcattac taccatcatc aatataaaac cccccgcaat
+      481 gtctcaatac caaaccccct tgtttgtatg atcagtaatt atcacagcag ttctactact
+      541 cttatccctg cccgtcctag cagcaggaat tactatgcta ctgacagacc gaaacctcaa
+      601 cacaacattc tttgacccag caggaggagg ggacccaatc ctctaccaac acctgttc
+//
+

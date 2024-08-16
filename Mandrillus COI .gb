@@ -1,0 +1,356 @@
+LOCUS       FJ750679                 600 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Mandrillus sphinx cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   FJ750679
+VERSION     FJ750679.1
+KEYWORDS    .
+SOURCE      mitochondrion Mandrillus sphinx (mandrill)
+  ORGANISM  Mandrillus sphinx
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Mandrillus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Is the new primate genus rungwecebus a baboon?
+  JOURNAL   PLoS ONE 4 (3), E4859 (2009)
+   PUBMED   19295908
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Zinner,D., Arnold,M.L. and Roos,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2009) Primate Genetics, German Primate Center,
+            Kellnerweg 4, Goettingen 37077, Germany
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Mandrillus sphinx"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9561"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACN67459.1"
+                     /translation="GAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVVVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMLEAGAGT
+                     GWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN      
+        1 ggtgcatgag ccggagttat aggcacagcc ctaagccttc tcattcgagc tgaactaggt
+       61 caacccggta gcctactagg caatgatcac atttacaacg ttgtcgtaac ggcccatgca
+      121 tttgtcataa ttttcttcat agttataccc attatgatcg gaggctttgg aaactgacta
+      181 gtacccctaa taattggcgc tcctgacata gcattccctc gtttaaataa cataagcttc
+      241 tgactccttc ccccctcttt cctactacta atagcatcaa ctatactaga agccggtgct
+      301 ggaacaggtt gaacagtata ccctccttta gcgggaaact tatcccaccc aggagcctcc
+      361 gtagacctag tcatcttttc ccttcactta gcaggcattt cttctatttt aggagccatt
+      421 aactttatta ctactattat caacataaag ccccccgcaa tatctcagta ccaaactccc
+      481 ctattcgtct gatcaatctt aatcacagca atccttctac tcctctcact accagtccta
+      541 gccgccggca ttaccatact attaacagac cgtaacctca acactacctt cttcgatcca
+//
+
+LOCUS       FJ713434                 658 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Mandrillus sphinx isolate Mand25 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ713434
+VERSION     FJ713434.1
+KEYWORDS    .
+SOURCE      mitochondrion Mandrillus sphinx (mandrill)
+  ORGANISM  Mandrillus sphinx
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Mandrillus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Mitochondrial evidence for the hybrid origin of the kipunji,
+            Rungwecebus kipunji (Primates: Papionini)
+  JOURNAL   Mol. Phylogenet. Evol. 51 (2), 340-348 (2009)
+   PUBMED   19236932
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Burrell,A.S., Jolly,C.J., Tosi,A.J. and Disotell,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2009) Anthropology Department, New York
+            University, 25 Waverly Place, New York, NY 10003, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Mandrillus sphinx"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Mand25"
+                     /db_xref="taxon:9561"
+                     /tissue_type="blood"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACP43680.1"
+                     /translation="IGTLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     MLEAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPILYQ
+                     H"
+ORIGIN      
+        1 attggaaccc tatacctact atttggtgca tgagccggag ttataggcac agccctaagc
+       61 cttctcattc gagctgaact aggtcaaccc ggtagtctac taggcaatga tcacatttac
+      121 aacgttatcg taacggccca tgcatttgtc ataattttct tcatagttat acccatcatg
+      181 attggaggct ttggaaactg actagtgccc ctaataattg gcgctcctga catagcattc
+      241 cctcgtttaa ataacataag cttctgactc cttccccctt ccttcctact actaatagca
+      301 tcaactatac tagaagccgg cgctggaaca ggttgaacag tataccctcc tttagcggga
+      361 aacttatccc acccaggagc ctccgtagac ctagtcattt tttcccttca cctagcaggc
+      421 atttcttcta ttttaggggc cattaacttt attactacta ttatcaacat aaagcctccc
+      481 gcaatatctc agtaccaaac tcccctattc gtctgatcaa tcttaatcac agcaatcctt
+      541 ctactcctct cactaccagt cctggccgcc ggcattacca tgctattaac agatcgtaac
+      601 ctcaacacta ccttcttcga tccaattgga ggaggagatc ccattctata tcaacact
+//
+
+LOCUS       KJ862207                 648 bp    DNA     linear   PRI 22-SEP-2015
+DEFINITION  Mandrillus sphinx voucher S62 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   KJ862207
+VERSION     KJ862207.1
+KEYWORDS    .
+SOURCE      mitochondrion Mandrillus sphinx (mandrill)
+  ORGANISM  Mandrillus sphinx
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Mandrillus.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Using DNA Barcoding to Identify the Endangered Birds and Big
+            Mammals in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2014) College of Life Sciences, Sichuan
+            University, South section I, Yihuan Road, Chengdu, Sichuan Province
+            610064, China
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Mandrillus sphinx"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="S62"
+                     /db_xref="taxon:9561"
+                     /country="China"
+                     /collection_date="03-Jun-2010"
+                     /collected_by="Guang Zhao"
+                     /PCR_primers="fwd_name: VF1, fwd_seq:
+                     ttctcaaccaaccacaaagacattgg, rev_name: VR1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIM44762.1"
+                     /translation="LLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVVVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMLEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPILYQHLF"
+ORIGIN      
+        1 ctactatttg gtgcatgagc cggagttata ggcacagccc taagccttct cattcgagct
+       61 gaactaggtc aacccggtag cctactaggc aatgatcaca tttacaacgt tgtcgtaacg
+      121 gcccatgcat ttgtcataat tttcttcata gttataccca ttatgatcgg aggctttgga
+      181 aactgactag tacccctaat aattggcgct cctgacatag cattccctcg tttaaataac
+      241 ataagcttct gactccttcc cccctctttc ctactactaa tagcatcaac tatactagaa
+      301 gccggtgctg gaacaggttg aacagtatac cctcctttag cgggaaactt atcccaccca
+      361 ggagcctccg tagacctagt catcttttcc cttcacttag caggcatttc ttctatttta
+      421 ggagccatta actttattac tactattatc aacataaagc cccccgcaat atctcagtac
+      481 caaactcccc tattcgtctg atcaatctta atcacagcaa tccttctact cctctcacta
+      541 ccagtcctag ccgccggcat taccatacta ttaacagacc gtaacctcaa cactaccttc
+      601 ttcgatccaa ttgggggagg agatcccatt ctatatcaac acttattc
+//
+
+LOCUS       KJ862192                 648 bp    DNA     linear   PRI 22-SEP-2015
+DEFINITION  Mandrillus sphinx voucher S38 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   KJ862192
+VERSION     KJ862192.1
+KEYWORDS    .
+SOURCE      mitochondrion Mandrillus sphinx (mandrill)
+  ORGANISM  Mandrillus sphinx
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Mandrillus.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Using DNA Barcoding to Identify the Endangered Birds and Big
+            Mammals in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2014) College of Life Sciences, Sichuan
+            University, South section I, Yihuan Road, Chengdu, Sichuan Province
+            610064, China
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Mandrillus sphinx"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="S38"
+                     /db_xref="taxon:9561"
+                     /country="China"
+                     /collection_date="12-Jan-1998"
+                     /PCR_primers="fwd_name: VF1, fwd_seq:
+                     ttctcaaccaaccacaaagacattgg, rev_name: VR1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIM44747.1"
+                     /translation="LLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVVVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTMLEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPILYQHLF"
+ORIGIN      
+        1 ctactatttg gtgcatgagc cggagttata ggcacagccc taagccttct cattcgagct
+       61 gaactaggtc aacccggtag cctactaggc aatgatcaca tttacaacgt tgtcgtaacg
+      121 gcccatgcat ttgtcataat tttcttcata gttataccca ttatgatcgg aggctttgga
+      181 aactgactag tacccctaat aattggcgct cctgacatag cattccctcg tttaaataac
+      241 ataagcttct gactccttcc cccctctttc ctactactaa tagcatcaac tatactagaa
+      301 gccggtgctg gaacaggttg aacagtatac cctcctttag cgggaaactt atcccaccca
+      361 ggagcctccg tagacctagt catcttttcc cttcacttag caggcatttc ttctatttta
+      421 ggagccatta actttattac tactattatc aacataaagc cccccgcaat atctcagtac
+      481 caaactcccc tattcgtctg atcaatctta atcacagcaa tccttctact cctctcacta
+      541 ccagtcctag ccgccggcat taccatacta ttaacagacc gtaacctcaa cactaccttc
+      601 ttcgatccaa ttgggggagg agatcccatt ctatatcaac acttattc
+//
+
+LOCUS       KJ192840                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Mandrillus sphinx isolate MsphT1132 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192840
+VERSION     KJ192840.1
+KEYWORDS    .
+SOURCE      mitochondrion Mandrillus sphinx (mandrill)
+  ORGANISM  Mandrillus sphinx
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Mandrillus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Mandrillus sphinx"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MsphT1132"
+                     /db_xref="taxon:9561"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15272.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVVVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTML
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatac ctactatttg gtgcatgagc cggagttata ggcacagccc taagccttct
+       61 cattcgagct gaactaggtc aacccggtag cctactaggc aatgatcaca tttacaacgt
+      121 tgtcgtaacg gcccatgcat ttgtcataat tttcttcata gttataccca ttatgatcgg
+      181 aggctttgga aactgactag tacccctaat aattggcgct cctgacatag cattccctcg
+      241 tttaaataac ataagcttct gactccttcc cccctctttc ctactactaa tagcatcaac
+      301 tatactagaa gccggtgctg gaacaggttg aacagtatac cctcctttag cgggaaactt
+      361 atcccaccca ggagcctccg tagacctagt catcttttcc cttcacttag caggcatttc
+      421 ttctatttta ggagccatta actttattac tactattatc aacataaagc cccccgcaat
+      481 atctcagtac caaactcccc tattcgtctg atcaatctta atcacagcaa tccttctact
+      541 cctctcacta ccagtcctag ccgccggcat taccatacta ttaacagacc gtaacctcaa
+      601 cactaccttc ttcgatccaa ttgggggagg agatcccatt ctatatcaac acttattc
+//
+
+LOCUS       KJ192839                 658 bp    DNA     linear   PRI 29-APR-2015
+DEFINITION  Mandrillus sphinx isolate MsphT1113 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ192839
+VERSION     KJ192839.1
+KEYWORDS    .
+SOURCE      mitochondrion Mandrillus sphinx (mandrill)
+  ORGANISM  Mandrillus sphinx
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Mandrillus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Gaubert,P., Njiokou,F., Olayemi,A., Pagani,P., Dufour,S.,
+            Danquah,E., Nutsuakor,M.E., Ngua,G., Missoup,A.D., Tedesco,P.A.,
+            Dernat,R. and Antunes,A.
+  TITLE     Bushmeat genetics: setting up a reference framework for the DNA
+            typing of African forest bushmeat
+  JOURNAL   Mol Ecol Resour 15 (3), 633-651 (2015)
+   PUBMED   25264212
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Gaubert,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2014) Institut des Sciences de l'Evolution
+            (ISEM), Institut de Recherche pour le Developpement (IRD),
+            Universite Montpellier 2 - Place Eugene Bataillon, Montpellier,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Mandrillus sphinx"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MsphT1113"
+                     /db_xref="taxon:9561"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIT15271.1"
+                     /translation="TLYLLFGAWAGVMGTALSLLIRAELGQPGSLLGNDHIYNVVVTA
+                     HAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTML
+                     EAGAGTGWTVYPPLAGNLSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPIGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctatac ctactatttg gtgcatgagc cggagttata ggcacagccc taagccttct
+       61 cattcgagct gaactaggtc aacccggtag cctactaggc aatgatcaca tttacaacgt
+      121 tgtcgtaacg gcccatgcat ttgtcataat tttcttcata gttataccca ttatgatcgg
+      181 aggctttgga aactgactag tacccctaat aattggcgct cctgacatag cattccctcg
+      241 tttaaataac ataagcttct gactccttcc cccctctttc ctactactaa tagcatcaac
+      301 tatactagaa gccggtgctg gaacaggttg aacagtatac cctcctttag cgggaaactt
+      361 atcccaccca ggagcctccg tagacctagt catcttttcc cttcacttag caggcatttc
+      421 ttctatttta ggagccatta actttattac tactattatc aacataaagc cccccgcaat
+      481 atctcagtac caaactcccc tattcgtctg atcaatctta atcacagcaa tccttctact
+      541 cctctcacta ccagtcctag ccgccggcat taccatacta ttaacagacc gtaacctcaa
+      601 cactaccttc ttcgatccaa ttgggggagg agatcccatt ctatatcaac acttattc
+//
+

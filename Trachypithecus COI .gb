@@ -1,0 +1,237 @@
+LOCUS       KJ862208                 648 bp    DNA     linear   PRI 22-SEP-2015
+DEFINITION  Trachypithecus hatinhensis voucher S63 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ862208
+VERSION     KJ862208.1
+KEYWORDS    .
+SOURCE      mitochondrion Trachypithecus hatinhensis (Hatinh langur)
+  ORGANISM  Trachypithecus hatinhensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Trachypithecus.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Using DNA Barcoding to Identify the Endangered Birds and Big
+            Mammals in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2014) College of Life Sciences, Sichuan
+            University, South section I, Yihuan Road, Chengdu, Sichuan Province
+            610064, China
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Trachypithecus hatinhensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="S63"
+                     /db_xref="taxon:867383"
+                     /country="China"
+                     /collection_date="21-Dec-2010"
+                     /collected_by="Guang Zhao"
+                     /PCR_primers="fwd_name: VF1, fwd_seq:
+                     ttctcaaccaaccacaaagacattgg, rev_name: VR1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIM44763.1"
+                     /translation="LLFGAWAGTVGMAMSLLIRAELGQPGNLLGNDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAMVEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 ttactatttg gcgcatgagc tggaaccgta ggtatagcta taagccttct tatccgagcc
+       61 gaactcggtc aacctggcaa cctgttaggt aatgaccaca tctataatgt tatcgttacg
+      121 gctcatgcat ttgtcataat cttctttatg gttataccca ttataattgg aggctttgga
+      181 aactgactag tacccctaat aattggtgct cctgacatag cattcccccg cctaaataat
+      241 ataagtttct gacttcttcc accatccttc ctacttcttc tcgcatcggc catagtagaa
+      301 gctggtgccg gaacaggttg aacagtatat ccacctttag caggaaacct ctctcatcca
+      361 ggagcctccg tagacctaac tattttctca cttcacctag caggtatttc ttctattcta
+      421 ggggctatta acttcattac aactattatt aatataaaac cccctgcaat atctcaatac
+      481 caaacccctc tatttgtttg atcagtccta attacagcag tactgctcct cctatccttg
+      541 cccgtactag ccgctggcat tacaatatta ttaacagacc gcaatctcaa caccaccttc
+      601 tttgaccctg caggaggggg agatcctatc ttatatcaac acttattc
+//
+
+LOCUS       KJ862193                 648 bp    DNA     linear   PRI 22-SEP-2015
+DEFINITION  Trachypithecus francoisi voucher S44 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ862193
+VERSION     KJ862193.1
+KEYWORDS    .
+SOURCE      mitochondrion Trachypithecus francoisi (Francois's langur)
+  ORGANISM  Trachypithecus francoisi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Trachypithecus.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Using DNA Barcoding to Identify the Endangered Birds and Big
+            Mammals in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Li,J., Zhang,L., Jiang,J., Yue,B. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2014) College of Life Sciences, Sichuan
+            University, South section I, Yihuan Road, Chengdu, Sichuan Province
+            610064, China
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Trachypithecus francoisi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="S44"
+                     /db_xref="taxon:54180"
+                     /country="China"
+                     /collection_date="01-Dec-2008"
+                     /PCR_primers="fwd_name: VF1, fwd_seq:
+                     ttctcaaccaaccacaaagacattgg, rev_name: VR1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIM44748.1"
+                     /translation="LLFGAWAGTVGMAMSLLIRAELGQPGNLLGNDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLLASAMVEAG
+                     AGTGWTVYPPLAGNLSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 ttactatttg gcgcatgagc tggaaccgta ggtatagcta taagccttct tatccgagcc
+       61 gaactcggtc aacccggcaa cctgttaggt aatgaccaca tctataatgt tatcgttacg
+      121 gcwcatgcat ttgtcataat cttctttatg gtcataccca ttataattgg aggctttgga
+      181 aactgactag tacccctaat aattggtgct cctgacatag cattcccccg cctaaataat
+      241 ataagcttct gacttcttcc accatccttc ctacttcttc tcgcatcagc catagtagaa
+      301 gctggtgccg gaacaggttg aacagtatat ccacccttag caggaaacct ctctcatcca
+      361 ggagcctccg tagacctgac tattttctcg cttcacctag caggtatttc ttctattcta
+      421 ggggctatta attttattac aactattatt aacataaaac cccctgcaat atctcaatac
+      481 caaactcctc tatttgtttg atcagtccta attacagcag tactgctcct cctatccttg
+      541 cccgtactag ccgctggtat tacaatatta ttaacagacc gcaacctcaa caccaccttc
+      601 tttgaccctg caggaggggg agatcctatc ttatatcaac acttattc
+//
+
+LOCUS       MT876707                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Trachypithecus obscurus voucher PRP0235 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876707
+VERSION     MT876707.1
+KEYWORDS    .
+SOURCE      mitochondrion Trachypithecus obscurus (Dusky leaf-monkey)
+  ORGANISM  Trachypithecus obscurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Trachypithecus.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Trachypithecus obscurus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PRP0235"
+                     /db_xref="taxon:54181"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68861.1"
+                     /translation="MGMVWAMVSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSAAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQACAKAHFTIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 atgggcatag tatgagccat agtatcaatt gggttcttag gctttattgt atgagcacac
+       61 catatattta cagttggaat agatgtggat acacgggcct attttacttc tgccactata
+      121 attattgcaa tcccaactgg cgttaaagtc tttagctgac ttgccacact acacggagga
+      181 aatattaagt gatcagccgc aatactctga gccctgggct ttattttcct ttttaccgtt
+      241 gggggtctga ccggtattgt actagcaaat tcatcactag atattgtatt acacgacacg
+      301 tattatgtcg tagctcactt ccactatgtc ttgtcaatag gggctgtctt tgctattata
+      361 ggaggtttta ttcactgatt tcccctattc tcaggctata ctctagatca agcctgcgcc
+      421 aaagcccact ttactattat atttgtaggt gtaaatttaa cctttttccc acaacatttt
+      481 ctgggtctat caggaatacc ccgacgttac tcgga
+//
+
+LOCUS       MT876706                 515 bp    DNA     linear   PRI 17-AUG-2020
+DEFINITION  Trachypithecus obscurus voucher PRP0232 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MT876706
+VERSION     MT876706.1
+KEYWORDS    .
+SOURCE      mitochondrion Trachypithecus obscurus (Dusky leaf-monkey)
+  ORGANISM  Trachypithecus obscurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Trachypithecus.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Gani,M., Rovie-Ryan,J.J., Khan,F.A. and Abdullah,M.T.
+  TITLE     Molecular phylogeny of selected malaysian primates inferred by
+            using mtDNA COI and COII genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Gani,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2020) Department of Wildlife and National Parks,
+            Ex-Situ Conservation Division, KM 10 Jalan Cheras, Kuala Lumpur
+            56100, Malaysia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Trachypithecus obscurus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PRP0232"
+                     /db_xref="taxon:54181"
+                     /country="Malaysia"
+                     /collected_by="UNIMAS Primate Team"
+     gene            <1..>515
+                     /gene="COX1"
+     CDS             <1..>515
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QNB68860.1"
+                     /translation="MGMVWAMVSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAI
+                     PTGVKVFSWLATLHGGNIKWSAAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYY
+                     VVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQACAKAHFTIMFVGVNLTFFPQHF
+                     LGLSGMPRRYS"
+ORIGIN      
+        1 atgggcatag tatgagccat agtatcaatt gggttcttag gctttattgt atgagcacac
+       61 catatattta cagttggaat agatgtggat acacgggcct attttacttc tgccactata
+      121 attattgcaa tcccaactgg cgttaaagtc tttagctgac ttgccacact acacggagga
+      181 aatattaagt gatcagccgc aatactctga gccctgggct ttattttcct ttttaccgta
+      241 gggggtctga ccggtattgt actagcaaat tcatcactag atattgtatt acacgacaca
+      301 tactatgtcg tagctcactt ccactatgtc ttgtcaatag gggctgtctt tgctattata
+      361 ggaggcttta ttcactgatt tcccctattc tcaggctata ctctagatca agcctgcgcc
+      421 aaagcccact ttactattat atttgtaggt gtaaatttaa cctttttccc acaacatttt
+      481 ctgggtctat caggaatacc ccgacgttac tcgga
+//
+

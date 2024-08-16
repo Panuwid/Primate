@@ -1,0 +1,125 @@
+LOCUS       MZ364429                 658 bp    DNA     linear   PRI 20-JUL-2022
+DEFINITION  Saguinus mystax voucher IAvH-CT-35587 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MZ364429
+VERSION     MZ364429.1
+KEYWORDS    .
+SOURCE      mitochondrion Saguinus mystax (moustached tamarin)
+  ORGANISM  Saguinus mystax
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Saguinus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Ortiz,P.A., Lozano,J., Cifuentes,S., Tovar,E. and Gomez,C.
+  TITLE     DNA Barcoding of colombian rodents and primates using ancient DNA
+            from biological collections
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Ortiz,P.A., Lozano,J., Cifuentes,S., Tovar,E. and Gomez,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2021) IAvH Mammal Collection, Alexander von
+            Humboldt Biological Resources Research Institute, Cra 8 # 15 - 08,
+            Villa de Leyva, Boyac## 154001, Colombia
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Saguinus mystax"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="IAvH-CT-35587"
+                     /db_xref="BOLD:PAADN001-21.COI-5P"
+                     /db_xref="taxon:9488"
+                     /country="Peru: Loreto"
+                     /collection_date="20-Mar-1972"
+                     /collected_by="H. Chirivi, R. Cooper"
+                     /identified_by="Paola A. Ortiz"
+                     /PCR_primers="fwd_seq: gaytatwttcaacaaatcataaagatattgg,
+                     rev_seq: tamacttcwgggtgaccaaaraatca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="UTN43303.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLLEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aacactgtat ttgctatttg gcgcatgagc aggggcagtg ggaacagcct taagtctcct
+       61 tattcgggca gaattaggcc aacctggaag cttattggaa gatgaccatg tctacaatgt
+      121 cattgtaaca tctcacgcat ttattataat tttcttcata gttatgccta tcataattgg
+      181 aggctttggc aactgactta tccctctaat aattggtgct cccgacatag cattccctcg
+      241 aataaataat ataagcttct gactcctgcc tccatcactt cttcttttac ttgcatcctc
+      301 aaccctagaa gctggcgccg gaactggttg aacagtctac ccgcctttag caggaaatat
+      361 atcacaccca ggtgcctctg tagacttagt aatcttctca ctgcatctag caggtgtatc
+      421 ttccatccta ggggctatta actttatcac cacaattatt aatataaaac ctccagccat
+      481 gacccaatat caaaccccct tgttcgtatg atccgttcta attacagcag tacttcttct
+      541 attatctcta ccagtcctag ctgctgggat tactatactt ctaacggatc gaaaccttaa
+      601 cactactttc tttgatcctg ctggtggtgg tgatcccatc ctgtaccaac atctgttc
+//
+
+LOCUS       MZ364428                 658 bp    DNA     linear   PRI 20-JUL-2022
+DEFINITION  Saguinus leucopus voucher IAvH-CT-35594 cytochrome oxidase subunit
+            1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   MZ364428
+VERSION     MZ364428.1
+KEYWORDS    .
+SOURCE      mitochondrion Saguinus leucopus (silvery-brown bare-face tamarin)
+  ORGANISM  Saguinus leucopus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Saguinus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Ortiz,P.A., Lozano,J., Cifuentes,S., Tovar,E. and Gomez,C.
+  TITLE     DNA Barcoding of colombian rodents and primates using ancient DNA
+            from biological collections
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Ortiz,P.A., Lozano,J., Cifuentes,S., Tovar,E. and Gomez,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2021) IAvH Mammal Collection, Alexander von
+            Humboldt Biological Resources Research Institute, Cra 8 # 15 - 08,
+            Villa de Leyva, Boyac## 154001, Colombia
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Saguinus leucopus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="IAvH-CT-35594"
+                     /db_xref="BOLD:PAADN007-21.COI-5P"
+                     /db_xref="taxon:290597"
+                     /country="Colombia: Antioquia, Puerto Triunfo"
+                     /collected_by="S. Sierra"
+                     /identified_by="Paola A. Ortiz"
+                     /PCR_primers="fwd_seq: gaytatwttcaacaaatcataaagatattgg,
+                     rev_seq: tamacttcwgggtgaccaaaraatca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="UTN43302.1"
+                     /translation="TLYLLFGAWAGAVGTALSLLIRAELGQPGSLLEDDHVYNVIVTS
+                     HAFIMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTL
+                     EAGAGTGWTVYPPLAGNMSHPGASVDLVIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     TQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHL
+                     F"
+ORIGIN      
+        1 aacactatac ctgctatttg gcgcatgagc aggagctgtg ggaacagccc taagtctctt
+       61 gattcgagca gaattgggtc aacctgggag cttattagaa gatgaccatg tctataatgt
+      121 tatcgttaca tctcacgcat ttattataat tttcttcata gttatgccca tcataattgg
+      181 ggggtttggc aactgactta tccctctgat aatcggtgcc ccagacatag cattccctcg
+      241 aataaacaat ataagcttct gacttctacc cccatcactc ctccttttac tcgcatcctc
+      301 aaccttagag gccggcgctg gtactggctg aacagtgtac ccacccctag caggaaatat
+      361 atcacaccca ggcgcctctg tagacctagt tattttctca ttacatctag caggtgtgtc
+      421 ctccatctta ggggccatca acttcatcac cacaattatt aacataaaac cccccgccat
+      481 aacccagtac caaaccccct tgttcgtatg atccgtttta attacagcag ttctccttct
+      541 actctcccta cctgtcctag ctgccggaat taccatacta ctaactgacc gaaacctaaa
+      601 tactaccttc ttcgaccctg ctggtggcgg tgatcctgtt ctgtatcagc acctattc
+//
+

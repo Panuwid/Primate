@@ -1,0 +1,788 @@
+LOCUS       EF568727                 426 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Pongo abelii voucher AG12255 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF568727
+VERSION     EF568727.1
+KEYWORDS    .
+SOURCE      mitochondrion Pongo abelii (Sumatran orangutan)
+  ORGANISM  Pongo abelii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pongo.
+REFERENCE   1  (bases 1 to 426)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 426)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..426
+                     /organism="Pongo abelii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG12255"
+                     /db_xref="taxon:9601"
+                     /country="USA"
+                     /PCR_primers="fwd_name: VERTCOIf1, fwd_seq:
+                     ttctcaaccaaccaacaaagacattgg, rev_name: VERTCOIr1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>426
+                     /gene="COXI"
+     CDS             <1..>426
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81636.1"
+                     /translation="YNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRM
+                     NNMSFWLLPPSFLLLLASATVEAGAGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGI
+                     SSILGAINFITTIINMKPPAMSQYQTPLFVWSVLITAVLL"
+ORIGIN      
+        1 tacaatgtca tcgtcacagc tcatgcattc gtaataattt tttttatagt catacccatt
+       61 ataattggag gctttggcaa ctgactagtg cccctaataa ttggcgcccc cgacatagca
+      121 ttcccgcgca taaataatat aagcttctga ctcctccccc cctcctttct cctactgctc
+      181 gcttctgcta cagtagaagc tggcgcagga acgggctgaa cagtctatcc gcccctagca
+      241 ggaaactact ctcacccagg agcctctgta gacttaacaa tcttctcttt acacctagca
+      301 ggcatttcct ctatcctagg agctatcaat ttcatcacaa caattattaa tataaaaccc
+      361 cctgcaatat cccaatacca aacccccctc ttcgtctgat cagtcttaat cacagcagtc
+      421 ctactt
+//
+
+LOCUS       EF568677                 565 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Pongo abelii voucher AG06105 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF568677
+VERSION     EF568677.1
+KEYWORDS    .
+SOURCE      mitochondrion Pongo abelii (Sumatran orangutan)
+  ORGANISM  Pongo abelii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pongo.
+REFERENCE   1  (bases 1 to 565)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 565)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..565
+                     /organism="Pongo abelii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG06105"
+                     /db_xref="taxon:9601"
+                     /country="USA"
+                     /PCR_primers="fwd_name: VERTCOIf1, fwd_seq:
+                     ttctcaaccaaccaacaaagacattgg, rev_name: VERTCOIr1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>565
+                     /gene="COXI"
+     CDS             <1..>565
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81586.1"
+                     /translation="LSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFMVMPIMIG
+                     GFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASATVEAGAGTGWTVYPPLAG
+                     NYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFVWSVLITA
+                     VLLLLSLPVLAAGITMLLTDRNLNTTFF"
+ORIGIN      
+        1 ctaagcctcc tcattcgagc tgaactgggc caacccggca accttctagg caatgaccat
+       61 atctacaatg tcatcgtcac agctcatgca ttcgtaataa ttttctttat agtcataccc
+      121 attataattg gaggctttgg caactgacta gtgcccctaa taatcggcgc ccccgatata
+      181 gcattcccgc gcataaataa tataagcttc tgactcctcc ccccctcctt tctcctactg
+      241 ctcgcttctg ctacagtaga ggctggcgca ggaacaggct gaacagtcta tccgccccta
+      301 gcaggaaact actctcaccc aggagcctct gtagacttaa caatcttctc tttacaccta
+      361 gcaggcattt cctctatcct aggagctatc aatttcatca caacaattat taatataaaa
+      421 ccccctgcaa tatcccaata ccaaaccccc ctcttcgtct gatcagtctt gatcacagca
+      481 gtcctacttc tcctttccct cccagtccta gccgctggca tcaccatact actaacagat
+      541 cgcaacctaa acaccacatt ctttg
+//
+
+LOCUS       EF568657                 574 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Pongo abelii voucher GM06213 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF568657
+VERSION     EF568657.1
+KEYWORDS    .
+SOURCE      mitochondrion Pongo abelii (Sumatran orangutan)
+  ORGANISM  Pongo abelii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pongo.
+REFERENCE   1  (bases 1 to 574)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 574)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..574
+                     /organism="Pongo abelii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="GM06213"
+                     /db_xref="taxon:9601"
+                     /country="USA"
+                     /PCR_primers="fwd_name: VERTCOIf1, fwd_seq:
+                     ttctcaaccaaccaacaaagacattgg, rev_name: VERTCOIr1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>574
+                     /gene="COXI"
+     CDS             <1..>574
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81566.1"
+                     /translation="LGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFMVMP
+                     IMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASATVEAGAGTGWTVYP
+                     PLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFVWSV
+                     LITAVLLLLSLPVLAAGITMLLTDRNLNTT"
+ORIGIN      
+        1 tcctaggcac tgccctaagc ctcctcattc gagctgaact aggccagccc ggcaaccttc
+       61 taggcaatga ccatatctac aatgtcatcg tcacagctca tgcattcgta ataatttttt
+      121 ttatagtcat acccattata attggaggct ttggcaactg actagtgccc ctaataattg
+      181 gcgcccccga catagcattc ccgcgcataa ataatataag cttctgactc ctccccccct
+      241 cctttctcct actgctcgct tctgctacag tagaggctgg cgcaggaacg ggctgaacag
+      301 tctatccgcc cctagcagga aactactctc acccaggagc ctctgtagac ttaacaatct
+      361 tctctttaca cctagcaggc atttcctcta tcctaggagc tatcaatttc atcacaacaa
+      421 ttattaatat aaaaccccct gcaatatccc aataccaaac ccccctcttc gtctgatcag
+      481 tcttaatcac agcagtccta cttctccttt ccctcccagt cctagccgct ggcatcacca
+      541 tactactaac agatcgcaac ctaaacacca catt
+//
+
+LOCUS       EF568615                 646 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Pongo abelii voucher AG06209 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EF568615
+VERSION     EF568615.1
+KEYWORDS    .
+SOURCE      mitochondrion Pongo abelii (Sumatran orangutan)
+  ORGANISM  Pongo abelii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pongo.
+REFERENCE   1  (bases 1 to 646)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 646)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..646
+                     /organism="Pongo abelii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG06209"
+                     /db_xref="taxon:9601"
+                     /country="USA"
+                     /PCR_primers="fwd_name: VERTCOIf1, fwd_seq:
+                     ttctcaaccaaccaacaaagacattgg, rev_name: VERTCOIr1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>646
+                     /gene="COXI"
+     CDS             <1..>646
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81524.1"
+                     /translation="YLLFGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHA
+                     FVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASATVEA
+                     GAGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQ
+                     YQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQ"
+ORIGIN      
+        1 tatacctgtt attcggcgca tgggctggag tcctaggcac tgccctaagc ctcctcattc
+       61 gagctgaact aggccagccc ggcaaccttc taggcaatga ccatatctac aatgtcatcg
+      121 tcacagctca tgcgttcgta ataatttttt ttatagtcat acccattata attggaggct
+      181 ttggcaactg actagtgccc ctaataattg gcgcccccga tatagcattc ccgcgcataa
+      241 ataatataag cttctgactc ctccccccct cctttctcct actgctcgct tctgctacag
+      301 tagaggccgg cgcaggaacg ggctgaacag tttatccgcc cctagcagga aactactctc
+      361 atccaggagc ctctgtagac ttaacaatct tctctttaca cctagcaggc atttcctcta
+      421 tcctaggagc tatcaatttc atcacaacaa ttattaatat aaaaccccct gcaatatccc
+      481 aataccaaac ccccctcttc gtctgatcag tcttaatcac agcagtccta cttctccttt
+      541 ccctcccagt cctagccgct ggcatcacca tactactaac agatcgcaac ctaaacacca
+      601 cattctttga cccagccgga ggtggggatc ctatcctata tcaaca
+//
+
+LOCUS       EU185735                 460 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Pongo abelii voucher PR01003 cytochrome oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EU185735
+VERSION     EU185735.1
+KEYWORDS    .
+SOURCE      mitochondrion Pongo abelii (Sumatran orangutan)
+  ORGANISM  Pongo abelii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pongo.
+REFERENCE   1  (bases 1 to 460)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 460)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave., Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..460
+                     /organism="Pongo abelii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR01003"
+                     /db_xref="taxon:9601"
+                     /sex="male"
+                     /note="derived from same animal as sequence in GenBank
+                     Accession Number AY972650"
+     gene            <1..>460
+                     /gene="COXI"
+     CDS             <1..>460
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71169.1"
+                     /translation="FGAWAGILGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASATVEAGAG
+                     TGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPP"
+ORIGIN      
+        1 tattcggcgc atgggctgga atcctaggca ctgccctaag cctcctcatt cgagctgaac
+       61 taggccagcc cggcaacctt ctaggcaatg accatatcta caatgtcatc gtcacagctc
+      121 atgcattcgt aataattttt tttatagtca tacccattat aattggaggc tttggcaact
+      181 gactagtgcc cctaataatt ggcgcccccg acatagcatt cccgcgcata aataatataa
+      241 gcttctgact cctccccccc tcctttctcc tactgctcgc ttctgctaca gtagaagctg
+      301 gcgcaggaac gggctgaaca gtctatccgc ccctagcagg aaactactct cacccaggag
+      361 cctctgtaga cttaacaatc ttctctttac acctagcagg catttcctct atcctaggag
+      421 ctatcaattt catcacaaca attattaata taaaaccccc
+//
+
+LOCUS       AY972720                 600 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Pongo abelii isolate PR00841 cytochrome c oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   AY972720
+VERSION     AY972720.1
+KEYWORDS    .
+SOURCE      mitochondrion Pongo abelii (Sumatran orangutan)
+  ORGANISM  Pongo abelii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pongo.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 600)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Pongo abelii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00841"
+                     /db_xref="taxon:9601"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>600
+                     /gene="COXI"
+     CDS             <1..>600
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22286.1"
+                     /translation="FGAWAGILGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASATVEAGAG
+                     TGCTFYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFD"
+ORIGIN      
+        1 ttcggcgcat gggctggaat cctaggcact gccctaagcc tcctcattcg agctgaacta
+       61 ggccagcccg gcaaccttct aggcaatgac catatctaca atgtcatcgt cacagctcat
+      121 gcattcgtaa taattttttt tatagtcata cccattataa ttggaggctt tggcaactga
+      181 ctagtgcccc taataattgg cgcccccgac atagcattcc cgcgcataaa taatataagc
+      241 ttctgactcc tccccccctc ctttctccta ctgctcgctt ctgctacagt agaagctggc
+      301 gcaggaacgg gctgtacatt ctatccgccc ctagcaggaa actactctca cccaggagcc
+      361 tctgtagact taacaatctt ctctttacac ctagcaggca tttcctctat cctaggagct
+      421 atcaatttca tcacaacaat tattaatata aaaccccctg caatatccca ataccaaacc
+      481 cccctcttcg tctgatcagt cttaatcaca gcagtcctac ttctcctttc cctcccagtc
+      541 ctagccgctg gcatcaccat actactaaca gatcgcaacc taaacaccac attctttgac
+//
+
+LOCUS       AY972696                 601 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Pongo pygmaeus isolate PR00648 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972696
+VERSION     AY972696.1
+KEYWORDS    .
+SOURCE      mitochondrion Pongo pygmaeus (Bornean orangutan)
+  ORGANISM  Pongo pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pongo.
+REFERENCE   1  (bases 1 to 601)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 601)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 601)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..601
+                     /organism="Pongo pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00648"
+                     /db_xref="taxon:9600"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>601
+                     /gene="COXI"
+     CDS             <1..>601
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22264.1"
+                     /translation="FGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASATVEAGAG
+                     TGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFD"
+ORIGIN      
+        1 gttcggcgca tgagctggag tcctaggcac tgccctaagc ctcctcattc gagctgaact
+       61 aggccaaccc ggcaacctcc taggtaatga ccatatttac aatgtcatcg tcacagccca
+      121 tgcattcgta ataatttttt tcatggtcat gcccattata attggaggct ttggcaactg
+      181 actagtgccc ctgataattg gcgcccctga tatggcattc ccgcgcataa ataacataag
+      241 cttctgactc ctccccccct ccttcctcct attactcgct tctgctacag tagaggccgg
+      301 agcaggaacg ggctgaacag tctatccacc cctagcagga aactactctc acccaggagc
+      361 ctctgtagac ttgacaatct tctctctaca cctagcaggc atttcctcaa ttctaggggc
+      421 tatcaatttc attacaacaa ttattaatat aaaaccccct gcaatatccc aatatcaaac
+      481 tcccctcttc gtctgatcaa tcctgatcac agcagtccta cttctcctct ccctcccagt
+      541 cctagccgct ggcatcacca tactactaac agaccgcaac ttaaatacta cattctttga
+      601 c
+//
+
+LOCUS       AY972680                 602 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Pongo pygmaeus isolate PR00488 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972680
+VERSION     AY972680.1
+KEYWORDS    .
+SOURCE      mitochondrion Pongo pygmaeus (Bornean orangutan)
+  ORGANISM  Pongo pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pongo.
+REFERENCE   1  (bases 1 to 602)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 602)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 602)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..602
+                     /organism="Pongo pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00488"
+                     /db_xref="taxon:9600"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>602
+                     /gene="COXI"
+     CDS             <1..>602
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22250.1"
+                     /translation="LFGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFV
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASATVEAGA
+                     GTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQ
+                     TPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFF"
+ORIGIN      
+        1 ttgttcggcg catgagctgg agtcctaggc actgccctaa gcctcctcat tcgagctgaa
+       61 ctaggccaac ccggcaacct cctaggtaat gaccatattt acaatgtcat cgtcacagcc
+      121 catgcattcg taataatttt tttcatggtc atacccatta taattggagg ctttggcaac
+      181 tgactagtgc ccctgataat tggcgcccct gatatggcat tcccgcgcat aaataacata
+      241 agcttctgac tcctcccccc ctccttcctc ctattactcg cttctgctac agtagaggcc
+      301 ggagcaggaa cgggctgaac agtctatcca cccctagcag gaaactactc tcacccagga
+      361 gcctctgtag acttgacaat cttctctcta cacctagcag gcatttcctc aattctaggg
+      421 gctatcaatt tcattacaac aattattaat ataaaacccc ctgcaatatc ccaatatcaa
+      481 actcccctct tcgtctgatc aatcctgatc acagcagtcc tacttctcct ctccctccca
+      541 gtcctagccg ctggcatcac catactacta acagaccgca acttaaatac tacattcttt
+      601 ga
+//
+
+LOCUS       AY972665                 631 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Pongo pygmaeus isolate PR00276 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972665
+VERSION     AY972665.1
+KEYWORDS    .
+SOURCE      mitochondrion Pongo pygmaeus (Bornean orangutan)
+  ORGANISM  Pongo pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pongo.
+REFERENCE   1  (bases 1 to 631)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 631)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 631)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..631
+                     /organism="Pongo pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00276"
+                     /db_xref="taxon:9600"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>631
+                     /gene="COXI"
+     CDS             <1..>631
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22238.1"
+                     /translation="LFGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFV
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASATVEAGA
+                     GTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQ
+                     TPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAEVGILSY"
+ORIGIN      
+        1 ttgttcggcg catgagctgg agtcctaggc actgccctaa gcctcctcat tcgagctgaa
+       61 ctaggccaac ccggcaacct cctaggtaat gaccatattt acaatgtcat cgtcacagcc
+      121 catgcattcg taataatttt tttcatggtc atgcccatta taattggagg ctttggcaac
+      181 tgactagtgc ccctgataat tggcgcccct gatatggcat tcccgcgcat aaataacata
+      241 agcttctgac tcctcccccc ctccttcctc ctattactcg cttctgctac agtagaggcc
+      301 ggagcaggaa cgggctgaac agtctatcca cccctagcag gaaactactc tcacccagga
+      361 gcctctgtag acttgacaat cttctctcta cacctagcag gcatttcctc aattctaggg
+      421 gctatcaatt tcattacaac aattattaat ataaaacccc ctgcaatatc ccaatatcaa
+      481 actcccctct tcgtctgatc aatcctgatc acagcagtcc tacttctcct ctccctccca
+      541 gtcctagccg ctggcatcac catactacta acagaccgca acttaaatac tacattcttt
+      601 gacccggcgg aggtggggat cctatcctat a
+//
+
+LOCUS       AY972662                 582 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Pongo abelii isolate PR00253 cytochrome c oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   AY972662
+VERSION     AY972662.1
+KEYWORDS    .
+SOURCE      mitochondrion Pongo abelii (Sumatran orangutan)
+  ORGANISM  Pongo abelii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pongo.
+REFERENCE   1  (bases 1 to 582)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 582)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 582)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Pongo abelii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00253"
+                     /db_xref="taxon:9601"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>582
+                     /gene="COXI"
+     CDS             <1..>582
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22235.1"
+                     /translation="FGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASATVEAGAG
+                     TGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNL"
+ORIGIN      
+        1 attcggcgca tgggctggag tcctaggcac tgccctaagc ctcctcattc gagctgaact
+       61 gggccaaccc ggcaaccttc taggcaatga ccatatctac aatgtcatcg tcacagctca
+      121 tgcattcgta ataattttct ttatagtcat acccattata attggaggct ttggcaactg
+      181 actagtgccc ctaataatcg gcgcccccga tatagcattc ccgcgcataa ataatataag
+      241 cttctgactc ctccccccct cctttctcct actgctcgct tctgctacag tagaggctgg
+      301 cgcaggaaca ggctgaacag tctatccgcc cctagcagga aactactctc acccaggagc
+      361 ctctgtagac ttaacaatct tctctttaca cctagcaggc atttcctcta tcctaggagc
+      421 tatcaatttc atcacaacaa ttattaatat aaaaccccct gcaatatccc aataccaaac
+      481 ccccctcttc gtctgatcag tcttgatcac agcagtccta cttctccttt ccctcccagt
+      541 cctagccgct ggcatcacca tactactaac agatcgcaac ct
+//
+
+LOCUS       AY972650                 599 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Pongo abelii isolate PR00054 cytochrome c oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   AY972650
+VERSION     AY972650.1
+KEYWORDS    .
+SOURCE      mitochondrion Pongo abelii (Sumatran orangutan)
+  ORGANISM  Pongo abelii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pongo.
+REFERENCE   1  (bases 1 to 599)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 599)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 599)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..599
+                     /organism="Pongo abelii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00054"
+                     /db_xref="taxon:9601"
+                     /sex="male"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+                     /note="derived from same animal as sequence in GenBank
+                     Accession Number EU185735"
+     gene            <1..>599
+                     /gene="COXI"
+     CDS             <1..>599
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22226.1"
+                     /translation="FGAWAGILGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASATVEAGAG
+                     TGWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFF"
+ORIGIN      
+        1 tattcggcgc atgggctgga atcctaggca ctgccctaag cctcctcatt cgagctgaac
+       61 taggccagcc cggcaacctt ctaggcaatg accatatcta caatgtcatc gtcacagctc
+      121 atgcattcgt aataattttt tttatagtca tacccattat aattggaggc tttggcaact
+      181 gactagtgcc cctaataatt ggcgcccccg acatagcatt cccgcgcata aataatataa
+      241 gcttctgact cctccccccc tcctttctcc tactgctcgc ttctgctaca gtagaagctg
+      301 gcgcaggaac gggctgaaca gtctatccgc ccctagcagg aaactactct cacccaggag
+      361 cctctgtaga cttaacaatc ttctctttac acctagcagg catttcctct atcctaggag
+      421 ctatcaattt catcacaaca attattaata taaaaccccc tgcaatatcc caataccaaa
+      481 cccccctctt cgtctgatca gtcttaatca cagcagtcct acttctcctt tccctcccag
+      541 tcctagccgc tggcatcacc atactactaa cagatcgcaa cctaaacacc acattcttt
+//
+
+LOCUS       AY972641                 580 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Pongo pygmaeus isolate PR00002 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972641
+VERSION     AY972641.1
+KEYWORDS    .
+SOURCE      mitochondrion Pongo pygmaeus (Bornean orangutan)
+  ORGANISM  Pongo pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pongo.
+REFERENCE   1  (bases 1 to 580)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 580)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 580)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..580
+                     /organism="Pongo pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00002"
+                     /db_xref="taxon:9600"
+                     /sex="male"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>580
+                     /gene="COXI"
+     CDS             <1..>580
+                     /gene="COXI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22218.1"
+                     /translation="GAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMI
+                     FFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASATVEAGAGT
+                     GWTVYPPLAGNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTP
+                     LFVWSILITAVLLLLSLPVLAAGITMLLTDRNL"
+ORIGIN      
+        1 cggcgcatga gctggagtcc taggcactgc cctaagcctc ctcattcgag ctgaactagg
+       61 ccaacccggc aacctcctag gtaatgacca tatttacaat gtcatcgtca cagcccatgc
+      121 attcgtaata atttttttca tggtcatgcc cattataatt ggaggctttg gcaactgact
+      181 agtgcccctg ataattggcg cccctgatat ggcattcccg cgcataaata acataagctt
+      241 ctgactcctc cccccctcct tcctcctatt actcgcttct gctacagtag aggccggagc
+      301 aggaacgggc tgaacagtct atccacccct agcaggaaac tactctcacc caggagcctc
+      361 tgtagacttg acaatcttct ctctacacct agcaggcatt tcctcaattc taggggctat
+      421 caatttcatt acaacaatta ttaatataaa accccctgca atatcccaat atcaaactcc
+      481 cctcttcgtc tgatcaatcc tgatcacagc agtcctactt ctcctctccc tcccagtcct
+      541 agccgctggc atcaccatac tactaacaga ccgcaactta
+//
+
+LOCUS       EF568670                 467 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Pongo pygmaeus pygmaeus voucher AG05252 cytochrome oxidase subunit
+            I (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568670
+VERSION     EF568670.1
+KEYWORDS    .
+SOURCE      mitochondrion Pongo pygmaeus pygmaeus (Northwest Bornean orangutan)
+  ORGANISM  Pongo pygmaeus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pongo.
+REFERENCE   1  (bases 1 to 467)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 467)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..467
+                     /organism="Pongo pygmaeus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="pygmaeus"
+                     /specimen_voucher="AG05252"
+                     /db_xref="taxon:9602"
+                     /country="USA"
+                     /PCR_primers="fwd_name: VERTCOIf1, fwd_seq:
+                     ttctcaaccaaccaacaaagacattgg, rev_name: VERTCOIr1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>467
+                     /gene="COXI"
+     CDS             <1..>467
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81579.1"
+                     /translation="ALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFMVMPIMI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASATVEAGAGTGWTVYPPLA
+                     GNYSHPGASVDLTIFSLHLAGISSILGAINFITTIINMKPPAMSQYQTPLFVWS"
+ORIGIN      
+        1 gccctaagcc tcctcattcg agctgaacta ggccaacccg gcaacctcct aggtaatgac
+       61 catatttaca atgtcatcgt cacagcccat gcattcgtaa taattttttt catggtcatg
+      121 cccattataa ttggaggctt tggcaactga ctagtgcccc tgataattgg cgcccctgat
+      181 atggcattcc cgcgcataaa taacataagc ttctgactcc tccccccctc cttcctccta
+      241 ttactcgctt ctgctacagt agaggccgga gcaggaacgg gctgaacagt ctatccaccc
+      301 ctagcaggaa actactctca cccaggagcc tctgtagact tgacaatctt ctctctacac
+      361 ctagcaggca tttcctcaat tctaggggct atcaatttca ttacaacaat tattaatata
+      421 aaaccccctg caatatccca atatcaaact cccctcttcg tctgatc
+//
+

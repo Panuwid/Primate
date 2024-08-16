@@ -1,0 +1,111 @@
+LOCUS       EU185736                 621 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Nomascus leucogenys voucher PR01038 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU185736
+VERSION     EU185736.1
+KEYWORDS    .
+SOURCE      mitochondrion Nomascus leucogenys (northern white-cheeked gibbon)
+  ORGANISM  Nomascus leucogenys
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hylobatidae; Nomascus.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 621)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave., Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Nomascus leucogenys"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR01038"
+                     /db_xref="taxon:61853"
+                     /sex="male"
+     gene            <1..>621
+                     /gene="COXI"
+     CDS             <1..>621
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71170.1"
+                     /translation="FGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAGAG
+                     TGWTVYPPLAGNYSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQT
+                     PLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN      
+        1 ttcggtgcat gagctggagt cctaggcaca gccctaagcc tcctcatccg agccgaactg
+       61 ggtcagcctg gcaacctcct gggcaacgac catatttata atgtcatcgt gacagcccac
+      121 gcattcgtca taatcttttt catagtaata cctatcatga ttggaggctt tggtaactga
+      181 ctagttcctc taataatcgg tgcccccgac atggcattcc cccgtatgaa taacataagc
+      241 ttctgactcc tccctccctc tttcctacta ctacttgcat ccgccatagt agaagccggc
+      301 gccggaacag gatgaacagt atacccccca ctagcaggaa actactccca cccaggagcc
+      361 tccgttgacc taaccatctt ttccctccac ctggccggag tatcatccat cctaggagct
+      421 atcaatttta ttactacaat catcaacatg aaacccccag ccatgtctca atatcaaaca
+      481 cccctctttg tctgatccgt cctaattaca gcagttctac tccttctctc tttaccagtt
+      541 ctagccgccg gcattaccat actattaacg gatcgcaacc tcaacaccac tttctttgac
+      601 ccagccggag gaggagaccc c
+//
+
+LOCUS       EU185727                 587 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Nomascus gabriellae voucher PR00652 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EU185727
+VERSION     EU185727.1
+KEYWORDS    .
+SOURCE      mitochondrion Nomascus gabriellae (Red-cheeked gibbon)
+  ORGANISM  Nomascus gabriellae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hylobatidae; Nomascus.
+REFERENCE   1  (bases 1 to 587)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 587)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2007) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Ave., Camden, NJ 08103,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..587
+                     /organism="Nomascus gabriellae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PR00652"
+                     /db_xref="taxon:61852"
+                     /sex="female"
+     gene            <1..>587
+                     /gene="COXI"
+     CDS             <1..>587
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABW71161.1"
+                     /translation="AGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFM
+                     VMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAGAGTGWT
+                     VYPPLAGNYSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQTPLFV
+                     WSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFF"
+ORIGIN      
+        1 gagctggagt cctaggcaca gccctaagcc tcctcatccg agccgaacta ggtcagcctg
+       61 gcaacctcct gggcaacgac catatttata atgtcatcgt aacagcccac gcattcgtca
+      121 taatcttttt catagtaata cctatcatga ttggaggctt tggtaactga ctagttcctc
+      181 taataatcgg tgcccccgac atggcattcc cccgtatgaa taacataagc ttctgactcc
+      241 tccctccctc tttcctacta ctacttgcat ccgccatagt ggaagccggc gccggaacag
+      301 gatgaacggt atatccccca ctagcaggaa actactccca cccaggagcc tccgttgacc
+      361 taaccatctt ttccctccac ctggccggag tatcatccat cctgggagct atcaatttta
+      421 ttactacaat catcaacatg aagcccccag ctatgtctca atatcaaaca cccctctttg
+      481 tctgatccgt cctaattaca gcagttctac tccttctctc cttaccagtt ctagccgccg
+      541 gcattaccat gctattaacg gatcgcaacc tcaacaccac tttcttt
+//
+

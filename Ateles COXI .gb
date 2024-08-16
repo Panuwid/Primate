@@ -1,0 +1,180 @@
+LOCUS       AY972658                 619 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Ateles geoffroyi isolate PR00134 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972658
+VERSION     AY972658.1
+KEYWORDS    .
+SOURCE      mitochondrion Ateles geoffroyi (black-handed spider monkey)
+  ORGANISM  Ateles geoffroyi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Atelidae; Atelinae; Ateles.
+REFERENCE   1  (bases 1 to 619)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 619)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 619)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..619
+                     /organism="Ateles geoffroyi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00134"
+                     /db_xref="taxon:9509"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>619
+                     /gene="COXI"
+     CDS             <1..>619
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22233.1"
+                     /translation="YLLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHA
+                     FIMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEA
+                     GAGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQ
+                     YQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAG"
+ORIGIN      
+        1 tatatctact atttggcgca tgagcagggg cagtaggaac agccctaagc ctcctaattc
+       61 gagcggaact tggtcaacca gggagtctaa tagaagacga tcatgtttat aatgtaatcg
+      121 ttacctctca tgcatttatt ataattttct ttatagtcat gccaattata atcgggggct
+      181 ttgggaactg acttgttccc ctaataattg gtgcccccga catagcattt ccccgaatga
+      241 ataatataag cttctggctt ctacccccat ccctcctact tctactcgca tcatcaacct
+      301 tagaagccgg cgccggtact ggctgaacag tttacccacc cctagcagga aatatatcac
+      361 acccaggagc ctctgtagat ctgactatct tttcactcca cctagcaggt gtttcctcta
+      421 ttttaggcgc cattaacttt attacaacaa ttattaatat aaaacctcca gctataaccc
+      481 aatatcaaac acctctcttt gtctgatcag tccttattac agcagttctc ctacttctat
+      541 cccttccagt tctagccgct ggaattacaa tattattaac tgaccgtaat cttaatacta
+      601 ccttttttga ccctgctgg
+//
+
+LOCUS       EF568717                 552 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Ateles geoffroyi voucher AG06834 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568717
+VERSION     EF568717.1
+KEYWORDS    .
+SOURCE      mitochondrion Ateles geoffroyi (black-handed spider monkey)
+  ORGANISM  Ateles geoffroyi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Atelidae; Atelinae; Ateles.
+REFERENCE   1  (bases 1 to 552)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 552)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..552
+                     /organism="Ateles geoffroyi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG06834"
+                     /db_xref="taxon:9509"
+                     /country="USA"
+                     /PCR_primers="fwd_name: VERTCOIf1, fwd_seq:
+                     ttctcaaccaaccaacaaagacattgg, rev_name: VERTCOIr1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>552
+                     /gene="COXI"
+     CDS             <1..>552
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81626.1"
+                     /translation="ELGQPGSLMEDDHVYNVIVTSHAFIMIFFMVMPIMIGGFGNWLV
+                     PLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAGAGTGWTVYPPLAGNMSHPGA
+                     SVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLLLSL
+                     PVLAAGITMLLTDRNLNTTFFDPA"
+ORIGIN      
+        1 gaacttggtc aaccagggag tctaatagaa gacgatcatg tttataatgt aatcgttacc
+       61 tctcatgcat ttattataat tttctttata gtcatgccaa ttataatcgg aggctttggg
+      121 aactgacttg ttcccctaat aattggtgcc cccgacatag catttccccg aatgaataat
+      181 ataagcttct ggcttctacc cccatccctc ctacttctac tcgcatcatc aaccttagaa
+      241 gccggcgccg gtactggctg aacagtttac ccacccctag caggaaatat atcacaccca
+      301 ggagcctctg tagatctgac tatcttttca ctccacctag caggtgtttc ctctatttta
+      361 ggcgccatta actttattac aacaattatt aatataaaac ctccagccat aacccaatat
+      421 caaacacctc tctttgtctg atcagtcctt attacagcag ttctcctact tctatccctt
+      481 ccagttctag ccgctggaat tacaatatta ttaactgacc gtaatcttaa tactaccttt
+      541 tttgaccctg ct
+//
+
+LOCUS       EF568622                 642 bp    DNA     linear   PRI 23-JUL-2016
+DEFINITION  Ateles geoffroyi voucher AG05352 cytochrome oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   EF568622
+VERSION     EF568622.1
+KEYWORDS    .
+SOURCE      mitochondrion Ateles geoffroyi (black-handed spider monkey)
+  ORGANISM  Ateles geoffroyi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Atelidae; Atelinae; Ateles.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     The use of DNA barcoding for species identification of materials
+            housed in a biorepository
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Yancy,H. and Coppock,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2007) Coriell Institute for Medical Research, 403
+            Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Ateles geoffroyi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AG05352"
+                     /db_xref="taxon:9509"
+                     /country="USA"
+                     /PCR_primers="fwd_name: VERTCOIf1, fwd_seq:
+                     ttctcaaccaaccaacaaagacattgg, rev_name: VERTCOIr1, rev_seq:
+                     tagacttctgggtggccaaagaatca"
+     gene            <1..>642
+                     /gene="COXI"
+     CDS             <1..>642
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABQ81531.1"
+                     /translation="LLFGAWAGAVGTALSLLIRAELGQPGSLMEDDHVYNVIVTSHAF
+                     IMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASSTLEAG
+                     AGTGWTVYPPLAGNMSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQY
+                     QTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQH"
+ORIGIN      
+        1 ctactatttg gcgcatgagc aggggcagta ggaacagccc taagcctcct aattcgagcg
+       61 gaacttggtc aaccagggag tctaatagaa gacgatcatg tttataatgt aatcgttacc
+      121 tctcatgcat ttattataat tttctttata gtcatgccaa ttataatcgg aggctttggg
+      181 aactgacttg ttcccctaat aattggtgcc cccgacatag catttccccg aatgaataat
+      241 ataagcttct ggcttctacc cccatccctc ctacttctac tcgcatcatc aaccttagaa
+      301 gccggcgccg gtactggctg aacagtttac ccacccctag caggaaatat atcacaccca
+      361 ggagcctctg tagatctgac tatcttttca ctccacctag caggtgtttc ctctatttta
+      421 ggcgccatta actttattac aacaattatt aatataaaac ctccagctat aacccaatat
+      481 caaacacctc tctttgtctg atcagtcctt attacagcag ttctcctact tctatccctt
+      541 ccagttctag ccgctggaat tacaatatta ttaactgacc gtaatcttaa tactaccttt
+      601 tttgaccctg ctggtggagg agacccaatc ttataccaac at
+//
+

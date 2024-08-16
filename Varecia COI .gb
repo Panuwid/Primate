@@ -1,0 +1,112 @@
+LOCUS       LC144613                 658 bp    DNA     linear   PRI 06-APR-2016
+DEFINITION  Varecia variegata mitochondrial COI gene for cytochrome oxidase
+            subunit I, partial cds, specimen_voucher: SDNCU:SDNCU-A2716.
+ACCESSION   LC144613
+VERSION     LC144613.1
+KEYWORDS    .
+SOURCE      mitochondrion Varecia variegata (ruffed lemur)
+  ORGANISM  Varecia variegata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lemuriformes; Lemuridae; Varecia.
+REFERENCE   1
+  AUTHORS   Suzuki-Matsubara,M., Murase,Y. and Moriyama,A.
+  TITLE     Higashiyama Zoo DNA Barcode Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Suzuki-Matsubara,M. and Moriyama,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-APR-2016) Contact:Mieko Suzuki-Matsubara Nagoya City
+            University, Graduate School of Natural Sciences; 1 Yamanohata,
+            Mizuho-cho, Mizuho-ku, Nagoya, Aichi 467-8501, Japan
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Varecia variegata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SDNCU:SDNCU-A2716"
+                     /db_xref="taxon:9455"
+                     /country="Japan: Aichi, Higashiyama Zoo"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="BAU79427.1"
+                     /translation="TLYLLFGAWAGMVGTALSLLIRAELGQPGALLGDDQIYNVVVTA
+                     HAFVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTVINMKPPAM
+                     SQYQTPLFVWSVMITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 aaccctttat ctcctatttg gagcttgagc gggaatagta ggcacagccc ttagcctctt
+       61 aattcgagca gaactcggtc aacctggagc tctactagga gatgatcaaa tctacaatgt
+      121 cgtcgtaaca gctcatgcct tcgttataat cttcttcata gtaataccta ttataattgg
+      181 tggctttggg aactgattaa tccctttaat aattggagca cccgatatag catttccccg
+      241 tataaataat ataagcttct gacttttacc accatccttc cttctccttc ttgcatcctc
+      301 aatagtagaa gcaggtgcag gaaccggatg gactgtttat ccccctctag cagggaattt
+      361 agcccatgca ggggcctctg tagatctaac tattttttct cttcatttag caggagtatc
+      421 ctcaatttta ggtgccatca actttatcac aacagtaatc aatatgaaac ctccagctat
+      481 gtcacagtat caaacacctt tatttgtatg atctgtaata attaccgcca tccttctact
+      541 cctgtcctta cctgtcctag cagcaggaat tacaatactc ctaactgatc gtaacctaaa
+      601 tacaactttc tttgaccctg caggaggtgg tgatcctatt ctctatcagc acctattt
+//
+
+LOCUS       KJ543740                 591 bp    DNA     linear   PRI 25-MAY-2014
+DEFINITION  Varecia rubra cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KJ543740
+VERSION     KJ543740.1
+KEYWORDS    .
+SOURCE      mitochondrion Varecia rubra (Red ruffed lemur)
+  ORGANISM  Varecia rubra
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+            Lemuriformes; Lemuridae; Varecia.
+REFERENCE   1  (bases 1 to 591)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     An endogenous lentivirus in the genome of the bushbaby Galago
+            moholi
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 591)
+  AUTHORS   Brown,K. and Tarlinton,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAR-2014) School of Veterinary Medicine and Science,
+            University of Nottingham, Sutton Bonington Campus, College Road,
+            Sutton Bonington, Loughborough, Leicestershire LE12 5RD, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..591
+                     /organism="Varecia rubra"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:554167"
+     gene            <1..>591
+                     /gene="COI"
+     CDS             <1..>591
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHZ96707.1"
+                     /translation="MAGTALSLLIRAELGQPGALLGDDQIYNVVVTAHAFVMIFFMVM
+                     PIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVEAGAGTGWTVY
+                     PPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTVINMKPPAMSQYQTPLFVWS
+                     VMITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAG"
+ORIGIN      
+        1 atagcaggca cagcccttag tctcttaatt cgagcagaac tcggtcaacc tggggctcta
+       61 ctaggagatg atcaaattta taatgtcgtc gtaacagctc atgccttcgt tataatcttc
+      121 ttcatagtaa tacctattat aattggtggc tttggaaact gattaatccc tttaataatt
+      181 ggagcacccg atatagcatt tccccgtata aataatataa gcttctgact tttaccacca
+      241 tccttccttc tccttcttgc atcctcaata gtagaagcag gtgcaggaac cggatggact
+      301 gtttatcccc ctctagcagg aaatttagcc catgcagggg cctctgtaga tctaactatt
+      361 ttttctcttc atttagcagg agtatcctca attttaggtg ccattaactt tatcacaaca
+      421 gtaatcaata tgaaacctcc agctatgtca cagtatcaaa cacccttatt tgtatggtct
+      481 gtaataatta ctgccgtcct tctactcctg tccttacccg tcctagcagc aggaattaca
+      541 atactcctga ctgatcgtaa cctaaataca actttctttg accctgcagg a
+//
+

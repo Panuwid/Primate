@@ -1,0 +1,460 @@
+LOCUS       MW049059                 313 bp    DNA     linear   PRI 31-OCT-2020
+DEFINITION  Rungwecebus kipunji voucher SC23_Rungwecebus_kipunji_udzungwa
+            cytochrome c oxidase subunit I (COX1) gene, partial cds;
+            mitochondrial.
+ACCESSION   MW049059
+VERSION     MW049059.1
+KEYWORDS    .
+SOURCE      mitochondrion Rungwecebus kipunji (Highland mangabey)
+  ORGANISM  Rungwecebus kipunji
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Rungwecebus.
+REFERENCE   1  (bases 1 to 313)
+  AUTHORS   Havmoeller,R.W.
+  TITLE     DNA metabarcoding reveals that African leopard diet varies between
+            habitats
+  JOURNAL   Afr J Ecol (2020) In press
+REFERENCE   2  (bases 1 to 313)
+  AUTHORS   Havmoeller,R.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-SEP-2020) GLOBE Institute, University of Copenhagen,
+            Oester Voldgade 5-7, Copenhagen K 1350, Denmark
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DAMe v. 1.0
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..313
+                     /organism="Rungwecebus kipunji"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SC23_Rungwecebus_kipunji_udzungwa"
+                     /db_xref="taxon:371039"
+     gene            <1..>313
+                     /gene="COX1"
+     CDS             <1..>313
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QOE54550.1"
+                     /translation="LSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPA
+                     MSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQH
+                     LF"
+ORIGIN      
+        1 tttgtcagga aacttttccc acccaggagc ctccgtagac ctagtcatct tctccctcca
+       61 cctagcaggc atttcctcta tcctaggagc catcaacttc atcaccacta ttatcaacat
+      121 aaaaccccct gcaatatccc agtatcaaac ccctttattt gtctgatcaa tcttaattac
+      181 agcagtcctc ctactcctct ccctaccagt cctagccgcc ggcatcacta tactactaac
+      241 agatcgcaac ctcaatacca ccttcttcga ccctgttgga ggaggagacc ctattctata
+      301 ccaacaccta ttt
+//
+
+LOCUS       GU068069                 633 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Rungwecebus kipunji voucher UAM:Mamm:103010 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   GU068069
+VERSION     GU068069.1
+KEYWORDS    .
+SOURCE      mitochondrion Rungwecebus kipunji (Highland mangabey)
+  ORGANISM  Rungwecebus kipunji
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Rungwecebus.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Roberts,T.E., Davenport,T.R., Hildebrandt,K.B., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     The biogeography of introgression in the critically endangered
+            African monkey Rungwecebus kipunji
+  JOURNAL   Biol. Lett. 6 (2), 233-237 (2010)
+   PUBMED   19906681
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Roberts,T.E., Davenport,T.R.B., Hildebrandt,K.B.P., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2009) Department of Mammalogy, University of
+            Alaska Museum, 907 Yukon Drive, Fairbanks, AK 99775, USA
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Rungwecebus kipunji"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UAM:Mamm:103010"
+                     /db_xref="taxon:371039"
+     gene            <1..>633
+                     /gene="COX1"
+     CDS             <1..>633
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ADB04262.1"
+                     /translation="LLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAG
+                     AGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPIL"
+ORIGIN      
+        1 cctgctattt ggtgcatgag ccggggttat aggcatggcc ctaagtcttc ttattcgagc
+       61 tgaactgggc caacccggta acctactagg caatgatcac atctacaacg tcattgtaac
+      121 ggcccatgcg ttcgtcataa tctttttcat ggttataccc attataattg ggggcttcgg
+      181 aaactgatta gtacctctaa taattggcgc ccctgatata gcattccccc gtttaaacaa
+      241 cataagtttc tgactcctcc ccccttcttt cctactacta atagcatcaa ccgtagtaga
+      301 ggccggtgca gggacaggct gaacagtgta cccccctttg tcaggaaact tttcccaccc
+      361 aggagcctcc gtagacctag tcatcttctc cctccaccta gcaggcattt cctctatcct
+      421 aggagccatc aacttcatca ccactattat caacataaaa ccccctgcaa tatcccagta
+      481 tcaaacccct ttatttgtct gatcaatctt aattacagca gtcctcctac tcctctccct
+      541 accagtccta gccgccggca tcactatact actaacagat cgcaacctca ataccacctt
+      601 cttcgaccct gttggaggag gagaccctat tct
+//
+
+LOCUS       GU068068                 626 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Rungwecebus kipunji voucher UAM:Mamm:103009 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   GU068068
+VERSION     GU068068.1
+KEYWORDS    .
+SOURCE      mitochondrion Rungwecebus kipunji (Highland mangabey)
+  ORGANISM  Rungwecebus kipunji
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Rungwecebus.
+REFERENCE   1  (bases 1 to 626)
+  AUTHORS   Roberts,T.E., Davenport,T.R., Hildebrandt,K.B., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     The biogeography of introgression in the critically endangered
+            African monkey Rungwecebus kipunji
+  JOURNAL   Biol. Lett. 6 (2), 233-237 (2010)
+   PUBMED   19906681
+REFERENCE   2  (bases 1 to 626)
+  AUTHORS   Roberts,T.E., Davenport,T.R.B., Hildebrandt,K.B.P., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2009) Department of Mammalogy, University of
+            Alaska Museum, 907 Yukon Drive, Fairbanks, AK 99775, USA
+FEATURES             Location/Qualifiers
+     source          1..626
+                     /organism="Rungwecebus kipunji"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UAM:Mamm:103009"
+                     /db_xref="taxon:371039"
+     gene            <1..>626
+                     /gene="COX1"
+     CDS             <1..>626
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ADB04261.1"
+                     /translation="LFGAWAGVMGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFV
+                     MIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAGA
+                     GTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQYQ
+                     TPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDP"
+ORIGIN      
+        1 ctatttggtg catgagccgg ggttataggc atggccctaa gtcttcttat tcgagctgaa
+       61 ctgggccaac ccggtaacct actaggcaat gatcacatct acaacgtcat tgtaacggcc
+      121 catgcgttcg tcataatctt tttcatggtt atacccatta taattggggg cttcggaaac
+      181 tgattagtac ctctaataat tggcgcccct gatatagcat tcccccgttt aaacaacata
+      241 agtttctgac tcctcccccc ttctttccta ctactaatag catcaaccgt agtagaggcc
+      301 ggtgcaggga caggctgaac agtgtacccc cctttgtcag gaaacttttc ccacccagga
+      361 gcctccgtag acctagtcat cttctccctc cacctagcag gcatttcctc tatcctagga
+      421 gccatcaact tcatcaccac tattatcaac ataaaacccc ctgcaatatc ccagtatcaa
+      481 acccctttat ttgtctgatc aatcttaatt acagcagtcc tcctactcct ctccctacca
+      541 gtcctagccg ccggcatcac tatactacta acagatcgca acctcaatac caccttcttc
+      601 gaccctgttg gaggaggaga ccctat
+//
+
+LOCUS       GU068067                 651 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Rungwecebus kipunji voucher UAM:Mamm:103008 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   GU068067
+VERSION     GU068067.1
+KEYWORDS    .
+SOURCE      mitochondrion Rungwecebus kipunji (Highland mangabey)
+  ORGANISM  Rungwecebus kipunji
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Rungwecebus.
+REFERENCE   1  (bases 1 to 651)
+  AUTHORS   Roberts,T.E., Davenport,T.R., Hildebrandt,K.B., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     The biogeography of introgression in the critically endangered
+            African monkey Rungwecebus kipunji
+  JOURNAL   Biol. Lett. 6 (2), 233-237 (2010)
+   PUBMED   19906681
+REFERENCE   2  (bases 1 to 651)
+  AUTHORS   Roberts,T.E., Davenport,T.R.B., Hildebrandt,K.B.P., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2009) Department of Mammalogy, University of
+            Alaska Museum, 907 Yukon Drive, Fairbanks, AK 99775, USA
+FEATURES             Location/Qualifiers
+     source          1..651
+                     /organism="Rungwecebus kipunji"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UAM:Mamm:103008"
+                     /db_xref="taxon:371039"
+     gene            <1..>651
+                     /gene="COX1"
+     CDS             <1..>651
+                     /gene="COX1"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ADB04260.1"
+                     /translation="LLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMASTVVEAG
+                     AGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQHLF"
+ORIGIN      
+        1 acctgctatt tggtgcatga gccggggtta taggcatggc cctaagtctt cttattcgag
+       61 ctgaactggg ccaacccggt aacctactag gcaatgatca catctacaac gtcattgtaa
+      121 cggcccatgc gttcgtcata atctttttca tggttatacc cattataatt gggggcttcg
+      181 gaaactgatt agtacctcta ataattggcg cccctgatat agcattcccc cgtttaaaca
+      241 acataagttt ctgactcctc cccccttctt tcctactact aatagcatca accgtagtag
+      301 aggccggtgc agggacaggc tgaacagtgt accccccttt gtcaggaaac ttttcccacc
+      361 caggagcctc cgtagaccta gtcatcttct ccctccacct agcaggcatt tcctctatcc
+      421 taggagccat caacttcatc accactatta tcaacataaa accccctgca atatcccagt
+      481 atcaaacccc tttatttgtc tgatcaatct taattacagc agtcctccta ctcctctccc
+      541 taccagtcct agccgccggc atcactatac tactaacaga tcgcaacctc aataccacct
+      601 tcttcgaccc tgttggagga ggagacccta ttctatacca acacctattt t
+//
+
+LOCUS       GU068066                 664 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Rungwecebus kipunji voucher UAM:Mamm:103006 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   GU068066
+VERSION     GU068066.1
+KEYWORDS    .
+SOURCE      mitochondrion Rungwecebus kipunji (Highland mangabey)
+  ORGANISM  Rungwecebus kipunji
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Rungwecebus.
+REFERENCE   1  (bases 1 to 664)
+  AUTHORS   Roberts,T.E., Davenport,T.R., Hildebrandt,K.B., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     The biogeography of introgression in the critically endangered
+            African monkey Rungwecebus kipunji
+  JOURNAL   Biol. Lett. 6 (2), 233-237 (2010)
+   PUBMED   19906681
+REFERENCE   2  (bases 1 to 664)
+  AUTHORS   Roberts,T.E., Davenport,T.R.B., Hildebrandt,K.B.P., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2009) Department of Mammalogy, University of
+            Alaska Museum, 907 Yukon Drive, Fairbanks, AK 99775, USA
+FEATURES             Location/Qualifiers
+     source          1..664
+                     /organism="Rungwecebus kipunji"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UAM:Mamm:103006"
+                     /db_xref="taxon:371039"
+     gene            <1..>664
+                     /gene="COX1"
+     CDS             <1..>664
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ADB04259.1"
+                     /translation="IGTLYLLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     VVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     HLF"
+ORIGIN      
+        1 attggaactt tatacctgct atttggtgca tgagccgggg ttataggcat ggccctaagt
+       61 cttcttattc gagctgaact gggccaaccc ggtaacctac taggcaatga tcacatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatggttat acccattata
+      181 attgggggct tcggaaactg attagtacct ctaataattg gcgcccctga tatagcattc
+      241 ccccgtttaa acaacataag tttctgactc ctcccccctt ctttcctact actaatagca
+      301 tcaaccgtag tagaggccgg tgcagggaca ggctgaacag tgtacccccc tttgtcagga
+      361 aacttttccc acccaggagc ctccgtagac ctagtcatct tctccctcca cctagcaggc
+      421 atttcctcta tcctaggagc catcaacttc atcaccacta ttatcaacat aaaaccccct
+      481 gcaatatccc agtatcaaac ccctttattt gtctgatcaa tcttaattac agcagtcctc
+      541 ctactcctct ccctaccagt cctagccgcc ggcatcacta tactactaac agatcgcaac
+      601 ctcaatacca ccttcttcga ccctgttgga ggaggagacc ctattctata ccaacaccta
+      661 tttt
+//
+
+LOCUS       GU068065                 664 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Rungwecebus kipunji voucher UAM:Mamm:103007 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   GU068065
+VERSION     GU068065.1
+KEYWORDS    .
+SOURCE      mitochondrion Rungwecebus kipunji (Highland mangabey)
+  ORGANISM  Rungwecebus kipunji
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Rungwecebus.
+REFERENCE   1  (bases 1 to 664)
+  AUTHORS   Roberts,T.E., Davenport,T.R., Hildebrandt,K.B., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     The biogeography of introgression in the critically endangered
+            African monkey Rungwecebus kipunji
+  JOURNAL   Biol. Lett. 6 (2), 233-237 (2010)
+   PUBMED   19906681
+REFERENCE   2  (bases 1 to 664)
+  AUTHORS   Roberts,T.E., Davenport,T.R.B., Hildebrandt,K.B.P., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2009) Department of Mammalogy, University of
+            Alaska Museum, 907 Yukon Drive, Fairbanks, AK 99775, USA
+FEATURES             Location/Qualifiers
+     source          1..664
+                     /organism="Rungwecebus kipunji"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UAM:Mamm:103007"
+                     /db_xref="taxon:371039"
+     gene            <1..>664
+                     /gene="COX1"
+     CDS             <1..>664
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ADB04258.1"
+                     /translation="IGTLYLLFGAWAGVMGMALSLLIRAELGQPGNLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     VVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     HLF"
+ORIGIN      
+        1 attggaactt tatacctgct atttggtgca tgagccgggg ttataggcat ggccctaagt
+       61 cttcttattc gagctgaact gggccaaccc ggtaacctac taggcaatga tcacatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatggttat acccattata
+      181 attgggggct tcggaaactg attagtacct ctaataattg gcgcccctga tatagcattc
+      241 ccccgtttaa acaacataag tttctgactc ctcccccctt ctttcctact actaatagca
+      301 tcaaccgtag tagaggccgg tgcagggaca ggctgaacag tgtacccccc tttgtcagga
+      361 aacttttccc acccaggagc ctccgtagac ctagtcatct tctccctcca cctagcaggc
+      421 atttcctcta tcctaggagc catcaacttc atcaccacta ttatcaacat aaaaccccct
+      481 gcaatatccc agtatcaaac ccctttattt gtctgatcaa tcttaattac agcagtcctc
+      541 ctactcctct ccctaccagt cctagccgcc ggcatcacta tactactaac agatcgcaac
+      601 ctcaatacca ccttcttcga ccctgttgga ggaggagacc ctattctata ccaacaccta
+      661 tttt
+//
+
+LOCUS       GU068064                 664 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Rungwecebus kipunji isolate WTS 9308 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   GU068064
+VERSION     GU068064.1
+KEYWORDS    .
+SOURCE      mitochondrion Rungwecebus kipunji (Highland mangabey)
+  ORGANISM  Rungwecebus kipunji
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Rungwecebus.
+REFERENCE   1  (bases 1 to 664)
+  AUTHORS   Roberts,T.E., Davenport,T.R., Hildebrandt,K.B., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     The biogeography of introgression in the critically endangered
+            African monkey Rungwecebus kipunji
+  JOURNAL   Biol. Lett. 6 (2), 233-237 (2010)
+   PUBMED   19906681
+REFERENCE   2  (bases 1 to 664)
+  AUTHORS   Roberts,T.E., Davenport,T.R.B., Hildebrandt,K.B.P., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2009) Department of Mammalogy, University of
+            Alaska Museum, 907 Yukon Drive, Fairbanks, AK 99775, USA
+FEATURES             Location/Qualifiers
+     source          1..664
+                     /organism="Rungwecebus kipunji"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="WTS 9308"
+                     /db_xref="taxon:371039"
+     gene            <1..>664
+                     /gene="COX1"
+     CDS             <1..>664
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ADB04257.1"
+                     /translation="IGTLYLLFGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     AVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     HLF"
+ORIGIN      
+        1 attggaactt tatatctatt atttggtgca tgagccggag tcacaggcat ggccctaagt
+       61 cttctcattc gagccgaact gggtcaaccc ggtaacctac taggcaatga tcatatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatggttat acctattata
+      181 attgggggct tcgggaattg gttggtgcct ctaataattg gcgctcctga tatagcattc
+      241 ccccgtttaa acaacataag cttctgactc cttccccctt ctttcctact actaatagca
+      301 tcaactgcag tagaggccgg tgctgggaca ggctgaacag tatatccccc tttgtcagga
+      361 aacttttccc acccaggggc ctccgtagac ctagtcatct tctcccttca cctagcgggt
+      421 atttcttcca tcctaggagc catcaacttc attaccacta ttatcaacat aaaaccccct
+      481 gcaatatccc aatatcaaac ccctttattt gtctgatcga tcttaattac agcagtcctc
+      541 ctacttctct ccctaccagt cctagccgcc ggcatcacta tactattaac agatcgcaac
+      601 ctcaacacta ctttcttcga ccctgtcgga gggggagacc ctattctata ccaacaccta
+      661 tttt
+//
+
+LOCUS       GU068063                 664 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Rungwecebus kipunji voucher SHCP:2458 cytochrome c oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   GU068063
+VERSION     GU068063.1
+KEYWORDS    .
+SOURCE      mitochondrion Rungwecebus kipunji (Highland mangabey)
+  ORGANISM  Rungwecebus kipunji
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Rungwecebus.
+REFERENCE   1  (bases 1 to 664)
+  AUTHORS   Roberts,T.E., Davenport,T.R., Hildebrandt,K.B., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     The biogeography of introgression in the critically endangered
+            African monkey Rungwecebus kipunji
+  JOURNAL   Biol. Lett. 6 (2), 233-237 (2010)
+   PUBMED   19906681
+REFERENCE   2  (bases 1 to 664)
+  AUTHORS   Roberts,T.E., Davenport,T.R.B., Hildebrandt,K.B.P., Jones,T.,
+            Stanley,W.T., Sargis,E.J. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2009) Department of Mammalogy, University of
+            Alaska Museum, 907 Yukon Drive, Fairbanks, AK 99775, USA
+FEATURES             Location/Qualifiers
+     source          1..664
+                     /organism="Rungwecebus kipunji"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SHCP:2458"
+                     /db_xref="taxon:371039"
+     gene            <1..>664
+                     /gene="COX1"
+     CDS             <1..>664
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ADB04256.1"
+                     /translation="IGTLYLLFGAWAGVTGMALSLLIRAELGQPGNLLGNDHIYNVIV
+                     TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRLNNMSFWLLPPSFLLLMAST
+                     AVEAGAGTGWTVYPPLSGNFSHPGASVDLVIFSLHLAGISSILGAINFITTIINMKPP
+                     AMSQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPVGGGDPILYQ
+                     HLF"
+ORIGIN      
+        1 attggaactt tatatctatt atttggtgca tgagccggag tcacaggcat ggccctaagt
+       61 cttctcattc gagccgaact gggtcaaccc ggtaacctac taggcaatga tcatatctac
+      121 aacgtcattg taacggccca tgcgttcgtc ataatctttt tcatggttat acctattata
+      181 attgggggct tcgggaattg gttggtgcct ctaataattg gcgctcctga tatagcattc
+      241 ccccgtttaa acaacataag cttctgactc cttccccctt ctttcctact actaatagca
+      301 tcaactgcag tagaggccgg tgctgggaca ggctgaacag tatatccccc tttgtcagga
+      361 aacttctccc acccaggggc ctccgtagac ctagtcatct tctcccttca cctagcgggt
+      421 atttcttcca tcctaggagc catcaacttc attaccacta ttatcaacat aaaaccccct
+      481 gcaatatccc aatatcaaac ccctttattt gtctgatcga tcttaattac agcagtcctc
+      541 ctacttctct ccctaccagt cctagccgcc ggcatcacta tactattaac agatcgcaac
+      601 ctcaacacta ctttcttcga ccctgtcgga gggggagacc ctattctata ccaacaccta
+      661 tttt
+//
+

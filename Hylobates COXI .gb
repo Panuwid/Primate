@@ -1,0 +1,396 @@
+LOCUS       AY972708                 644 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Hylobates agilis isolate PR00772 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972708
+VERSION     AY972708.1
+KEYWORDS    .
+SOURCE      mitochondrion Hylobates agilis (agile gibbon)
+  ORGANISM  Hylobates agilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hylobatidae; Hylobates.
+REFERENCE   1  (bases 1 to 644)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 644)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 644)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..644
+                     /organism="Hylobates agilis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00772"
+                     /db_xref="taxon:9579"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>644
+                     /gene="COXI"
+     CDS             <1..>644
+                     /gene="COXI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22275.1"
+                     /translation="LLFGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAG
+                     AGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQH"
+ORIGIN      
+        1 acttactatt tggcgcatgg gccggggttc taggcacggc cttaagcctc ctcattcgag
+       61 ccgagctggg tcaacccggc aatctcctag gcaatgacca tatctataac gtcattgtaa
+      121 cggcccacgc attcgtcata atcttcttca tagtaatacc catcataatt gggggctttg
+      181 gcaactggct cgtccctctg ataatcggcg ctcccgatat ggcattccct cgtataaata
+      241 acataagctt ctgacttctt cccccctcat tcctactgct gcttgcctcc gctatagtag
+      301 aggccggcgc cggaacagga tgaacggtct accctccgct agcaggaaac tactcccacc
+      361 caggagcctc tgttgaccta accatttttt ctctacacct agccggagta tcatctatcc
+      421 taggggctat taacttcatt accacaatca tcaacataaa acccccagcc atatcccaat
+      481 accaaacacc cctctttgtc tgatccgtcc taattacagc cgtcctactc ctcctctccc
+      541 taccagtcct agccgccggc attactatac tactaacaga ccgcaacctc aacactactt
+      601 tctttgatcc cgctggaggg ggagacccta tcctatatca acac
+//
+
+LOCUS       AY972705                 642 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Hylobates lar isolate PR00715 cytochrome c oxidase subunit I (COXI)
+            gene, partial cds; mitochondrial.
+ACCESSION   AY972705
+VERSION     AY972705.1
+KEYWORDS    .
+SOURCE      mitochondrion Hylobates lar (common gibbon)
+  ORGANISM  Hylobates lar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hylobatidae; Hylobates.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 642)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Hylobates lar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00715"
+                     /db_xref="taxon:9580"
+                     /sex="female"
+                     /cell_type="fibroblast"
+                     /tissue_type="skin"
+     gene            <1..>642
+                     /gene="COXI"
+     CDS             <1..>642
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22273.1"
+                     /translation="LLFGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEAG
+                     AGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSQY
+                     QTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQH"
+ORIGIN      
+        1 ttactatttg gcgcatgggc cggggttctg ggcacggcct taagcctcct cattcgagcc
+       61 gaactgggtc aacccggcaa tctcctaggc aatgaccata tctataacgt cattgtaacg
+      121 gcccacgcat tcgtcataat cttcttcata gtaataccca tcataattgg gggctttggc
+      181 aactggctcg tccctctgat aatcggcgct cccgatatgg cattccctcg tataaataac
+      241 ataagcttct gacttcttcc cccctcattc ctactgctgc ttgcctccgc tatagtagaa
+      301 gccggcgccg gaacaggatg aacggtctac cctccgctgg caggaaacta ctcccaccca
+      361 ggagcctctg tcgacctaac cattttttct ctacacctgg ccggagtatc atctatccta
+      421 ggggctatta acttcattac cacaatcatc aacataaaac ccccagccat atcccaatac
+      481 caaacacccc tctttgtctg atccgtccta attacagccg tcctactcct cctctcccta
+      541 ccagtcctag ccgccggcat tactatacta ctaacggacc gcaacctcaa cactactttc
+      601 tttgaccccg ctggaggagg agaccctatc ctatatcaac ac
+//
+
+LOCUS       AY972661                 641 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Hylobates pileatus isolate PR00243 cytochrome c oxidase subunit I
+            (COXI) gene, partial cds; mitochondrial.
+ACCESSION   AY972661
+VERSION     AY972661.1
+KEYWORDS    .
+SOURCE      mitochondrion Hylobates pileatus (pileated gibbon)
+  ORGANISM  Hylobates pileatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hylobatidae; Hylobates.
+REFERENCE   1  (bases 1 to 641)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 641)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     'Molecular Barcoding' of the Order Primates: Practical Applications
+            and Theoretical Concerns
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 641)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2005) Laboratory of Molecular Biology, Coriell
+            Institute for Medical Research, 403 Haddon Avenue, Camden, NJ
+            08103, USA
+FEATURES             Location/Qualifiers
+     source          1..641
+                     /organism="Hylobates pileatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PR00243"
+                     /db_xref="taxon:9589"
+                     /sex="female"
+                     /cell_type="lymphoblast"
+                     /tissue_type="blood"
+     gene            <1..>641
+                     /gene="COXI"
+     CDS             <1..>641
+                     /gene="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAY22234.1"
+                     /translation="YLLFGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHA
+                     FVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASAMVEA
+                     GAGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSQ
+                     YQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILY"
+ORIGIN      
+        1 tacttactat ttggcgcatg agccggagtc ctaggcacgg ccctaagcct cctcattcga
+       61 gctgagctag gtcaacccgg caatctcctg ggcaatgacc atatctacaa cgtcatcgta
+      121 acagcccatg cattcgtcat aatcttcttc atagtaatac ccatcataat tgggggcttt
+      181 ggcaactggc tcgtccctct gataatcggt gcccccgata tggcattccc ccgtataaac
+      241 aacataagct tctgacttct tcccccctcc ttcctactac tgcttgcctc cgccatggta
+      301 gaagccggcg ccggaacagg gtggacggtc taccctccac tggcgggaaa ctactctcac
+      361 ccaggagcct ccgttgacct aaccattttt tctctacacc tagccggagt atcatccatc
+      421 ctaggggcta ttaacttcat taccacaatc atcaacataa aacccccagc catgtcccaa
+      481 tatcaaacac ccctctttgt ttgatccgtc ctaatcacag ccgtcctact cctcctctcc
+      541 ctaccagtcc tggccgccgg cattaccatg ctactaacag accgcaacct caacactact
+      601 ttctttgacc ccgctggagg gggagaccct atcctatatc a
+//
+
+LOCUS       GIBMTTRNA               4910 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Hylobates syndactylus Mitochondrial genes for tRNAs, NADH
+            dehydrogenase, cytochrome C oxidase and ATPase.
+ACCESSION   D38484
+VERSION     D38484.1
+KEYWORDS    Glu-tRNA; Met-tRNA; Trp-tRNA; Ala-tRNA; Asn-tRNA; Cys-tRNA;
+            Tyr-tRNA; Ser-tRNA(UCN); Asp-tRNA; Lys-tRNA; ATPase subunit 6;
+            ATPase subunit 8; NADH dehydrogenase subunit 1; NADH dehydrogenase
+            subunit 2; cytochrome c oxidase subunit I; cytochrome c oxidase
+            subunit II; Ile-tRNA; ND1; ND2; COXI; COXII; ATP8; ATP6.
+SOURCE      mitochondrion Symphalangus syndactylus (siamang)
+  ORGANISM  Symphalangus syndactylus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hylobatidae; Symphalangus.
+REFERENCE   1
+  AUTHORS   Horai,S., Satta,Y., Hayasaka,K., Kondo,R., Inoue,T., Ishida,T.,
+            Hayashi,S. and Takahata,N.
+  TITLE     Man's place in Hominoidea revealed by mitochondrial DNA genealogy
+  JOURNAL   J. Mol. Evol. 35 (1), 32-43 (1992)
+   PUBMED   1518083
+REFERENCE   2  (bases 1 to 4910)
+  AUTHORS   Hayasaka,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-1994) Kenji Hayasaka, National Institute of
+            Genetics, Human Genetics; 1,111 Yata, Mishima, Shizuoka 411, Japan
+            (E-mail:khayasak@ddbj.nig.ac.jp, Tel:81-559-75-0771(ex.568))
+FEATURES             Location/Qualifiers
+     source          1..4910
+                     /organism="Symphalangus syndactylus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9590"
+     CDS             <1..143
+                     /codon_start=3
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1 (ND1)"
+                     /protein_id="BAA07494.1"
+                     /translation="IRTTYPRFRYDQLMYLLWKNFLPLTLALLMWYISLPIMIASTPP
+                     QT"
+     tRNA            143..211
+                     /product="tRNA-Ile"
+     tRNA            complement(209..280)
+                     /product="tRNA-Glu"
+     tRNA            281..348
+                     /product="tRNA-Met"
+     CDS             349..1392
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2 (ND2)"
+                     /protein_id="BAA07495.1"
+                     /translation="MNPLAQPIIYSTIFAGTLITASSSHWFLAWVGLEMNMLAFIPVL
+                     TKKMNPRSTEAAIKYFLVQATASMILMMAILSNNLLSGQWTTTNITNQYSSLMILTAL
+                     AMKLGMAPFHFWVPEVTQGTTLTSGLLLLTWQKLAPISIMYQIFPVMNVNILLTFSIL
+                     SIMVGSWGGLNQTQLRKILAYSSITHVGWMTAVLPYNPNITIFNLTIYIVLTTTAFLA
+                     LNLNSSTTTLLLSRSWNKLTWLLPLIPSTLLSLGGLPPLTGFLPKWLVIEELTKNGTL
+                     IIPTIMAIVTLINLYFYMRLIYSTSITLFPTSNNVKMKWQFENMKPTLLLPTLTILTT
+                     LLLPIAPLTFPAP"
+     tRNA            1391..1459
+                     /product="tRNA-Trp"
+     tRNA            complement(1469..1537)
+                     /product="tRNA-Ala"
+     tRNA            complement(1539..1612)
+                     /product="tRNA-Asn"
+     tRNA            complement(1644..1710)
+                     /product="tRNA-Cys"
+     tRNA            complement(1710..1775)
+                     /product="tRNA-Tyr"
+     CDS             1787..3328
+                     /codon_start=1
+                     /transl_table=2
+                     /product="Cytochrome C oxidase subunit 1 (COXI)"
+                     /protein_id="BAA07496.1"
+                     /translation="MFADRWLFSTNHKDIGTLYLLFGAWAGVLGTALSLLIRAELGQP
+                     GNLLGNDHIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASAMVEAGAGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGVSSILG
+                     AINFITTIINMKPPAMSQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVTHYSGKKEPFGYMGMVWA
+                     MMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGSDTKW
+                     SAAVLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG
+                     FVHWFPLFSGYTLDQTYAKIHFAIMFVGVNLTFFPQHFLGLSGMPRRYSDYPDAYTTW
+                     NILSSVGSFISLTAVMLMIFMIWEAFASKRKILMIEQPSTNLEWLYGCPPPYHTFEEP
+                     VYMKP"
+     tRNA            complement(3328..3399)
+                     /product="tRNA-Ser"
+                     /note="codons recognized: UCN"
+     tRNA            3401..3469
+                     /product="tRNA-Asp"
+     CDS             3470..4153
+                     /codon_start=1
+                     /transl_table=2
+                     /product="Cytochrome C oxidase subunit 2 (COXII)"
+                     /protein_id="BAA07497.1"
+                     /translation="MAHAAQVGLQDATSPIMEELISFHDHALMIIFLISFLVLYALFL
+                     TLTTKLTNTNITDAQEMETVWTILPAIILVLIALPSLRILYLTDEINDPSFTIKAIGH
+                     QWYWAYEYTDYGGLIFNSYMLPPLFLEPGDLRLLEVDNRVVLPIEAPVRMMITSQDVL
+                     HSWTVPSLGLKTDAIPGRLNQTTFTATRPGVYYGQCSEICGANHSFMPIVLELIPLKI
+                     FEMGPVFTL"
+     tRNA            4179..4249
+                     /product="tRNA-Lys"
+     CDS             4251..4457
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATPase subunit 8 (ATP8)"
+                     /protein_id="BAA07498.1"
+                     /translation="MPQLNTTVWPTIITSMLLTLFLLMQLKTLNMYYHPPASPKLMNI
+                     KPHNNPWEHKWTKIYSLHSLPLQS"
+     CDS             4412..>4910
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATPase subunit 6 (ATP6)"
+                     /protein_id="BAA07499.1"
+                     /translation="MNENLFASFAAPTILGLPAAVPIILFPSLLIPTSKYLINNRLIT
+                     TQQWLIQLTLKQMMTLHNTKGRTWSLMLISLIIFIATTNLLGLLPHSFTPTTQLSMNL
+                     AMAIPLWAGTVATGLRLKTKNTLAHLLPQGTPTPLIPMLIIIETISLFIQPMALAVRL
+                     TANITA"
+ORIGIN      
+        1 gaatccgaac aacatatccc cgattccgct acgatcaact catatacctc ctatgaaaga
+       61 acttcctgcc actcaccctg gccctactca tatgatacat ttctctaccc attataattg
+      121 ccagtactcc tccccaaacc taagaaatac gtctgacgaa agagttactt tgatagagta
+      181 aataacaggg gtttaaatcc ccttatttct agaaccatag gagtcgaacc catccttgag
+      241 aatccaaaac tctccgtgcc acccgtcgca ccctgttcta agtaaggtca gctaaataag
+      301 ctatcgggcc cataccccga aaatgttggt tatacccttc ccatactaat taacccccta
+      361 gctcaaccca tcatctactc aaccattttt gcaggtacac tcattaccgc atctagctca
+      421 cactgattcc tcgcctgagt aggcctagaa ataaacatgt tagcctttat cccagtctta
+      481 acaaaaaaaa taaaccctcg ctccacagaa gccgctatta agtatttcct cgtacaagca
+      541 accgcatcca taatccttat aatagccatc ctctctaata acctactttc cggacaatga
+      601 accacaacca acattaccaa ccaatactca tcactaataa tcttaacagc cttagccata
+      661 aaactaggaa tagccccctt ccacttctga gtcccagaag tcactcaagg aactaccctc
+      721 acatccggcc tactactcct cacatgacaa aaactagccc ctatctcaat tatataccaa
+      781 atcttcccag taataaacgt aaacatcctc ctcacatttt caattttatc tatcatagta
+      841 ggcagctgag gcggactaaa ccaaacccaa ctacgcaaaa ttctggcata ctcctcaatc
+      901 acccatgtag gctgaataac agccgtactt ccatacaacc caaacatcac cattttcaac
+      961 ctaactatct acatcgtact aacaaccact gcattcctag cactcaacct aaattccagc
+     1021 accacaaccc tactattatc ccgctcctga aacaaattaa cctgactact acccctaatc
+     1081 ccatccaccc tattatcact aggagggcta cctccactaa ccggcttcct acccaaatgg
+     1141 cttgtcattg aagagctcac aaaaaacggt actctcatta tcccaactat tatagccatc
+     1201 gtcaccctta tcaacctata cttctacata cgcctaatct actccacctc aatcacacta
+     1261 ttccctacat ccaacaatgt aaaaataaaa tgacaatttg aaaacataaa acccacactt
+     1321 ctcctcccca cactcactat cctcaccact cttctcctac caatcgcccc actcacattc
+     1381 cctgccccat agaaatttag gttaaacaca gaccaagagc cttcaaagcc ctcagtaagt
+     1441 taacaaaact taatttctgt aacacaccca agggctgcaa aaccctactt tgcatcaacc
+     1501 gaacgcaaat cagccacttt aattaagcta agcccttact agatcgatgg gacttaaacc
+     1561 cataaaaatt tagttaacag ctaaacaccc taaacaacct ggcttcaatc tacttctccc
+     1621 gccgcgggaa aaaaaggcgg gagaagcccc ggcagagttg aagctgcttc tttgaacttg
+     1681 caattcaacg tgaaaaatca cttcggagct ggcaaaaaga ggtttcacct ctgtccttag
+     1741 atttacagtc taatgcttta ctcagccact ttaccatatc ccactaatgt tcgccgaccg
+     1801 ctggttattc tccacaaacc ataaagatat tggaacacta tacttgctat ttggcgcatg
+     1861 agccggagtc ctaggcacag ccctaagcct ccttatccga gccgaactag gtcaacccgg
+     1921 caatctcctg ggcaatgacc acatttataa cgtcatcgta acagcccacg cgttcgtcat
+     1981 aatctttttc atagtaatac ccattatgat tgggggcttt ggcaactgac tagtccctct
+     2041 aataatcgga gcccccgaca tggcattccc tcgtataaat aacataagct tctggcttct
+     2101 tcctccctct ttcctactac tgcttgcctc cgccatagta gaagccggcg ccggaacagg
+     2161 atgaacagtc tatcccccat tggcaggaaa ctattcccac ccaggagcct ctgttgattt
+     2221 aaccattttt tctctacacc tggctggagt atcatctatc ctaggggcta ttaacttcat
+     2281 tactacaatc atcaacataa aacccccagc tatatcccaa tatcaaacac ctctctttgt
+     2341 ctgatccgtc ctaattacag cagtcctact ccttctctcc ctaccagttt tagccgctgg
+     2401 catcaccata ctactaacag accgtaacct caacaccact ttctttgacc cagctggagg
+     2461 aggagacccc attctatatc aacacctatt ctggtttttt ggccaccccg aagtttacat
+     2521 tcttatccta ccaggcttcg gaataatttc acacatcgta actcactact cgggaaaaaa
+     2581 ggagccattc ggatatatag gcatagtctg agccataata tcaattggct tcctaggttt
+     2641 cattgtctga gcccaccata tatttacagt aggcatggac gtagacacac gagcctattt
+     2701 tacatccgcc accataatta ttgccattcc cactggtgtc aaagtattta gctggctcgc
+     2761 cacactccac ggaagtgaca ccaaatgatc cgctgcagta ctctgagccc taggcttcat
+     2821 tttcctcttt acagtagggg gcctaactgg tatcgtatta gcaaattcat cactggacat
+     2881 tgtacttcac gacacatact atgtcgtagc ccatttccac tatgtcttat ccataggagc
+     2941 cgtattcgct atcataggag gcttcgtcca ctgattcccc ctattctcgg gctacacttt
+     3001 agatcaaacc tatgccaaaa ttcacttcgc cattatattt gtaggagtaa acttaacctt
+     3061 ctttccacaa cacttcctcg gcctgtccgg aatacctcga cgttattccg actaccctga
+     3121 tgcatacact acctgaaaca tcctatcctc tgtgggctca tttatctctc taacagcagt
+     3181 aatactaata attttcataa tctgagaggc tttcgcctca aagcgaaaaa tcctaataat
+     3241 cgaacagccc tccactaacc tagagtggtt gtacggatgc ccaccacctt atcacacatt
+     3301 tgaagagccc gtctatataa aacctagaca aaaaaggaag gaatcgaacc ctctaaaacc
+     3361 ggtttcaagc cagccccata acctttatga ctttttcaaa aagatattag aaaaactatt
+     3421 tcataacttt gtcaaagtta aatcacaggt ccaaaccccg tatatcttaa tggcacatgc
+     3481 agctcaagta ggcctacaag acgctacatc ccctatcata gaagaactaa tctctttcca
+     3541 cgaccatgcc ctcataatca ttttccttat cagcttccta gtcctatatg ccctcttcct
+     3601 aacactcaca acaaaactaa ccaacactaa tattacggac gcccaagaga tagaaaccgt
+     3661 ctgaacaatc ctacctgcta ttattctagt tctaattgcc ctcccatccc tccgcatcct
+     3721 ttacttaaca gacgaaatca acgacccctc ctttactatc aaggcaatcg gtcatcagtg
+     3781 atactgagcc tacgaatata cagactacgg tgggctaatc ttcaattctt acatactacc
+     3841 accattattt ctagaaccgg gggaccttcg actccttgaa gtcgacaacc gagtagttct
+     3901 tccaattgaa gcccctgtcc gtataataat tacatcacaa gacgtcctac actcatgaac
+     3961 tgtcccctcc ttaggtctta aaacggatgc tatccccgga cgcctaaacc aaaccacatt
+     4021 caccgccaca cgcccaggag tatactacgg ccaatgctca gaaatctgtg gggccaacca
+     4081 tagctttata ccgattgttc tagaactaat tcccttaaaa atcttcgaga tagggcctgt
+     4141 atttacccta taaccccgcc ctctgcctcc cgtaagtctc actgtagagc tagaccagca
+     4201 ttaacctttt aagttaaaga ctaagagaac taccgcctct ttacagtgaa atgccccaat
+     4261 taaacaccac cgtgtgacct acaatcatca catcaatact tctcacacta ttcctcctca
+     4321 tacaactaaa aacactaaac atgtactacc atccacccgc ctccccaaaa ctcataaaca
+     4381 ttaaacccca caacaacccc tgagaacaca aatgaacgaa aatctattcg cttcattcgc
+     4441 tgcccctaca atcctaggcc tacccgccgc agtaccaatt attctatttc cctccctatt
+     4501 aattcctact tccaaatacc tcatcaacaa tcgactaatt accacccaac aatgactaat
+     4561 tcaattgacc ttaaaacaaa taataacact acacaacact aaaggacgaa cctgatccct
+     4621 catattaatt tctctaatta ttttcattgc tacaactaac ctccttggcc tcttacccca
+     4681 ctcattcaca ccaaccaccc agctatccat aaacctagcc atagcaattc ccctatgagc
+     4741 aggcactgtg gccacaggtt tacgtctcaa aaccaaaaac actcttgctc accttttacc
+     4801 ccaaggcaca cctacgcccc tcattcccat actaattatc atcgaaacta tcagtctatt
+     4861 tatccaaccc atggccctag ccgtacgatt aactgcaaat attacagcag
+//
+
